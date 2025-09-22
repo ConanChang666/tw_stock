@@ -16,6 +16,7 @@ yarn.lock
 !.env.sample
 !.env.example.local
 venv
+.venv
 
 # === 系統檔案 ===
 .DS_Store
