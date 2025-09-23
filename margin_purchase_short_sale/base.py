@@ -1,4 +1,3 @@
-# margin_purchase_short_sale/base.py
 import os
 import requests
 import pandas as pd
@@ -74,10 +73,8 @@ def finmind_to_snake(df: pd.DataFrame) -> pd.DataFrame:
     if "date" in df.columns:
         df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.date.astype("string")
     remain = [c for c in df.columns if c not in SNAKE_EXPECTED]
+    # 僅保留資料庫需要的欄位，不再加入 _fetched_at 與 _source
     out = df[SNAKE_EXPECTED + remain].sort_values("date", kind="stable")
-    # 輕量稽核欄位（入庫前可丟掉）
-    out["_fetched_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    out["_source"] = "FinMind"
     return out
 
 def df_nulls_to_none(df: pd.DataFrame) -> pd.DataFrame:

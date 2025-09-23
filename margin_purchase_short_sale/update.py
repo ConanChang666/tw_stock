@@ -1,4 +1,3 @@
-# margin_purchase_short_sale/update.py
 from __future__ import annotations
 from datetime import date, datetime, timedelta
 from typing import Iterable, Optional, Tuple
@@ -14,8 +13,8 @@ DB_NAME = "stock_market_data_lake"
 TABLE = "taiwan_stock_margin_purchase_short_sale"
 
 START_FALLBACK = "2001-01-01"   # DB 無資料時的起點
-CHUNK_DAYS = 120                # 分段抓的天數
-SLEEP_BETWEEN_CALLS = 0.3       # 每段間隔，避免打太兇
+CHUNK_DAYS = 4500                # 分段抓的天數
+SLEEP_BETWEEN_CALLS = 0.1       # 每段間隔，避免打太兇
 
 # ===== 建表（保險）=====
 DDL = f"""
