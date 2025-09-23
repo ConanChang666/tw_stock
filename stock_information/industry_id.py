@@ -1,3 +1,6 @@
+# industry_id.py
+# 給主流程 import 使用： from industry_id import get_industry_id
+
 ticker_mapping = {
     "不動產投資信託證券": "6010",
     "化學工業": "151010",
@@ -39,3 +42,6 @@ ticker_mapping = {
     "證券業": "40203040",
     "觀光餐旅": "253010"
 }
+
+def get_industry_id(industry_name: str):
+    return ticker_mapping.get(industry_name, None)
