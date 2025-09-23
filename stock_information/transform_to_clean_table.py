@@ -8,7 +8,7 @@ load_dotenv()
 from db.MySQL_db_connection import MySQLConn
 
 from stock_information.industry_id import get_industry_id
-from stock_information.t import (
+from stock_information.translate_to_en import (
     build_multilang_name,
     build_multilang_address,
     build_multilang_description,
@@ -112,26 +112,66 @@ def chunked(iterable: Iterable, size: int) -> Iterable[List]:
     if buf:
         yield buf
 
+import pymysql
+
+READ_BATCH_LIMIT = None   # 例如先測試 500；None = 全部
+UPSERT_BATCH_SIZE = 100   # 小批量，避免 max_allowed_packet
+
 def main():
+    # ---- (1) 先讀，立刻關閉連線，避免閒置超時 ----
+    print("[DB] fetch raw rows...")
     with MySQLConn(db=DB_NAME) as conn:
         with conn.cursor() as cur:
             cur.execute("SELECT stock_id, stock_info FROM tw_stock_company_info")
             rows = cur.fetchall()
+    if READ_BATCH_LIMIT:
+        rows = rows[:READ_BATCH_LIMIT]
+    print(f"[DB] fetched rows: {len(rows)}")
 
-        # 準備資料
-        to_insert = []
-        for row in rows:
-            stock_id = str(row["stock_id"])
-            s = parse_stock_info(row["stock_info"])
-            to_insert.append(build_clean_row(stock_id, s))
+    # ---- (2) 本地處理（含翻譯）----
+    print("[BUILD] building rows (may take time due to translation)...")
+    to_insert = []
+    for idx, row in enumerate(rows, 1):
+        stock_id = str(row["stock_id"])
+        s = parse_stock_info(row["stock_info"])
+        to_insert.append(build_clean_row(stock_id, s))
+        if idx % 100 == 0:
+            print(f"[BUILD] {idx}/{len(rows)}")
 
-        # 批次 upsert
+    # ---- (3) 寫入前再開新連線，小批量 upsert，必要時自動重連 ----
+    print("[DB] upserting...")
+    inserted = 0
+    with MySQLConn(db=DB_NAME) as conn:
         with conn.cursor() as cur:
-            for batch in chunked(to_insert, 1000):
-                cur.executemany(UPSERT_SQL, batch)
-        conn.commit()
+            for bi, batch in enumerate(chunked(to_insert, UPSERT_BATCH_SIZE), 1):
+                # 寫入前 ping：若已被關掉會自動重連
+                try:
+                    conn.ping(reconnect=True)
+                except Exception:
+                    pass
 
-    print(f"✅ Done. Upsert rows: {len(to_insert)}")
+                try:
+                    cur.executemany(UPSERT_SQL, batch)
+                except pymysql.err.OperationalError as e:
+                    # 2006/2013: server gone away / lost connection → 重連後重試一次
+                    if e.args and e.args[0] in (2006, 2013):
+                        print(f"[WARN] connection lost on batch {bi}, retrying once...")
+                        conn.ping(reconnect=True)
+                        cur.executemany(UPSERT_SQL, batch)
+                    else:
+                        raise
+                except pymysql.err.DataError as e:
+                    # 可能是單筆過大（max_allowed_packet），改逐筆寫入
+                    print(f"[WARN] DataError on batch {bi}, fallback to single insert: {e}")
+                    for rec in batch:
+                        cur.execute(UPSERT_SQL, rec)
+
+                conn.commit()
+                inserted += len(batch)
+                if bi % 10 == 0:
+                    print(f"[UPSERT] batch {bi} (total {inserted}/{len(to_insert)}) committed")
+
+    print(f"✅ Done. Upsert rows: {inserted}")
 
 if __name__ == "__main__":
     main()
