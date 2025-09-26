@@ -1,0 +1,4715 @@
+{
+  "symbol": "6505_2025Q1",
+  "source_url": "https://www.youtube.com/watch?v=t9PaXGnTaw4",
+  "language": "en",
+  "duration_sec": null,
+  "created_at": "2025-09-25T15:23:55Z",
+  "model": "whisper-large-v3",
+  "segments": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.36,
+      "text": "Sorry."
+    },
+    {
+      "i": 1,
+      "start": 6.36,
+      "end": 13.040000000000001,
+      "text": "breathe pulling"
+    },
+    {
+      "i": 2,
+      "start": 13.040000000000001,
+      "end": 20.080000000000002,
+      "text": "out"
+    },
+    {
+      "i": 3,
+      "start": 20.080000000000002,
+      "end": 23.36,
+      "text": "through"
+    },
+    {
+      "i": 4,
+      "start": 23.36,
+      "end": 26.52,
+      "text": "the"
+    },
+    {
+      "i": 5,
+      "start": 26.52,
+      "end": 29.0,
+      "text": "door"
+    },
+    {
+      "i": 6,
+      "start": 30.0,
+      "end": 59.46,
+      "text": "Thank you."
+    },
+    {
+      "i": 7,
+      "start": 60.0,
+      "end": 89.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 8,
+      "start": 90.0,
+      "end": 118.82,
+      "text": "Thank you."
+    },
+    {
+      "i": 9,
+      "start": 120.0,
+      "end": 149.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 10,
+      "start": 150.0,
+      "end": 179.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 11,
+      "start": 180.0,
+      "end": 209.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 12,
+      "start": 210.0,
+      "end": 239.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 13,
+      "start": 240.0,
+      "end": 242.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 14,
+      "start": 242.0,
+      "end": 244.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 15,
+      "start": 270.0,
+      "end": 272.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 16,
+      "start": 300.0,
+      "end": 302.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 17,
+      "start": 330.0,
+      "end": 332.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 18,
+      "start": 360.0,
+      "end": 362.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 19,
+      "start": 390.0,
+      "end": 392.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 20,
+      "start": 420.0,
+      "end": 422.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 21,
+      "start": 450.0,
+      "end": 452.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 22,
+      "start": 480.0,
+      "end": 482.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 23,
+      "start": 510.0,
+      "end": 514.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 24,
+      "start": 540.0,
+      "end": 542.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 25,
+      "start": 570.0,
+      "end": 573.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 26,
+      "start": 600.0,
+      "end": 604.0,
+      "text": "The picture we see here,"
+    },
+    {
+      "i": 27,
+      "start": 604.0,
+      "end": 607.0,
+      "text": "should be the four lines in the middle,"
+    },
+    {
+      "i": 28,
+      "start": 607.0,
+      "end": 614.0,
+      "text": "which are the red, green, blue and orange lines."
+    },
+    {
+      "i": 29,
+      "start": 614.0,
+      "end": 617.0,
+      "text": "These lines are the oil,"
+    },
+    {
+      "i": 30,
+      "start": 617.0,
+      "end": 622.0,
+      "text": "the aviation fuel, the gasoline and the gasoline."
+    },
+    {
+      "i": 31,
+      "start": 622.0,
+      "end": 628.0,
+      "text": "This is about 90% of our revenue."
+    },
+    {
+      "i": 32,
+      "start": 628.0,
+      "end": 632.0,
+      "text": "The most important one is the oil,"
+    },
+    {
+      "i": 33,
+      "start": 632.0,
+      "end": 634.0,
+      "text": "the red and blue lines."
+    },
+    {
+      "i": 34,
+      "start": 634.0,
+      "end": 638.0,
+      "text": "From the left,"
+    },
+    {
+      "i": 35,
+      "start": 638.0,
+      "end": 641.0,
+      "text": "we can see that the price difference"
+    },
+    {
+      "i": 36,
+      "start": 641.0,
+      "end": 644.0,
+      "text": "between the first season of last year"
+    },
+    {
+      "i": 37,
+      "start": 644.0,
+      "end": 646.0,
+      "text": "is good."
+    },
+    {
+      "i": 38,
+      "start": 646.0,
+      "end": 649.0,
+      "text": "The picture on the right"
+    },
+    {
+      "i": 39,
+      "start": 649.0,
+      "end": 652.0,
+      "text": "shows the price difference between"
+    },
+    {
+      "i": 40,
+      "start": 652.0,
+      "end": 656.0,
+      "text": "the chain factory and Singapore."
+    },
+    {
+      "i": 41,
+      "start": 656.0,
+      "end": 658.0,
+      "text": "It is almost the same."
+    },
+    {
+      "i": 42,
+      "start": 658.0,
+      "end": 661.0,
+      "text": "The picture on the left shows the price difference between"
+    },
+    {
+      "i": 43,
+      "start": 661.0,
+      "end": 663.0,
+      "text": "the first season of last year and the second."
+    },
+    {
+      "i": 44,
+      "start": 663.0,
+      "end": 666.0,
+      "text": "The price difference between the first season of last year"
+    },
+    {
+      "i": 45,
+      "start": 666.0,
+      "end": 669.0,
+      "text": "and the second is mainly due to the good price difference"
+    },
+    {
+      "i": 46,
+      "start": 669.0,
+      "end": 672.0,
+      "text": "between the oil and gasoline in the winter season."
+    },
+    {
+      "i": 47,
+      "start": 672.0,
+      "end": 675.0,
+      "text": "The first season of last year was warm winter."
+    },
+    {
+      "i": 48,
+      "start": 675.0,
+      "end": 683.0,
+      "text": "Warm winter should be relatively poor for the demand for oil."
+    },
+    {
+      "i": 49,
+      "start": 683.0,
+      "end": 686.0,
+      "text": "But last year,"
+    },
+    {
+      "i": 50,
+      "start": 686.0,
+      "end": 689.0,
+      "text": "the price of gasoline was low."
+    },
+    {
+      "i": 51,
+      "start": 689.0,
+      "end": 692.0,
+      "text": "The price of gasoline was low in Europe."
+    },
+    {
+      "i": 52,
+      "start": 692.0,
+      "end": 695.0,
+      "text": "Europe was worried that the oil market would be short of oil."
+    },
+    {
+      "i": 53,
+      "start": 695.0,
+      "end": 697.0,
+      "text": "So the price of gasoline was high."
+    },
+    {
+      "i": 54,
+      "start": 697.0,
+      "end": 700.0,
+      "text": "So the price of gasoline was low in winter."
+    },
+    {
+      "i": 55,
+      "start": 700.0,
+      "end": 703.0,
+      "text": "But because of the warm winter,"
+    },
+    {
+      "i": 56,
+      "start": 703.0,
+      "end": 705.0,
+      "text": "the demand for gasoline in the American market"
+    },
+    {
+      "i": 57,
+      "start": 705.0,
+      "end": 707.0,
+      "text": "was relatively good."
+    },
+    {
+      "i": 58,
+      "start": 707.0,
+      "end": 709.0,
+      "text": "So overall,"
+    },
+    {
+      "i": 59,
+      "start": 709.0,
+      "end": 712.0,
+      "text": "the price difference between the first season of last year"
+    },
+    {
+      "i": 60,
+      "start": 712.0,
+      "end": 715.0,
+      "text": "and the second season of last year was good."
+    },
+    {
+      "i": 61,
+      "start": 716.0,
+      "end": 717.0,
+      "text": "But in the winter,"
+    },
+    {
+      "i": 62,
+      "start": 717.0,
+      "end": 719.0,
+      "text": "the demand for gasoline was too much."
+    },
+    {
+      "i": 63,
+      "start": 719.0,
+      "end": 721.0,
+      "text": "So after the winter season,"
+    },
+    {
+      "i": 64,
+      "start": 721.0,
+      "end": 723.0,
+      "text": "the price of gasoline was skyrocketed."
+    },
+    {
+      "i": 65,
+      "start": 723.0,
+      "end": 726.0,
+      "text": "You can see the line up on the right,"
+    },
+    {
+      "i": 66,
+      "start": 726.0,
+      "end": 730.0,
+      "text": "it goes from point four to point five,"
+    },
+    {
+      "i": 67,
+      "start": 730.0,
+      "end": 731.0,
+      "text": "and then goes down."
+    },
+    {
+      "i": 68,
+      "start": 731.0,
+      "end": 732.0,
+      "text": "After that,"
+    },
+    {
+      "i": 69,
+      "start": 732.0,
+      "end": 734.0,
+      "text": "the price difference between the second and third season"
+    },
+    {
+      "i": 70,
+      "start": 734.0,
+      "end": 735.0,
+      "text": "was almost seven yuan,"
+    },
+    {
+      "i": 71,
+      "start": 735.0,
+      "end": 736.0,
+      "text": "up and down."
+    },
+    {
+      "i": 72,
+      "start": 736.0,
+      "end": 739.0,
+      "text": "In the very low price difference,"
+    },
+    {
+      "i": 73,
+      "start": 739.0,
+      "end": 741.0,
+      "text": "which sometimes goes up and sometimes goes down,"
+    },
+    {
+      "i": 74,
+      "start": 741.0,
+      "end": 743.0,
+      "text": "the price probably went up"
+    },
+    {
+      "i": 75,
+      "start": 743.0,
+      "end": 744.0,
+      "text": "until the first season of this year."
+    },
+    {
+      "i": 76,
+      "start": 744.0,
+      "end": 745.0,
+      "text": "The price may also be the price of gasoline"
+    },
+    {
+      "i": 77,
+      "start": 745.0,
+      "end": 752.0,
+      "text": "China's oil prices have been rising slightly since the fourth quarter last year."
+    },
+    {
+      "i": 78,
+      "start": 752.0,
+      "end": 755.0,
+      "text": "Other prices are actually very low."
+    },
+    {
+      "i": 79,
+      "start": 755.0,
+      "end": 762.0,
+      "text": "The most important thing is that the entire red sea was blocked last year."
+    },
+    {
+      "i": 80,
+      "start": 762.0,
+      "end": 767.0,
+      "text": "So many oil products in the Middle East and India are going to be expensive in Europe."
+    },
+    {
+      "i": 81,
+      "start": 767.0,
+      "end": 769.0,
+      "text": "So they are shifting to Asia."
+    },
+    {
+      "i": 82,
+      "start": 769.0,
+      "end": 772.0,
+      "text": "This is mainly oil and coal."
+    },
+    {
+      "i": 83,
+      "start": 772.0,
+      "end": 775.0,
+      "text": "The other thing is that the gas is also not good."
+    },
+    {
+      "i": 84,
+      "start": 775.0,
+      "end": 781.0,
+      "text": "The blue line on the left is gas."
+    },
+    {
+      "i": 85,
+      "start": 781.0,
+      "end": 785.0,
+      "text": "The whole year is probably not good."
+    },
+    {
+      "i": 86,
+      "start": 785.0,
+      "end": 788.0,
+      "text": "The main reason is that the gas in the stone is really bad."
+    },
+    {
+      "i": 87,
+      "start": 788.0,
+      "end": 793.0,
+      "text": "Because a lot of the products in the stone can actually be mixed into the gas."
+    },
+    {
+      "i": 88,
+      "start": 793.0,
+      "end": 795.0,
+      "text": "So because the stone is not good,"
+    },
+    {
+      "i": 89,
+      "start": 795.0,
+      "end": 801.0,
+      "text": "these stone companies have put a lot of these gas-based products"
+    },
+    {
+      "i": 90,
+      "start": 801.0,
+      "end": 802.0,
+      "text": "in the oil."
+    },
+    {
+      "i": 91,
+      "start": 802.0,
+      "end": 807.0,
+      "text": "And then they send these components to the United States."
+    },
+    {
+      "i": 92,
+      "start": 807.0,
+      "end": 812.0,
+      "text": "Or they go to Singapore to make oil prices go up."
+    },
+    {
+      "i": 93,
+      "start": 812.0,
+      "end": 814.0,
+      "text": "In fact, the next quarter should be better."
+    },
+    {
+      "i": 94,
+      "start": 814.0,
+      "end": 816.0,
+      "text": "But it's not."
+    },
+    {
+      "i": 95,
+      "start": 816.0,
+      "end": 822.0,
+      "text": "This situation has been waiting until the fourth quarter last year."
+    },
+    {
+      "i": 96,
+      "start": 822.0,
+      "end": 826.0,
+      "text": "Because there are some tax breaks in the fall."
+    },
+    {
+      "i": 97,
+      "start": 826.0,
+      "end": 829.0,
+      "text": "And the winter is coming."
+    },
+    {
+      "i": 98,
+      "start": 829.0,
+      "end": 831.0,
+      "text": "They will prepare some heating oil."
+    },
+    {
+      "i": 99,
+      "start": 831.0,
+      "end": 837.0,
+      "text": "At that time, the oil prices will slowly rise."
+    },
+    {
+      "i": 100,
+      "start": 837.0,
+      "end": 844.0,
+      "text": "And the gas will also slightly rise."
+    },
+    {
+      "i": 101,
+      "start": 844.0,
+      "end": 851.0,
+      "text": "But this year, the last winter,"
+    },
+    {
+      "i": 102,
+      "start": 851.0,
+      "end": 857.0,
+      "text": "Europe is warm and the United States is cold."
+    },
+    {
+      "i": 103,
+      "start": 857.0,
+      "end": 860.0,
+      "text": "But the whole winter is still mainly in Europe."
+    },
+    {
+      "i": 104,
+      "start": 861.0,
+      "end": 863.0,
+      "text": "So the price is also following."
+    },
+    {
+      "i": 105,
+      "start": 863.0,
+      "end": 865.0,
+      "text": "The first quarter also fell."
+    },
+    {
+      "i": 106,
+      "start": 865.0,
+      "end": 869.0,
+      "text": "So the first quarter's price gap is also bad."
+    },
+    {
+      "i": 107,
+      "start": 869.0,
+      "end": 875.0,
+      "text": "Until the fourth quarter, the price still remained very low."
+    },
+    {
+      "i": 108,
+      "start": 875.0,
+      "end": 881.0,
+      "text": "Until May, the price began to rise."
+    },
+    {
+      "i": 109,
+      "start": 881.0,
+      "end": 883.0,
+      "text": "We can see the last point."
+    },
+    {
+      "i": 110,
+      "start": 883.0,
+      "end": 886.0,
+      "text": "The last point is the situation in May."
+    },
+    {
+      "i": 111,
+      "start": 886.0,
+      "end": 890.0,
+      "text": "Of course, the situation in June and May are almost the same."
+    },
+    {
+      "i": 112,
+      "start": 890.0,
+      "end": 892.0,
+      "text": "Why did May start to turn better?"
+    },
+    {
+      "i": 113,
+      "start": 892.0,
+      "end": 894.0,
+      "text": "There are probably several factors."
+    },
+    {
+      "i": 114,
+      "start": 894.0,
+      "end": 898.0,
+      "text": "In addition, the entire North Pole is in tax break."
+    },
+    {
+      "i": 115,
+      "start": 898.0,
+      "end": 900.0,
+      "text": "This is the impact of supply."
+    },
+    {
+      "i": 116,
+      "start": 900.0,
+      "end": 905.0,
+      "text": "In addition, of course, we can also see that the oil price is starting to increase."
+    },
+    {
+      "i": 117,
+      "start": 905.0,
+      "end": 907.0,
+      "text": "The demand will increase."
+    },
+    {
+      "i": 118,
+      "start": 907.0,
+      "end": 912.0,
+      "text": "Especially in Europe or some areas that are more sensitive to price."
+    },
+    {
+      "i": 119,
+      "start": 912.0,
+      "end": 916.0,
+      "text": "Like the US oil market or Southeast Asia, etc."
+    },
+    {
+      "i": 120,
+      "start": 916.0,
+      "end": 918.0,
+      "text": "These will make the oil price."
+    },
+    {
+      "i": 121,
+      "start": 918.0,
+      "end": 921.0,
+      "text": "The oil price will make the oil slowly go up."
+    },
+    {
+      "i": 122,
+      "start": 921.0,
+      "end": 924.0,
+      "text": "Will make the demand slowly stretch."
+    },
+    {
+      "i": 123,
+      "start": 924.0,
+      "end": 926.0,
+      "text": "Another reason is that"
+    },
+    {
+      "i": 124,
+      "start": 926.0,
+      "end": 932.0,
+      "text": "Because the previous year, everyone was burned by high stock."
+    },
+    {
+      "i": 125,
+      "start": 932.0,
+      "end": 935.0,
+      "text": "So this year, the stock has been built very low."
+    },
+    {
+      "i": 126,
+      "start": 935.0,
+      "end": 940.0,
+      "text": "So after the second quarter, we found that the stock has been unable to build up."
+    },
+    {
+      "i": 127,
+      "start": 940.0,
+      "end": 945.0,
+      "text": "Because the stock is low, so the price gap is not going up."
+    },
+    {
+      "i": 128,
+      "start": 945.0,
+      "end": 946.0,
+      "text": "In addition to the second quarter,"
+    },
+    {
+      "i": 129,
+      "start": 946.0,
+      "end": 948.0,
+      "text": "The second quarter is a summer season."
+    },
+    {
+      "i": 130,
+      "start": 948.0,
+      "end": 950.0,
+      "text": "The price of the oil price is going up."
+    },
+    {
+      "i": 131,
+      "start": 950.0,
+      "end": 956.0,
+      "text": "So the price of the entire oil price has gone up."
+    },
+    {
+      "i": 132,
+      "start": 956.0,
+      "end": 958.0,
+      "text": "Of course, there are some other factors."
+    },
+    {
+      "i": 133,
+      "start": 958.0,
+      "end": 960.0,
+      "text": "Like China's exports."
+    },
+    {
+      "i": 134,
+      "start": 960.0,
+      "end": 962.0,
+      "text": "Maintaining very low prices."
+    },
+    {
+      "i": 135,
+      "start": 962.0,
+      "end": 964.0,
+      "text": "This may be because of that time."
+    },
+    {
+      "i": 136,
+      "start": 964.0,
+      "end": 966.0,
+      "text": "Probably last year."
+    },
+    {
+      "i": 137,
+      "start": 966.0,
+      "end": 969.0,
+      "text": "Because of its consumption."
+    },
+    {
+      "i": 138,
+      "start": 969.0,
+      "end": 972.0,
+      "text": "After the tax cut."
+    },
+    {
+      "i": 139,
+      "start": 972.0,
+      "end": 974.0,
+      "text": "It has probably been."
+    },
+    {
+      "i": 140,
+      "start": 974.0,
+      "end": 976.0,
+      "text": "The price of oil prices have gone up."
+    },
+    {
+      "i": 141,
+      "start": 976.0,
+      "end": 979.0,
+      "text": "This year, it is still maintaining."
+    },
+    {
+      "i": 142,
+      "start": 979.0,
+      "end": 982.0,
+      "text": "In addition, we also observed that."
+    },
+    {
+      "i": 143,
+      "start": 982.0,
+      "end": 984.0,
+      "text": "The official market of Europe and the United States."
+    },
+    {
+      "i": 144,
+      "start": 984.0,
+      "end": 987.0,
+      "text": "It started to happen in the first quarter of this year."
+    },
+    {
+      "i": 145,
+      "start": 987.0,
+      "end": 989.0,
+      "text": "So the first quarter."
+    },
+    {
+      "i": 146,
+      "start": 989.0,
+      "end": 992.0,
+      "text": "Some of the stock in Europe and the United States cannot be established."
+    },
+    {
+      "i": 147,
+      "start": 992.0,
+      "end": 995.0,
+      "text": "Of course, Russia."
+    },
+    {
+      "i": 148,
+      "start": 995.0,
+      "end": 998.0,
+      "text": "With the war in Ukraine."
+    },
+    {
+      "i": 149,
+      "start": 998.0,
+      "end": 1000.0,
+      "text": "It was actually intensifying at that time."
+    },
+    {
+      "i": 150,
+      "start": 1000.0,
+      "end": 1002.0,
+      "text": "So it has some chain."
+    },
+    {
+      "i": 151,
+      "start": 1002.0,
+      "end": 1003.0,
+      "text": "Some damage."
+    },
+    {
+      "i": 152,
+      "start": 1003.0,
+      "end": 1004.0,
+      "text": "And because."
+    },
+    {
+      "i": 153,
+      "start": 1004.0,
+      "end": 1006.0,
+      "text": "Russia has been in war for a long time."
+    },
+    {
+      "i": 154,
+      "start": 1006.0,
+      "end": 1008.0,
+      "text": "In fact, its chain."
+    },
+    {
+      "i": 155,
+      "start": 1008.0,
+      "end": 1010.0,
+      "text": "Its chain production."
+    },
+    {
+      "i": 156,
+      "start": 1010.0,
+      "end": 1012.0,
+      "text": "In fact, it is slowly going down."
+    },
+    {
+      "i": 157,
+      "start": 1012.0,
+      "end": 1014.0,
+      "text": "Because it has no support from the West."
+    },
+    {
+      "i": 158,
+      "start": 1014.0,
+      "end": 1015.0,
+      "text": "So it is maintenance."
+    },
+    {
+      "i": 159,
+      "start": 1015.0,
+      "end": 1016.0,
+      "text": "Or it is to be restored."
+    },
+    {
+      "i": 160,
+      "start": 1016.0,
+      "end": 1018.0,
+      "text": "In fact, it will be more difficult."
+    },
+    {
+      "i": 161,
+      "start": 1018.0,
+      "end": 1020.0,
+      "text": "The most important point at the end."
+    },
+    {
+      "i": 162,
+      "start": 1020.0,
+      "end": 1024.0,
+      "text": "Because this is from April."
+    },
+    {
+      "i": 163,
+      "start": 1024.0,
+      "end": 1026.0,
+      "text": "It should be May."
+    },
+    {
+      "i": 164,
+      "start": 1026.0,
+      "end": 1028.0,
+      "text": "The Middle East."
+    },
+    {
+      "i": 165,
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": "Because it started to produce."
+    },
+    {
+      "i": 166,
+      "start": 1030.0,
+      "end": 1031.0,
+      "text": "Production of oil."
+    },
+    {
+      "i": 167,
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": "So he put the oil."
+    },
+    {
+      "i": 168,
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": "It is a big price drop."
+    },
+    {
+      "i": 169,
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": "It dropped from about two dollars and three cents."
+    },
+    {
+      "i": 170,
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": "Because it is two dollars and three cents."
+    },
+    {
+      "i": 171,
+      "start": 1039.0,
+      "end": 1040.0,
+      "text": "It is equal to our chain price."
+    },
+    {
+      "i": 172,
+      "start": 1040.0,
+      "end": 1042.0,
+      "text": "It will increase to two dollars and three cents."
+    },
+    {
+      "i": 173,
+      "start": 1042.0,
+      "end": 1043.0,
+      "text": "So this part."
+    },
+    {
+      "i": 174,
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": "In fact, the impact is quite big."
+    },
+    {
+      "i": 175,
+      "start": 1045.0,
+      "end": 1046.0,
+      "text": "That is."
+    },
+    {
+      "i": 176,
+      "start": 1046.0,
+      "end": 1048.0,
+      "text": "This is the situation in May."
+    },
+    {
+      "i": 177,
+      "start": 1048.0,
+      "end": 1050.0,
+      "text": "It's probably about the same as it is now."
+    },
+    {
+      "i": 178,
+      "start": 1050.0,
+      "end": 1051.0,
+      "text": "So in May."
+    },
+    {
+      "i": 179,
+      "start": 1051.0,
+      "end": 1052.0,
+      "text": "Our chain price difference."
+    },
+    {
+      "i": 180,
+      "start": 1052.0,
+      "end": 1054.0,
+      "text": "It jumped to eleven dollars and seven cents."
+    },
+    {
+      "i": 181,
+      "start": 1054.0,
+      "end": 1055.0,
+      "text": "Relatively past."
+    },
+    {
+      "i": 182,
+      "start": 1055.0,
+      "end": 1056.0,
+      "text": "It was six or seven dollars."
+    },
+    {
+      "i": 183,
+      "start": 1056.0,
+      "end": 1058.0,
+      "text": "It is difficult to grow."
+    },
+    {
+      "i": 184,
+      "start": 1058.0,
+      "end": 1060.0,
+      "text": "Then."
+    },
+    {
+      "i": 185,
+      "start": 1060.0,
+      "end": 1061.0,
+      "text": "May."
+    },
+    {
+      "i": 186,
+      "start": 1061.0,
+      "end": 1062.0,
+      "text": "May eleven dollars and seven cents."
+    },
+    {
+      "i": 187,
+      "start": 1062.0,
+      "end": 1064.0,
+      "text": "May is about eleven dollars and eleven cents."
+    },
+    {
+      "i": 188,
+      "start": 1064.0,
+      "end": 1067.0,
+      "text": "So this part is probably."
+    },
+    {
+      "i": 189,
+      "start": 1067.0,
+      "end": 1068.0,
+      "text": "Slowly."
+    },
+    {
+      "i": 190,
+      "start": 1068.0,
+      "end": 1069.0,
+      "text": "Walk to this."
+    },
+    {
+      "i": 191,
+      "start": 1069.0,
+      "end": 1072.0,
+      "text": "Some of the healthier areas."
+    },
+    {
+      "i": 192,
+      "start": 1072.0,
+      "end": 1074.0,
+      "text": "But this is still."
+    },
+    {
+      "i": 193,
+      "start": 1074.0,
+      "end": 1076.0,
+      "text": "There are still some price differences."
+    },
+    {
+      "i": 194,
+      "start": 1076.0,
+      "end": 1078.0,
+      "text": "There are some."
+    },
+    {
+      "i": 195,
+      "start": 1078.0,
+      "end": 1080.0,
+      "text": "There are some drawbacks."
+    },
+    {
+      "i": 196,
+      "start": 1080.0,
+      "end": 1083.0,
+      "text": "So the main thing we are most worried about."
+    },
+    {
+      "i": 197,
+      "start": 1083.0,
+      "end": 1084.0,
+      "text": "Still this."
+    },
+    {
+      "i": 198,
+      "start": 1084.0,
+      "end": 1086.0,
+      "text": "The problem of the equivalent tax."
+    },
+    {
+      "i": 199,
+      "start": 1086.0,
+      "end": 1087.0,
+      "text": "Because this equivalent tax."
+    },
+    {
+      "i": 200,
+      "start": 1087.0,
+      "end": 1088.0,
+      "text": "On July 9."
+    },
+    {
+      "i": 201,
+      "start": 1088.0,
+      "end": 1089.0,
+      "text": "It will be."
+    },
+    {
+      "i": 202,
+      "start": 1089.0,
+      "end": 1090.0,
+      "text": "It will be overhauled."
+    },
+    {
+      "i": 203,
+      "start": 1090.0,
+      "end": 1091.0,
+      "text": "But I don't think it will be overhauled."
+    },
+    {
+      "i": 204,
+      "start": 1091.0,
+      "end": 1092.0,
+      "text": "All."
+    },
+    {
+      "i": 205,
+      "start": 1092.0,
+      "end": 1093.0,
+      "text": "But it will slowly."
+    },
+    {
+      "i": 206,
+      "start": 1093.0,
+      "end": 1094.0,
+      "text": "It will be softened."
+    },
+    {
+      "i": 207,
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": "What kind of impact does this cause?"
+    },
+    {
+      "i": 208,
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": "Will it affect the demand for oil?"
+    },
+    {
+      "i": 209,
+      "start": 1098.0,
+      "end": 1099.0,
+      "text": "This is still."
+    },
+    {
+      "i": 210,
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": "To be further observed."
+    },
+    {
+      "i": 211,
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": "Then we look at this."
+    },
+    {
+      "i": 212,
+      "start": 1103.0,
+      "end": 1106.0,
+      "text": "The picture below."
+    },
+    {
+      "i": 213,
+      "start": 1106.0,
+      "end": 1107.0,
+      "text": "This is."
+    },
+    {
+      "i": 214,
+      "start": 1107.0,
+      "end": 1114.0,
+      "text": "The price difference between the product and the oil."
+    },
+    {
+      "i": 215,
+      "start": 1114.0,
+      "end": 1115.0,
+      "text": "We can see."
+    },
+    {
+      "i": 216,
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": "The two lines below are."
+    },
+    {
+      "i": 217,
+      "start": 1117.0,
+      "end": 1118.0,
+      "text": "The ratio and ratio."
+    },
+    {
+      "i": 218,
+      "start": 1118.0,
+      "end": 1121.0,
+      "text": "It can be said that the whole year."
+    },
+    {
+      "i": 219,
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": "The price is still the same."
+    },
+    {
+      "i": 220,
+      "start": 1123.0,
+      "end": 1124.0,
+      "text": "It's all the same."
+    },
+    {
+      "i": 221,
+      "start": 1124.0,
+      "end": 1126.0,
+      "text": "It's all about 200 to 250 yuan a day."
+    },
+    {
+      "i": 222,
+      "start": 1126.0,
+      "end": 1128.0,
+      "text": "This price is actually."
+    },
+    {
+      "i": 223,
+      "start": 1128.0,
+      "end": 1130.0,
+      "text": "In fact, our contract price."
+    },
+    {
+      "i": 224,
+      "start": 1130.0,
+      "end": 1132.0,
+      "text": "It's a little bit higher."
+    },
+    {
+      "i": 225,
+      "start": 1132.0,
+      "end": 1134.0,
+      "text": "The problem is that we can't use this contract price."
+    },
+    {
+      "i": 226,
+      "start": 1134.0,
+      "end": 1135.0,
+      "text": "Let's us."
+    },
+    {
+      "i": 227,
+      "start": 1135.0,
+      "end": 1138.0,
+      "text": "No way to sell all the products."
+    },
+    {
+      "i": 228,
+      "start": 1138.0,
+      "end": 1143.0,
+      "text": "So we can only maintain about 50 to 60 percent."
+    },
+    {
+      "i": 229,
+      "start": 1143.0,
+      "end": 1144.0,
+      "text": "The operating rate."
+    },
+    {
+      "i": 230,
+      "start": 1144.0,
+      "end": 1145.0,
+      "text": "So."
+    },
+    {
+      "i": 231,
+      "start": 1145.0,
+      "end": 1148.0,
+      "text": "I see this price now."
+    },
+    {
+      "i": 232,
+      "start": 1148.0,
+      "end": 1149.0,
+      "text": "The price of the line."
+    },
+    {
+      "i": 233,
+      "start": 1149.0,
+      "end": 1150.0,
+      "text": "But this line price."
+    },
+    {
+      "i": 234,
+      "start": 1150.0,
+      "end": 1153.0,
+      "text": "The price is probably only about 200 yuan."
+    },
+    {
+      "i": 235,
+      "start": 1153.0,
+      "end": 1154.0,
+      "text": "This price."
+    },
+    {
+      "i": 236,
+      "start": 1154.0,
+      "end": 1155.0,
+      "text": "We come to production."
+    },
+    {
+      "i": 237,
+      "start": 1155.0,
+      "end": 1156.0,
+      "text": "In fact, it is."
+    },
+    {
+      "i": 238,
+      "start": 1156.0,
+      "end": 1157.0,
+      "text": "Will not make money."
+    },
+    {
+      "i": 239,
+      "start": 1157.0,
+      "end": 1158.0,
+      "text": "So."
+    },
+    {
+      "i": 240,
+      "start": 1158.0,
+      "end": 1161.0,
+      "text": "Only maintain low capacity."
+    },
+    {
+      "i": 241,
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": "The top line is."
+    },
+    {
+      "i": 242,
+      "start": 1163.0,
+      "end": 1164.0,
+      "text": "This is the second."
+    },
+    {
+      "i": 243,
+      "start": 1164.0,
+      "end": 1165.0,
+      "text": "The second line."
+    },
+    {
+      "i": 244,
+      "start": 1165.0,
+      "end": 1166.0,
+      "text": "Because it is not in the market."
+    },
+    {
+      "i": 245,
+      "start": 1166.0,
+      "end": 1169.0,
+      "text": "So it will fluctuate more."
+    },
+    {
+      "i": 246,
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": "Sometimes it is because of the climate."
+    },
+    {
+      "i": 247,
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": "For example, the impact of natural gas."
+    },
+    {
+      "i": 248,
+      "start": 1173.0,
+      "end": 1176.0,
+      "text": "Or the impact of the power supply."
+    },
+    {
+      "i": 249,
+      "start": 1176.0,
+      "end": 1177.0,
+      "text": "So it fluctuates more."
+    },
+    {
+      "i": 250,
+      "start": 1177.0,
+      "end": 1178.0,
+      "text": "But it stands."
+    },
+    {
+      "i": 251,
+      "start": 1178.0,
+      "end": 1179.0,
+      "text": "Very little."
+    },
+    {
+      "i": 252,
+      "start": 1179.0,
+      "end": 1180.0,
+      "text": "So."
+    },
+    {
+      "i": 253,
+      "start": 1180.0,
+      "end": 1181.0,
+      "text": "For the whole."
+    },
+    {
+      "i": 254,
+      "start": 1181.0,
+      "end": 1204.98,
+      "text": "The"
+    },
+    {
+      "i": 255,
+      "start": 1209.0,
+      "end": 1210.0,
+      "text": "The first."
+    },
+    {
+      "i": 256,
+      "start": 1210.0,
+      "end": 1211.0,
+      "text": "Look at the table below."
+    },
+    {
+      "i": 257,
+      "start": 1211.0,
+      "end": 1212.0,
+      "text": "Although in 2025."
+    },
+    {
+      "i": 258,
+      "start": 1212.0,
+      "end": 1213.0,
+      "text": "We can see that."
+    },
+    {
+      "i": 259,
+      "start": 1213.0,
+      "end": 1214.0,
+      "text": "We."
+    },
+    {
+      "i": 260,
+      "start": 1214.0,
+      "end": 1215.0,
+      "text": "Oil refining."
+    },
+    {
+      "i": 261,
+      "start": 1215.0,
+      "end": 1216.0,
+      "text": "The production capacity of oil refining in the world."
+    },
+    {
+      "i": 262,
+      "start": 1216.0,
+      "end": 1217.0,
+      "text": "In fact, it is reduced."
+    },
+    {
+      "i": 263,
+      "start": 1217.0,
+      "end": 1218.0,
+      "text": "But the demand is still growing."
+    },
+    {
+      "i": 264,
+      "start": 1218.0,
+      "end": 1219.0,
+      "text": "The demand is 720,000 barrels."
+    },
+    {
+      "i": 265,
+      "start": 1219.0,
+      "end": 1220.0,
+      "text": "This is."
+    },
+    {
+      "i": 266,
+      "start": 1220.0,
+      "end": 1221.0,
+      "text": "The estimate of IEA is quite conservative."
+    },
+    {
+      "i": 267,
+      "start": 1221.0,
+      "end": 1222.0,
+      "text": "Because like that."
+    },
+    {
+      "i": 268,
+      "start": 1222.0,
+      "end": 1223.0,
+      "text": "OPEC plus."
+    },
+    {
+      "i": 269,
+      "start": 1223.0,
+      "end": 1224.0,
+      "text": "Probably all."
+    },
+    {
+      "i": 270,
+      "start": 1224.0,
+      "end": 1225.0,
+      "text": "The estimate will be."
+    },
+    {
+      "i": 271,
+      "start": 1225.0,
+      "end": 1226.0,
+      "text": "Much higher than this."
+    },
+    {
+      "i": 272,
+      "start": 1226.0,
+      "end": 1227.0,
+      "text": "But we also think it is not too."
+    },
+    {
+      "i": 273,
+      "start": 1227.0,
+      "end": 1228.0,
+      "text": "It is."
+    },
+    {
+      "i": 274,
+      "start": 1228.0,
+      "end": 1229.0,
+      "text": "That."
+    },
+    {
+      "i": 275,
+      "start": 1229.0,
+      "end": 1230.0,
+      "text": "The second."
+    },
+    {
+      "i": 276,
+      "start": 1230.0,
+      "end": 1231.0,
+      "text": "The second."
+    },
+    {
+      "i": 277,
+      "start": 1231.0,
+      "end": 1232.0,
+      "text": "The second."
+    },
+    {
+      "i": 278,
+      "start": 1232.0,
+      "end": 1233.0,
+      "text": "The second."
+    },
+    {
+      "i": 279,
+      "start": 1233.0,
+      "end": 1234.0,
+      "text": "The second."
+    },
+    {
+      "i": 280,
+      "start": 1234.0,
+      "end": 1235.0,
+      "text": "The second."
+    },
+    {
+      "i": 281,
+      "start": 1235.0,
+      "end": 1236.0,
+      "text": "The second."
+    },
+    {
+      "i": 282,
+      "start": 1236.0,
+      "end": 1237.0,
+      "text": "The second."
+    },
+    {
+      "i": 283,
+      "start": 1237.0,
+      "end": 1238.0,
+      "text": "The second."
+    },
+    {
+      "i": 284,
+      "start": 1238.0,
+      "end": 1239.0,
+      "text": "But it is."
+    },
+    {
+      "i": 285,
+      "start": 1239.0,
+      "end": 1261.64,
+      "text": "The"
+    },
+    {
+      "i": 286,
+      "start": 1265.38,
+      "end": 1266.38,
+      "text": "Sorry."
+    },
+    {
+      "i": 287,
+      "start": 1266.38,
+      "end": 1267.84,
+      "text": "Sorry."
+    },
+    {
+      "i": 288,
+      "start": 1267.84,
+      "end": 1267.86,
+      "text": "Sorry."
+    },
+    {
+      "i": 289,
+      "start": 1267.86,
+      "end": 1268.0,
+      "text": "Sorry."
+    },
+    {
+      "i": 290,
+      "start": 1268.0,
+      "end": 1270.24,
+      "text": "and then they were gradually taken out."
+    },
+    {
+      "i": 291,
+      "start": 1270.24,
+      "end": 1273.84,
+      "text": "The main ones are the chain factories in the West,"
+    },
+    {
+      "i": 292,
+      "start": 1273.84,
+      "end": 1275.12,
+      "text": "about 650,000."
+    },
+    {
+      "i": 293,
+      "start": 1275.12,
+      "end": 1278.0,
+      "text": "And in Mexico, Dos Pogas is about 340,000."
+    },
+    {
+      "i": 294,
+      "start": 1278.0,
+      "end": 1283.48,
+      "text": "These are actually large local chain factories,"
+    },
+    {
+      "i": 295,
+      "start": 1283.48,
+      "end": 1287.12,
+      "text": "and they will have a great impact on supply and demand."
+    },
+    {
+      "i": 296,
+      "start": 1287.12,
+      "end": 1291.84,
+      "text": "But last year, the Dongoday went smoothly,"
+    },
+    {
+      "i": 297,
+      "start": 1291.84,
+      "end": 1293.92,
+      "text": "but then it slowly went bad."
+    },
+    {
+      "i": 298,
+      "start": 1293.92,
+      "end": 1297.84,
+      "text": "And then the Dos Pogas in Mexico has never been smooth."
+    },
+    {
+      "i": 299,
+      "start": 1298.0,
+      "end": 1300.92,
+      "text": "They haven't been able to produce well until now."
+    },
+    {
+      "i": 300,
+      "start": 1302.44,
+      "end": 1305.84,
+      "text": "So this year's first quarter,"
+    },
+    {
+      "i": 301,
+      "start": 1305.84,
+      "end": 1310.8,
+      "text": "because of the impact of the warm and cold in Europe,"
+    },
+    {
+      "i": 302,
+      "start": 1310.8,
+      "end": 1314.12,
+      "text": "plus some of the over-the-counter products from last year,"
+    },
+    {
+      "i": 303,
+      "start": 1314.12,
+      "end": 1318.72,
+      "text": "the first quarter of this year has been in the low to the high end."
+    },
+    {
+      "i": 304,
+      "start": 1318.72,
+      "end": 1321.04,
+      "text": "But what do we see in the future?"
+    },
+    {
+      "i": 305,
+      "start": 1321.04,
+      "end": 1324.96,
+      "text": "We will talk about the oil price first."
+    },
+    {
+      "i": 306,
+      "start": 1324.96,
+      "end": 1327.96,
+      "text": "The oil price is actually looking at the summer."
+    },
+    {
+      "i": 307,
+      "start": 1327.96,
+      "end": 1329.96,
+      "text": "It has more than ever been in the low to medium half."
+    },
+    {
+      "i": 308,
+      "start": 1329.96,
+      "end": 1332.76,
+      "text": "It is isn't chanting everything,"
+    },
+    {
+      "i": 309,
+      "start": 1332.76,
+      "end": 1336.28,
+      "text": "mainly being on demand for luxury and high-end designs,"
+    },
+    {
+      "i": 310,
+      "start": 1336.28,
+      "end": 1338.2,
+      "text": "which seems to have a lost streak."
+    },
+    {
+      "i": 311,
+      "start": 1338.2,
+      "end": 1340.6000000000001,
+      "text": "In the Nochuan region of~~"
+    },
+    {
+      "i": 312,
+      "start": 1340.64,
+      "end": 1343.96,
+      "text": "Peaceful and pure XXX streets,"
+    },
+    {
+      "i": 313,
+      "start": 1343.96,
+      "end": 1348.4,
+      "text": "just around the confessed whichонь"
+    },
+    {
+      "i": 314,
+      "start": 1348.4,
+      "end": 1352.6000000000001,
+      "text": "because of the Restaurant Innovation Firm может"
+    },
+    {
+      "i": 315,
+      "start": 1352.6000000000001,
+      "end": 1354.2,
+      "text": "call the local industry,"
+    },
+    {
+      "i": 316,
+      "start": 1354.2,
+      "end": 1356.44,
+      "text": "launched by this morning and"
+    },
+    {
+      "i": 317,
+      "start": 1356.44,
+      "end": 1357.4,
+      "text": "all of the other companies."
+    },
+    {
+      "i": 318,
+      "start": 1387.4,
+      "end": 1389.9,
+      "text": "China is expected to increase production in the US,"
+    },
+    {
+      "i": 319,
+      "start": 1389.9,
+      "end": 1391.8000000000002,
+      "text": "but it looks like the US won't increase production"
+    },
+    {
+      "i": 320,
+      "start": 1391.8000000000002,
+      "end": 1394.2,
+      "text": "with the price of oil."
+    },
+    {
+      "i": 321,
+      "start": 1394.2,
+      "end": 1398.2,
+      "text": "But even if it is deducted from the US,"
+    },
+    {
+      "i": 322,
+      "start": 1398.2,
+      "end": 1401.6000000000001,
+      "text": "if you count the increase in OPEC and non-OPEC,"
+    },
+    {
+      "i": 323,
+      "start": 1401.6000000000001,
+      "end": 1403.4,
+      "text": "it is also quite obvious."
+    },
+    {
+      "i": 324,
+      "start": 1403.4,
+      "end": 1407.6000000000001,
+      "text": "So, it is expected to win this year."
+    },
+    {
+      "i": 325,
+      "start": 1407.6000000000001,
+      "end": 1409.6000000000001,
+      "text": "Also, of course,"
+    },
+    {
+      "i": 326,
+      "start": 1409.6000000000001,
+      "end": 1412.6000000000001,
+      "text": "tariffs may affect the demand for oil."
+    },
+    {
+      "i": 327,
+      "start": 1412.6000000000001,
+      "end": 1415.2,
+      "text": "This part has more variables."
+    },
+    {
+      "i": 328,
+      "start": 1415.2,
+      "end": 1418.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 329,
+      "start": 1418.2,
+      "end": 1422.2,
+      "text": "the demand for gas oil in the mainland"
+    },
+    {
+      "i": 330,
+      "start": 1422.2,
+      "end": 1425.2,
+      "text": "is still declining."
+    },
+    {
+      "i": 331,
+      "start": 1425.2,
+      "end": 1429.2,
+      "text": "This is mainly because it is 1V 1V"
+    },
+    {
+      "i": 332,
+      "start": 1429.2,
+      "end": 1432.2,
+      "text": "and reduces the demand for gas oil."
+    },
+    {
+      "i": 333,
+      "start": 1432.2,
+      "end": 1433.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 334,
+      "start": 1433.2,
+      "end": 1435.2,
+      "text": "many oil is slowly changed to natural gas,"
+    },
+    {
+      "i": 335,
+      "start": 1435.2,
+      "end": 1438.2,
+      "text": "so this part will also affect the demand for oil."
+    },
+    {
+      "i": 336,
+      "start": 1438.2,
+      "end": 1442.2,
+      "text": "Of course, it has many expansion of the petrochemical industry."
+    },
+    {
+      "i": 337,
+      "start": 1442.2,
+      "end": 1445.0,
+      "text": "So, it is not a problem for some petrochemical products"
+    },
+    {
+      "i": 338,
+      "start": 1445.2,
+      "end": 1448.2,
+      "text": "to increase the demand for natural gas."
+    },
+    {
+      "i": 339,
+      "start": 1448.2,
+      "end": 1451.2,
+      "text": "So, the demand for oil like oil or LPG"
+    },
+    {
+      "i": 340,
+      "start": 1451.2,
+      "end": 1453.2,
+      "text": "has increased."
+    },
+    {
+      "i": 341,
+      "start": 1453.2,
+      "end": 1458.2,
+      "text": "But this part may not necessarily come from oil."
+    },
+    {
+      "i": 342,
+      "start": 1458.2,
+      "end": 1460.2,
+      "text": "Some may come from condensate"
+    },
+    {
+      "i": 343,
+      "start": 1460.2,
+      "end": 1464.2,
+      "text": "or the side of the natural gas."
+    },
+    {
+      "i": 344,
+      "start": 1464.2,
+      "end": 1466.2,
+      "text": "So, we can see that"
+    },
+    {
+      "i": 345,
+      "start": 1466.2,
+      "end": 1468.2,
+      "text": "oil has these disadvantages."
+    },
+    {
+      "i": 346,
+      "start": 1468.2,
+      "end": 1471.2,
+      "text": "Of course, oil cannot be very low."
+    },
+    {
+      "i": 347,
+      "start": 1471.2,
+      "end": 1474.2,
+      "text": "Because oil is a strategic material."
+    },
+    {
+      "i": 348,
+      "start": 1474.2,
+      "end": 1476.2,
+      "text": "After all,"
+    },
+    {
+      "i": 349,
+      "start": 1476.2,
+      "end": 1479.2,
+      "text": "the global inventory is low."
+    },
+    {
+      "i": 350,
+      "start": 1479.2,
+      "end": 1480.2,
+      "text": "Because now,"
+    },
+    {
+      "i": 351,
+      "start": 1480.2,
+      "end": 1483.2,
+      "text": "the global inventory of oil"
+    },
+    {
+      "i": 352,
+      "start": 1483.2,
+      "end": 1486.2,
+      "text": "is lower than that of the oil"
+    },
+    {
+      "i": 353,
+      "start": 1486.2,
+      "end": 1491.2,
+      "text": "in the five-year period."
+    },
+    {
+      "i": 354,
+      "start": 1491.2,
+      "end": 1495.2,
+      "text": "So, the price of oil is still a bit high."
+    },
+    {
+      "i": 355,
+      "start": 1495.2,
+      "end": 1498.2,
+      "text": "Of course, the risk of war has not been completely eliminated."
+    },
+    {
+      "i": 356,
+      "start": 1498.2,
+      "end": 1500.2,
+      "text": "Whether it is the Second World War or the First World War,"
+    },
+    {
+      "i": 357,
+      "start": 1500.2,
+      "end": 1502.2,
+      "text": "there are still some risks."
+    },
+    {
+      "i": 358,
+      "start": 1502.2,
+      "end": 1504.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 359,
+      "start": 1504.2,
+      "end": 1506.2,
+      "text": "there are some advantages to oil prices."
+    },
+    {
+      "i": 360,
+      "start": 1506.2,
+      "end": 1507.2,
+      "text": "For example,"
+    },
+    {
+      "i": 361,
+      "start": 1507.2,
+      "end": 1509.2,
+      "text": "the speed of global electric vehicles"
+    },
+    {
+      "i": 362,
+      "start": 1509.2,
+      "end": 1512.2,
+      "text": "is slowing down."
+    },
+    {
+      "i": 363,
+      "start": 1512.2,
+      "end": 1514.2,
+      "text": "It may have a delay effect"
+    },
+    {
+      "i": 364,
+      "start": 1514.2,
+      "end": 1519.2,
+      "text": "on the high peak point of the oil demand."
+    },
+    {
+      "i": 365,
+      "start": 1519.2,
+      "end": 1521.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 366,
+      "start": 1521.2,
+      "end": 1523.2,
+      "text": "I just mentioned that"
+    },
+    {
+      "i": 367,
+      "start": 1523.2,
+      "end": 1527.2,
+      "text": "the IEA-1F will produce 500,000 tons in the United States."
+    },
+    {
+      "i": 368,
+      "start": 1527.2,
+      "end": 1530.2,
+      "text": "But I think it should not be possible."
+    },
+    {
+      "i": 369,
+      "start": 1530.2,
+      "end": 1532.2,
+      "text": "So, we can slow down a bit."
+    },
+    {
+      "i": 370,
+      "start": 1532.2,
+      "end": 1534.2,
+      "text": "This is the oil price."
+    },
+    {
+      "i": 371,
+      "start": 1534.2,
+      "end": 1536.2,
+      "text": "We still think that"
+    },
+    {
+      "i": 372,
+      "start": 1536.2,
+      "end": 1538.2,
+      "text": "there are many disadvantages."
+    },
+    {
+      "i": 373,
+      "start": 1538.2,
+      "end": 1540.2,
+      "text": "So, there is still a way to go down."
+    },
+    {
+      "i": 374,
+      "start": 1540.2,
+      "end": 1541.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 375,
+      "start": 1541.2,
+      "end": 1542.2,
+      "text": "of course,"
+    },
+    {
+      "i": 376,
+      "start": 1542.2,
+      "end": 1543.2,
+      "text": "the price difference."
+    },
+    {
+      "i": 377,
+      "start": 1543.2,
+      "end": 1546.2,
+      "text": "We think that the price difference will slowly turn better."
+    },
+    {
+      "i": 378,
+      "start": 1546.2,
+      "end": 1548.2,
+      "text": "There are several important factors."
+    },
+    {
+      "i": 379,
+      "start": 1548.2,
+      "end": 1550.2,
+      "text": "One is of course the expansion and reduction."
+    },
+    {
+      "i": 380,
+      "start": 1550.2,
+      "end": 1552.2,
+      "text": "You can see it in the following table."
+    },
+    {
+      "i": 381,
+      "start": 1552.2,
+      "end": 1553.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 382,
+      "start": 1553.2,
+      "end": 1555.2,
+      "text": "the observation of the European and American day."
+    },
+    {
+      "i": 383,
+      "start": 1555.2,
+      "end": 1557.2,
+      "text": "We look at the above"
+    },
+    {
+      "i": 384,
+      "start": 1557.2,
+      "end": 1558.2,
+      "text": "several indicators."
+    },
+    {
+      "i": 385,
+      "start": 1558.2,
+      "end": 1560.2,
+      "text": "The first is the oil price."
+    },
+    {
+      "i": 386,
+      "start": 1560.2,
+      "end": 1564.2,
+      "text": "The above round chart."
+    },
+    {
+      "i": 387,
+      "start": 1564.2,
+      "end": 1565.2,
+      "text": "For example,"
+    },
+    {
+      "i": 388,
+      "start": 1565.2,
+      "end": 1567.2,
+      "text": "the United States will reduce"
+    },
+    {
+      "i": 389,
+      "start": 1567.2,
+      "end": 1570.2,
+      "text": "73,000 tons in the next two years."
+    },
+    {
+      "i": 390,
+      "start": 1570.2,
+      "end": 1571.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 391,
+      "start": 1571.2,
+      "end": 1572.2,
+      "text": "this year will reduce a little more."
+    },
+    {
+      "i": 392,
+      "start": 1572.2,
+      "end": 1573.2,
+      "text": "About 400,000 tons."
+    },
+    {
+      "i": 393,
+      "start": 1573.2,
+      "end": 1575.2,
+      "text": "Less next year."
+    },
+    {
+      "i": 394,
+      "start": 1575.2,
+      "end": 1576.2,
+      "text": "For example,"
+    },
+    {
+      "i": 395,
+      "start": 1576.2,
+      "end": 1580.2,
+      "text": "Europe will also reduce 377,000 tons."
+    },
+    {
+      "i": 396,
+      "start": 1580.2,
+      "end": 1582.2,
+      "text": "It is in the upper right corner."
+    },
+    {
+      "i": 397,
+      "start": 1582.2,
+      "end": 1584.2,
+      "text": "Europe will reduce 377,000 tons."
+    },
+    {
+      "i": 398,
+      "start": 1584.2,
+      "end": 1585.2,
+      "text": "This year's first season"
+    },
+    {
+      "i": 399,
+      "start": 1585.2,
+      "end": 1587.2,
+      "text": "has already started to have this chain closed."
+    },
+    {
+      "i": 400,
+      "start": 1587.2,
+      "end": 1589.2,
+      "text": "Mainly in Germany and the United Kingdom."
+    },
+    {
+      "i": 401,
+      "start": 1590.2,
+      "end": 1592.2,
+      "text": "Japan in Asia."
+    },
+    {
+      "i": 402,
+      "start": 1592.2,
+      "end": 1595.2,
+      "text": "Japan will also reduce 100,000 tons this year."
+    },
+    {
+      "i": 403,
+      "start": 1595.2,
+      "end": 1598.2,
+      "text": "So this part will cause some."
+    },
+    {
+      "i": 404,
+      "start": 1598.2,
+      "end": 1599.2,
+      "text": "For example,"
+    },
+    {
+      "i": 405,
+      "start": 1599.2,
+      "end": 1601.2,
+      "text": "the United States is on the west coast of the United States."
+    },
+    {
+      "i": 406,
+      "start": 1601.2,
+      "end": 1603.2,
+      "text": "So it can give Asian oil products"
+    },
+    {
+      "i": 407,
+      "start": 1603.2,
+      "end": 1606.2,
+      "text": "the opportunity to sell on the west coast of the United States."
+    },
+    {
+      "i": 408,
+      "start": 1606.2,
+      "end": 1607.2,
+      "text": "Europe,"
+    },
+    {
+      "i": 409,
+      "start": 1607.2,
+      "end": 1609.2,
+      "text": "because of this right-hand market,"
+    },
+    {
+      "i": 410,
+      "start": 1609.2,
+      "end": 1612.2,
+      "text": "it needs to capture from the Middle East and India."
+    },
+    {
+      "i": 411,
+      "start": 1612.2,
+      "end": 1614.2,
+      "text": "So India and the Middle East,"
+    },
+    {
+      "i": 412,
+      "start": 1614.2,
+      "end": 1616.2,
+      "text": "it goes to the west coast,"
+    },
+    {
+      "i": 413,
+      "start": 1616.2,
+      "end": 1619.2,
+      "text": "the possibility will decrease."
+    },
+    {
+      "i": 414,
+      "start": 1619.2,
+      "end": 1622.2,
+      "text": "This will reduce some pressure on the Singapore market."
+    },
+    {
+      "i": 415,
+      "start": 1622.2,
+      "end": 1623.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 416,
+      "start": 1623.2,
+      "end": 1625.2,
+      "text": "Japan has been reducing its chain."
+    },
+    {
+      "i": 417,
+      "start": 1625.2,
+      "end": 1626.2,
+      "text": "In fact,"
+    },
+    {
+      "i": 418,
+      "start": 1626.2,
+      "end": 1629.2,
+      "text": "it is importing from Korea."
+    },
+    {
+      "i": 419,
+      "start": 1629.2,
+      "end": 1632.2,
+      "text": "This also reduces the sales of Korean goods to the Singapore market."
+    },
+    {
+      "i": 420,
+      "start": 1632.2,
+      "end": 1635.2,
+      "text": "So this part is actually for the future."
+    },
+    {
+      "i": 421,
+      "start": 1635.2,
+      "end": 1637.2,
+      "text": "The whole consensus is."
+    },
+    {
+      "i": 422,
+      "start": 1637.2,
+      "end": 1639.2,
+      "text": "The spirit is very helpful."
+    },
+    {
+      "i": 423,
+      "start": 1639.2,
+      "end": 1640.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 424,
+      "start": 1640.2,
+      "end": 1643.2,
+      "text": "I just mentioned that China's exports will be reduced."
+    },
+    {
+      "i": 425,
+      "start": 1643.2,
+      "end": 1645.2,
+      "text": "Because of tax."
+    },
+    {
+      "i": 426,
+      "start": 1645.2,
+      "end": 1647.2,
+      "text": "And India."
+    },
+    {
+      "i": 427,
+      "start": 1647.2,
+      "end": 1648.2,
+      "text": "Sorry."
+    },
+    {
+      "i": 428,
+      "start": 1648.2,
+      "end": 1649.2,
+      "text": "That."
+    },
+    {
+      "i": 429,
+      "start": 1649.2,
+      "end": 1652.2,
+      "text": "The Russian production capacity is also reduced."
+    },
+    {
+      "i": 430,
+      "start": 1652.2,
+      "end": 1653.2,
+      "text": "And then."
+    },
+    {
+      "i": 431,
+      "start": 1653.2,
+      "end": 1656.2,
+      "text": "The production capacity is also damaged."
+    },
+    {
+      "i": 432,
+      "start": 1656.2,
+      "end": 1658.2,
+      "text": "So the export is also reduced."
+    },
+    {
+      "i": 433,
+      "start": 1658.2,
+      "end": 1659.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 434,
+      "start": 1659.2,
+      "end": 1661.2,
+      "text": "there is another better factor."
+    },
+    {
+      "i": 435,
+      "start": 1661.2,
+      "end": 1662.2,
+      "text": "That is,"
+    },
+    {
+      "i": 436,
+      "start": 1662.2,
+      "end": 1665.2,
+      "text": "the situation of the red sea is a little bit different."
+    },
+    {
+      "i": 437,
+      "start": 1665.2,
+      "end": 1667.2,
+      "text": "So this may be."
+    },
+    {
+      "i": 438,
+      "start": 1667.2,
+      "end": 1669.2,
+      "text": "India and the Middle East to the west."
+    },
+    {
+      "i": 439,
+      "start": 1669.2,
+      "end": 1671.2,
+      "text": "The monthly fee can be reduced."
+    },
+    {
+      "i": 440,
+      "start": 1671.2,
+      "end": 1674.2,
+      "text": "It can reduce the pressure on the east."
+    },
+    {
+      "i": 441,
+      "start": 1674.2,
+      "end": 1675.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 442,
+      "start": 1675.2,
+      "end": 1678.2,
+      "text": "the increase in the Middle East may be due to the fact that."
+    },
+    {
+      "i": 443,
+      "start": 1678.2,
+      "end": 1681.2,
+      "text": "The oil is going to be produced."
+    },
+    {
+      "i": 444,
+      "start": 1681.2,
+      "end": 1684.2,
+      "text": "So we expect that the increase in oil in the Middle East will be reduced."
+    },
+    {
+      "i": 445,
+      "start": 1684.2,
+      "end": 1685.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 446,
+      "start": 1685.2,
+      "end": 1686.2,
+      "text": "this is of course,"
+    },
+    {
+      "i": 447,
+      "start": 1686.2,
+      "end": 1687.2,
+      "text": "the most effective."
+    },
+    {
+      "i": 448,
+      "start": 1687.2,
+      "end": 1688.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 449,
+      "start": 1688.2,
+      "end": 1689.2,
+      "text": "this is just mentioned."
+    },
+    {
+      "i": 450,
+      "start": 1689.2,
+      "end": 1690.2,
+      "text": "The oil price is low."
+    },
+    {
+      "i": 451,
+      "start": 1690.2,
+      "end": 1692.2,
+      "text": "There is some help for demand."
+    },
+    {
+      "i": 452,
+      "start": 1692.2,
+      "end": 1693.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 453,
+      "start": 1693.2,
+      "end": 1694.2,
+      "text": "that is to say,"
+    },
+    {
+      "i": 454,
+      "start": 1694.2,
+      "end": 1695.2,
+      "text": "some small chain factories in China."
+    },
+    {
+      "i": 455,
+      "start": 1695.2,
+      "end": 1696.2,
+      "text": "In fact,"
+    },
+    {
+      "i": 456,
+      "start": 1696.2,
+      "end": 1697.2,
+      "text": "for a long time."
+    },
+    {
+      "i": 457,
+      "start": 1697.2,
+      "end": 1698.2,
+      "text": "He is using some."
+    },
+    {
+      "i": 458,
+      "start": 1698.2,
+      "end": 1699.2,
+      "text": "Iran or Russia."
+    },
+    {
+      "i": 459,
+      "start": 1699.2,
+      "end": 1700.2,
+      "text": "He may be more and more difficult."
+    },
+    {
+      "i": 460,
+      "start": 1700.2,
+      "end": 1701.2,
+      "text": "If he says his."
+    },
+    {
+      "i": 461,
+      "start": 1701.2,
+      "end": 1702.2,
+      "text": "If his chain is reduced."
+    },
+    {
+      "i": 462,
+      "start": 1702.2,
+      "end": 1703.2,
+      "text": "The whole consensus is also."
+    },
+    {
+      "i": 463,
+      "start": 1703.2,
+      "end": 1704.2,
+      "text": "There is help."
+    },
+    {
+      "i": 464,
+      "start": 1704.2,
+      "end": 1705.2,
+      "text": "So this is."
+    },
+    {
+      "i": 465,
+      "start": 1705.2,
+      "end": 1706.2,
+      "text": "This is."
+    },
+    {
+      "i": 466,
+      "start": 1706.2,
+      "end": 1707.2,
+      "text": "This is."
+    },
+    {
+      "i": 467,
+      "start": 1707.2,
+      "end": 1708.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 468,
+      "start": 1708.2,
+      "end": 1709.2,
+      "text": "this is a relatively strong factor."
+    },
+    {
+      "i": 469,
+      "start": 1709.2,
+      "end": 1710.2,
+      "text": "Of course,"
+    },
+    {
+      "i": 470,
+      "start": 1710.2,
+      "end": 1711.2,
+      "text": "there are also non-profit factors."
+    },
+    {
+      "i": 471,
+      "start": 1711.2,
+      "end": 1712.2,
+      "text": "The most important thing is that."
+    },
+    {
+      "i": 472,
+      "start": 1712.2,
+      "end": 1728.2,
+      "text": "The production of the 2024"
+    },
+    {
+      "i": 473,
+      "start": 1728.2,
+      "end": 1729.2,
+      "text": "year."
+    },
+    {
+      "i": 474,
+      "start": 1729.2,
+      "end": 1730.2,
+      "text": "It is not completely successful."
+    },
+    {
+      "i": 475,
+      "start": 1730.2,
+      "end": 1731.2,
+      "text": "So this year it will be added one by one."
+    },
+    {
+      "i": 476,
+      "start": 1731.2,
+      "end": 1732.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 477,
+      "start": 1732.2,
+      "end": 1733.2,
+      "text": "it is said that China's domestic demand is actually."
+    },
+    {
+      "i": 478,
+      "start": 1733.2,
+      "end": 1734.2,
+      "text": "The fall is quite serious."
+    },
+    {
+      "i": 479,
+      "start": 1734.2,
+      "end": 1735.2,
+      "text": "This is not only his."
+    },
+    {
+      "i": 480,
+      "start": 1735.2,
+      "end": 1736.2,
+      "text": "The problem of gas oil."
+    },
+    {
+      "i": 481,
+      "start": 1736.2,
+      "end": 1737.2,
+      "text": "In addition,"
+    },
+    {
+      "i": 482,
+      "start": 1737.2,
+      "end": 1738.2,
+      "text": "of course,"
+    },
+    {
+      "i": 483,
+      "start": 1738.2,
+      "end": 1739.2,
+      "text": "it is said that."
+    },
+    {
+      "i": 484,
+      "start": 1739.2,
+      "end": 1740.2,
+      "text": "The biggest change is the trade war."
+    },
+    {
+      "i": 485,
+      "start": 1740.2,
+      "end": 1741.2,
+      "text": "What kind of situation will the trade war cause?"
+    },
+    {
+      "i": 486,
+      "start": 1741.2,
+      "end": 1742.2,
+      "text": "What kind of impact will it have on demand?"
+    },
+    {
+      "i": 487,
+      "start": 1742.2,
+      "end": 1743.2,
+      "text": "This may still be observed."
+    },
+    {
+      "i": 488,
+      "start": 1743.2,
+      "end": 1744.2,
+      "text": "But in general,"
+    },
+    {
+      "i": 489,
+      "start": 1744.2,
+      "end": 1745.2,
+      "text": "it is said that."
+    },
+    {
+      "i": 490,
+      "start": 1745.2,
+      "end": 1746.2,
+      "text": "In fact,"
+    },
+    {
+      "i": 491,
+      "start": 1746.2,
+      "end": 1747.2,
+      "text": "this is the price difference."
+    },
+    {
+      "i": 492,
+      "start": 1747.2,
+      "end": 1748.2,
+      "text": "There is a little bit of a number."
+    },
+    {
+      "i": 493,
+      "start": 1748.2,
+      "end": 1749.2,
+      "text": "Still."
+    },
+    {
+      "i": 494,
+      "start": 1749.2,
+      "end": 1750.2,
+      "text": "Still."
+    },
+    {
+      "i": 495,
+      "start": 1750.2,
+      "end": 1751.2,
+      "text": "A lot of."
+    },
+    {
+      "i": 496,
+      "start": 1751.2,
+      "end": 1752.2,
+      "text": "So we still look at it."
+    },
+    {
+      "i": 497,
+      "start": 1752.2,
+      "end": 1753.2,
+      "text": "So that."
+    },
+    {
+      "i": 498,
+      "start": 1753.2,
+      "end": 1754.2,
+      "text": "Future."
+    },
+    {
+      "i": 499,
+      "start": 1754.2,
+      "end": 1755.2,
+      "text": "This."
+    },
+    {
+      "i": 500,
+      "start": 1755.2,
+      "end": 1756.2,
+      "text": "This is to say."
+    },
+    {
+      "i": 501,
+      "start": 1756.2,
+      "end": 1757.2,
+      "text": "This year."
+    },
+    {
+      "i": 502,
+      "start": 1757.2,
+      "end": 1758.2,
+      "text": "The future."
+    },
+    {
+      "i": 503,
+      "start": 1758.2,
+      "end": 1759.2,
+      "text": "These chain factories."
+    },
+    {
+      "i": 504,
+      "start": 1759.2,
+      "end": 1760.2,
+      "text": "It will be better than last year."
+    },
+    {
+      "i": 505,
+      "start": 1760.2,
+      "end": 1761.2,
+      "text": "Then."
+    },
+    {
+      "i": 506,
+      "start": 1761.2,
+      "end": 1762.2,
+      "text": "Even to 26."
+    },
+    {
+      "i": 507,
+      "start": 1762.2,
+      "end": 1763.2,
+      "text": "We are also relatively."
+    },
+    {
+      "i": 508,
+      "start": 1763.2,
+      "end": 1764.2,
+      "text": "It is a positive view."
+    },
+    {
+      "i": 509,
+      "start": 1764.2,
+      "end": 1765.2,
+      "text": "So."
+    },
+    {
+      "i": 510,
+      "start": 1766.2,
+      "end": 1767.2,
+      "text": "This."
+    },
+    {
+      "i": 511,
+      "start": 1767.2,
+      "end": 1768.2,
+      "text": "This."
+    },
+    {
+      "i": 512,
+      "start": 1768.2,
+      "end": 1769.2,
+      "text": "This."
+    },
+    {
+      "i": 513,
+      "start": 1769.2,
+      "end": 1770.2,
+      "text": "This."
+    },
+    {
+      "i": 514,
+      "start": 1770.2,
+      "end": 1771.2,
+      "text": "This piece."
+    },
+    {
+      "i": 515,
+      "start": 1771.2,
+      "end": 1772.2,
+      "text": "Probably."
+    },
+    {
+      "i": 516,
+      "start": 1772.2,
+      "end": 1773.2,
+      "text": "Just."
+    },
+    {
+      "i": 517,
+      "start": 1773.2,
+      "end": 1774.2,
+      "text": "There is a report."
+    },
+    {
+      "i": 518,
+      "start": 1774.2,
+      "end": 1775.2,
+      "text": "That is to say."
+    },
+    {
+      "i": 519,
+      "start": 1775.2,
+      "end": 1776.2,
+      "text": "This is actually."
+    },
+    {
+      "i": 520,
+      "start": 1776.2,
+      "end": 1777.2,
+      "text": "For a long time."
+    },
+    {
+      "i": 521,
+      "start": 1777.2,
+      "end": 1778.2,
+      "text": "In fact."
+    },
+    {
+      "i": 522,
+      "start": 1778.2,
+      "end": 1779.2,
+      "text": "The situation of over-sufficiency is very serious."
+    },
+    {
+      "i": 523,
+      "start": 1779.2,
+      "end": 1780.2,
+      "text": "Then."
+    },
+    {
+      "i": 524,
+      "start": 1780.2,
+      "end": 1781.2,
+      "text": "We look at this."
+    },
+    {
+      "i": 525,
+      "start": 1781.2,
+      "end": 1782.2,
+      "text": "The."
+    },
+    {
+      "i": 526,
+      "start": 1782.2,
+      "end": 1783.2,
+      "text": "The two columns on the lower left."
+    },
+    {
+      "i": 527,
+      "start": 1783.2,
+      "end": 1784.2,
+      "text": "This is the global."
+    },
+    {
+      "i": 528,
+      "start": 1784.2,
+      "end": 1785.2,
+      "text": "Some."
+    },
+    {
+      "i": 529,
+      "start": 1785.2,
+      "end": 1786.2,
+      "text": "Requirements."
+    },
+    {
+      "i": 530,
+      "start": 1786.2,
+      "end": 1787.2,
+      "text": "This."
+    },
+    {
+      "i": 531,
+      "start": 1787.2,
+      "end": 1788.2,
+      "text": "This."
+    },
+    {
+      "i": 532,
+      "start": 1788.2,
+      "end": 1789.2,
+      "text": "This."
+    },
+    {
+      "i": 533,
+      "start": 1789.2,
+      "end": 1790.2,
+      "text": "The growth."
+    },
+    {
+      "i": 534,
+      "start": 1790.2,
+      "end": 1791.2,
+      "text": "The."
+    },
+    {
+      "i": 535,
+      "start": 1791.2,
+      "end": 1792.2,
+      "text": "In 2015."
+    },
+    {
+      "i": 536,
+      "start": 1792.2,
+      "end": 1793.2,
+      "text": "It was 8."
+    },
+    {
+      "i": 537,
+      "start": 1793.2,
+      "end": 1794.2,
+      "text": "7."
+    },
+    {
+      "i": 538,
+      "start": 1794.2,
+      "end": 1795.2,
+      "text": "8."
+    },
+    {
+      "i": 539,
+      "start": 1795.2,
+      "end": 1796.2,
+      "text": "8."
+    },
+    {
+      "i": 540,
+      "start": 1796.2,
+      "end": 1797.2,
+      "text": "8."
+    },
+    {
+      "i": 541,
+      "start": 1797.2,
+      "end": 1798.2,
+      "text": "And in the Asian part."
+    },
+    {
+      "i": 542,
+      "start": 1798.2,
+      "end": 1799.2,
+      "text": "Probably."
+    },
+    {
+      "i": 543,
+      "start": 1799.2,
+      "end": 1800.2,
+      "text": "In 2025."
+    },
+    {
+      "i": 544,
+      "start": 1800.2,
+      "end": 1801.2,
+      "text": "All in Asia."
+    },
+    {
+      "i": 545,
+      "start": 1801.2,
+      "end": 1802.2,
+      "text": "That."
+    },
+    {
+      "i": 546,
+      "start": 1802.2,
+      "end": 1803.2,
+      "text": "In 2026."
+    },
+    {
+      "i": 547,
+      "start": 1803.2,
+      "end": 1804.2,
+      "text": "There will be 7."
+    },
+    {
+      "i": 548,
+      "start": 1804.2,
+      "end": 1805.2,
+      "text": "7."
+    },
+    {
+      "i": 549,
+      "start": 1805.2,
+      "end": 1806.2,
+      "text": "7 million tons of it."
+    },
+    {
+      "i": 550,
+      "start": 1806.2,
+      "end": 1807.2,
+      "text": "In Asia."
+    },
+    {
+      "i": 551,
+      "start": 1807.2,
+      "end": 1808.2,
+      "text": "I think."
+    },
+    {
+      "i": 552,
+      "start": 1808.2,
+      "end": 1809.2,
+      "text": "The global."
+    },
+    {
+      "i": 553,
+      "start": 1809.2,
+      "end": 1810.2,
+      "text": "The growth demand."
+    },
+    {
+      "i": 554,
+      "start": 1810.2,
+      "end": 1811.2,
+      "text": "A year."
+    },
+    {
+      "i": 555,
+      "start": 1811.2,
+      "end": 1812.2,
+      "text": "Now about 5 million."
+    },
+    {
+      "i": 556,
+      "start": 1812.2,
+      "end": 1813.2,
+      "text": "To 6 million tons."
+    },
+    {
+      "i": 557,
+      "start": 1813.2,
+      "end": 1814.2,
+      "text": "So."
+    },
+    {
+      "i": 558,
+      "start": 1814.2,
+      "end": 1815.2,
+      "text": "This is the same."
+    },
+    {
+      "i": 559,
+      "start": 1815.2,
+      "end": 1816.2,
+      "text": "The gap."
+    },
+    {
+      "i": 560,
+      "start": 1816.2,
+      "end": 1817.2,
+      "text": "The gap of the supply."
+    },
+    {
+      "i": 561,
+      "start": 1817.2,
+      "end": 1818.2,
+      "text": "Is getting bigger and bigger."
+    },
+    {
+      "i": 562,
+      "start": 1818.2,
+      "end": 1819.2,
+      "text": "Will continue."
+    },
+    {
+      "i": 563,
+      "start": 1819.2,
+      "end": 1820.2,
+      "text": "Increase."
+    },
+    {
+      "i": 564,
+      "start": 1820.2,
+      "end": 1821.2,
+      "text": "Of course."
+    },
+    {
+      "i": 565,
+      "start": 1821.2,
+      "end": 1822.2,
+      "text": "There will be some."
+    },
+    {
+      "i": 566,
+      "start": 1822.2,
+      "end": 1823.2,
+      "text": "Some."
+    },
+    {
+      "i": 567,
+      "start": 1823.2,
+      "end": 1824.2,
+      "text": "Less competitive."
+    },
+    {
+      "i": 568,
+      "start": 1824.2,
+      "end": 1825.2,
+      "text": "Some."
+    },
+    {
+      "i": 569,
+      "start": 1825.2,
+      "end": 1826.2,
+      "text": "Chai plants."
+    },
+    {
+      "i": 570,
+      "start": 1826.2,
+      "end": 1832.3400000000001,
+      "text": "But the situation of the global supply is still very serious."
+    },
+    {
+      "i": 571,
+      "start": 1832.3400000000001,
+      "end": 1837.3400000000001,
+      "text": "In addition, in 2027 and 2028,"
+    },
+    {
+      "i": 572,
+      "start": 1837.3400000000001,
+      "end": 1838.78,
+      "text": "we looked at the data."
+    },
+    {
+      "i": 573,
+      "start": 1838.78,
+      "end": 1843.98,
+      "text": "China added at least 5 million tons of oil every year."
+    },
+    {
+      "i": 574,
+      "start": 1843.98,
+      "end": 1845.38,
+      "text": "In addition to that,"
+    },
+    {
+      "i": 575,
+      "start": 1845.38,
+      "end": 1848.42,
+      "text": "the average annual oil consumption increased by about 10 million tons."
+    },
+    {
+      "i": 576,
+      "start": 1848.42,
+      "end": 1850.6200000000001,
+      "text": "So in this regard,"
+    },
+    {
+      "i": 577,
+      "start": 1850.6200000000001,
+      "end": 1852.82,
+      "text": "unless there are some major changes in their plan,"
+    },
+    {
+      "i": 578,
+      "start": 1852.82,
+      "end": 1855.8,
+      "text": "or if the situation looks like"
+    },
+    {
+      "i": 579,
+      "start": 1856.2,
+      "end": 1859.6000000000001,
+      "text": "it might take some time,"
+    },
+    {
+      "i": 580,
+      "start": 1859.6000000000001,
+      "end": 1865.64,
+      "text": "it depends on the situation of the players in the market."
+    },
+    {
+      "i": 581,
+      "start": 1865.64,
+      "end": 1868.82,
+      "text": "Because of the growth of demand,"
+    },
+    {
+      "i": 582,
+      "start": 1868.82,
+      "end": 1870.28,
+      "text": "the growth of explosive demand,"
+    },
+    {
+      "i": 583,
+      "start": 1870.28,
+      "end": 1875.38,
+      "text": "the current situation is not easy to happen."
+    },
+    {
+      "i": 584,
+      "start": 1875.38,
+      "end": 1879.32,
+      "text": "Because the main thing is that the US-China trade war is still going on."
+    },
+    {
+      "i": 585,
+      "start": 1879.32,
+      "end": 1886.2,
+      "text": "So it's not easy to meet the demand."
+    },
+    {
+      "i": 586,
+      "start": 1886.2,
+      "end": 1888.24,
+      "text": "The US-China trade war is still going on."
+    },
+    {
+      "i": 587,
+      "start": 1888.24,
+      "end": 1893.88,
+      "text": "And the Chinese market is also very serious."
+    },
+    {
+      "i": 588,
+      "start": 1893.88,
+      "end": 1897.78,
+      "text": "So its demand is also unlikely to increase very quickly."
+    },
+    {
+      "i": 589,
+      "start": 1897.78,
+      "end": 1901.98,
+      "text": "There is also a long-term reduction in the global supply,"
+    },
+    {
+      "i": 590,
+      "start": 1901.98,
+      "end": 1903.66,
+      "text": "a decrease in the supply pressure."
+    },
+    {
+      "i": 591,
+      "start": 1903.66,
+      "end": 1907.18,
+      "text": "This will also cause some problems for the growth of demand."
+    },
+    {
+      "i": 592,
+      "start": 1907.18,
+      "end": 1910.32,
+      "text": "Of course, it is not completely without some strong factors."
+    },
+    {
+      "i": 593,
+      "start": 1910.32,
+      "end": 1912.02,
+      "text": "Like the US-China trade war,"
+    },
+    {
+      "i": 594,
+      "start": 1912.02,
+      "end": 1915.1000000000001,
+      "text": "the difficulty of the mainland to obtain some US raw materials will increase."
+    },
+    {
+      "i": 595,
+      "start": 1915.1000000000001,
+      "end": 1916.04,
+      "text": "For example, in the evening,"
+    },
+    {
+      "i": 596,
+      "start": 1916.2,
+      "end": 1918.76,
+      "text": "the direct power of the railway plant may decrease."
+    },
+    {
+      "i": 597,
+      "start": 1918.76,
+      "end": 1920.8,
+      "text": "The entire factory will have some help."
+    },
+    {
+      "i": 598,
+      "start": 1920.8,
+      "end": 1924.4,
+      "text": "In addition, there are some strong factors for our factories in Taiwan."
+    },
+    {
+      "i": 599,
+      "start": 1924.4,
+      "end": 1927.72,
+      "text": "For example, the US is a real export major,"
+    },
+    {
+      "i": 600,
+      "start": 1927.72,
+      "end": 1930.78,
+      "text": "but it still has some things to import."
+    },
+    {
+      "i": 601,
+      "start": 1930.78,
+      "end": 1934.1200000000001,
+      "text": "Because many of them are imported from the evening."
+    },
+    {
+      "i": 602,
+      "start": 1934.1200000000001,
+      "end": 1936.16,
+      "text": "So the US-China trade war is still going on."
+    },
+    {
+      "i": 603,
+      "start": 1936.16,
+      "end": 1939.46,
+      "text": "So the US-China trade war is still going on."
+    },
+    {
+      "i": 604,
+      "start": 1939.46,
+      "end": 1942.82,
+      "text": "But it still has some things to import."
+    },
+    {
+      "i": 605,
+      "start": 1942.82,
+      "end": 1945.7,
+      "text": "Because many of them are imported from the evening."
+    },
+    {
+      "i": 606,
+      "start": 1945.7,
+      "end": 1948.68,
+      "text": "So the US-China trade war is still going on."
+    },
+    {
+      "i": 607,
+      "start": 1948.68,
+      "end": 1950.8600000000001,
+      "text": "So the US-China trade war is still going on."
+    },
+    {
+      "i": 608,
+      "start": 1950.8600000000001,
+      "end": 1953.7,
+      "text": "But it still has some things to import."
+    },
+    {
+      "i": 609,
+      "start": 1953.7,
+      "end": 1958.76,
+      "text": "Because there are some trade gaps between China and the US,"
+    },
+    {
+      "i": 610,
+      "start": 1958.76,
+      "end": 1962.0,
+      "text": "it is relatively beneficial to sell this part to the US."
+    },
+    {
+      "i": 611,
+      "start": 1962.0,
+      "end": 1967.46,
+      "text": "It is relatively beneficial to sell this part to the US,"
+    },
+    {
+      "i": 612,
+      "start": 1967.46,
+      "end": 1970.38,
+      "text": "which is relatively beneficial to China or other places."
+    },
+    {
+      "i": 613,
+      "start": 1970.38,
+      "end": 1971.94,
+      "text": "Of course, there may be someone who needs help."
+    },
+    {
+      "i": 614,
+      "start": 1971.94,
+      "end": 1973.8600000000001,
+      "text": "Because oil prices are low,"
+    },
+    {
+      "i": 615,
+      "start": 1973.8600000000001,
+      "end": 1975.26,
+      "text": "and then the production of food is not as high as before."
+    },
+    {
+      "i": 616,
+      "start": 1975.7,
+      "end": 1977.68,
+      "text": "There are industries that are dry,"
+    },
+    {
+      "i": 617,
+      "start": 1977.68,
+      "end": 1979.02,
+      "text": "with a lot of industrial abuse,"
+    },
+    {
+      "i": 618,
+      "start": 1979.02,
+      "end": 1980.48,
+      "text": "and normal food costs are lower as well."
+    },
+    {
+      "i": 619,
+      "start": 1980.48,
+      "end": 1981.46,
+      "text": "With Bullet,"
+    },
+    {
+      "i": 620,
+      "start": 1981.46,
+      "end": 1983.16,
+      "text": "it is very hard to find food,"
+    },
+    {
+      "i": 621,
+      "start": 1983.16,
+      "end": 1985.3600000000001,
+      "text": "just think about what oil prices are like today."
+    },
+    {
+      "i": 622,
+      "start": 1985.3600000000001,
+      "end": 1987.7,
+      "text": "Even this AJJ being released in Latin America,"
+    },
+    {
+      "i": 623,
+      "start": 1987.7,
+      "end": 1990.0800000000002,
+      "text": "the oil say them this way,"
+    },
+    {
+      "i": 624,
+      "start": 1990.0800000000002,
+      "end": 1990.96,
+      "text": "but once you doin,"
+    },
+    {
+      "i": 625,
+      "start": 1990.96,
+      "end": 1993.48,
+      "text": "you know that food metabolism decays up quite slightly."
+    },
+    {
+      "i": 626,
+      "start": 1993.48,
+      "end": 1995.14,
+      "text": "So the problem rises there."
+    },
+    {
+      "i": 627,
+      "start": 1995.14,
+      "end": 1997.94,
+      "text": "It has entered the food industry seriously."
+    },
+    {
+      "i": 628,
+      "start": 1997.94,
+      "end": 1999.1000000000001,
+      "text": "But it is also expected"
+    },
+    {
+      "i": 629,
+      "start": 1999.1000000000001,
+      "end": 1999.92,
+      "text": "that it will be impossible"
+    },
+    {
+      "i": 630,
+      "start": 1999.92,
+      "end": 2002.02,
+      "text": "for the industry to slow it down"
+    },
+    {
+      "i": 631,
+      "start": 2002.02,
+      "end": 2005.5800000000002,
+      "text": "because its price 88 million dollars per bucket rate."
+    },
+    {
+      "i": 632,
+      "start": 2005.7,
+      "end": 2007.46,
+      "text": "is not difficult to grow."
+    },
+    {
+      "i": 633,
+      "start": 2007.46,
+      "end": 2009.14,
+      "text": "So we think that"
+    },
+    {
+      "i": 634,
+      "start": 2009.7,
+      "end": 2011.54,
+      "text": "the actualization of this part"
+    },
+    {
+      "i": 635,
+      "start": 2011.54,
+      "end": 2014.26,
+      "text": "still has a long hard day to go."
+    },
+    {
+      "i": 636,
+      "start": 2015.94,
+      "end": 2017.14,
+      "text": "Let's look at the next page."
+    },
+    {
+      "i": 637,
+      "start": 2018.42,
+      "end": 2021.94,
+      "text": "This is our operating rate"
+    },
+    {
+      "i": 638,
+      "start": 2021.94,
+      "end": 2024.18,
+      "text": "in the past period."
+    },
+    {
+      "i": 639,
+      "start": 2024.18,
+      "end": 2025.8600000000001,
+      "text": "I just mentioned that in the first quarter,"
+    },
+    {
+      "i": 640,
+      "start": 2025.8600000000001,
+      "end": 2029.38,
+      "text": "the operating rate of the west border has increased to 58%."
+    },
+    {
+      "i": 641,
+      "start": 2029.38,
+      "end": 2030.74,
+      "text": "In the second quarter,"
+    },
+    {
+      "i": 642,
+      "start": 2030.74,
+      "end": 2032.82,
+      "text": "we actually reached 58%."
+    },
+    {
+      "i": 643,
+      "start": 2032.82,
+      "end": 2034.82,
+      "text": "In the first quarter,"
+    },
+    {
+      "i": 644,
+      "start": 2034.82,
+      "end": 2036.82,
+      "text": "the operating rate of the east border"
+    },
+    {
+      "i": 645,
+      "start": 2036.82,
+      "end": 2038.82,
+      "text": "has increased to 85%."
+    },
+    {
+      "i": 646,
+      "start": 2038.82,
+      "end": 2040.82,
+      "text": "But in the second quarter,"
+    },
+    {
+      "i": 647,
+      "start": 2040.82,
+      "end": 2042.82,
+      "text": "the operating rate will be slightly lower."
+    },
+    {
+      "i": 648,
+      "start": 2042.82,
+      "end": 2044.82,
+      "text": "The main reason is that we have some"
+    },
+    {
+      "i": 649,
+      "start": 2044.82,
+      "end": 2046.82,
+      "text": "regulations."
+    },
+    {
+      "i": 650,
+      "start": 2046.82,
+      "end": 2048.8199999999997,
+      "text": "There is a regulation on March 3 to May 24."
+    },
+    {
+      "i": 651,
+      "start": 2048.8199999999997,
+      "end": 2050.8199999999997,
+      "text": "So the average rate"
+    },
+    {
+      "i": 652,
+      "start": 2050.8199999999997,
+      "end": 2054.8199999999997,
+      "text": "will drop to 400,000."
+    },
+    {
+      "i": 653,
+      "start": 2056.8199999999997,
+      "end": 2058.8199999999997,
+      "text": "The planned rate is 400,000."
+    },
+    {
+      "i": 654,
+      "start": 2058.8199999999997,
+      "end": 2060.8199999999997,
+      "text": "But in fact,"
+    },
+    {
+      "i": 655,
+      "start": 2060.8199999999997,
+      "end": 2062.8199999999997,
+      "text": "it will be more than"
+    },
+    {
+      "i": 656,
+      "start": 2062.82,
+      "end": 2064.82,
+      "text": "the planned rate."
+    },
+    {
+      "i": 657,
+      "start": 2064.82,
+      "end": 2066.82,
+      "text": "Because our"
+    },
+    {
+      "i": 658,
+      "start": 2066.82,
+      "end": 2068.82,
+      "text": "tax return time is a little bit earlier."
+    },
+    {
+      "i": 659,
+      "start": 2068.82,
+      "end": 2070.82,
+      "text": "So"
+    },
+    {
+      "i": 660,
+      "start": 2070.82,
+      "end": 2072.82,
+      "text": "just now,"
+    },
+    {
+      "i": 661,
+      "start": 2072.82,
+      "end": 2074.82,
+      "text": "it was said that the operating rate"
+    },
+    {
+      "i": 662,
+      "start": 2074.82,
+      "end": 2076.82,
+      "text": "will be increased to 78%."
+    },
+    {
+      "i": 663,
+      "start": 2076.82,
+      "end": 2080.82,
+      "text": "So for the second quarter,"
+    },
+    {
+      "i": 664,
+      "start": 2080.82,
+      "end": 2082.82,
+      "text": "the second quarter is in April and May."
+    },
+    {
+      "i": 665,
+      "start": 2082.82,
+      "end": 2084.82,
+      "text": "In fact,"
+    },
+    {
+      "i": 666,
+      "start": 2084.82,
+      "end": 2086.82,
+      "text": "because of the impact of"
+    },
+    {
+      "i": 667,
+      "start": 2086.82,
+      "end": 2088.82,
+      "text": "the exchange rate,"
+    },
+    {
+      "i": 668,
+      "start": 2088.82,
+      "end": 2090.82,
+      "text": "and the impact of"
+    },
+    {
+      "i": 669,
+      "start": 2090.82,
+      "end": 2092.82,
+      "text": "the price of oil,"
+    },
+    {
+      "i": 670,
+      "start": 2092.82,
+      "end": 2094.82,
+      "text": "it is a little bit difficult for us."
+    },
+    {
+      "i": 671,
+      "start": 2094.82,
+      "end": 2096.82,
+      "text": "But in June,"
+    },
+    {
+      "i": 672,
+      "start": 2096.82,
+      "end": 2098.82,
+      "text": "we may have some high-price"
+    },
+    {
+      "i": 673,
+      "start": 2098.82,
+      "end": 2100.82,
+      "text": "stocks in hand."
+    },
+    {
+      "i": 674,
+      "start": 2100.82,
+      "end": 2102.82,
+      "text": "Otherwise, we will have to spend it."
+    },
+    {
+      "i": 675,
+      "start": 2102.82,
+      "end": 2104.82,
+      "text": "But after July,"
+    },
+    {
+      "i": 676,
+      "start": 2104.82,
+      "end": 2106.82,
+      "text": "we should be able to"
+    },
+    {
+      "i": 677,
+      "start": 2106.82,
+      "end": 2108.82,
+      "text": "get out of the current"
+    },
+    {
+      "i": 678,
+      "start": 2108.82,
+      "end": 2110.82,
+      "text": "situation."
+    },
+    {
+      "i": 679,
+      "start": 2110.82,
+      "end": 2112.82,
+      "text": "That's all for today."
+    },
+    {
+      "i": 680,
+      "start": 2112.82,
+      "end": 2114.82,
+      "text": "Thank you."
+    },
+    {
+      "i": 681,
+      "start": 2122.82,
+      "end": 2128.82,
+      "text": "Thank you."
+    },
+    {
+      "i": 682,
+      "start": 2128.82,
+      "end": 2130.02,
+      "text": "Dad,"
+    },
+    {
+      "i": 683,
+      "start": 2130.02,
+      "end": 2130.82,
+      "text": "I want to Yoursтов talk."
+    },
+    {
+      "i": 684,
+      "start": 2130.82,
+      "end": 2132.82,
+      "text": "At present-"
+    },
+    {
+      "i": 685,
+      "start": 2132.82,
+      "end": 2134.82,
+      "text": "Actually,"
+    },
+    {
+      "i": 686,
+      "start": 2134.82,
+      "end": 2137.52,
+      "text": "when we with"
+    },
+    {
+      "i": 687,
+      "start": 2137.52,
+      "end": 2138.82,
+      "text": "reshold"
+    },
+    {
+      "i": 688,
+      "start": 2138.82,
+      "end": 2140.82,
+      "text": "and whole price"
+    },
+    {
+      "i": 689,
+      "start": 2140.82,
+      "end": 2142.82,
+      "text": "growth as we see"
+    },
+    {
+      "i": 690,
+      "start": 2142.82,
+      "end": 2145.38,
+      "text": "the"
+    },
+    {
+      "i": 691,
+      "start": 2145.38,
+      "end": 2146.82,
+      "text": "threat of"
+    },
+    {
+      "i": 692,
+      "start": 2146.82,
+      "end": 2152.0,
+      "text": "short-term"
+    },
+    {
+      "i": 693,
+      "start": 2152.0,
+      "end": 2152.7400000000002,
+      "text": "near"
+    },
+    {
+      "i": 694,
+      "start": 2152.82,
+      "end": 2157.06,
+      "text": "The next part is the carbon emissions."
+    },
+    {
+      "i": 695,
+      "start": 2157.06,
+      "end": 2161.7000000000003,
+      "text": "This is actually a policy issue."
+    },
+    {
+      "i": 696,
+      "start": 2161.7000000000003,
+      "end": 2163.78,
+      "text": "In terms of carbon emissions,"
+    },
+    {
+      "i": 697,
+      "start": 2163.78,
+      "end": 2168.02,
+      "text": "do you have any progress to implement"
+    },
+    {
+      "i": 698,
+      "start": 2168.02,
+      "end": 2171.7000000000003,
+      "text": "or can you give us a little more information?"
+    },
+    {
+      "i": 699,
+      "start": 2172.42,
+      "end": 2174.9,
+      "text": "Thank you for your question."
+    },
+    {
+      "i": 700,
+      "start": 2174.9,
+      "end": 2176.02,
+      "text": "I think..."
+    },
+    {
+      "i": 701,
+      "start": 2176.02,
+      "end": 2185.7,
+      "text": "I think that the third quarter..."
+    },
+    {
+      "i": 702,
+      "start": 2185.7,
+      "end": 2189.46,
+      "text": "I just mentioned that we think our chain price gap"
+    },
+    {
+      "i": 703,
+      "start": 2189.46,
+      "end": 2192.2599999999998,
+      "text": "will actually slowly improve."
+    },
+    {
+      "i": 704,
+      "start": 2192.2599999999998,
+      "end": 2196.9,
+      "text": "On the one hand, the third quarter is a period of oil shortages."
+    },
+    {
+      "i": 705,
+      "start": 2196.9,
+      "end": 2201.22,
+      "text": "This year, it doesn't seem like last year,"
+    },
+    {
+      "i": 706,
+      "start": 2201.22,
+      "end": 2203.62,
+      "text": "when there was a period of forgetfulness."
+    },
+    {
+      "i": 707,
+      "start": 2203.62,
+      "end": 2205.7,
+      "text": "Because the entire oil price gap"
+    },
+    {
+      "i": 708,
+      "start": 2205.7,
+      "end": 2206.02,
+      "text": "is very high."
+    },
+    {
+      "i": 709,
+      "start": 2206.02,
+      "end": 2209.46,
+      "text": "The demand in the US is actually quite healthy."
+    },
+    {
+      "i": 710,
+      "start": 2209.46,
+      "end": 2211.7,
+      "text": "Japan has also closed a few chain factories."
+    },
+    {
+      "i": 711,
+      "start": 2211.7,
+      "end": 2213.7,
+      "text": "So Japan is also importing gasoline."
+    },
+    {
+      "i": 712,
+      "start": 2213.7,
+      "end": 2217.3,
+      "text": "So we think that the price gap"
+    },
+    {
+      "i": 713,
+      "start": 2217.3,
+      "end": 2220.34,
+      "text": "last year was very bad."
+    },
+    {
+      "i": 714,
+      "start": 2220.34,
+      "end": 2222.66,
+      "text": "It should not happen in the third quarter of this year."
+    },
+    {
+      "i": 715,
+      "start": 2222.66,
+      "end": 2224.2599999999998,
+      "text": "In addition to this,"
+    },
+    {
+      "i": 716,
+      "start": 2224.2599999999998,
+      "end": 2229.54,
+      "text": "of course, the current oil quality in Europe"
+    },
+    {
+      "i": 717,
+      "start": 2229.54,
+      "end": 2230.74,
+      "text": "is very poor."
+    },
+    {
+      "i": 718,
+      "start": 2230.74,
+      "end": 2234.42,
+      "text": "Because a lot of oil was supplied from the Middle East."
+    },
+    {
+      "i": 719,
+      "start": 2234.42,
+      "end": 2235.7,
+      "text": "Because it was all sold to Europe,"
+    },
+    {
+      "i": 720,
+      "start": 2235.7,
+      "end": 2236.98,
+      "text": "it was all sold to China."
+    },
+    {
+      "i": 721,
+      "start": 2236.98,
+      "end": 2237.9399999999996,
+      "text": "So it's a bit of a problem."
+    },
+    {
+      "i": 722,
+      "start": 2237.9399999999996,
+      "end": 2240.02,
+      "text": "But I think that the price gap"
+    },
+    {
+      "i": 723,
+      "start": 2240.02,
+      "end": 2241.2999999999997,
+      "text": "is actually quite good."
+    },
+    {
+      "i": 724,
+      "start": 2241.2999999999997,
+      "end": 2250.02,
+      "text": "So we can probably continue in July and August."
+    },
+    {
+      "i": 725,
+      "start": 2250.02,
+      "end": 2251.06,
+      "text": "Then in September,"
+    },
+    {
+      "i": 726,
+      "start": 2251.06,
+      "end": 2254.4199999999996,
+      "text": "we will enter some so-called winter back-up periods."
+    },
+    {
+      "i": 727,
+      "start": 2254.4199999999996,
+      "end": 2257.7,
+      "text": "Then we also start entering the peak period."
+    },
+    {
+      "i": 728,
+      "start": 2257.7,
+      "end": 2259.7,
+      "text": "The peak period starts in September."
+    },
+    {
+      "i": 729,
+      "start": 2259.7,
+      "end": 2262.98,
+      "text": "It will probably continue until about November."
+    },
+    {
+      "i": 730,
+      "start": 2262.98,
+      "end": 2265.3799999999997,
+      "text": "So we are in the third quarter, the fourth quarter,"
+    },
+    {
+      "i": 731,
+      "start": 2265.7,
+      "end": 2266.98,
+      "text": "and the fourth quarter."
+    },
+    {
+      "i": 732,
+      "start": 2266.98,
+      "end": 2267.9399999999996,
+      "text": "The price gap in the fourth quarter,"
+    },
+    {
+      "i": 733,
+      "start": 2267.9399999999996,
+      "end": 2269.54,
+      "text": "we think,"
+    },
+    {
+      "i": 734,
+      "start": 2269.54,
+      "end": 2278.5,
+      "text": "is relatively positive."
+    },
+    {
+      "i": 735,
+      "start": 2278.5,
+      "end": 2283.9399999999996,
+      "text": "But the oil price may be in the third quarter."
+    },
+    {
+      "i": 736,
+      "start": 2283.9399999999996,
+      "end": 2286.18,
+      "text": "We think that because the third quarter"
+    },
+    {
+      "i": 737,
+      "start": 2286.18,
+      "end": 2288.74,
+      "text": "is the peak of oil use,"
+    },
+    {
+      "i": 738,
+      "start": 2288.74,
+      "end": 2290.8199999999997,
+      "text": "the oil price should be able to maintain"
+    },
+    {
+      "i": 739,
+      "start": 2290.8199999999997,
+      "end": 2293.22,
+      "text": "at 65 to 70."
+    },
+    {
+      "i": 740,
+      "start": 2293.22,
+      "end": 2295.14,
+      "text": "So for our current situation,"
+    },
+    {
+      "i": 741,
+      "start": 2295.7,
+      "end": 2299.54,
+      "text": "we think that the price gap will cause some loss in the stock market."
+    },
+    {
+      "i": 742,
+      "start": 2299.54,
+      "end": 2303.3799999999997,
+      "text": "But the fourth quarter is more difficult to predict."
+    },
+    {
+      "i": 743,
+      "start": 2303.3799999999997,
+      "end": 2305.9399999999996,
+      "text": "If the price goes up in the fourth quarter,"
+    },
+    {
+      "i": 744,
+      "start": 2305.9399999999996,
+      "end": 2307.7,
+      "text": "but the oil price falls,"
+    },
+    {
+      "i": 745,
+      "start": 2307.7,
+      "end": 2309.7799999999997,
+      "text": "it will also cause some damage to us."
+    },
+    {
+      "i": 746,
+      "start": 2309.7799999999997,
+      "end": 2312.3399999999997,
+      "text": "To be honest,"
+    },
+    {
+      "i": 747,
+      "start": 2312.3399999999997,
+      "end": 2314.8999999999996,
+      "text": "I just explained that"
+    },
+    {
+      "i": 748,
+      "start": 2314.8999999999996,
+      "end": 2318.74,
+      "text": "only some short supply problems"
+    },
+    {
+      "i": 749,
+      "start": 2318.74,
+      "end": 2323.8599999999997,
+      "text": "will cause some price increases in the short term."
+    },
+    {
+      "i": 750,
+      "start": 2323.8599999999997,
+      "end": 2325.62,
+      "text": "It shouldn't last long."
+    },
+    {
+      "i": 751,
+      "start": 2325.7,
+      "end": 2329.54,
+      "text": "As for the issue of carbon emissions,"
+    },
+    {
+      "i": 752,
+      "start": 2329.54,
+      "end": 2333.3799999999997,
+      "text": "our current government's carbon emissions standard"
+    },
+    {
+      "i": 753,
+      "start": 2333.3799999999997,
+      "end": 2338.5,
+      "text": "is to achieve a year's annual carbon emissions of 100 yuan."
+    },
+    {
+      "i": 754,
+      "start": 2338.5,
+      "end": 2341.54,
+      "text": "We can achieve that."
+    },
+    {
+      "i": 755,
+      "start": 2341.54,
+      "end": 2348.74,
+      "text": "We can achieve that by using our carbon-reducing program."
+    },
+    {
+      "i": 756,
+      "start": 2348.74,
+      "end": 2352.3399999999997,
+      "text": "We can achieve a year's annual carbon emissions of 100 yuan."
+    },
+    {
+      "i": 757,
+      "start": 2352.3399999999997,
+      "end": 2353.9399999999996,
+      "text": "No, a year's annual carbon emissions of 100 yuan."
+    },
+    {
+      "i": 758,
+      "start": 2353.9399999999996,
+      "end": 2355.54,
+      "text": "And we are in the high-end sector,"
+    },
+    {
+      "i": 759,
+      "start": 2355.54,
+      "end": 2358.58,
+      "text": "which is a sector that is facing risk of carbon emissions."
+    },
+    {
+      "i": 760,
+      "start": 2358.58,
+      "end": 2360.66,
+      "text": "So we can hit two targets."
+    },
+    {
+      "i": 761,
+      "start": 2360.66,
+      "end": 2362.58,
+      "text": "So it's about 20 yuan."
+    },
+    {
+      "i": 762,
+      "start": 2362.58,
+      "end": 2363.86,
+      "text": "If we calculate it this way,"
+    },
+    {
+      "i": 763,
+      "start": 2363.86,
+      "end": 2366.42,
+      "text": "our annual carbon emissions will be about 300 million yuan."
+    },
+    {
+      "i": 764,
+      "start": 2366.42,
+      "end": 2370.2599999999998,
+      "text": "This will probably continue until 2030."
+    },
+    {
+      "i": 765,
+      "start": 2370.2599999999998,
+      "end": 2374.02,
+      "text": "Do you think we have a more active carbon-reducing program?"
+    },
+    {
+      "i": 766,
+      "start": 2374.02,
+      "end": 2376.2599999999998,
+      "text": "To be honest, we really want to."
+    },
+    {
+      "i": 767,
+      "start": 2376.2599999999998,
+      "end": 2378.58,
+      "text": "But carbon-reducing requires a cost."
+    },
+    {
+      "i": 768,
+      "start": 2378.58,
+      "end": 2383.22,
+      "text": "All of our carbon-reducing programs are actually prepared."
+    },
+    {
+      "i": 769,
+      "start": 2383.22,
+      "end": 2385.38,
+      "text": "We are waiting for the end of the year."
+    },
+    {
+      "i": 770,
+      "start": 2385.54,
+      "end": 2389.22,
+      "text": "So, we don't know if anyone is willing to spend a little money"
+    },
+    {
+      "i": 771,
+      "start": 2389.22,
+      "end": 2391.22,
+      "text": "to buy some low-carbon products."
+    },
+    {
+      "i": 772,
+      "start": 2391.22,
+      "end": 2394.18,
+      "text": "For example, like SAF, we are in the new production phase."
+    },
+    {
+      "i": 773,
+      "start": 2394.18,
+      "end": 2394.58,
+      "text": "Why?"
+    },
+    {
+      "i": 774,
+      "start": 2394.58,
+      "end": 2396.18,
+      "text": "Because someone is willing to buy it."
+    },
+    {
+      "i": 775,
+      "start": 2396.18,
+      "end": 2397.7799999999997,
+      "text": "Huanhan and Changlong are willing to buy it,"
+    },
+    {
+      "i": 776,
+      "start": 2397.7799999999997,
+      "end": 2399.7,
+      "text": "so of course we will produce it."
+    },
+    {
+      "i": 777,
+      "start": 2399.7,
+      "end": 2402.58,
+      "text": "But if no one is willing to buy it and we just voluntarily reduce carbon emissions,"
+    },
+    {
+      "i": 778,
+      "start": 2402.58,
+      "end": 2403.3,
+      "text": "to be honest,"
+    },
+    {
+      "i": 779,
+      "start": 2403.3,
+      "end": 2406.66,
+      "text": "we can't afford it in our current industry."
+    },
+    {
+      "i": 780,
+      "start": 2406.66,
+      "end": 2408.5,
+      "text": "So, we are waiting for the end of the year."
+    },
+    {
+      "i": 781,
+      "start": 2414.2599999999998,
+      "end": 2414.98,
+      "text": "Thank you, Mr. Shi."
+    },
+    {
+      "i": 782,
+      "start": 2415.54,
+      "end": 2423.36,
+      "text": "hall"
+    },
+    {
+      "i": 783,
+      "start": 2432.82,
+      "end": 2432.9,
+      "text": "you"
+    }
+  ],
+  "full_text": "Sorry. breathe pulling out through the door Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. The picture we see here, should be the four lines in the middle, which are the red, green, blue and orange lines. These lines are the oil, the aviation fuel, the gasoline and the gasoline. This is about 90% of our revenue. The most important one is the oil, the red and blue lines. From the left, we can see that the price difference between the first season of last year is good. The picture on the right shows the price difference between the chain factory and Singapore. It is almost the same. The picture on the left shows the price difference between the first season of last year and the second. The price difference between the first season of last year and the second is mainly due to the good price difference between the oil and gasoline in the winter season. The first season of last year was warm winter. Warm winter should be relatively poor for the demand for oil. But last year, the price of gasoline was low. The price of gasoline was low in Europe. Europe was worried that the oil market would be short of oil. So the price of gasoline was high. So the price of gasoline was low in winter. But because of the warm winter, the demand for gasoline in the American market was relatively good. So overall, the price difference between the first season of last year and the second season of last year was good. But in the winter, the demand for gasoline was too much. So after the winter season, the price of gasoline was skyrocketed. You can see the line up on the right, it goes from point four to point five, and then goes down. After that, the price difference between the second and third season was almost seven yuan, up and down. In the very low price difference, which sometimes goes up and sometimes goes down, the price probably went up until the first season of this year. The price may also be the price of gasoline China's oil prices have been rising slightly since the fourth quarter last year. Other prices are actually very low. The most important thing is that the entire red sea was blocked last year. So many oil products in the Middle East and India are going to be expensive in Europe. So they are shifting to Asia. This is mainly oil and coal. The other thing is that the gas is also not good. The blue line on the left is gas. The whole year is probably not good. The main reason is that the gas in the stone is really bad. Because a lot of the products in the stone can actually be mixed into the gas. So because the stone is not good, these stone companies have put a lot of these gas-based products in the oil. And then they send these components to the United States. Or they go to Singapore to make oil prices go up. In fact, the next quarter should be better. But it's not. This situation has been waiting until the fourth quarter last year. Because there are some tax breaks in the fall. And the winter is coming. They will prepare some heating oil. At that time, the oil prices will slowly rise. And the gas will also slightly rise. But this year, the last winter, Europe is warm and the United States is cold. But the whole winter is still mainly in Europe. So the price is also following. The first quarter also fell. So the first quarter's price gap is also bad. Until the fourth quarter, the price still remained very low. Until May, the price began to rise. We can see the last point. The last point is the situation in May. Of course, the situation in June and May are almost the same. Why did May start to turn better? There are probably several factors. In addition, the entire North Pole is in tax break. This is the impact of supply. In addition, of course, we can also see that the oil price is starting to increase. The demand will increase. Especially in Europe or some areas that are more sensitive to price. Like the US oil market or Southeast Asia, etc. These will make the oil price. The oil price will make the oil slowly go up. Will make the demand slowly stretch. Another reason is that Because the previous year, everyone was burned by high stock. So this year, the stock has been built very low. So after the second quarter, we found that the stock has been unable to build up. Because the stock is low, so the price gap is not going up. In addition to the second quarter, The second quarter is a summer season. The price of the oil price is going up. So the price of the entire oil price has gone up. Of course, there are some other factors. Like China's exports. Maintaining very low prices. This may be because of that time. Probably last year. Because of its consumption. After the tax cut. It has probably been. The price of oil prices have gone up. This year, it is still maintaining. In addition, we also observed that. The official market of Europe and the United States. It started to happen in the first quarter of this year. So the first quarter. Some of the stock in Europe and the United States cannot be established. Of course, Russia. With the war in Ukraine. It was actually intensifying at that time. So it has some chain. Some damage. And because. Russia has been in war for a long time. In fact, its chain. Its chain production. In fact, it is slowly going down. Because it has no support from the West. So it is maintenance. Or it is to be restored. In fact, it will be more difficult. The most important point at the end. Because this is from April. It should be May. The Middle East. Because it started to produce. Production of oil. So he put the oil. It is a big price drop. It dropped from about two dollars and three cents. Because it is two dollars and three cents. It is equal to our chain price. It will increase to two dollars and three cents. So this part. In fact, the impact is quite big. That is. This is the situation in May. It's probably about the same as it is now. So in May. Our chain price difference. It jumped to eleven dollars and seven cents. Relatively past. It was six or seven dollars. It is difficult to grow. Then. May. May eleven dollars and seven cents. May is about eleven dollars and eleven cents. So this part is probably. Slowly. Walk to this. Some of the healthier areas. But this is still. There are still some price differences. There are some. There are some drawbacks. So the main thing we are most worried about. Still this. The problem of the equivalent tax. Because this equivalent tax. On July 9. It will be. It will be overhauled. But I don't think it will be overhauled. All. But it will slowly. It will be softened. What kind of impact does this cause? Will it affect the demand for oil? This is still. To be further observed. Then we look at this. The picture below. This is. The price difference between the product and the oil. We can see. The two lines below are. The ratio and ratio. It can be said that the whole year. The price is still the same. It's all the same. It's all about 200 to 250 yuan a day. This price is actually. In fact, our contract price. It's a little bit higher. The problem is that we can't use this contract price. Let's us. No way to sell all the products. So we can only maintain about 50 to 60 percent. The operating rate. So. I see this price now. The price of the line. But this line price. The price is probably only about 200 yuan. This price. We come to production. In fact, it is. Will not make money. So. Only maintain low capacity. The top line is. This is the second. The second line. Because it is not in the market. So it will fluctuate more. Sometimes it is because of the climate. For example, the impact of natural gas. Or the impact of the power supply. So it fluctuates more. But it stands. Very little. So. For the whole. The The first. Look at the table below. Although in 2025. We can see that. We. Oil refining. The production capacity of oil refining in the world. In fact, it is reduced. But the demand is still growing. The demand is 720,000 barrels. This is. The estimate of IEA is quite conservative. Because like that. OPEC plus. Probably all. The estimate will be. Much higher than this. But we also think it is not too. It is. That. The second. The second. The second. The second. The second. The second. The second. The second. The second. But it is. The Sorry. Sorry. Sorry. Sorry. and then they were gradually taken out. The main ones are the chain factories in the West, about 650,000. And in Mexico, Dos Pogas is about 340,000. These are actually large local chain factories, and they will have a great impact on supply and demand. But last year, the Dongoday went smoothly, but then it slowly went bad. And then the Dos Pogas in Mexico has never been smooth. They haven't been able to produce well until now. So this year's first quarter, because of the impact of the warm and cold in Europe, plus some of the over-the-counter products from last year, the first quarter of this year has been in the low to the high end. But what do we see in the future? We will talk about the oil price first. The oil price is actually looking at the summer. It has more than ever been in the low to medium half. It is isn't chanting everything, mainly being on demand for luxury and high-end designs, which seems to have a lost streak. In the Nochuan region of~~ Peaceful and pure XXX streets, just around the confessed whichонь because of the Restaurant Innovation Firm может call the local industry, launched by this morning and all of the other companies. China is expected to increase production in the US, but it looks like the US won't increase production with the price of oil. But even if it is deducted from the US, if you count the increase in OPEC and non-OPEC, it is also quite obvious. So, it is expected to win this year. Also, of course, tariffs may affect the demand for oil. This part has more variables. In addition, the demand for gas oil in the mainland is still declining. This is mainly because it is 1V 1V and reduces the demand for gas oil. In addition, many oil is slowly changed to natural gas, so this part will also affect the demand for oil. Of course, it has many expansion of the petrochemical industry. So, it is not a problem for some petrochemical products to increase the demand for natural gas. So, the demand for oil like oil or LPG has increased. But this part may not necessarily come from oil. Some may come from condensate or the side of the natural gas. So, we can see that oil has these disadvantages. Of course, oil cannot be very low. Because oil is a strategic material. After all, the global inventory is low. Because now, the global inventory of oil is lower than that of the oil in the five-year period. So, the price of oil is still a bit high. Of course, the risk of war has not been completely eliminated. Whether it is the Second World War or the First World War, there are still some risks. In addition, there are some advantages to oil prices. For example, the speed of global electric vehicles is slowing down. It may have a delay effect on the high peak point of the oil demand. Of course, I just mentioned that the IEA-1F will produce 500,000 tons in the United States. But I think it should not be possible. So, we can slow down a bit. This is the oil price. We still think that there are many disadvantages. So, there is still a way to go down. In addition, of course, the price difference. We think that the price difference will slowly turn better. There are several important factors. One is of course the expansion and reduction. You can see it in the following table. In addition, the observation of the European and American day. We look at the above several indicators. The first is the oil price. The above round chart. For example, the United States will reduce 73,000 tons in the next two years. Of course, this year will reduce a little more. About 400,000 tons. Less next year. For example, Europe will also reduce 377,000 tons. It is in the upper right corner. Europe will reduce 377,000 tons. This year's first season has already started to have this chain closed. Mainly in Germany and the United Kingdom. Japan in Asia. Japan will also reduce 100,000 tons this year. So this part will cause some. For example, the United States is on the west coast of the United States. So it can give Asian oil products the opportunity to sell on the west coast of the United States. Europe, because of this right-hand market, it needs to capture from the Middle East and India. So India and the Middle East, it goes to the west coast, the possibility will decrease. This will reduce some pressure on the Singapore market. In addition, Japan has been reducing its chain. In fact, it is importing from Korea. This also reduces the sales of Korean goods to the Singapore market. So this part is actually for the future. The whole consensus is. The spirit is very helpful. In addition, I just mentioned that China's exports will be reduced. Because of tax. And India. Sorry. That. The Russian production capacity is also reduced. And then. The production capacity is also damaged. So the export is also reduced. Of course, there is another better factor. That is, the situation of the red sea is a little bit different. So this may be. India and the Middle East to the west. The monthly fee can be reduced. It can reduce the pressure on the east. In addition, the increase in the Middle East may be due to the fact that. The oil is going to be produced. So we expect that the increase in oil in the Middle East will be reduced. Of course, this is of course, the most effective. Of course, this is just mentioned. The oil price is low. There is some help for demand. In addition, that is to say, some small chain factories in China. In fact, for a long time. He is using some. Iran or Russia. He may be more and more difficult. If he says his. If his chain is reduced. The whole consensus is also. There is help. So this is. This is. This is. Of course, this is a relatively strong factor. Of course, there are also non-profit factors. The most important thing is that. The production of the 2024 year. It is not completely successful. So this year it will be added one by one. In addition, it is said that China's domestic demand is actually. The fall is quite serious. This is not only his. The problem of gas oil. In addition, of course, it is said that. The biggest change is the trade war. What kind of situation will the trade war cause? What kind of impact will it have on demand? This may still be observed. But in general, it is said that. In fact, this is the price difference. There is a little bit of a number. Still. Still. A lot of. So we still look at it. So that. Future. This. This is to say. This year. The future. These chain factories. It will be better than last year. Then. Even to 26. We are also relatively. It is a positive view. So. This. This. This. This. This piece. Probably. Just. There is a report. That is to say. This is actually. For a long time. In fact. The situation of over-sufficiency is very serious. Then. We look at this. The. The two columns on the lower left. This is the global. Some. Requirements. This. This. This. The growth. The. In 2015. It was 8. 7. 8. 8. 8. And in the Asian part. Probably. In 2025. All in Asia. That. In 2026. There will be 7. 7. 7 million tons of it. In Asia. I think. The global. The growth demand. A year. Now about 5 million. To 6 million tons. So. This is the same. The gap. The gap of the supply. Is getting bigger and bigger. Will continue. Increase. Of course. There will be some. Some. Less competitive. Some. Chai plants. But the situation of the global supply is still very serious. In addition, in 2027 and 2028, we looked at the data. China added at least 5 million tons of oil every year. In addition to that, the average annual oil consumption increased by about 10 million tons. So in this regard, unless there are some major changes in their plan, or if the situation looks like it might take some time, it depends on the situation of the players in the market. Because of the growth of demand, the growth of explosive demand, the current situation is not easy to happen. Because the main thing is that the US-China trade war is still going on. So it's not easy to meet the demand. The US-China trade war is still going on. And the Chinese market is also very serious. So its demand is also unlikely to increase very quickly. There is also a long-term reduction in the global supply, a decrease in the supply pressure. This will also cause some problems for the growth of demand. Of course, it is not completely without some strong factors. Like the US-China trade war, the difficulty of the mainland to obtain some US raw materials will increase. For example, in the evening, the direct power of the railway plant may decrease. The entire factory will have some help. In addition, there are some strong factors for our factories in Taiwan. For example, the US is a real export major, but it still has some things to import. Because many of them are imported from the evening. So the US-China trade war is still going on. So the US-China trade war is still going on. But it still has some things to import. Because many of them are imported from the evening. So the US-China trade war is still going on. So the US-China trade war is still going on. But it still has some things to import. Because there are some trade gaps between China and the US, it is relatively beneficial to sell this part to the US. It is relatively beneficial to sell this part to the US, which is relatively beneficial to China or other places. Of course, there may be someone who needs help. Because oil prices are low, and then the production of food is not as high as before. There are industries that are dry, with a lot of industrial abuse, and normal food costs are lower as well. With Bullet, it is very hard to find food, just think about what oil prices are like today. Even this AJJ being released in Latin America, the oil say them this way, but once you doin, you know that food metabolism decays up quite slightly. So the problem rises there. It has entered the food industry seriously. But it is also expected that it will be impossible for the industry to slow it down because its price 88 million dollars per bucket rate. is not difficult to grow. So we think that the actualization of this part still has a long hard day to go. Let's look at the next page. This is our operating rate in the past period. I just mentioned that in the first quarter, the operating rate of the west border has increased to 58%. In the second quarter, we actually reached 58%. In the first quarter, the operating rate of the east border has increased to 85%. But in the second quarter, the operating rate will be slightly lower. The main reason is that we have some regulations. There is a regulation on March 3 to May 24. So the average rate will drop to 400,000. The planned rate is 400,000. But in fact, it will be more than the planned rate. Because our tax return time is a little bit earlier. So just now, it was said that the operating rate will be increased to 78%. So for the second quarter, the second quarter is in April and May. In fact, because of the impact of the exchange rate, and the impact of the price of oil, it is a little bit difficult for us. But in June, we may have some high-price stocks in hand. Otherwise, we will have to spend it. But after July, we should be able to get out of the current situation. That's all for today. Thank you. Thank you. Dad, I want to Yoursтов talk. At present- Actually, when we withreshold and whole price growth as we see the threat of short-term near The next part is the carbon emissions. This is actually a policy issue. In terms of carbon emissions, do you have any progress to implement or can you give us a little more information? Thank you for your question. I think... I think that the third quarter... I just mentioned that we think our chain price gap will actually slowly improve. On the one hand, the third quarter is a period of oil shortages. This year, it doesn't seem like last year, when there was a period of forgetfulness. Because the entire oil price gap is very high. The demand in the US is actually quite healthy. Japan has also closed a few chain factories. So Japan is also importing gasoline. So we think that the price gap last year was very bad. It should not happen in the third quarter of this year. In addition to this, of course, the current oil quality in Europe is very poor. Because a lot of oil was supplied from the Middle East. Because it was all sold to Europe, it was all sold to China. So it's a bit of a problem. But I think that the price gap is actually quite good. So we can probably continue in July and August. Then in September, we will enter some so-called winter back-up periods. Then we also start entering the peak period. The peak period starts in September. It will probably continue until about November. So we are in the third quarter, the fourth quarter, and the fourth quarter. The price gap in the fourth quarter, we think, is relatively positive. But the oil price may be in the third quarter. We think that because the third quarter is the peak of oil use, the oil price should be able to maintain at 65 to 70. So for our current situation, we think that the price gap will cause some loss in the stock market. But the fourth quarter is more difficult to predict. If the price goes up in the fourth quarter, but the oil price falls, it will also cause some damage to us. To be honest, I just explained that only some short supply problems will cause some price increases in the short term. It shouldn't last long. As for the issue of carbon emissions, our current government's carbon emissions standard is to achieve a year's annual carbon emissions of 100 yuan. We can achieve that. We can achieve that by using our carbon-reducing program. We can achieve a year's annual carbon emissions of 100 yuan. No, a year's annual carbon emissions of 100 yuan. And we are in the high-end sector, which is a sector that is facing risk of carbon emissions. So we can hit two targets. So it's about 20 yuan. If we calculate it this way, our annual carbon emissions will be about 300 million yuan. This will probably continue until 2030. Do you think we have a more active carbon-reducing program? To be honest, we really want to. But carbon-reducing requires a cost. All of our carbon-reducing programs are actually prepared. We are waiting for the end of the year. So, we don't know if anyone is willing to spend a little money to buy some low-carbon products. For example, like SAF, we are in the new production phase. Why? Because someone is willing to buy it. Huanhan and Changlong are willing to buy it, so of course we will produce it. But if no one is willing to buy it and we just voluntarily reduce carbon emissions, to be honest, we can't afford it in our current industry. So, we are waiting for the end of the year. Thank you, Mr. Shi. hall you"
+}

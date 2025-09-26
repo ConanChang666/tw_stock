@@ -1,0 +1,5303 @@
+{
+  "symbol": "2454_2025Q2",
+  "source_url": "https://mediatekvod-ott2b.cdn.hinet.net/vod_mediatek/_definst_/smil:mediatek/mediatek01_20250730170000/consult-hls-cl-pc.smil/chunklist_b804115.m3u8",
+  "language": "en",
+  "duration_sec": null,
+  "created_at": "2025-09-25T10:54:21Z",
+  "model": "whisper-large-v3",
+  "segments": [
+    {
+      "i": 0,
+      "start": 0.92,
+      "end": 6.5,
+      "text": "Welcome to the Mediatek 2025 Second Quarter Investors Conference Call."
+    },
+    {
+      "i": 1,
+      "start": 7.2,
+      "end": 17.080000000000002,
+      "text": "Financial results and presentations for today's call are available on the Investors section of the company website at www.mediatek.com."
+    },
+    {
+      "i": 2,
+      "start": 17.84,
+      "end": 23.3,
+      "text": "Now, I would like to turn the call over to Ms. Jessie Wong, Deputy Director of Investor Relations."
+    },
+    {
+      "i": 3,
+      "start": 24.1,
+      "end": 25.44,
+      "text": "Ms. Wong, please go ahead."
+    },
+    {
+      "i": 4,
+      "start": 26.38,
+      "end": 28.080000000000002,
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "i": 5,
+      "start": 28.08,
+      "end": 34.78,
+      "text": "Joining us today are Dr. Rick Tsai, Mediatek CEO, and Mr. David Gu, Mediatek CFO."
+    },
+    {
+      "i": 6,
+      "start": 35.26,
+      "end": 41.14,
+      "text": "Mr. Gu will report our second quarter results, and then Dr. Tsai will provide our prepared remarks."
+    },
+    {
+      "i": 7,
+      "start": 41.72,
+      "end": 43.68,
+      "text": "After that, we will open for Q&A."
+    },
+    {
+      "i": 8,
+      "start": 44.42,
+      "end": 50.599999999999994,
+      "text": "As a reminder, today's presentation will provide forward-looking statements based on our current expectations."
+    },
+    {
+      "i": 9,
+      "start": 50.86,
+      "end": 57.82,
+      "text": "The statements are subject to various risks and factors, which may cause actual results to differ materially,"
+    },
+    {
+      "i": 10,
+      "start": 58.08,
+      "end": 59.32,
+      "text": "from the statements."
+    },
+    {
+      "i": 11,
+      "start": 59.86,
+      "end": 64.52,
+      "text": "The presentation materials supplement non-TFIRS financial measures."
+    },
+    {
+      "i": 12,
+      "start": 65.14,
+      "end": 70.32,
+      "text": "Earnings distribution will be made in accordance with financial statements based on TFIRS."
+    },
+    {
+      "i": 13,
+      "start": 70.86,
+      "end": 75.84,
+      "text": "For details, please refer to the Safe Harbor Statement in our presentation slides."
+    },
+    {
+      "i": 14,
+      "start": 76.84,
+      "end": 81.96,
+      "text": "In addition, all contents provided in this teleconference are for your reference only,"
+    },
+    {
+      "i": 15,
+      "start": 82.25999999999999,
+      "end": 84.32,
+      "text": "not intended for investment advice."
+    },
+    {
+      "i": 16,
+      "start": 84.88,
+      "end": 85.96,
+      "text": "Neither Mediatek,"
+    },
+    {
+      "i": 17,
+      "start": 86.22,
+      "end": 88.06,
+      "text": "nor any of independent,"
+    },
+    {
+      "i": 18,
+      "start": 88.48,
+      "end": 94.32,
+      "text": "or private investment providers is responsible for any actions taken in reliance on contents provided in today's call."
+    },
+    {
+      "i": 19,
+      "start": 95.02,
+      "end": 100.38,
+      "text": "Now, I would like to turn the call to our CFO, Mr. David Gu for the second quarter financial results."
+    },
+    {
+      "i": 20,
+      "start": 102.08,
+      "end": 102.86,
+      "text": "Thank you."
+    },
+    {
+      "i": 21,
+      "start": 103.12,
+      "end": 103.72,
+      "text": "Good afternoon."
+    },
+    {
+      "i": 22,
+      "start": 105.1,
+      "end": 108.75999999999999,
+      "text": "Now, let's start with the 2025 second quarter financial results."
+    },
+    {
+      "i": 23,
+      "start": 109.68,
+      "end": 112.86,
+      "text": "Please note that the currency used here is NT dollars."
+    },
+    {
+      "i": 24,
+      "start": 113.75999999999999,
+      "end": 117.86,
+      "text": "The foreign exchange rate applied to the second quarter result was 30.9%."
+    },
+    {
+      "i": 25,
+      "start": 118.08,
+      "end": 120.08,
+      "text": "The current exchange rate is about 1.9 NT dollars per 1 US dollar,"
+    },
+    {
+      "i": 26,
+      "start": 120.08,
+      "end": 129.07999999999998,
+      "text": "which will imply around 61% appreciation of NT dollar compared to the foreign exchange rate of 32.9 in the first quarters."
+    },
+    {
+      "i": 27,
+      "start": 129.07999999999998,
+      "end": 135.07999999999998,
+      "text": "Due to the rather sizable FX movement, here we provide some more information."
+    },
+    {
+      "i": 28,
+      "start": 135.07999999999998,
+      "end": 139.07999999999998,
+      "text": "Basically, for every 1% appreciation for NT dollars,"
+    },
+    {
+      "i": 29,
+      "start": 139.07999999999998,
+      "end": 145.07999999999998,
+      "text": "we will have an active impact for gross margin by around 0.2 percentage point,"
+    },
+    {
+      "i": 30,
+      "start": 145.07999999999998,
+      "end": 146.07999999999998,
+      "text": "and also around 0.25%."
+    },
+    {
+      "i": 31,
+      "start": 146.07999999999998,
+      "end": 147.07999999999998,
+      "text": "So, this is a very good example."
+    },
+    {
+      "i": 32,
+      "start": 147.07999999999998,
+      "end": 147.57999999999998,
+      "text": "Thank you."
+    },
+    {
+      "i": 33,
+      "start": 147.58,
+      "end": 150.58,
+      "text": "So, we have an active impact for gross margin by around 0.25 percentage point to the market."
+    },
+    {
+      "i": 34,
+      "start": 151.58,
+      "end": 157.58,
+      "text": "With that, revenue for the second quarter was $150.4 billion,"
+    },
+    {
+      "i": 35,
+      "start": 157.58,
+      "end": 164.58,
+      "text": "down 1.9% sequentially and up 18.1% year-over-year."
+    },
+    {
+      "i": 36,
+      "start": 165.58,
+      "end": 169.58,
+      "text": "If we include the FX factor in US dollar terms,"
+    },
+    {
+      "i": 37,
+      "start": 169.58,
+      "end": 176.58,
+      "text": "second quarter revenue was up 4.4% sequentially and up 23.8% year-over-year."
+    },
+    {
+      "i": 38,
+      "start": 177.58,
+      "end": 181.58,
+      "text": "Growth margin for the quarter was 49.1%,"
+    },
+    {
+      "i": 39,
+      "start": 181.58,
+      "end": 184.58,
+      "text": "up 1 percentage point from the previous quarter,"
+    },
+    {
+      "i": 40,
+      "start": 184.58,
+      "end": 188.58,
+      "text": "and up 0.3 percentage point from the year-ago quarter."
+    },
+    {
+      "i": 41,
+      "start": 188.58,
+      "end": 195.58,
+      "text": "This quarter's growth margin includes a one-time related to a previous LTA,"
+    },
+    {
+      "i": 42,
+      "start": 195.58,
+      "end": 200.58,
+      "text": "which contributes around 1.9 percentage point to the growth margin."
+    },
+    {
+      "i": 43,
+      "start": 200.58,
+      "end": 205.58,
+      "text": "Excluding this one-time item and assuming the FX rate back to our earlier guidance,"
+    },
+    {
+      "i": 44,
+      "start": 205.58,
+      "end": 208.58,
+      "text": "level 32.5,"
+    },
+    {
+      "i": 45,
+      "start": 208.58,
+      "end": 214.58,
+      "text": "our second quarter growth margin would have been 48.4%"
+    },
+    {
+      "i": 46,
+      "start": 214.58,
+      "end": 217.58,
+      "text": "at the high end of our earlier guidance range."
+    },
+    {
+      "i": 47,
+      "start": 217.58,
+      "end": 223.58,
+      "text": "Operating expense for the quarter was $44.5 billion,"
+    },
+    {
+      "i": 48,
+      "start": 223.58,
+      "end": 228.58,
+      "text": "compared with $43.8 billion in the previous quarter"
+    },
+    {
+      "i": 49,
+      "start": 228.58,
+      "end": 232.58,
+      "text": "and $37.2 billion in the year-ago quarter."
+    },
+    {
+      "i": 50,
+      "start": 232.58,
+      "end": 234.58,
+      "text": "Operating income for the quarter was $10.2 billion,"
+    },
+    {
+      "i": 51,
+      "start": 234.58,
+      "end": 241.58,
+      "text": "down 2.2% sequentially and up 17.7% year-over-year."
+    },
+    {
+      "i": 52,
+      "start": 241.58,
+      "end": 246.58,
+      "text": "Non-T-first operating income for the quarter was $30 billion."
+    },
+    {
+      "i": 53,
+      "start": 246.58,
+      "end": 250.58,
+      "text": "Operating margin for the quarter was 19.5%,"
+    },
+    {
+      "i": 54,
+      "start": 250.58,
+      "end": 254.58,
+      "text": "down 0.1 percentage point in the previous quarter"
+    },
+    {
+      "i": 55,
+      "start": 254.58,
+      "end": 257.58000000000004,
+      "text": "and down 0.1 percentage point year-over-year."
+    },
+    {
+      "i": 56,
+      "start": 257.58000000000004,
+      "end": 261.58000000000004,
+      "text": "Non-T-first operating margin for the quarter was $10.2 billion,"
+    },
+    {
+      "i": 57,
+      "start": 261.58,
+      "end": 264.58,
+      "text": "compared with $14.5 billion in the previous quarter and down 1.6 percentage point year-over-year."
+    },
+    {
+      "i": 58,
+      "start": 264.58,
+      "end": 269.58,
+      "text": "Non-T-first operating margin for the quarter was $19.9%."
+    },
+    {
+      "i": 59,
+      "start": 269.58,
+      "end": 273.58,
+      "text": "Net income for the quarter was $28.1 billion,"
+    },
+    {
+      "i": 60,
+      "start": 273.58,
+      "end": 279.58,
+      "text": "down 5% sequentially and up 8.1% year-over-year."
+    },
+    {
+      "i": 61,
+      "start": 279.58,
+      "end": 285.58,
+      "text": "Non-T-first net income for the quarter was $28.6 billion."
+    },
+    {
+      "i": 62,
+      "start": 285.58,
+      "end": 289.58,
+      "text": "Net profit margin for the quarter was $18.7%,"
+    },
+    {
+      "i": 63,
+      "start": 289.58,
+      "end": 296.34,
+      "text": "1.6 percentage points from the previous quarter and down 1.7 percentage point year-over-year."
+    },
+    {
+      "i": 64,
+      "start": 297.34,
+      "end": 301.47999999999996,
+      "text": "Non-T-first net profit margin for the quarter was 19%."
+    },
+    {
+      "i": 65,
+      "start": 301.47999999999996,
+      "end": 313.56,
+      "text": "EPS for the quarter was $17.5, down from $18.43 in the previous quarter and up from $16.19"
+    },
+    {
+      "i": 66,
+      "start": 313.56,
+      "end": 315.5,
+      "text": "in the year-ago quarter."
+    },
+    {
+      "i": 67,
+      "start": 315.5,
+      "end": 320.56,
+      "text": "Non-T-first EPS for the quarter was $17.81."
+    },
+    {
+      "i": 68,
+      "start": 322.1,
+      "end": 327.3,
+      "text": "A reconciliation table for our T-first and non-T-first financial measure is attached"
+    },
+    {
+      "i": 69,
+      "start": 327.3,
+      "end": 329.54,
+      "text": "in our press release for your information."
+    },
+    {
+      "i": 70,
+      "start": 330.02,
+      "end": 331.32,
+      "text": "And that concludes my comments."
+    },
+    {
+      "i": 71,
+      "start": 331.54,
+      "end": 331.86,
+      "text": "Thank you."
+    },
+    {
+      "i": 72,
+      "start": 332.56,
+      "end": 333.46,
+      "text": "Thank you, David."
+    },
+    {
+      "i": 73,
+      "start": 333.7,
+      "end": 337.78,
+      "text": "Now, I would like to turn the call to CEO, Dr. Rick Tsai, for prepared remarks."
+    },
+    {
+      "i": 74,
+      "start": 340.06,
+      "end": 341.6,
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "i": 75,
+      "start": 341.6,
+      "end": 344.6,
+      "text": "Mid-air tax second quarter revenue grew 4.4%."
+    },
+    {
+      "i": 76,
+      "start": 345.5,
+      "end": 350.08,
+      "text": "And 23.8% year-over-year in U.S. dollar."
+    },
+    {
+      "i": 77,
+      "start": 350.7,
+      "end": 357.3,
+      "text": "We attribute this largely to the strong business foundation we have built in the past few years."
+    },
+    {
+      "i": 78,
+      "start": 358.22,
+      "end": 365.1,
+      "text": "In the second quarter, we continue to see higher structure demand for edge AI SOCs and"
+    },
+    {
+      "i": 79,
+      "start": 365.1,
+      "end": 366.38,
+      "text": "faster connectivity."
+    },
+    {
+      "i": 80,
+      "start": 366.38,
+      "end": 373.82,
+      "text": "To a lesser extent, we also noticed some pull-in demand amid trade uncertainties."
+    },
+    {
+      "i": 81,
+      "start": 374.66,
+      "end": 375.38,
+      "text": "We are on a roll."
+    },
+    {
+      "i": 82,
+      "start": 375.5,
+      "end": 378.7,
+      "text": "We are on track with our mid- to long-term growth journey."
+    },
+    {
+      "i": 83,
+      "start": 379.3,
+      "end": 387.82,
+      "text": "Our diverse existing businesses and growth initiatives underpin a robust foundation for"
+    },
+    {
+      "i": 84,
+      "start": 387.82,
+      "end": 388.5,
+      "text": "mid-air tax."
+    },
+    {
+      "i": 85,
+      "start": 389.26,
+      "end": 396.42,
+      "text": "In 2025, several businesses are demonstrating strong growth momentum, including flagship"
+    },
+    {
+      "i": 86,
+      "start": 396.7,
+      "end": 401.7,
+      "text": "smartphones, connectivity portfolio, and computing devices."
+    },
+    {
+      "i": 87,
+      "start": 402.5,
+      "end": 404.3,
+      "text": "While we anticipate revenues from our major growth initiatives, we are also anticipating"
+    },
+    {
+      "i": 88,
+      "start": 404.3,
+      "end": 404.7,
+      "text": "revenue from our major growth initiatives."
+    },
+    {
+      "i": 89,
+      "start": 404.7,
+      "end": 405.22,
+      "text": "While we anticipate revenues from our major growth initiatives, we are also anticipating revenue from our major growth initiatives."
+    },
+    {
+      "i": 90,
+      "start": 405.22,
+      "end": 406.22,
+      "text": "We earn an expensive investment to start ramping up next year."
+    },
+    {
+      "i": 91,
+      "start": 406.22,
+      "end": 406.90000000000003,
+      "text": "Our激ssä車 business performs solidly with continuous expansion into the flagship segment."
+    },
+    {
+      "i": 92,
+      "start": 407.34000000000003,
+      "end": 416.34000000000003,
+      "text": "We expect the flagship smartphone revenue to reach U.S. $3 billion this year, representing"
+    },
+    {
+      "i": 93,
+      "start": 416.34000000000003,
+      "end": 417.62,
+      "text": "an annual growth rate of more than 40%."
+    },
+    {
+      "i": 94,
+      "start": 417.62,
+      "end": 430.92,
+      "text": "Our leading connectivity portfolio, such as wireless cell phone, will almost do без"
+    },
+    {
+      "i": 95,
+      "start": 430.92,
+      "end": 432.06,
+      "text": "復 grassroots activities."
+    },
+    {
+      "i": 96,
+      "start": 432.06,
+      "end": 433.1,
+      "text": "But we also expect a growth rate of 47%."
+    },
+    {
+      "i": 97,
+      "start": 433.1,
+      "end": 433.96000000000004,
+      "text": "It's low-end."
+    },
+    {
+      "i": 98,
+      "start": 433.96000000000004,
+      "end": 434.98,
+      "text": "We are a three-year-old business."
+    },
+    {
+      "i": 99,
+      "start": 434.98,
+      "end": 443.6,
+      "text": "Wi-Fi 7, 5G modem, and 10G PON, continues to gain shares in global telecom operators"
+    },
+    {
+      "i": 100,
+      "start": 443.6,
+      "end": 446.88,
+      "text": "and leading consumer electronics players."
+    },
+    {
+      "i": 101,
+      "start": 447.74,
+      "end": 455.08000000000004,
+      "text": "We expect our connectivity business to grow strongly, with revenue exceeding US $3 billion"
+    },
+    {
+      "i": 102,
+      "start": 455.08000000000004,
+      "end": 455.96000000000004,
+      "text": "this year."
+    },
+    {
+      "i": 103,
+      "start": 456.6,
+      "end": 464.72,
+      "text": "Furthermore, revenue from our computing solutions, which currently include tablets, Chromebooks,"
+    },
+    {
+      "i": 104,
+      "start": 465.22,
+      "end": 471.70000000000005,
+      "text": "and the GB10 project that we collaborate with NVIDIA, is expected to grow more than"
+    },
+    {
+      "i": 105,
+      "start": 471.70000000000005,
+      "end": 479.36,
+      "text": "80% this year, to approximately US $1 billion, driven by strong AI demands."
+    },
+    {
+      "i": 106,
+      "start": 480.26,
+      "end": 487.72,
+      "text": "Moreover, we are fully focused on executing and expanding our growth initiatives, such"
+    },
+    {
+      "i": 107,
+      "start": 487.72,
+      "end": 494.96000000000004,
+      "text": "as enterprise A6 and automotive businesses, each representing more than US $3 billion."
+    },
+    {
+      "i": 108,
+      "start": 494.98,
+      "end": 499.24,
+      "text": "We expect to gain US $40 billion revenue in the mid- to long-term."
+    },
+    {
+      "i": 109,
+      "start": 499.94,
+      "end": 508.5,
+      "text": "The business momentum for our enterprise A6 is very strong, as CSPs continue to evaluate"
+    },
+    {
+      "i": 110,
+      "start": 508.5,
+      "end": 513.64,
+      "text": "and adopt A6 to enhance data center efficiency."
+    },
+    {
+      "i": 111,
+      "start": 514.5,
+      "end": 521.5,
+      "text": "To capture the increasing opportunities, we are rapidly expanding our R&D resources for"
+    },
+    {
+      "i": 112,
+      "start": 521.5,
+      "end": 522.36,
+      "text": "the A6 team."
+    },
+    {
+      "i": 113,
+      "start": 523.22,
+      "end": 524.9200000000001,
+      "text": "Especially for recruiting."
+    },
+    {
+      "i": 114,
+      "start": 524.98,
+      "end": 529.3000000000001,
+      "text": "We are also developing new and emerging key talents."
+    },
+    {
+      "i": 115,
+      "start": 529.3000000000001,
+      "end": 536.3000000000001,
+      "text": "These resources are being deployed mainly to advanced nodes, advanced packaging technologies"
+    },
+    {
+      "i": 116,
+      "start": 536.3000000000001,
+      "end": 542.4200000000001,
+      "text": "and next-generation IPs, such as 448G-30s and CPO."
+    },
+    {
+      "i": 117,
+      "start": 542.4200000000001,
+      "end": 551.22,
+      "text": "Backed by our robust 30s IP portfolio and strong execution capability, we currently"
+    },
+    {
+      "i": 118,
+      "start": 551.22,
+      "end": 553.22,
+      "text": "have multiple engagements with global CSPs and other companies."
+    },
+    {
+      "i": 119,
+      "start": 553.22,
+      "end": 566.26,
+      "text": "We believe in our ability to add value to this fast-growing market and continue to expect"
+    },
+    {
+      "i": 120,
+      "start": 566.26,
+      "end": 569.5400000000001,
+      "text": "sizable revenues starting next year."
+    },
+    {
+      "i": 121,
+      "start": 569.5400000000001,
+      "end": 576.6600000000001,
+      "text": "For automotive, we have been making very good progress in securing design wings for our"
+    },
+    {
+      "i": 122,
+      "start": 576.6600000000001,
+      "end": 582.5400000000001,
+      "text": "Dimensity Auto high-end and mainstream cockpit and telematics solutions."
+    },
+    {
+      "i": 123,
+      "start": 583.22,
+      "end": 591.22,
+      "text": "The more advanced cockpit solution, CX1, which we co-developed with NVIDIA to support premium"
+    },
+    {
+      "i": 124,
+      "start": 591.22,
+      "end": 598.26,
+      "text": "vehicles, will be sampling to customers soon in the second half of the year."
+    },
+    {
+      "i": 125,
+      "start": 598.26,
+      "end": 606.7,
+      "text": "We expect revenue from CX1 to surge in 2026, adding momentum to our automotive business,"
+    },
+    {
+      "i": 126,
+      "start": 606.7,
+      "end": 609.38,
+      "text": "which has already been growing robustly."
+    },
+    {
+      "i": 127,
+      "start": 609.38,
+      "end": 612.34,
+      "text": "Furthermore, to support our new and emerging technologies, we are also developing a new"
+    },
+    {
+      "i": 128,
+      "start": 612.34,
+      "end": 616.26,
+      "text": "feature called P Perspective Series Design and"
+    },
+    {
+      "i": 129,
+      "start": 616.26,
+      "end": 620.1,
+      "text": "set up a landmark feature, one that will be a royalty-free cachet necesita un"
+    },
+    {
+      "i": 130,
+      "start": 620.1,
+      "end": 623.34,
+      "text": "weekend of NVIDIA판 in Guizhou with a capital depletion of AFC for the international international"
+    },
+    {
+      "i": 131,
+      "start": 623.34,
+      "end": 624.34,
+      "text": "company."
+    },
+    {
+      "i": 132,
+      "start": 624.34,
+      "end": 625.34,
+      "text": "The body is Zoe gram procuring monitor unit system that has been developed for創造"
+    },
+    {
+      "i": 133,
+      "start": 625.34,
+      "end": 626.34,
+      "text": "Tablet development in VB charmuke."
+    },
+    {
+      "i": 134,
+      "start": 626.34,
+      "end": 635.86,
+      "text": "The program will enable the company and the 승� Rescue MateC near on-pointed"
+    },
+    {
+      "i": 135,
+      "start": 635.86,
+      "end": 636.62,
+      "text": "telemetry оно-design related products."
+    },
+    {
+      "i": 136,
+      "start": 636.62,
+      "end": 637.32,
+      "text": "Thanks, herkes."
+    },
+    {
+      "i": 137,
+      "start": 637.32,
+      "end": 638.5,
+      "text": "I would love to speak with a few speakers today."
+    },
+    {
+      "i": 138,
+      "start": 638.5,
+      "end": 639.46,
+      "text": "Can I just hand it back to the webinar or the speaker?"
+    },
+    {
+      "i": 139,
+      "start": 639.46,
+      "end": 640.46,
+      "text": "Sure."
+    },
+    {
+      "i": 140,
+      "start": 640.46,
+      "end": 641.46,
+      "text": "We would love to promote and share my thoughts to the whole small nation."
+    },
+    {
+      "i": 141,
+      "start": 641.46,
+      "end": 642.34,
+      "text": "With all due respect, I would like to give back myところ."
+    },
+    {
+      "i": 142,
+      "start": 642.34,
+      "end": 646.7800000000001,
+      "text": "group launching two nanometer chips."
+    },
+    {
+      "i": 143,
+      "start": 646.7800000000001,
+      "end": 652.7,
+      "text": "These exciting developments reinforce our confidence in capturing growth opportunities"
+    },
+    {
+      "i": 144,
+      "start": 652.7,
+      "end": 655.0600000000001,
+      "text": "in the mid to long term."
+    },
+    {
+      "i": 145,
+      "start": 655.0600000000001,
+      "end": 660.6600000000001,
+      "text": "With that, now let me talk about the recent business performance for our three revenue"
+    },
+    {
+      "i": 146,
+      "start": 660.6600000000001,
+      "end": 662.7800000000001,
+      "text": "groups."
+    },
+    {
+      "i": 147,
+      "start": 662.7800000000001,
+      "end": 670.58,
+      "text": "Mobile phone accounted for 52% of total second quarter revenue and grew 13% year over year"
+    },
+    {
+      "i": 148,
+      "start": 670.58,
+      "end": 674.34,
+      "text": "and declined 9% quarter over quarter."
+    },
+    {
+      "i": 149,
+      "start": 674.34,
+      "end": 683.34,
+      "text": "In US dollar, this revenue group grew 19% year over year and declined 3% sequentially."
+    },
+    {
+      "i": 150,
+      "start": 683.34,
+      "end": 692.9200000000001,
+      "text": "As I said earlier, our share gains in the flagship segment continues to drive year over"
+    },
+    {
+      "i": 151,
+      "start": 692.9200000000001,
+      "end": 700.5600000000001,
+      "text": "year business growth, mainly thanks to the successful Dimensity 9400 family."
+    },
+    {
+      "i": 152,
+      "start": 700.56,
+      "end": 709.5,
+      "text": "Since the introduction of the Dimensity 9400 last year, we have enabled numerous popular"
+    },
+    {
+      "i": 153,
+      "start": 709.5,
+      "end": 718.8,
+      "text": "flagship AI smartphones from Oppo, Vivo, and Redmi, and gained share in the market."
+    },
+    {
+      "i": 154,
+      "start": 718.8,
+      "end": 727.3199999999999,
+      "text": "To extend the momentum, we will soon be launching the next generation flagship SoC, Dimensity"
+    },
+    {
+      "i": 155,
+      "start": 727.3199999999999,
+      "end": 730.3199999999999,
+      "text": "9500, in the third quarter."
+    },
+    {
+      "i": 156,
+      "start": 730.56,
+      "end": 739.5999999999999,
+      "text": "Dimensity 9500 will deliver even more enhanced AI functions with more powerful computing capabilities."
+    },
+    {
+      "i": 157,
+      "start": 739.5999999999999,
+      "end": 748.52,
+      "text": "We have secured more customers and model adoptions than the previous generation."
+    },
+    {
+      "i": 158,
+      "start": 748.52,
+      "end": 755.2199999999999,
+      "text": "For the third quarter, we expect flagship revenue to grow as Dimensity 9500 enters mass"
+    },
+    {
+      "i": 159,
+      "start": 755.2199999999999,
+      "end": 759.42,
+      "text": "production, while demand for the mainstream segment is expected to slow."
+    },
+    {
+      "i": 160,
+      "start": 759.42,
+      "end": 760.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 161,
+      "start": 760.42,
+      "end": 777.5799999999999,
+      "text": "We hope to see the уber-class"
+    },
+    {
+      "i": 162,
+      "start": 777.5799999999999,
+      "end": 783.4399999999999,
+      "text": "cryptocurrencyium gonna complete its role in this global trend."
+    },
+    {
+      "i": 163,
+      "start": 783.4399999999999,
+      "end": 784.12,
+      "text": "Hope to never be ahead again!"
+    },
+    {
+      "i": 164,
+      "start": 790.42,
+      "end": 799.02,
+      "text": "over quarter. The sequential growth was mainly from the continuous ramp of AI-capable computing"
+    },
+    {
+      "i": 165,
+      "start": 799.02,
+      "end": 808.0799999999999,
+      "text": "devices, share gain in consumer ASICs, and some pull-in demand. AI-capable computing devices"
+    },
+    {
+      "i": 166,
+      "start": 808.0799999999999,
+      "end": 816.18,
+      "text": "have been well-received in the market and fueled our business momentum. We are glad to see all the"
+    },
+    {
+      "i": 167,
+      "start": 816.18,
+      "end": 825.0999999999999,
+      "text": "major Android tablet brands, including Samsung, adopting MediaTek AI chips for their premium AI"
+    },
+    {
+      "i": 168,
+      "start": 825.0999999999999,
+      "end": 833.68,
+      "text": "tablets this year. Lenovo also announced a premium AI Chromebook powered by MediaTek's"
+    },
+    {
+      "i": 169,
+      "start": 833.68,
+      "end": 844.8199999999999,
+      "text": "3-nm companion Ultra SoC in the second quarter. Moreover, GB10, the chip we co-developed with"
+    },
+    {
+      "i": 170,
+      "start": 844.8199999999999,
+      "end": 846.16,
+      "text": "NVIDIA to power NVIDIA's NVIDIA-based chip, is now available for purchase in the market."
+    },
+    {
+      "i": 171,
+      "start": 846.16,
+      "end": 846.18,
+      "text": "Thank you."
+    },
+    {
+      "i": 172,
+      "start": 846.18,
+      "end": 854.06,
+      "text": "NVIDIA's AI supercomputer, DGF Spark, is scheduled to begin mass production in the third quarter."
+    },
+    {
+      "i": 173,
+      "start": 855.5,
+      "end": 863.04,
+      "text": "For the third quarter, this group continued to benefit from share gains in 5G modem,"
+    },
+    {
+      "i": 174,
+      "start": 863.64,
+      "end": 871.0999999999999,
+      "text": "premium AI tablets, and automotive with year-over-year growth. However, some demand"
+    },
+    {
+      "i": 175,
+      "start": 871.0999999999999,
+      "end": 876.16,
+      "text": "has been pulled to the first half of the year. We expect SmartEdge Plus to be able to"
+    },
+    {
+      "i": 176,
+      "start": 876.16,
+      "end": 878.0,
+      "text": "serve as an immediately present platform for given offerings to the biggest platform"
+    },
+    {
+      "i": 177,
+      "start": 878.0,
+      "end": 880.16,
+      "text": "in the 2021 sector rather than relying on these updated features."
+    },
+    {
+      "i": 178,
+      "start": 880.16,
+      "end": 883.74,
+      "text": "In Volumes loopback, we will look at the two Asia-chi ot the pure and latest end-to-end"
+    },
+    {
+      "i": 179,
+      "start": 883.74,
+      "end": 888.12,
+      "text": "Challenge platform finance and control �."
+    },
+    {
+      "i": 180,
+      "start": 888.12,
+      "end": 891.18,
+      "text": "Meetings of by Neuron's support group."
+    },
+    {
+      "i": 181,
+      "start": 891.18,
+      "end": 896.42,
+      "text": "Neuron Trруж, CEO of ENC, threw in a mandatory"
+    },
+    {
+      "i": 182,
+      "start": 896.42,
+      "end": 898.5799999999999,
+      "text": "guarantee of 452 years."
+    },
+    {
+      "i": 183,
+      "start": 898.5799999999999,
+      "end": 900.78,
+      "text": "Can China play czynb?"
+    },
+    {
+      "i": 184,
+      "start": 900.78,
+      "end": 903.4399999999999,
+      "text": "I think China is the one in this world that is needed in this question."
+    },
+    {
+      "i": 185,
+      "start": 903.4399999999999,
+      "end": 905.52,
+      "text": "China played aOr the second game against China, Slacard lost ansightingly, making tram sine"
+    },
+    {
+      "i": 186,
+      "start": 905.52,
+      "end": 909.18,
+      "text": "and 24% sequentially."
+    },
+    {
+      "i": 187,
+      "start": 909.18,
+      "end": 913.5799999999999,
+      "text": "In the second quarter, PowerIC benefited from share gains"
+    },
+    {
+      "i": 188,
+      "start": 913.5799999999999,
+      "end": 915.62,
+      "text": "and better demand."
+    },
+    {
+      "i": 189,
+      "start": 915.62,
+      "end": 918.48,
+      "text": "We expect PowerIC revenue to decline sequentially"
+    },
+    {
+      "i": 190,
+      "start": 918.48,
+      "end": 924.6999999999999,
+      "text": "in the third quarter on lower consumer electronics demand."
+    },
+    {
+      "i": 191,
+      "start": 924.6999999999999,
+      "end": 928.26,
+      "text": "Moving into the third quarter of 2025,"
+    },
+    {
+      "i": 192,
+      "start": 928.26,
+      "end": 933.54,
+      "text": "we are excited at the ramp of Dimensity 9500 and GB10."
+    },
+    {
+      "i": 193,
+      "start": 933.54,
+      "end": 936.06,
+      "text": "We also expect the growth momentum"
+    },
+    {
+      "i": 194,
+      "start": 936.06,
+      "end": 939.48,
+      "text": "from AI tablets and automotive to continue"
+    },
+    {
+      "i": 195,
+      "start": 939.48,
+      "end": 941.36,
+      "text": "in the third quarter."
+    },
+    {
+      "i": 196,
+      "start": 941.36,
+      "end": 944.04,
+      "text": "However, as some demand has been pulled"
+    },
+    {
+      "i": 197,
+      "start": 944.04,
+      "end": 947.78,
+      "text": "into the first half of the year and resulted"
+    },
+    {
+      "i": 198,
+      "start": 947.78,
+      "end": 950.4599999999999,
+      "text": "in a different quarterly pattern,"
+    },
+    {
+      "i": 199,
+      "start": 950.4599999999999,
+      "end": 952.5,
+      "text": "we expect the third quarter revenue"
+    },
+    {
+      "i": 200,
+      "start": 952.5,
+      "end": 956.36,
+      "text": "to decline sequentially."
+    },
+    {
+      "i": 201,
+      "start": 956.36,
+      "end": 959.3,
+      "text": "With that, we expect our third quarter revenue"
+    },
+    {
+      "i": 202,
+      "start": 959.3,
+      "end": 963.52,
+      "text": "to be in the range of NT$130.5 billion."
+    },
+    {
+      "i": 203,
+      "start": 963.54,
+      "end": 966.06,
+      "text": "We expect the third quarter revenue"
+    },
+    {
+      "i": 204,
+      "start": 966.06,
+      "end": 971.66,
+      "text": "to be in the range of NT$130.1 billion to NT$140 billion,"
+    },
+    {
+      "i": 205,
+      "start": 971.66,
+      "end": 978.06,
+      "text": "down 7% to 13% sequentially, and down 1% to up 6% year"
+    },
+    {
+      "i": 206,
+      "start": 978.06,
+      "end": 988.26,
+      "text": "over year, at a forecasted exchange rate of NT$29 to US$1."
+    },
+    {
+      "i": 207,
+      "start": 988.26,
+      "end": 993.0999999999999,
+      "text": "Compared with the exchange rate of NT$30.9"
+    },
+    {
+      "i": 208,
+      "start": 993.0999999999999,
+      "end": 993.52,
+      "text": "to US$1."
+    },
+    {
+      "i": 209,
+      "start": 993.54,
+      "end": 1001.5,
+      "text": "The impact from the potential exchange rate difference"
+    },
+    {
+      "i": 210,
+      "start": 1001.5,
+      "end": 1005.5,
+      "text": "on our third quarter energy dollar revenue outlook"
+    },
+    {
+      "i": 211,
+      "start": 1005.5,
+      "end": 1008.0,
+      "text": "is approximately 6%."
+    },
+    {
+      "i": 212,
+      "start": 1008.0,
+      "end": 1014.52,
+      "text": "As nearly all of our revenue is in US dollar,"
+    },
+    {
+      "i": 213,
+      "start": 1014.52,
+      "end": 1018.18,
+      "text": "we also provide our third quarter revenue guidance"
+    },
+    {
+      "i": 214,
+      "start": 1018.18,
+      "end": 1023.0999999999999,
+      "text": "in US dollar to fairly reflect the business situation."
+    },
+    {
+      "i": 215,
+      "start": 1023.1,
+      "end": 1027.06,
+      "text": "As such, it now looks to be in place until August of this year,"
+    },
+    {
+      "i": 216,
+      "start": 1027.06,
+      "end": 1029.0,
+      "text": "or next year, ahead of every further quarter"
+    },
+    {
+      "i": 217,
+      "start": 1029.0,
+      "end": 1031.44,
+      "text": "until the bottom line for what we can expect."
+    },
+    {
+      "i": 218,
+      "start": 1031.44,
+      "end": 1034.34,
+      "text": "In US dollar terms, our third quarter revenue"
+    },
+    {
+      "i": 219,
+      "start": 1034.34,
+      "end": 1038.0,
+      "text": "will be in the range of USD$4.49 billion"
+    },
+    {
+      "i": 220,
+      "start": 1038.0,
+      "end": 1044.94,
+      "text": "to USD$4.83 billion, down 1% to 8%"
+    },
+    {
+      "i": 221,
+      "start": 1044.94,
+      "end": 1050.98,
+      "text": "sequentially and up 10% to 18% year over year."
+    },
+    {
+      "i": 222,
+      "start": 1050.98,
+      "end": 1052.96,
+      "text": "Close margin for the third quarter is forecasted at 47%, plus or minus .5%%"
+    },
+    {
+      "i": 223,
+      "start": 1052.96,
+      "end": 1061.96,
+      "text": "points, quarterly operating expense ratio to be at 31%, plus or minus 2 percentage points."
+    },
+    {
+      "i": 224,
+      "start": 1061.96,
+      "end": 1071.26,
+      "text": "Finally, I would like to reiterate our strong commitment in investing in growth areas such"
+    },
+    {
+      "i": 225,
+      "start": 1071.26,
+      "end": 1078.3600000000001,
+      "text": "as AI, data center, and automotive, which are still at their initial phases of market"
+    },
+    {
+      "i": 226,
+      "start": 1078.3600000000001,
+      "end": 1080.26,
+      "text": "developments."
+    },
+    {
+      "i": 227,
+      "start": 1080.26,
+      "end": 1087.32,
+      "text": "We believe their growth potentials are strong enough to help us weather short-term volatility."
+    },
+    {
+      "i": 228,
+      "start": 1087.32,
+      "end": 1094.18,
+      "text": "We remain confident in our technologies and our capability to grow in the mid-term to"
+    },
+    {
+      "i": 229,
+      "start": 1094.18,
+      "end": 1095.18,
+      "text": "long-term."
+    },
+    {
+      "i": 230,
+      "start": 1095.18,
+      "end": 1098.54,
+      "text": "This concludes my prepared remarks."
+    },
+    {
+      "i": 231,
+      "start": 1098.54,
+      "end": 1099.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 232,
+      "start": 1099.54,
+      "end": 1100.54,
+      "text": "Thank you, Rick."
+    },
+    {
+      "i": 233,
+      "start": 1100.54,
+      "end": 1102.54,
+      "text": "Operators, we are now ready for Q&A session."
+    },
+    {
+      "i": 234,
+      "start": 1102.54,
+      "end": 1105.54,
+      "text": "May we please have the first question?"
+    },
+    {
+      "i": 235,
+      "start": 1105.54,
+      "end": 1106.54,
+      "text": "Yes."
+    },
+    {
+      "i": 236,
+      "start": 1106.54,
+      "end": 1110.24,
+      "text": "Ladies and gentlemen, we are now in question and answer session."
+    },
+    {
+      "i": 237,
+      "start": 1110.24,
+      "end": 1116.8,
+      "text": "If you would like to ask the question, please press star 1 on your telephone keypad."
+    },
+    {
+      "i": 238,
+      "start": 1116.8,
+      "end": 1121.42,
+      "text": "Please ask your questions after your name is announced, and please limit your questions"
+    },
+    {
+      "i": 239,
+      "start": 1121.42,
+      "end": 1126.76,
+      "text": "to two at a time to allow more participants to join the discussion."
+    },
+    {
+      "i": 240,
+      "start": 1126.76,
+      "end": 1129.76,
+      "text": "After two questions, we will move to the next caller."
+    },
+    {
+      "i": 241,
+      "start": 1129.76,
+      "end": 1135.6200000000001,
+      "text": "Should you have more questions, please press star 1 to come back to the queue."
+    },
+    {
+      "i": 242,
+      "start": 1135.6200000000001,
+      "end": 1139.08,
+      "text": "And to cancel your question, please press star 2."
+    },
+    {
+      "i": 243,
+      "start": 1139.08,
+      "end": 1140.08,
+      "text": "Thank you."
+    },
+    {
+      "i": 244,
+      "start": 1140.24,
+      "end": 1145.74,
+      "text": "As a reminder, it is greatly appreciated that you turned off speakerphone mode of your device"
+    },
+    {
+      "i": 245,
+      "start": 1145.74,
+      "end": 1148.04,
+      "text": "to prevent possible echo effect."
+    },
+    {
+      "i": 246,
+      "start": 1148.04,
+      "end": 1150.24,
+      "text": "We thank you for your cooperation."
+    },
+    {
+      "i": 247,
+      "start": 1150.24,
+      "end": 1157.86,
+      "text": "And our first question is coming from Sunny Lin UBS."
+    },
+    {
+      "i": 248,
+      "start": 1157.86,
+      "end": 1158.86,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 249,
+      "start": 1158.86,
+      "end": 1161.3,
+      "text": "Sunny Lin UBS Thank you very much."
+    },
+    {
+      "i": 250,
+      "start": 1161.3,
+      "end": 1162.3,
+      "text": "Good afternoon."
+    },
+    {
+      "i": 251,
+      "start": 1162.3,
+      "end": 1165.24,
+      "text": "So, my first question is on ASIC side."
+    },
+    {
+      "i": 252,
+      "start": 1165.24,
+      "end": 1166.8,
+      "text": "So, could you share with us a bit more color on your progress to run more projects?"
+    },
+    {
+      "i": 253,
+      "start": 1166.8,
+      "end": 1167.8,
+      "text": "And what is your goal?"
+    },
+    {
+      "i": 254,
+      "start": 1167.8,
+      "end": 1168.8,
+      "text": "What is your goal?"
+    },
+    {
+      "i": 255,
+      "start": 1168.8,
+      "end": 1169.8,
+      "text": "What is your goal?"
+    },
+    {
+      "i": 256,
+      "start": 1169.8,
+      "end": 1171.36,
+      "text": "What is your priority?"
+    },
+    {
+      "i": 257,
+      "start": 1171.36,
+      "end": 1174.9199999999998,
+      "text": "I think you have a good overview of your projects in the coming few years."
+    },
+    {
+      "i": 258,
+      "start": 1174.9199999999998,
+      "end": 1179.52,
+      "text": "You talk about a good revenue contribution for 2026 in the update on the revenue opportunity"
+    },
+    {
+      "i": 259,
+      "start": 1179.52,
+      "end": 1181.8799999999999,
+      "text": "versus your prior guidance of $1 billion."
+    },
+    {
+      "i": 260,
+      "start": 1181.8799999999999,
+      "end": 1187.4199999999998,
+      "text": "And beyond that, maybe more importantly, is there a point when we should expect maybe"
+    },
+    {
+      "i": 261,
+      "start": 1187.4199999999998,
+      "end": 1190.8999999999999,
+      "text": "more meaningful uplift as you start to run more projects?"
+    },
+    {
+      "i": 262,
+      "start": 1190.8999999999999,
+      "end": 1192.8999999999999,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 263,
+      "start": 1192.8999999999999,
+      "end": 1193.8999999999999,
+      "text": "Okay."
+    },
+    {
+      "i": 264,
+      "start": 1193.8999999999999,
+      "end": 1194.8,
+      "text": "On ASIC side, we remain."
+    },
+    {
+      "i": 265,
+      "start": 1194.8,
+      "end": 1195.8,
+      "text": "I think we have to start."
+    },
+    {
+      "i": 266,
+      "start": 1195.8,
+      "end": 1196.8,
+      "text": "We are in the process of implementing the project."
+    },
+    {
+      "i": 267,
+      "start": 1196.8,
+      "end": 1197.8,
+      "text": "We are looking for the right person."
+    },
+    {
+      "i": 268,
+      "start": 1197.8,
+      "end": 1198.8,
+      "text": "We are looking for the right person."
+    },
+    {
+      "i": 269,
+      "start": 1198.8,
+      "end": 1210.8999999999999,
+      "text": "We are confident that we will do our revenue forecast for late next year."
+    },
+    {
+      "i": 270,
+      "start": 1210.8999999999999,
+      "end": 1220.22,
+      "text": "We believe our customer is doing well in their taping out progress."
+    },
+    {
+      "i": 271,
+      "start": 1220.22,
+      "end": 1236.42,
+      "text": "In addition, we are also engaging with various potential CSP customers for various applications."
+    },
+    {
+      "i": 272,
+      "start": 1236.42,
+      "end": 1244.78,
+      "text": "We feel good about our opportunities in moving forward."
+    },
+    {
+      "i": 273,
+      "start": 1244.78,
+      "end": 1250.16,
+      "text": "We look forward to, as I said a couple of times in the prepared remarks,"
+    },
+    {
+      "i": 274,
+      "start": 1250.16,
+      "end": 1250.18,
+      "text": "the next year."
+    },
+    {
+      "i": 275,
+      "start": 1250.22,
+      "end": 1259.98,
+      "text": "We expect strong growth from the data center ASIC business in the coming years."
+    },
+    {
+      "i": 276,
+      "start": 1259.98,
+      "end": 1260.98,
+      "text": "Thank you."
+    },
+    {
+      "i": 277,
+      "start": 1260.98,
+      "end": 1264.46,
+      "text": "Sorry, just a very quick follow-up."
+    },
+    {
+      "i": 278,
+      "start": 1264.46,
+      "end": 1273.58,
+      "text": "Since most investors are quite paying attention to the $1 billion target for 2026, so now"
+    },
+    {
+      "i": 279,
+      "start": 1273.58,
+      "end": 1280.16,
+      "text": "maybe given some hiccups on the taping out in the short term, should we assume maybe"
+    },
+    {
+      "i": 280,
+      "start": 1280.16,
+      "end": 1282.92,
+      "text": "a lower contribution for 2026?"
+    },
+    {
+      "i": 281,
+      "start": 1282.92,
+      "end": 1290.92,
+      "text": "But then going to 2027, you should certainly scale to a much higher number for 2027?"
+    },
+    {
+      "i": 282,
+      "start": 1290.92,
+      "end": 1300.3400000000001,
+      "text": "Well, as I said, I just said now we remain confident that we will do our revenue forecast"
+    },
+    {
+      "i": 283,
+      "start": 1300.3400000000001,
+      "end": 1305.0400000000002,
+      "text": "for late 2026."
+    },
+    {
+      "i": 284,
+      "start": 1305.0400000000002,
+      "end": 1309.92,
+      "text": "And we believe our 2027 number will be good."
+    },
+    {
+      "i": 285,
+      "start": 1309.92,
+      "end": 1314.8000000000002,
+      "text": "But I do not know how to compare to what you have in your forecast."
+    },
+    {
+      "i": 286,
+      "start": 1314.8000000000002,
+      "end": 1320.68,
+      "text": "But the 2027 will definitely bring quite a bit of growth from the ASIC business."
+    },
+    {
+      "i": 287,
+      "start": 1320.68,
+      "end": 1321.68,
+      "text": "Thank you."
+    },
+    {
+      "i": 288,
+      "start": 1321.68,
+      "end": 1322.68,
+      "text": "Got it."
+    },
+    {
+      "i": 289,
+      "start": 1322.68,
+      "end": 1323.68,
+      "text": "No problem."
+    },
+    {
+      "i": 290,
+      "start": 1323.68,
+      "end": 1324.68,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 291,
+      "start": 1324.68,
+      "end": 1325.68,
+      "text": "My second question is on your process development."
+    },
+    {
+      "i": 292,
+      "start": 1325.68,
+      "end": 1326.68,
+      "text": "I'm pretty glad to see that MediaTek is being pretty fast in 2.9-minute process migration,"
+    },
+    {
+      "i": 293,
+      "start": 1326.68,
+      "end": 1327.68,
+      "text": "maybe starting from a 20-minute process migration."
+    },
+    {
+      "i": 294,
+      "start": 1327.68,
+      "end": 1328.68,
+      "text": "That's right."
+    },
+    {
+      "i": 295,
+      "start": 1328.68,
+      "end": 1329.68,
+      "text": "That's right."
+    },
+    {
+      "i": 296,
+      "start": 1329.68,
+      "end": 1330.68,
+      "text": "I think it's a very good question, and I think it's something that we should be"
+    },
+    {
+      "i": 297,
+      "start": 1330.68,
+      "end": 1331.68,
+      "text": "looking at."
+    },
+    {
+      "i": 298,
+      "start": 1331.68,
+      "end": 1332.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 299,
+      "start": 1332.68,
+      "end": 1333.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 300,
+      "start": 1333.68,
+      "end": 1334.68,
+      "text": "And I think it's a good question."
+    },
+    {
+      "i": 301,
+      "start": 1334.68,
+      "end": 1335.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 302,
+      "start": 1335.68,
+      "end": 1336.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 303,
+      "start": 1336.68,
+      "end": 1337.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 304,
+      "start": 1337.68,
+      "end": 1338.68,
+      "text": "I think it's a good question."
+    },
+    {
+      "i": 305,
+      "start": 1338.68,
+      "end": 1344.0,
+      "text": "So, maybe starting from a 5G smartphone SoCs, basically in the same product generation as"
+    },
+    {
+      "i": 306,
+      "start": 1344.0,
+      "end": 1345.0,
+      "text": "iOS."
+    },
+    {
+      "i": 307,
+      "start": 1345.0,
+      "end": 1350.92,
+      "text": "So, I wonder what's giving you the confidence for such quick process migration?"
+    },
+    {
+      "i": 308,
+      "start": 1350.92,
+      "end": 1355.5,
+      "text": "And could you share with us maybe the key benefits for the 2.9-minute process migration?"
+    },
+    {
+      "i": 309,
+      "start": 1355.5,
+      "end": 1359.92,
+      "text": "Is it more on the performance or more on the power efficiency?"
+    },
+    {
+      "i": 310,
+      "start": 1359.92,
+      "end": 1368.66,
+      "text": "Well, maybe just say something about 2.9-minute first web host."
+    },
+    {
+      "i": 311,
+      "start": 1368.66,
+      "end": 1375.7,
+      "text": "I think the performance and power efficiency will improve quite a bit, especially in the"
+    },
+    {
+      "i": 312,
+      "start": 1375.7,
+      "end": 1377.92,
+      "text": "power efficiency part."
+    },
+    {
+      "i": 313,
+      "start": 1377.92,
+      "end": 1389.98,
+      "text": "So it's critical for the, for instance, the flagship SOC business and the market requirements."
+    },
+    {
+      "i": 314,
+      "start": 1389.98,
+      "end": 1392.1000000000001,
+      "text": "It's critical."
+    },
+    {
+      "i": 315,
+      "start": 1392.1000000000001,
+      "end": 1396.98,
+      "text": "Not to mention, of course, with the data center ASIC business coming up, the performance will"
+    },
+    {
+      "i": 316,
+      "start": 1396.98,
+      "end": 1397.98,
+      "text": "be better."
+    },
+    {
+      "i": 317,
+      "start": 1397.98,
+      "end": 1398.18,
+      "text": "Yes."
+    },
+    {
+      "i": 318,
+      "start": 1398.18,
+      "end": 1398.28,
+      "text": "Yes."
+    },
+    {
+      "i": 319,
+      "start": 1398.66,
+      "end": 1399.4,
+      "text": "Yes."
+    },
+    {
+      "i": 320,
+      "start": 1399.4,
+      "end": 1407.5400000000002,
+      "text": "So, you know, people are just moving as fast as they can into the advanced process nodes."
+    },
+    {
+      "i": 321,
+      "start": 1407.5400000000002,
+      "end": 1422.1000000000001,
+      "text": "Now, why MediaTek is now moving into 2-nanometer process node at almost the same pace as the"
+    },
+    {
+      "i": 322,
+      "start": 1422.1000000000001,
+      "end": 1428.18,
+      "text": "other major world class tier one companies?"
+    },
+    {
+      "i": 323,
+      "start": 1428.18,
+      "end": 1439.7,
+      "text": "Well, I have all the thanks for our technical people, managers, engineers, together with"
+    },
+    {
+      "i": 324,
+      "start": 1439.7,
+      "end": 1444.92,
+      "text": "really close collaboration with our partner, TSMC."
+    },
+    {
+      "i": 325,
+      "start": 1444.92,
+      "end": 1448.92,
+      "text": "I cannot say enough to thank them."
+    },
+    {
+      "i": 326,
+      "start": 1448.92,
+      "end": 1454.92,
+      "text": "After several years, really hard and intelligent work from our people and TSMC."
+    },
+    {
+      "i": 327,
+      "start": 1454.92,
+      "end": 1455.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 328,
+      "start": 1455.92,
+      "end": 1456.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 329,
+      "start": 1456.92,
+      "end": 1457.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 330,
+      "start": 1457.92,
+      "end": 1458.68,
+      "text": "Thank you."
+    },
+    {
+      "i": 331,
+      "start": 1458.68,
+      "end": 1459.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 332,
+      "start": 1459.54,
+      "end": 1461.54,
+      "text": "Thank you very much, Kevin."
+    },
+    {
+      "i": 333,
+      "start": 1461.54,
+      "end": 1462.6000000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 334,
+      "start": 1462.6000000000001,
+      "end": 1463.7,
+      "text": "Thank you."
+    },
+    {
+      "i": 335,
+      "start": 1463.7,
+      "end": 1463.8400000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 336,
+      "start": 1463.8400000000001,
+      "end": 1464.78,
+      "text": "Thank you."
+    },
+    {
+      "i": 337,
+      "start": 1464.78,
+      "end": 1465.38,
+      "text": "Thank you."
+    },
+    {
+      "i": 338,
+      "start": 1465.38,
+      "end": 1466.0800000000002,
+      "text": "Thank you."
+    },
+    {
+      "i": 339,
+      "start": 1466.0800000000002,
+      "end": 1467.28,
+      "text": "I appreciate it."
+    },
+    {
+      "i": 340,
+      "start": 1467.28,
+      "end": 1467.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 341,
+      "start": 1467.54,
+      "end": 1468.0800000000002,
+      "text": "Thank you."
+    },
+    {
+      "i": 342,
+      "start": 1468.0800000000002,
+      "end": 1468.66,
+      "text": "Thank you."
+    },
+    {
+      "i": 343,
+      "start": 1468.66,
+      "end": 1471.76,
+      "text": "Thank you."
+    },
+    {
+      "i": 344,
+      "start": 1471.76,
+      "end": 1474.24,
+      "text": "Thank you."
+    },
+    {
+      "i": 345,
+      "start": 1474.24,
+      "end": 1474.64,
+      "text": "You know."
+    },
+    {
+      "i": 346,
+      "start": 1474.64,
+      "end": 1475.8600000000001,
+      "text": "Where we are."
+    },
+    {
+      "i": 347,
+      "start": 1475.8600000000001,
+      "end": 1480.38,
+      "text": "And we expect nothing less forthcoming nodes."
+    },
+    {
+      "i": 348,
+      "start": 1480.38,
+      "end": 1484.6000000000001,
+      "text": "We certainly will continue to invest, and we will reap the benefits from next generation"
+    },
+    {
+      "i": 349,
+      "start": 1484.6000000000001,
+      "end": 1486.1000000000001,
+      "text": "process node, also."
+    },
+    {
+      "i": 350,
+      "start": 1486.1000000000001,
+      "end": 1486.94,
+      "text": "Thank you."
+    },
+    {
+      "i": 351,
+      "start": 1486.94,
+      "end": 1487.4,
+      "text": "Got it."
+    },
+    {
+      "i": 352,
+      "start": 1487.4,
+      "end": 1488.3000000000002,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 353,
+      "start": 1489.6000000000001,
+      "end": 1490.26,
+      "text": "Thank you."
+    },
+    {
+      "i": 354,
+      "start": 1490.3200000000002,
+      "end": 1491.6200000000001,
+      "text": "Thank you for taking my question."
+    },
+    {
+      "i": 355,
+      "start": 1492.18,
+      "end": 1492.8000000000002,
+      "text": "Good afternoon."
+    },
+    {
+      "i": 356,
+      "start": 1493.26,
+      "end": 1496.8400000000001,
+      "text": "My question is also about the AI-edged rig."
+    },
+    {
+      "i": 357,
+      "start": 1497.14,
+      "end": 1501.3600000000001,
+      "text": "It's obviously quite positive on the growth in the longer term."
+    },
+    {
+      "i": 358,
+      "start": 1502.02,
+      "end": 1503.3600000000001,
+      "text": "May I just also follow up?"
+    },
+    {
+      "i": 359,
+      "start": 1503.5800000000002,
+      "end": 1509.4,
+      "text": "When we see that 2027, you will see quite strong growth for the AI accelerator growth."
+    },
+    {
+      "i": 360,
+      "start": 1509.4,
+      "end": 1517.3400000000001,
+      "text": "Is it mainly from the one single specific CSP, or do we see more than just one AI-edged"
+    },
+    {
+      "i": 361,
+      "start": 1517.3400000000001,
+      "end": 1520.52,
+      "text": "contribution happening in the year of 2027?"
+    },
+    {
+      "i": 362,
+      "start": 1533.38,
+      "end": 1539.3400000000001,
+      "text": "Well, Laura, we cannot comment specifically."
+    },
+    {
+      "i": 363,
+      "start": 1539.4,
+      "end": 1547.1200000000001,
+      "text": "How many customers will be reaping revenues from in 2027?"
+    },
+    {
+      "i": 364,
+      "start": 1547.42,
+      "end": 1554.42,
+      "text": "Suffice to say that we are engaging aggressively with multiple CSPs."
+    },
+    {
+      "i": 365,
+      "start": 1556.66,
+      "end": 1565.46,
+      "text": "I would say the revenue growth from the first customer will be, I believe, very robust."
+    },
+    {
+      "i": 366,
+      "start": 1567.46,
+      "end": 1569.02,
+      "text": "And we work."
+    },
+    {
+      "i": 367,
+      "start": 1569.4,
+      "end": 1577.42,
+      "text": "We are really working diligently to see whether we can add more revenue sources."
+    },
+    {
+      "i": 368,
+      "start": 1577.88,
+      "end": 1580.98,
+      "text": "But we cannot comment any further right now."
+    },
+    {
+      "i": 369,
+      "start": 1581.3600000000001,
+      "end": 1581.76,
+      "text": "Thank you."
+    },
+    {
+      "i": 370,
+      "start": 1582.5,
+      "end": 1583.48,
+      "text": "Sure, certainly."
+    },
+    {
+      "i": 371,
+      "start": 1584.2,
+      "end": 1588.7,
+      "text": "And also, my second question is about our business model."
+    },
+    {
+      "i": 372,
+      "start": 1589.14,
+      "end": 1597.22,
+      "text": "I recall that previously on the AI-edged rig project, we did mention that we are more flexible"
+    },
+    {
+      "i": 373,
+      "start": 1597.22,
+      "end": 1599.22,
+      "text": "in terms of our collaboration."
+    },
+    {
+      "i": 374,
+      "start": 1599.4,
+      "end": 1601.4,
+      "text": "We have a lot of collaboration with the client."
+    },
+    {
+      "i": 375,
+      "start": 1601.4,
+      "end": 1608.0800000000002,
+      "text": "Do we see that for the following projects, what kind of the role we are doing versus"
+    },
+    {
+      "i": 376,
+      "start": 1608.0800000000002,
+      "end": 1612.2,
+      "text": "our like a U.S. peers or Asian peers?"
+    },
+    {
+      "i": 377,
+      "start": 1612.2,
+      "end": 1618.92,
+      "text": "Do we feel more like in charge of the or can we also kind of in charge of the"
+    },
+    {
+      "i": 378,
+      "start": 1618.92,
+      "end": 1623.5800000000002,
+      "text": "full design, including the top line, and also the full process?"
+    },
+    {
+      "i": 379,
+      "start": 1623.5800000000002,
+      "end": 1628.8200000000002,
+      "text": "I think there are two aspects to your question."
+    },
+    {
+      "i": 380,
+      "start": 1628.82,
+      "end": 1631.3799999999999,
+      "text": "One is the business model."
+    },
+    {
+      "i": 381,
+      "start": 1631.3799999999999,
+      "end": 1633.3799999999999,
+      "text": "The other one is the capability."
+    },
+    {
+      "i": 382,
+      "start": 1633.3799999999999,
+      "end": 1642.32,
+      "text": "Capability point of view, we are confident that we can perform all the way, not only"
+    },
+    {
+      "i": 383,
+      "start": 1642.32,
+      "end": 1649.74,
+      "text": "if we're analyzing, speccing models."
+    },
+    {
+      "i": 384,
+      "start": 1649.74,
+      "end": 1650.74,
+      "text": "We can."
+    },
+    {
+      "i": 385,
+      "start": 1650.74,
+      "end": 1652.22,
+      "text": "We are capable."
+    },
+    {
+      "i": 386,
+      "start": 1652.22,
+      "end": 1656.8799999999999,
+      "text": "From the IPs to the, of course, the design."
+    },
+    {
+      "i": 387,
+      "start": 1656.8799999999999,
+      "end": 1657.8999999999999,
+      "text": "It's very complex design."
+    },
+    {
+      "i": 388,
+      "start": 1657.8999999999999,
+      "end": 1658.6,
+      "text": "It's very complex."
+    },
+    {
+      "i": 389,
+      "start": 1658.82,
+      "end": 1666.12,
+      "text": "We have a lot of technology capability and advanced packaging technology capabilities,"
+    },
+    {
+      "i": 390,
+      "start": 1666.12,
+      "end": 1670.34,
+      "text": "not to mention the very strong execution capability."
+    },
+    {
+      "i": 391,
+      "start": 1670.34,
+      "end": 1673.46,
+      "text": "So yes, we are confident we can."
+    },
+    {
+      "i": 392,
+      "start": 1673.46,
+      "end": 1679.52,
+      "text": "But on the other hand, from business model point of view, we remain flexible, as I said"
+    },
+    {
+      "i": 393,
+      "start": 1679.52,
+      "end": 1681.78,
+      "text": "previously."
+    },
+    {
+      "i": 394,
+      "start": 1681.78,
+      "end": 1687.8999999999999,
+      "text": "We work with customers closely in different."
+    },
+    {
+      "i": 395,
+      "start": 1687.9,
+      "end": 1691.38,
+      "text": "And the chip now architecture is very complex."
+    },
+    {
+      "i": 396,
+      "start": 1691.38,
+      "end": 1699.48,
+      "text": "So there are various ways to accommodate, to serve our customers, even within one chip"
+    },
+    {
+      "i": 397,
+      "start": 1699.48,
+      "end": 1700.48,
+      "text": "architecture."
+    },
+    {
+      "i": 398,
+      "start": 1700.48,
+      "end": 1714.7800000000002,
+      "text": "So without further going into the details, what I can say is we really work closely and"
+    },
+    {
+      "i": 399,
+      "start": 1714.7800000000002,
+      "end": 1716.0600000000002,
+      "text": "provide customers with not only the best of the best."
+    },
+    {
+      "i": 400,
+      "start": 1716.0600000000002,
+      "end": 1717.0600000000002,
+      "text": "We're also very, very, very, very, very, very, very, very, very, very, very, very, very,"
+    },
+    {
+      "i": 401,
+      "start": 1717.06,
+      "end": 1718.06,
+      "text": "very, very, very, very, very, very, very, very, very, very good."
+    },
+    {
+      "i": 402,
+      "start": 1718.06,
+      "end": 1724.28,
+      "text": "Not only flexibility from the beginning and during the process, if customer needs to change"
+    },
+    {
+      "i": 403,
+      "start": 1724.28,
+      "end": 1733.56,
+      "text": "or modify their model, we just jump ahead to meet their request."
+    },
+    {
+      "i": 404,
+      "start": 1733.56,
+      "end": 1742.6399999999999,
+      "text": "So I truly believe this is a really a win-win business model for the customers and MediaTek."
+    },
+    {
+      "i": 405,
+      "start": 1742.6399999999999,
+      "end": 1743.6399999999999,
+      "text": "Thank you."
+    },
+    {
+      "i": 406,
+      "start": 1743.6399999999999,
+      "end": 1744.6399999999999,
+      "text": "Thank you."
+    },
+    {
+      "i": 407,
+      "start": 1744.6399999999999,
+      "end": 1745.6399999999999,
+      "text": "Thank you."
+    },
+    {
+      "i": 408,
+      "start": 1745.6399999999999,
+      "end": 1746.6399999999999,
+      "text": "Thank you."
+    },
+    {
+      "i": 409,
+      "start": 1746.64,
+      "end": 1747.64,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 410,
+      "start": 1747.64,
+      "end": 1748.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 411,
+      "start": 1748.64,
+      "end": 1749.64,
+      "text": "Next one, Goku Halihalan, JP Morgan."
+    },
+    {
+      "i": 412,
+      "start": 1749.64,
+      "end": 1750.64,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 413,
+      "start": 1750.64,
+      "end": 1751.64,
+      "text": "Yeah."
+    },
+    {
+      "i": 414,
+      "start": 1751.64,
+      "end": 1752.64,
+      "text": "Hi."
+    },
+    {
+      "i": 415,
+      "start": 1752.64,
+      "end": 1753.64,
+      "text": "Thanks for taking my question."
+    },
+    {
+      "i": 416,
+      "start": 1753.64,
+      "end": 1766.64,
+      "text": "So just to clarify something on the enterprise ASIC or data center ASIC, Rick, I think in"
+    },
+    {
+      "i": 417,
+      "start": 1766.64,
+      "end": 1772.3000000000002,
+      "text": "February, you had mentioned this project for next year will start in first quarter or second"
+    },
+    {
+      "i": 418,
+      "start": 1772.3000000000002,
+      "end": 1776.6200000000001,
+      "text": "quarter next year and reach a billion dollar of revenue."
+    },
+    {
+      "i": 419,
+      "start": 1776.64,
+      "end": 1779.64,
+      "text": "So you're saying that you're not going to be excluding HBM."
+    },
+    {
+      "i": 420,
+      "start": 1779.64,
+      "end": 1783.64,
+      "text": "Are we still kind of largely sticking to this timeline?"
+    },
+    {
+      "i": 421,
+      "start": 1783.64,
+      "end": 1788.64,
+      "text": "Looks like the timeline is a little bit later based on your current commentary, but you're"
+    },
+    {
+      "i": 422,
+      "start": 1788.64,
+      "end": 1791.64,
+      "text": "still sticking to that $1 billion even if the timeline is later."
+    },
+    {
+      "i": 423,
+      "start": 1791.64,
+      "end": 1793.64,
+      "text": "Is that a fair representation?"
+    },
+    {
+      "i": 424,
+      "start": 1793.64,
+      "end": 1805.64,
+      "text": "We are working very closely with our customers to ensure the table, a good time for table,"
+    },
+    {
+      "i": 425,
+      "start": 1805.64,
+      "end": 1809.64,
+      "text": "and the table will be ready later this year in the third quarter."
+    },
+    {
+      "i": 426,
+      "start": 1809.64,
+      "end": 1814.64,
+      "text": "And we are doing everything we can."
+    },
+    {
+      "i": 427,
+      "start": 1814.64,
+      "end": 1825.64,
+      "text": "We are preparing everything in advance to ensure a seamless execution after the table."
+    },
+    {
+      "i": 428,
+      "start": 1825.64,
+      "end": 1832.64,
+      "text": "We feel confident that we can really run this table into early production."
+    },
+    {
+      "i": 429,
+      "start": 1832.64,
+      "end": 1833.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 430,
+      "start": 1833.64,
+      "end": 1834.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 431,
+      "start": 1835.64,
+      "end": 1841.64,
+      "text": "So we are going to be running this table into early production in next year starting roughly"
+    },
+    {
+      "i": 432,
+      "start": 1841.64,
+      "end": 1844.64,
+      "text": "later quarter next year."
+    },
+    {
+      "i": 433,
+      "start": 1844.64,
+      "end": 1849.64,
+      "text": "So we strive to achieve that $1 billion target as I said before."
+    },
+    {
+      "i": 434,
+      "start": 1849.64,
+      "end": 1850.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 435,
+      "start": 1850.64,
+      "end": 1851.64,
+      "text": "Okay."
+    },
+    {
+      "i": 436,
+      "start": 1851.64,
+      "end": 1852.64,
+      "text": "Got it."
+    },
+    {
+      "i": 437,
+      "start": 1852.64,
+      "end": 1856.64,
+      "text": "And just wanted to understand, because I think first time we talk about this project, we"
+    },
+    {
+      "i": 438,
+      "start": 1856.64,
+      "end": 1861.64,
+      "text": "were expecting this to start production in 25."
+    },
+    {
+      "i": 439,
+      "start": 1861.64,
+      "end": 1863.64,
+      "text": "Obviously there's been some delays."
+    },
+    {
+      "i": 440,
+      "start": 1863.64,
+      "end": 1868.14,
+      "text": "What is the reason for these delays in your perspective?"
+    },
+    {
+      "i": 441,
+      "start": 1868.14,
+      "end": 1871.94,
+      "text": "And how do you characterize this?"
+    },
+    {
+      "i": 442,
+      "start": 1871.94,
+      "end": 1876.22,
+      "text": "And when you talk about longer-term visibility, how do you factor in some of these kind of"
+    },
+    {
+      "i": 443,
+      "start": 1876.22,
+      "end": 1880.88,
+      "text": "changes which are quite unique to the ASIC business into that longer-term opportunity?"
+    },
+    {
+      "i": 444,
+      "start": 1880.88,
+      "end": 1883.24,
+      "text": "Gokul, Dave here."
+    },
+    {
+      "i": 445,
+      "start": 1883.24,
+      "end": 1887.64,
+      "text": "First of all, I want to clarify, I think starting from the beginning, I don't recall we made"
+    },
+    {
+      "i": 446,
+      "start": 1887.64,
+      "end": 1892.4,
+      "text": "any comment talking about the revenue start from 25."
+    },
+    {
+      "i": 447,
+      "start": 1892.4,
+      "end": 1896.0600000000002,
+      "text": "I think we talked about the major one is actually 26."
+    },
+    {
+      "i": 448,
+      "start": 1896.0600000000002,
+      "end": 1899.8600000000001,
+      "text": "So we never talked about the 25."
+    },
+    {
+      "i": 449,
+      "start": 1899.8600000000001,
+      "end": 1905.5,
+      "text": "And the second part, actually, I understand, especially some people worry about the hiccups."
+    },
+    {
+      "i": 450,
+      "start": 1905.5,
+      "end": 1911.52,
+      "text": "When we give out the revenue guidance for next year, rest assured we're also affecting"
+    },
+    {
+      "i": 451,
+      "start": 1911.52,
+      "end": 1914.16,
+      "text": "some of the potential hiccups as well."
+    },
+    {
+      "i": 452,
+      "start": 1914.16,
+      "end": 1918.92,
+      "text": "So providing actually the hiccups is within the original guidance or original range."
+    },
+    {
+      "i": 453,
+      "start": 1918.92,
+      "end": 1922.3600000000001,
+      "text": "So that's why actually, I guess, that's why you're wondering why."
+    },
+    {
+      "i": 454,
+      "start": 1922.36,
+      "end": 1926.26,
+      "text": "Even though there's some hiccups, but the revenue target didn't really change."
+    },
+    {
+      "i": 455,
+      "start": 1926.26,
+      "end": 1928.26,
+      "text": "I think that's the major reason."
+    },
+    {
+      "i": 456,
+      "start": 1928.26,
+      "end": 1935.3,
+      "text": "Is there a risk that this project will see some scale down given that your competitor"
+    },
+    {
+      "i": 457,
+      "start": 1935.3,
+      "end": 1938.24,
+      "text": "also has a project which is of larger scale?"
+    },
+    {
+      "i": 458,
+      "start": 1938.24,
+      "end": 1940.24,
+      "text": "Like how do we kind of assess that risk?"
+    },
+    {
+      "i": 459,
+      "start": 1940.24,
+      "end": 1943.4599999999998,
+      "text": "Or is that risk already kind of factored into your guidance?"
+    },
+    {
+      "i": 460,
+      "start": 1943.4599999999998,
+      "end": 1949.6799999999998,
+      "text": "I think so far, again, because we're talking about ramping up really third quarter, late"
+    },
+    {
+      "i": 461,
+      "start": 1949.6799999999998,
+      "end": 1951.3799999999999,
+      "text": "third quarter next year."
+    },
+    {
+      "i": 462,
+      "start": 1951.3799999999999,
+      "end": 1951.86,
+      "text": "So even..."
+    },
+    {
+      "i": 463,
+      "start": 1951.86,
+      "end": 1952.86,
+      "text": "Okay."
+    },
+    {
+      "i": 464,
+      "start": 1952.86,
+      "end": 1957.86,
+      "text": "Even in the worst case, if the overall scale is coming down, it will not impact the next"
+    },
+    {
+      "i": 465,
+      "start": 1957.86,
+      "end": 1959.7199999999998,
+      "text": "quarter, next year's revenue."
+    },
+    {
+      "i": 466,
+      "start": 1959.7199999999998,
+      "end": 1963.6999999999998,
+      "text": "It may be impacting your lifetime, which was 27, 28."
+    },
+    {
+      "i": 467,
+      "start": 1963.6999999999998,
+      "end": 1969.1999999999998,
+      "text": "But for the MPI, the new product introduction, you just need to start enough wafer to start"
+    },
+    {
+      "i": 468,
+      "start": 1969.1999999999998,
+      "end": 1970.1999999999998,
+      "text": "with."
+    },
+    {
+      "i": 469,
+      "start": 1970.1999999999998,
+      "end": 1978.76,
+      "text": "The positioning of different chips is quite different for customer's data center use."
+    },
+    {
+      "i": 470,
+      "start": 1978.76,
+      "end": 1980.76,
+      "text": "So, you know, we're talking about the data center."
+    },
+    {
+      "i": 471,
+      "start": 1980.76,
+      "end": 1981.76,
+      "text": "We're talking about the data center."
+    },
+    {
+      "i": 472,
+      "start": 1981.76,
+      "end": 1982.76,
+      "text": "We're talking about the data center."
+    },
+    {
+      "i": 473,
+      "start": 1982.76,
+      "end": 1983.76,
+      "text": "We're talking about the data center."
+    },
+    {
+      "i": 474,
+      "start": 1983.76,
+      "end": 1991.26,
+      "text": "So, we remain, again, confident that our chips will have really very good growth in the coming"
+    },
+    {
+      "i": 475,
+      "start": 1991.26,
+      "end": 1992.26,
+      "text": "years."
+    },
+    {
+      "i": 476,
+      "start": 1992.26,
+      "end": 1993.26,
+      "text": "Thank you."
+    },
+    {
+      "i": 477,
+      "start": 1993.26,
+      "end": 1994.26,
+      "text": "Thanks."
+    },
+    {
+      "i": 478,
+      "start": 1994.26,
+      "end": 1995.26,
+      "text": "Thanks, Rick."
+    },
+    {
+      "i": 479,
+      "start": 1995.26,
+      "end": 2002.08,
+      "text": "Maybe my second question is on the automotive side."
+    },
+    {
+      "i": 480,
+      "start": 2002.08,
+      "end": 2006.76,
+      "text": "You seem to be seeing more and more traction on the smart cockpit, telematics."
+    },
+    {
+      "i": 481,
+      "start": 2006.76,
+      "end": 2008.76,
+      "text": "Could you talk a little bit about more of the..."
+    },
+    {
+      "i": 482,
+      "start": 2008.76,
+      "end": 2009.76,
+      "text": "Yeah."
+    },
+    {
+      "i": 483,
+      "start": 2009.76,
+      "end": 2010.76,
+      "text": "Yeah."
+    },
+    {
+      "i": 484,
+      "start": 2010.76,
+      "end": 2011.76,
+      "text": "Yeah."
+    },
+    {
+      "i": 485,
+      "start": 2011.76,
+      "end": 2012.76,
+      "text": "No issues, on context."
+    },
+    {
+      "i": 486,
+      "start": 2012.76,
+      "end": 2013.76,
+      "text": "Like we just talked about, what makes you for Interas really good?"
+    },
+    {
+      "i": 487,
+      "start": 2013.76,
+      "end": 2014.76,
+      "text": "We'll talk more about it later, and then we'll do a fun video as well."
+    },
+    {
+      "i": 488,
+      "start": 2014.76,
+      "end": 2015.76,
+      "text": "Hey."
+    },
+    {
+      "i": 489,
+      "start": 2015.76,
+      "end": 2016.76,
+      "text": "Yeah."
+    },
+    {
+      "i": 490,
+      "start": 2016.76,
+      "end": 2017.76,
+      "text": "I was just going to add, like, commissioning to A Pentel that regards their single project"
+    },
+    {
+      "i": 491,
+      "start": 2017.76,
+      "end": 2036.1,
+      "text": "and their ecosystem, I think that this outcome has changed"
+    },
+    {
+      "i": 492,
+      "start": 2036.1,
+      "end": 2037.1,
+      "text": "tremendously."
+    },
+    {
+      "i": 493,
+      "start": 2037.1,
+      "end": 2038.16,
+      "text": "So we now work with, like, the AI tech side and these Alphabet guys, they utilize ali-systems"
+    },
+    {
+      "i": 494,
+      "start": 2038.16,
+      "end": 2039.76,
+      "text": "and this multi- кораб Backами protocol is a more Applause on customer services, inspirational"
+    },
+    {
+      "i": 495,
+      "start": 2039.76,
+      "end": 2040.26,
+      "text": "communication for int harden people, which is very helpful, I think that's a class and"
+    },
+    {
+      "i": 496,
+      "start": 2040.26,
+      "end": 2041.26,
+      "text": "industry like no other."
+    },
+    {
+      "i": 497,
+      "start": 2041.76,
+      "end": 2047.04,
+      "text": "Goku, I think for the billion-dollar revenue target, I think we probably won't be able to make it in next year."
+    },
+    {
+      "i": 498,
+      "start": 2047.26,
+      "end": 2054.58,
+      "text": "Even though we do see very strong revenue growth year over year, I guess we still probably need two to three years to see that benchmark."
+    },
+    {
+      "i": 499,
+      "start": 2054.88,
+      "end": 2058.12,
+      "text": "For next year, we will not see a billion dollars."
+    },
+    {
+      "i": 500,
+      "start": 2059.0,
+      "end": 2069.16,
+      "text": "From the design in and design win, or maybe just the backlog perspective or design pipeline perspective, I think it all looks actually pretty healthy and solid."
+    },
+    {
+      "i": 501,
+      "start": 2069.16,
+      "end": 2090.3399999999997,
+      "text": "Your question, Goku, about the ADAS, of course, you're right about the ADAS and the coming architecture of having ADAS and the cockpit chip in one SOC."
+    },
+    {
+      "i": 502,
+      "start": 2092.44,
+      "end": 2098.68,
+      "text": "For now, you certainly know that we are focusing on cockpit."
+    },
+    {
+      "i": 503,
+      "start": 2099.1,
+      "end": 2099.14,
+      "text": "And we are focusing on the cockpit."
+    },
+    {
+      "i": 504,
+      "start": 2099.14,
+      "end": 2099.16,
+      "text": "And we are focusing on the cockpit."
+    },
+    {
+      "i": 505,
+      "start": 2099.16,
+      "end": 2129.14,
+      "text": "And we are focusing on the cockpit."
+    },
+    {
+      "i": 506,
+      "start": 2129.14,
+      "end": 2140.7799999999997,
+      "text": "As far as I'm concerned, we are working, I should say, working with certain customers to build the ADAS chip."
+    },
+    {
+      "i": 507,
+      "start": 2141.3799999999997,
+      "end": 2142.42,
+      "text": "That's all I can say."
+    },
+    {
+      "i": 508,
+      "start": 2143.3399999999997,
+      "end": 2156.8799999999997,
+      "text": "And with that, we are quite confident, we're very confident that we will move into the ADAS field sometime soon."
+    },
+    {
+      "i": 509,
+      "start": 2156.8799999999997,
+      "end": 2158.06,
+      "text": "Thank you."
+    },
+    {
+      "i": 510,
+      "start": 2159.14,
+      "end": 2162.06,
+      "text": "Thanks."
+    },
+    {
+      "i": 511,
+      "start": 2163.7999999999997,
+      "end": 2164.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 512,
+      "start": 2165.3599999999997,
+      "end": 2167.48,
+      "text": "Next one, Felix Pan, KGI."
+    },
+    {
+      "i": 513,
+      "start": 2167.72,
+      "end": 2168.42,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 514,
+      "start": 2169.3799999999997,
+      "end": 2170.3399999999997,
+      "text": "Hi, good afternoon."
+    },
+    {
+      "i": 515,
+      "start": 2170.8199999999997,
+      "end": 2172.0,
+      "text": "Rick, David, and JC."
+    },
+    {
+      "i": 516,
+      "start": 2172.42,
+      "end": 2173.3799999999997,
+      "text": "Two questions from me."
+    },
+    {
+      "i": 517,
+      "start": 2173.66,
+      "end": 2180.22,
+      "text": "First of all, for the N2's progress, we are at the same pace as our competitors moving to the N2."
+    },
+    {
+      "i": 518,
+      "start": 2180.7999999999997,
+      "end": 2187.14,
+      "text": "But as we know, the consumption for the smartphone is pretty weak from year to date, even with some subsidies."
+    },
+    {
+      "i": 519,
+      "start": 2187.14,
+      "end": 2189.12,
+      "text": "So I just wonder..."
+    },
+    {
+      "i": 520,
+      "start": 2189.14,
+      "end": 2198.5,
+      "text": "How likely is it for your customer to transfer the cost for the migration to the customer?"
+    },
+    {
+      "i": 521,
+      "start": 2198.5,
+      "end": 2203.9,
+      "text": "Is that the consumption can be with this kind of the cost increase?"
+    },
+    {
+      "i": 522,
+      "start": 2203.9,
+      "end": 2205.3799999999997,
+      "text": "That's my first question."
+    },
+    {
+      "i": 523,
+      "start": 2205.3799999999997,
+      "end": 2208.96,
+      "text": "Second question will be the AI ethic."
+    },
+    {
+      "i": 524,
+      "start": 2208.96,
+      "end": 2216.92,
+      "text": "I think in the early days, I think maybe one company can do like all the service from the computing die, IOT die."
+    },
+    {
+      "i": 525,
+      "start": 2216.92,
+      "end": 2217.42,
+      "text": "So this..."
+    },
+    {
+      "i": 526,
+      "start": 2217.42,
+      "end": 2218.5,
+      "text": "But now we see..."
+    },
+    {
+      "i": 527,
+      "start": 2218.5,
+      "end": 2219.0,
+      "text": "I think..."
+    },
+    {
+      "i": 528,
+      "start": 2219.0,
+      "end": 2220.6,
+      "text": "We see more like..."
+    },
+    {
+      "i": 529,
+      "start": 2220.6,
+      "end": 2223.88,
+      "text": "Like more and more players jumping to the place."
+    },
+    {
+      "i": 530,
+      "start": 2223.88,
+      "end": 2229.44,
+      "text": "So we see something smaller like the people doing service, people doing the computing die."
+    },
+    {
+      "i": 531,
+      "start": 2229.44,
+      "end": 2233.52,
+      "text": "How do you see the trends going forward?"
+    },
+    {
+      "i": 532,
+      "start": 2233.52,
+      "end": 2235.52,
+      "text": "Any color will be grateful."
+    },
+    {
+      "i": 533,
+      "start": 2235.52,
+      "end": 2236.46,
+      "text": "That's my question."
+    },
+    {
+      "i": 534,
+      "start": 2236.46,
+      "end": 2236.96,
+      "text": "Thanks."
+    },
+    {
+      "i": 535,
+      "start": 2239.36,
+      "end": 2248.36,
+      "text": "Well, the mobile flagship SOCs, there's no doubt in our mind that the 2 nanometer will be..."
+    },
+    {
+      "i": 536,
+      "start": 2248.36,
+      "end": 2253.26,
+      "text": "In the mainstream for the flagship."
+    },
+    {
+      "i": 537,
+      "start": 2253.26,
+      "end": 2256.44,
+      "text": "No doubt in our mind."
+    },
+    {
+      "i": 538,
+      "start": 2256.44,
+      "end": 2260.7200000000003,
+      "text": "The demand..."
+    },
+    {
+      "i": 539,
+      "start": 2260.7200000000003,
+      "end": 2269.92,
+      "text": "The user experiences, requirements, all points that way."
+    },
+    {
+      "i": 540,
+      "start": 2269.92,
+      "end": 2274.96,
+      "text": "By the way, I think the smartphone market is not growing big, but it's not doing..."
+    },
+    {
+      "i": 541,
+      "start": 2274.96,
+      "end": 2275.96,
+      "text": "It's not doing..."
+    },
+    {
+      "i": 542,
+      "start": 2275.96,
+      "end": 2276.96,
+      "text": "It's not doing..."
+    },
+    {
+      "i": 543,
+      "start": 2276.96,
+      "end": 2277.96,
+      "text": "It's not doing..."
+    },
+    {
+      "i": 544,
+      "start": 2277.96,
+      "end": 2281.36,
+      "text": "Poorly either."
+    },
+    {
+      "i": 545,
+      "start": 2281.36,
+      "end": 2285.56,
+      "text": "I think it is about the same as last year for instance."
+    },
+    {
+      "i": 546,
+      "start": 2285.56,
+      "end": 2294.96,
+      "text": "Wire, the share of the flagship phone has gone steadily higher every year."
+    },
+    {
+      "i": 547,
+      "start": 2294.96,
+      "end": 2305.4,
+      "text": "And that's why it was a part of reason, our share in the flagship SOC continue to grow also."
+    },
+    {
+      "i": 548,
+      "start": 2305.4,
+      "end": 2307.44,
+      "text": "But 2 nanometer with its power consumption, it's still a..."
+    },
+    {
+      "i": 549,
+      "start": 2307.44,
+      "end": 2319.12,
+      "text": "power consumption benefits and the superior performance are really a perfect fit. There's no"
+    },
+    {
+      "i": 550,
+      "start": 2320.08,
+      "end": 2329.84,
+      "text": "replacing for that for the next generation flagship SOC for the mobile domain."
+    },
+    {
+      "i": 551,
+      "start": 2329.84,
+      "end": 2333.76,
+      "text": "Then on the ASIC part."
+    },
+    {
+      "i": 552,
+      "start": 2339.6000000000004,
+      "end": 2346.88,
+      "text": "Okay well again I think you hear right on that the ASIC the data center ASIC"
+    },
+    {
+      "i": 553,
+      "start": 2348.2400000000002,
+      "end": 2358.0,
+      "text": "is getting more and more and much more complex as the requirement for the computing power"
+    },
+    {
+      "i": 554,
+      "start": 2359.84,
+      "end": 2367.6000000000004,
+      "text": "for the power consumption requirements for the very high speed interconnect"
+    },
+    {
+      "i": 555,
+      "start": 2368.8,
+      "end": 2376.8,
+      "text": "up and out or demand a tremendous technology capability"
+    },
+    {
+      "i": 556,
+      "start": 2378.88,
+      "end": 2389.6000000000004,
+      "text": "from computing area the well either the custom design computing chip or the XPU kind of"
+    },
+    {
+      "i": 557,
+      "start": 2389.84,
+      "end": 2398.4,
+      "text": "a computing chip although we believe the custom computing chip will occupy the majority of the"
+    },
+    {
+      "i": 558,
+      "start": 2398.4,
+      "end": 2407.1200000000003,
+      "text": "ASIC market for data centers and the other demand for the fast extremely fast interconnect which"
+    },
+    {
+      "i": 559,
+      "start": 2407.1200000000003,
+      "end": 2414.2400000000002,
+      "text": "of course we well everybody's moving from 200G to 400G not everybody very few people can do that"
+    },
+    {
+      "i": 560,
+      "start": 2414.2400000000002,
+      "end": 2416.0,
+      "text": "by the way only very few."
+    },
+    {
+      "i": 561,
+      "start": 2416.0,
+      "end": 2417.28,
+      "text": "Uh"
+    },
+    {
+      "i": 562,
+      "start": 2419.84,
+      "end": 2428.7200000000003,
+      "text": "moving on and media tech is one of the very few who can do that and if and we also need to invest"
+    },
+    {
+      "i": 563,
+      "start": 2428.7200000000003,
+      "end": 2438.2400000000002,
+      "text": "in the CPO as the next step after for 400G even less importantly or more importantly the advanced"
+    },
+    {
+      "i": 564,
+      "start": 2438.96,
+      "end": 2449.76,
+      "text": "packaging technology the 2.5D very large chip size aging capability is a must but together are we"
+    },
+    {
+      "i": 565,
+      "start": 2449.84,
+      "end": 2460.7200000000003,
+      "text": "also with the 3.5D packaging technology these are very difficult but also a must for the data center"
+    },
+    {
+      "i": 566,
+      "start": 2463.04,
+      "end": 2472.4,
+      "text": "to achieve is to produce the computing power the tokens per second as a reasonable"
+    },
+    {
+      "i": 567,
+      "start": 2473.92,
+      "end": 2478.7200000000003,
+      "text": "power consumption and a TCO the media attack"
+    },
+    {
+      "i": 568,
+      "start": 2479.84,
+      "end": 2481.84,
+      "text": "and the data center to achieve this is a must."
+    },
+    {
+      "i": 569,
+      "start": 2481.84,
+      "end": 2490.56,
+      "text": "I would say it's one of the very few who can and who will fulfill all those very very challenging"
+    },
+    {
+      "i": 570,
+      "start": 2491.2000000000003,
+      "end": 2497.28,
+      "text": "technology requirements and business model flexibility."
+    },
+    {
+      "i": 571,
+      "start": 2498.8,
+      "end": 2499.3,
+      "text": "Thank you."
+    },
+    {
+      "i": 572,
+      "start": 2502.1600000000003,
+      "end": 2502.8,
+      "text": "Okay thank you."
+    },
+    {
+      "i": 573,
+      "start": 2505.52,
+      "end": 2506.02,
+      "text": "Thank you."
+    },
+    {
+      "i": 574,
+      "start": 2506.96,
+      "end": 2508.96,
+      "text": "Next one Brett Simpson, Erite. Go ahead."
+    },
+    {
+      "i": 575,
+      "start": 2508.96,
+      "end": 2509.46,
+      "text": "Thank you."
+    },
+    {
+      "i": 576,
+      "start": 2509.84,
+      "end": 2510.34,
+      "text": "Please."
+    },
+    {
+      "i": 577,
+      "start": 2512.4,
+      "end": 2519.2000000000003,
+      "text": "Yeah thanks very much. I had a near-term question and a long-term question. I guess first up on a"
+    },
+    {
+      "i": 578,
+      "start": 2519.2000000000003,
+      "end": 2523.92,
+      "text": "near term can you maybe just clarify the smartphone outlook for Q3. I think you said flagship would"
+    },
+    {
+      "i": 579,
+      "start": 2523.92,
+      "end": 2530.4,
+      "text": "grow but is overall smartphone sales growing sequentially in Q3 and I guess we're coming"
+    },
+    {
+      "i": 580,
+      "start": 2530.4,
+      "end": 2539.2000000000003,
+      "text": "off a period of subsidies in China particularly mid-range low-end we're seeing cutbacks in subsidy."
+    },
+    {
+      "i": 581,
+      "start": 2539.7599999999998,
+      "end": 2546.56,
+      "text": "So can you maybe share with us your perspective on how you think China consumer demand plays into"
+    },
+    {
+      "i": 582,
+      "start": 2546.56,
+      "end": 2553.7599999999998,
+      "text": "second half. Do you anticipate any inventory builds and directionally would you expect"
+    },
+    {
+      "i": 583,
+      "start": 2554.3999999999996,
+      "end": 2556.7999999999997,
+      "text": "sequential growth in Q4 for smartphones? Thank you."
+    },
+    {
+      "i": 584,
+      "start": 2558.08,
+      "end": 2562.7999999999997,
+      "text": "Right first and first uh overall I think we see a pretty healthy and normal"
+    },
+    {
+      "i": 585,
+      "start": 2562.7999999999997,
+      "end": 2568.72,
+      "text": "inventory situation in the marketplace both actually for our customers and also for channel"
+    },
+    {
+      "i": 586,
+      "start": 2568.72,
+      "end": 2576.3199999999997,
+      "text": "inventory so it's healthy and uh props to uh normal and probably closer from the lean and for"
+    },
+    {
+      "i": 587,
+      "start": 2576.3199999999997,
+      "end": 2583.04,
+      "text": "third quarter specifically uh due to our flagship ramping up we see a very strong revenue rent for"
+    },
+    {
+      "i": 588,
+      "start": 2583.04,
+      "end": 2589.8399999999997,
+      "text": "our flagship uh for mainstream and also the entry level i would say probably flat down a bit but"
+    },
+    {
+      "i": 589,
+      "start": 2589.8399999999997,
+      "end": 2595.9199999999996,
+      "text": "overall i think for the market momentum i will use the world probably healthy i won't say it's"
+    },
+    {
+      "i": 590,
+      "start": 2595.92,
+      "end": 2601.28,
+      "text": "strong but it's really definitely healthy and partially due to the incentive programs"
+    },
+    {
+      "i": 591,
+      "start": 2601.28,
+      "end": 2604.0,
+      "text": "and also the product migrations in the marketplace"
+    },
+    {
+      "i": 592,
+      "start": 2606.96,
+      "end": 2612.96,
+      "text": "and and just on just on that david so you're you're shipping 9500 a little bit earlier than"
+    },
+    {
+      "i": 593,
+      "start": 2612.96,
+      "end": 2618.96,
+      "text": "we would have expected uh into q3 uh does that take away does that change your thinking on q4 i"
+    },
+    {
+      "i": 594,
+      "start": 2618.96,
+      "end": 2624.4,
+      "text": "mean can do would you expect smartphones to grow in q4 just direction i think for for flagships"
+    },
+    {
+      "i": 595,
+      "start": 2625.92,
+      "end": 2630.0,
+      "text": "i think it's going to be a little bit different from what we were expecting start from q3 but it's"
+    },
+    {
+      "i": 596,
+      "start": 2630.0,
+      "end": 2635.44,
+      "text": "not going to stop at q4 you will continue from q3 q4 actually all the way to q1 i think basically"
+    },
+    {
+      "i": 597,
+      "start": 2635.44,
+      "end": 2642.2400000000002,
+      "text": "that's the cadence in uh brim down cycle for flagship okay great thanks and maybe for rick i i"
+    },
+    {
+      "i": 598,
+      "start": 2642.2400000000002,
+      "end": 2648.16,
+      "text": "just wanted to talk well a multi-part question on the nvidia relationship for mediatek and and where"
+    },
+    {
+      "i": 599,
+      "start": 2648.16,
+      "end": 2653.76,
+      "text": "you think this is going and and and maybe just first of all um the scope of this partnership i'd"
+    },
+    {
+      "i": 600,
+      "start": 2653.76,
+      "end": 2655.04,
+      "text": "love to understand um how much headcount is going to be in the future and and how much of the revenue"
+    },
+    {
+      "i": 601,
+      "start": 2655.04,
+      "end": 2655.76,
+      "text": "is going to be in the future and and and how much of the revenue is going to be in the future and and how"
+    },
+    {
+      "i": 602,
+      "start": 2655.76,
+      "end": 2661.76,
+      "text": "you're assigning to this opportunity um does the opportunity uh with nvidia extend to"
+    },
+    {
+      "i": 603,
+      "start": 2661.76,
+      "end": 2667.5200000000004,
+      "text": "collaborations on 400 gig certies um i know you're working with nvidia on autonomous"
+    },
+    {
+      "i": 604,
+      "start": 2668.4,
+      "end": 2673.6800000000003,
+      "text": "vehicles does that extend into robotics um so can you maybe just talk at a high level about"
+    },
+    {
+      "i": 605,
+      "start": 2673.6800000000003,
+      "end": 2679.36,
+      "text": "how you're thinking about this relationship and in terms of the business model um with nvidia"
+    },
+    {
+      "i": 606,
+      "start": 2679.36,
+      "end": 2685.6800000000003,
+      "text": "obviously you're starting to ramp the dg10 this quarter but can you give us a sense as to how this"
+    },
+    {
+      "i": 607,
+      "start": 2685.76,
+      "end": 2692.7200000000003,
+      "text": "translates to revenues and whether the business model with nvidia is a creative or dilutive to to"
+    },
+    {
+      "i": 608,
+      "start": 2692.7200000000003,
+      "end": 2702.8,
+      "text": "eat corporate ebit margins thank you all right let me uh get my head straight first uh it is truly a"
+    },
+    {
+      "i": 609,
+      "start": 2702.8,
+      "end": 2713.76,
+      "text": "multi-part question let me just start with our uh our nvidia uh collaboration model uh we have two"
+    },
+    {
+      "i": 610,
+      "start": 2715.76,
+      "end": 2725.92,
+      "text": "very active and i would say up to now quite successful uh business collaborations one being"
+    },
+    {
+      "i": 611,
+      "start": 2725.92,
+      "end": 2736.0,
+      "text": "the arm computing chip square which uh you just mentioned gp10 uh it's already it will it will be"
+    },
+    {
+      "i": 612,
+      "start": 2736.0,
+      "end": 2743.5200000000004,
+      "text": "shipped uh very soon in the third quarter and the other one being the uh cockpit chips uh in the uh"
+    },
+    {
+      "i": 613,
+      "start": 2743.5200000000004,
+      "end": 2744.8,
+      "text": "autonomous vehicles"
+    },
+    {
+      "i": 614,
+      "start": 2745.76,
+      "end": 2756.5600000000004,
+      "text": "uh both and as i said the cx1 i just mentioned in my remarks uh was developed uh through the"
+    },
+    {
+      "i": 615,
+      "start": 2756.5600000000004,
+      "end": 2765.92,
+      "text": "collaboration with nvidia uh both companies have putting uh a lot of resources we we obviously uh"
+    },
+    {
+      "i": 616,
+      "start": 2767.2000000000003,
+      "end": 2774.8,
+      "text": "do uh we were putting resources uh well"
+    },
+    {
+      "i": 617,
+      "start": 2775.76,
+      "end": 2779.44,
+      "text": "around a thousand a year roughly uh"
+    },
+    {
+      "i": 618,
+      "start": 2781.0400000000004,
+      "end": 2791.76,
+      "text": "uh saying all that uh these are uh just the beginning of this uh i would say very"
+    },
+    {
+      "i": 619,
+      "start": 2792.5600000000004,
+      "end": 2801.6000000000004,
+      "text": "promising and mutually beneficial collaboration model uh as i would uh certainly believe jensen"
+    },
+    {
+      "i": 620,
+      "start": 2801.6000000000004,
+      "end": 2805.0400000000004,
+      "text": "also believe in um"
+    },
+    {
+      "i": 621,
+      "start": 2805.76,
+      "end": 2812.46,
+      "text": "want remains to be made of a lot of different technologies and uh"
+    },
+    {
+      "i": 622,
+      "start": 2813.1200000000003,
+      "end": 2814.32,
+      "text": "TIM IMPOWE has a broad But like I thinned of으"
+    },
+    {
+      "i": 623,
+      "start": 2814.32,
+      "end": 2816.44,
+      "text": "entity of They uh I can't break M steady"
+    },
+    {
+      "i": 624,
+      "start": 2816.44,
+      "end": 2821.82,
+      "text": "company uh but i have there a"
+    },
+    {
+      "i": 625,
+      "start": 2825.7000000000003,
+      "end": 2826.0,
+      "text": "system that"
+    },
+    {
+      "i": 626,
+      "start": 2826.0,
+      "end": 2827.34,
+      "text": "like the"
+    },
+    {
+      "i": 627,
+      "start": 2828.96,
+      "end": 2829.28,
+      "text": "uh"
+    },
+    {
+      "i": 628,
+      "start": 2829.28,
+      "end": 2829.44,
+      "text": "OC"
+    },
+    {
+      "i": 629,
+      "start": 2829.44,
+      "end": 2830.5600000000004,
+      "text": "ph"
+    },
+    {
+      "i": 630,
+      "start": 2830.5600000000004,
+      "end": 2831.7400000000002,
+      "text": "of"
+    },
+    {
+      "i": 631,
+      "start": 2831.7400000000002,
+      "end": 2832.4,
+      "text": "all"
+    },
+    {
+      "i": 632,
+      "start": 2832.4,
+      "end": 2833.42,
+      "text": "реб"
+    },
+    {
+      "i": 633,
+      "start": 2833.42,
+      "end": 2834.1200000000003,
+      "text": ","
+    },
+    {
+      "i": 634,
+      "start": 2834.1200000000003,
+      "end": 2834.46,
+      "text": "n"
+    },
+    {
+      "i": 635,
+      "start": 2834.46,
+      "end": 2834.92,
+      "text": "N"
+    },
+    {
+      "i": 636,
+      "start": 2834.92,
+      "end": 2835.5200000000004,
+      "text": "to"
+    },
+    {
+      "i": 637,
+      "start": 2835.52,
+      "end": 2841.52,
+      "text": "value for both companies are very positive in this time of the"
+    },
+    {
+      "i": 638,
+      "start": 2845.28,
+      "end": 2856.72,
+      "text": "but the very robust demand for all kinds of ai capability one key bottleneck is the resources"
+    },
+    {
+      "i": 639,
+      "start": 2856.72,
+      "end": 2867.68,
+      "text": "and in this way both companies can in this collaboration model both companies can achieve"
+    },
+    {
+      "i": 640,
+      "start": 2867.68,
+      "end": 2883.6,
+      "text": "more with the existing or resources the created value i think will be obvious for both companies"
+    },
+    {
+      "i": 641,
+      "start": 2885.2799999999997,
+      "end": 2885.68,
+      "text": "thank you"
+    },
+    {
+      "i": 642,
+      "start": 2886.72,
+      "end": 2888.16,
+      "text": "thank you"
+    },
+    {
+      "i": 643,
+      "start": 2891.8399999999997,
+      "end": 2899.52,
+      "text": "thank you next one bruce lu gorman sachs go ahead please hello thank you for taking taking my"
+    },
+    {
+      "i": 644,
+      "start": 2899.52,
+      "end": 2906.7999999999997,
+      "text": "question uh again my question is still for the asic i think we could just mention that the customer"
+    },
+    {
+      "i": 645,
+      "start": 2906.7999999999997,
+      "end": 2916.0,
+      "text": "as it has different positioning right so does the do you see any changes in terms of the positioning"
+    },
+    {
+      "i": 646,
+      "start": 2916.72,
+      "end": 2924.64,
+      "text": "for the asic chips moving forward i.e that you know in the past you know there's a rule of"
+    },
+    {
+      "i": 647,
+      "start": 2924.64,
+      "end": 2930.56,
+      "text": "thunder training for gpu you know inferences for asic but it sounds like sounds to me that"
+    },
+    {
+      "i": 648,
+      "start": 2930.56,
+      "end": 2937.12,
+      "text": "there are certain changes for that so do you see a clear positioning for asian in"
+    },
+    {
+      "i": 649,
+      "start": 2939.2,
+      "end": 2946.56,
+      "text": "inference or reasoning or it is also because of competition right i mean if the customer is it can"
+    },
+    {
+      "i": 650,
+      "start": 2946.72,
+      "end": 2958.72,
+      "text": "really compete in with gpu in certain you know uh or in their previous planning do you see that"
+    },
+    {
+      "i": 651,
+      "start": 2958.72,
+      "end": 2971.04,
+      "text": "change the addressable market for you and for your customers well bruce i will not act as a data center"
+    },
+    {
+      "i": 652,
+      "start": 2971.04,
+      "end": 2975.68,
+      "text": "expert myself we are however only"
+    },
+    {
+      "i": 653,
+      "start": 2976.72,
+      "end": 2989.2799999999997,
+      "text": "asic chip supplier however as we have engaged with multiple parties in the business"
+    },
+    {
+      "i": 654,
+      "start": 2991.8399999999997,
+      "end": 3005.68,
+      "text": "i think you can we can uh calculate the tab uh for the uh for instance for the asic the customer is"
+    },
+    {
+      "i": 655,
+      "start": 3006.72,
+      "end": 3017.8399999999997,
+      "text": "customer of course uh business and i believe the number we have been quoting 40 billion dollar"
+    },
+    {
+      "i": 656,
+      "start": 3018.48,
+      "end": 3026.48,
+      "text": "10. actually if you look at different uh different parties we are probably on the low side"
+    },
+    {
+      "i": 657,
+      "start": 3027.6,
+      "end": 3036.56,
+      "text": "of the term so i would say from that point of view we are being certainly not too aggressive"
+    },
+    {
+      "i": 658,
+      "start": 3036.72,
+      "end": 3048.48,
+      "text": "and uh the other thing i think is quite sure is the uh the custom to being custom chip the most"
+    },
+    {
+      "i": 659,
+      "start": 3048.48,
+      "end": 3056.24,
+      "text": "important thing is the customers understand their workload requirement because they know the best"
+    },
+    {
+      "i": 660,
+      "start": 3057.12,
+      "end": 3064.72,
+      "text": "and so that they can custom build certain chips more efficiently than a general purpose"
+    },
+    {
+      "i": 661,
+      "start": 3067.04,
+      "end": 3074.08,
+      "text": "accelerated uh ai chip both are critical both will remain"
+    },
+    {
+      "i": 662,
+      "start": 3075.3599999999997,
+      "end": 3082.3199999999997,
+      "text": "more than viable for the data center industry i don't think there's any question to that"
+    },
+    {
+      "i": 663,
+      "start": 3082.8799999999997,
+      "end": 3095.6,
+      "text": "it's just the reality of the uh data center uh industry uh requires uh the large csps to build"
+    },
+    {
+      "i": 664,
+      "start": 3095.6,
+      "end": 3096.16,
+      "text": "their own data centers with a shared industry and that's powerful and that's you know that's the reality of the data centers industry requires uh the large csps to build their own"
+    },
+    {
+      "i": 665,
+      "start": 3096.72,
+      "end": 3106.58,
+      "text": "custom silicon so that they can they have a certain portfolio of their capacity or capability"
+    },
+    {
+      "i": 666,
+      "start": 3106.58,
+      "end": 3114.98,
+      "text": "to be more efficient and more potentially cost and power efficient."
+    },
+    {
+      "i": 667,
+      "start": 3114.98,
+      "end": 3124.9199999999996,
+      "text": "But the ratio of their planning for different either training or reasoning or influencing"
+    },
+    {
+      "i": 668,
+      "start": 3124.92,
+      "end": 3130.16,
+      "text": "really also depends greatly on again their business outlook."
+    },
+    {
+      "i": 669,
+      "start": 3130.16,
+      "end": 3135.16,
+      "text": "It's very difficult for us to comment truthfully."
+    },
+    {
+      "i": 670,
+      "start": 3135.16,
+      "end": 3136.16,
+      "text": "Thank you."
+    },
+    {
+      "i": 671,
+      "start": 3136.16,
+      "end": 3140.6800000000003,
+      "text": "Just a quick follow-up on this."
+    },
+    {
+      "i": 672,
+      "start": 3140.6800000000003,
+      "end": 3148.38,
+      "text": "I mean the reason we want to know that is that whether this heat carbon delay is due"
+    },
+    {
+      "i": 673,
+      "start": 3148.38,
+      "end": 3154.64,
+      "text": "to like technical difficulty or any changes in terms of positioning, any changes in the"
+    },
+    {
+      "i": 674,
+      "start": 3154.64,
+      "end": 3154.9,
+      "text": "component."
+    },
+    {
+      "i": 675,
+      "start": 3154.9,
+      "end": 3160.14,
+      "text": "Is it due to the competition landscape or just simply that the chips are a bit difficult?"
+    },
+    {
+      "i": 676,
+      "start": 3160.14,
+      "end": 3166.8,
+      "text": "Bruce, I think so far what we see actually like you say from the market competition perspective,"
+    },
+    {
+      "i": 677,
+      "start": 3166.8,
+      "end": 3169.62,
+      "text": "there's no material change in the last few quarter."
+    },
+    {
+      "i": 678,
+      "start": 3169.62,
+      "end": 3175.44,
+      "text": "So I think you can rest assured the delay or whatever is not due to what you talk about"
+    },
+    {
+      "i": 679,
+      "start": 3175.44,
+      "end": 3176.44,
+      "text": "the competition."
+    },
+    {
+      "i": 680,
+      "start": 3176.44,
+      "end": 3177.44,
+      "text": "I see."
+    },
+    {
+      "i": 681,
+      "start": 3177.44,
+      "end": 3178.44,
+      "text": "I understand."
+    },
+    {
+      "i": 682,
+      "start": 3178.44,
+      "end": 3179.44,
+      "text": "Thank you."
+    },
+    {
+      "i": 683,
+      "start": 3179.44,
+      "end": 3180.44,
+      "text": "Okay."
+    },
+    {
+      "i": 684,
+      "start": 3180.44,
+      "end": 3184.62,
+      "text": "The second thing is that for the"
+    },
+    {
+      "i": 685,
+      "start": 3184.62,
+      "end": 3191.12,
+      "text": "profitability into next year, as you might know that we have like ASX chips going up,"
+    },
+    {
+      "i": 686,
+      "start": 3191.12,
+      "end": 3195.7,
+      "text": "even with a billion dollar, TSN is raising the price."
+    },
+    {
+      "i": 687,
+      "start": 3195.7,
+      "end": 3202.8599999999997,
+      "text": "We still comfortable with our gross margin to be stable for next year and onwards with"
+    },
+    {
+      "i": 688,
+      "start": 3202.8599999999997,
+      "end": 3203.8599999999997,
+      "text": "the current range?"
+    },
+    {
+      "i": 689,
+      "start": 3203.8599999999997,
+      "end": 3210.58,
+      "text": "I think due to the different business model and also the accounting, I think probably"
+    },
+    {
+      "i": 690,
+      "start": 3210.58,
+      "end": 3214.42,
+      "text": "the better way we talked about earlier is going to be operating margin ."
+    },
+    {
+      "i": 691,
+      "start": 3214.42,
+      "end": 3217.88,
+      "text": "That's specific for ASX business, right?"
+    },
+    {
+      "i": 692,
+      "start": 3217.88,
+      "end": 3222.02,
+      "text": "But in terms of overall revenue for overall gross margin for next year?"
+    },
+    {
+      "i": 693,
+      "start": 3222.02,
+      "end": 3227.92,
+      "text": "I think for if you put it aside with the business model perspective, I think our goal is still"
+    },
+    {
+      "i": 694,
+      "start": 3227.92,
+      "end": 3230.04,
+      "text": "trying to stabilize the gross margin."
+    },
+    {
+      "i": 695,
+      "start": 3230.04,
+      "end": 3231.04,
+      "text": "I see."
+    },
+    {
+      "i": 696,
+      "start": 3231.04,
+      "end": 3232.04,
+      "text": "I understand."
+    },
+    {
+      "i": 697,
+      "start": 3232.04,
+      "end": 3237.92,
+      "text": "Regardless the pricing, wafer price or cost and different product mix, right?"
+    },
+    {
+      "i": 698,
+      "start": 3237.92,
+      "end": 3238.92,
+      "text": "Yup."
+    },
+    {
+      "i": 699,
+      "start": 3238.92,
+      "end": 3239.92,
+      "text": "Okay."
+    },
+    {
+      "i": 700,
+      "start": 3239.92,
+      "end": 3240.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 701,
+      "start": 3240.92,
+      "end": 3241.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 702,
+      "start": 3241.92,
+      "end": 3242.92,
+      "text": "Next one off the line."
+    },
+    {
+      "i": 703,
+      "start": 3242.92,
+      "end": 3243.92,
+      "text": "Okay."
+    },
+    {
+      "i": 704,
+      "start": 3243.92,
+      "end": 3245.42,
+      "text": "Next one off the line."
+    },
+    {
+      "i": 705,
+      "start": 3245.42,
+      "end": 3246.42,
+      "text": "Macquarie, go ahead, please."
+    },
+    {
+      "i": 706,
+      "start": 3246.42,
+      "end": 3247.42,
+      "text": "Hi."
+    },
+    {
+      "i": 707,
+      "start": 3247.42,
+      "end": 3248.42,
+      "text": "Hi, Rick and David."
+    },
+    {
+      "i": 708,
+      "start": 3248.42,
+      "end": 3257.16,
+      "text": "Congrats that MediaTek have many, make many new product commercially soon."
+    },
+    {
+      "i": 709,
+      "start": 3257.16,
+      "end": 3262.16,
+      "text": "So my question is about GP10 and also ASIC."
+    },
+    {
+      "i": 710,
+      "start": 3262.16,
+      "end": 3271.3,
+      "text": "Number one, I think just one NSX about GP10 and then the, so I think the investor is still"
+    },
+    {
+      "i": 711,
+      "start": 3271.3,
+      "end": 3272.42,
+      "text": "under-appreciating the partnership you make."
+    },
+    {
+      "i": 712,
+      "start": 3272.42,
+      "end": 3282.66,
+      "text": "And can you share with us under the concept of partnership, how you do this, you know,"
+    },
+    {
+      "i": 713,
+      "start": 3282.66,
+      "end": 3283.66,
+      "text": "product sharing?"
+    },
+    {
+      "i": 714,
+      "start": 3283.66,
+      "end": 3288.66,
+      "text": "And also, will we see more to go on this partnership?"
+    },
+    {
+      "i": 715,
+      "start": 3288.66,
+      "end": 3290.66,
+      "text": "That's my first question."
+    },
+    {
+      "i": 716,
+      "start": 3290.66,
+      "end": 3291.66,
+      "text": "Thanks."
+    },
+    {
+      "i": 717,
+      "start": 3291.66,
+      "end": 3296.78,
+      "text": "Well, I think for the GP10, basically, it's NVIDIA own the product."
+    },
+    {
+      "i": 718,
+      "start": 3296.78,
+      "end": 3300.42,
+      "text": "So they sell the product to the marketplace and we get paid in return."
+    },
+    {
+      "i": 719,
+      "start": 3300.42,
+      "end": 3301.42,
+      "text": "But in terms of the share, it's NVIDIA."
+    },
+    {
+      "i": 720,
+      "start": 3301.42,
+      "end": 3302.42,
+      "text": "Okay."
+    },
+    {
+      "i": 721,
+      "start": 3302.42,
+      "end": 3307.42,
+      "text": "So I think the share, we will not be able to share some other detail."
+    },
+    {
+      "i": 722,
+      "start": 3307.42,
+      "end": 3308.42,
+      "text": "Yeah."
+    },
+    {
+      "i": 723,
+      "start": 3308.42,
+      "end": 3309.42,
+      "text": "Okay."
+    },
+    {
+      "i": 724,
+      "start": 3309.42,
+      "end": 3310.42,
+      "text": "Got you."
+    },
+    {
+      "i": 725,
+      "start": 3310.42,
+      "end": 3311.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 726,
+      "start": 3311.42,
+      "end": 3312.42,
+      "text": "Second one is more about ASIC and revenue."
+    },
+    {
+      "i": 727,
+      "start": 3312.42,
+      "end": 3322.42,
+      "text": "We understand that there's a lot of discussion on ASIC and then in the future, can company"
+    },
+    {
+      "i": 728,
+      "start": 3322.42,
+      "end": 3327.42,
+      "text": "and most closure break down ASIC?"
+    },
+    {
+      "i": 729,
+      "start": 3327.42,
+      "end": 3328.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 730,
+      "start": 3328.42,
+      "end": 3329.42,
+      "text": "I'm sorry."
+    },
+    {
+      "i": 731,
+      "start": 3329.42,
+      "end": 3330.66,
+      "text": "Can you repeat your question again?"
+    },
+    {
+      "i": 732,
+      "start": 3330.66,
+      "end": 3331.66,
+      "text": "You mean breakdown?"
+    },
+    {
+      "i": 733,
+      "start": 3331.66,
+      "end": 3332.1800000000003,
+      "text": "Yeah."
+    },
+    {
+      "i": 734,
+      "start": 3332.42,
+      "end": 3339.42,
+      "text": "So the financial report in the future, can you give us more breakdown, the subsequent"
+    },
+    {
+      "i": 735,
+      "start": 3339.42,
+      "end": 3349.42,
+      "text": "breakdown, for example, smart age, smart phone, and also the ASIC breakdowns on the revenue"
+    },
+    {
+      "i": 736,
+      "start": 3349.42,
+      "end": 3350.42,
+      "text": "side?"
+    },
+    {
+      "i": 737,
+      "start": 3350.42,
+      "end": 3355.42,
+      "text": "I think for next year, actually, we will know our final decision."
+    },
+    {
+      "i": 738,
+      "start": 3355.42,
+      "end": 3356.42,
+      "text": "Yeah."
+    },
+    {
+      "i": 739,
+      "start": 3356.42,
+      "end": 3357.42,
+      "text": "Okay."
+    },
+    {
+      "i": 740,
+      "start": 3357.42,
+      "end": 3358.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 741,
+      "start": 3358.42,
+      "end": 3359.42,
+      "text": "No more question."
+    },
+    {
+      "i": 742,
+      "start": 3359.42,
+      "end": 3360.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 743,
+      "start": 3360.42,
+      "end": 3361.42,
+      "text": "Next question."
+    },
+    {
+      "i": 744,
+      "start": 3361.42,
+      "end": 3364.42,
+      "text": "Next one, Brett Ling, Bank of America."
+    },
+    {
+      "i": 745,
+      "start": 3364.42,
+      "end": 3365.42,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 746,
+      "start": 3365.42,
+      "end": 3368.42,
+      "text": "Oh, thank you for squeezing me in."
+    },
+    {
+      "i": 747,
+      "start": 3368.42,
+      "end": 3369.42,
+      "text": "So I have two questions."
+    },
+    {
+      "i": 748,
+      "start": 3369.42,
+      "end": 3371.42,
+      "text": "They are basically long-term questions."
+    },
+    {
+      "i": 749,
+      "start": 3371.42,
+      "end": 3379.42,
+      "text": "So the first question will be on the long-term outlook, say into 2027 or 2028, do we have"
+    },
+    {
+      "i": 750,
+      "start": 3379.42,
+      "end": 3387.42,
+      "text": "any revenue or profitability target for the firm reached by research reaching certain"
+    },
+    {
+      "i": 751,
+      "start": 3387.42,
+      "end": 3390.42,
+      "text": "level from the non-consumer electronics?"
+    },
+    {
+      "i": 752,
+      "start": 3390.42,
+      "end": 3394.42,
+      "text": "For example, ASIC or things like automotive, robotics?"
+    },
+    {
+      "i": 753,
+      "start": 3394.42,
+      "end": 3395.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 754,
+      "start": 3395.42,
+      "end": 3404.42,
+      "text": "Brett, I think we can provide probably the direction of guidance, but we won't be able"
+    },
+    {
+      "i": 755,
+      "start": 3404.42,
+      "end": 3413.42,
+      "text": "to provide the detailed guidance, especially if we're given a more dynamic market."
+    },
+    {
+      "i": 756,
+      "start": 3413.42,
+      "end": 3418.42,
+      "text": "I think like we talked about earlier, starting from this year, next year, we see multiple"
+    },
+    {
+      "i": 757,
+      "start": 3418.42,
+      "end": 3419.42,
+      "text": "sector of growth opportunities."
+    },
+    {
+      "i": 758,
+      "start": 3419.42,
+      "end": 3425.54,
+      "text": "ASIC, AIASIC, automotive, wearable, and computing."
+    },
+    {
+      "i": 759,
+      "start": 3425.54,
+      "end": 3431.42,
+      "text": "So we do believe actually we're seeing real new continued growth all the way from 2027"
+    },
+    {
+      "i": 760,
+      "start": 3431.42,
+      "end": 3432.42,
+      "text": "and 2028."
+    },
+    {
+      "i": 761,
+      "start": 3432.42,
+      "end": 3434.42,
+      "text": "I think that's all we're seeing so far."
+    },
+    {
+      "i": 762,
+      "start": 3434.42,
+      "end": 3439.38,
+      "text": "But in terms of the detailed breakdown by different contribution, we will not be able"
+    },
+    {
+      "i": 763,
+      "start": 3439.38,
+      "end": 3441.38,
+      "text": "to provide detail right now."
+    },
+    {
+      "i": 764,
+      "start": 3441.38,
+      "end": 3442.38,
+      "text": "Sure."
+    },
+    {
+      "i": 765,
+      "start": 3442.38,
+      "end": 3443.38,
+      "text": "Got it."
+    },
+    {
+      "i": 766,
+      "start": 3443.38,
+      "end": 3444.38,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 767,
+      "start": 3444.38,
+      "end": 3448.42,
+      "text": "So my second question will be, well, we sort of mentioned that is on the engineering resource."
+    },
+    {
+      "i": 768,
+      "start": 3448.42,
+      "end": 3453.58,
+      "text": "We have learned the resource is really tight and the cost, the expense is also getting"
+    },
+    {
+      "i": 769,
+      "start": 3453.58,
+      "end": 3456.54,
+      "text": "higher with the growing AI demand."
+    },
+    {
+      "i": 770,
+      "start": 3456.54,
+      "end": 3461.5,
+      "text": "So are engineering resource a potential bottleneck to Mediatek's business upside?"
+    },
+    {
+      "i": 771,
+      "start": 3461.5,
+      "end": 3465.54,
+      "text": "If that is, when will that be and how does Mediatek handle the risk?"
+    },
+    {
+      "i": 772,
+      "start": 3465.54,
+      "end": 3466.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 773,
+      "start": 3466.54,
+      "end": 3471.6,
+      "text": "Again, there are two aspects to it."
+    },
+    {
+      "i": 774,
+      "start": 3471.6,
+      "end": 3475.46,
+      "text": "Number one is the resources by itself."
+    },
+    {
+      "i": 775,
+      "start": 3475.46,
+      "end": 3476.54,
+      "text": "It is tight, yes."
+    },
+    {
+      "i": 776,
+      "start": 3476.54,
+      "end": 3477.54,
+      "text": "Yes."
+    },
+    {
+      "i": 777,
+      "start": 3477.54,
+      "end": 3486.54,
+      "text": "I believe that is the kind of industry-wide phenomena."
+    },
+    {
+      "i": 778,
+      "start": 3486.54,
+      "end": 3494.74,
+      "text": "So the one thing we are doing is to have really these resources are corporate."
+    },
+    {
+      "i": 779,
+      "start": 3494.74,
+      "end": 3502.94,
+      "text": "We have a corporate resource planning to prioritize our business, our chips resources, and to"
+    },
+    {
+      "i": 780,
+      "start": 3502.94,
+      "end": 3504.54,
+      "text": "also retain."
+    },
+    {
+      "i": 781,
+      "start": 3504.54,
+      "end": 3505.54,
+      "text": "Okay."
+    },
+    {
+      "i": 782,
+      "start": 3505.54,
+      "end": 3506.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 783,
+      "start": 3506.54,
+      "end": 3507.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 784,
+      "start": 3507.54,
+      "end": 3508.54,
+      "text": "Thank you."
+    },
+    {
+      "i": 785,
+      "start": 3508.54,
+      "end": 3512.44,
+      "text": "And also to put the state of the art classroom to architect it, welcomed regarding해 corporate"
+    },
+    {
+      "i": 786,
+      "start": 3512.44,
+      "end": 3513.44,
+      "text": "activity."
+    },
+    {
+      "i": 787,
+      "start": 3513.44,
+      "end": 3515.86,
+      "text": "This takes now to major principles and key concepts as we looking for more Zukunft two"
+    },
+    {
+      "i": 788,
+      "start": 3515.86,
+      "end": 3520.2,
+      "text": "of the tech design monde and then Corel within one of its terrifying methods."
+    },
+    {
+      "i": 789,
+      "start": 3520.2,
+      "end": 3522.66,
+      "text": "So so there is also modeling instances between other Europeanست y Pra不要 flight"
+    },
+    {
+      "i": 790,
+      "start": 3522.66,
+      "end": 3523.7,
+      "text": "предлаг Guido"
+    },
+    {
+      "i": 791,
+      "start": 3523.7,
+      "end": 3524.74,
+      "text": "also theubers-based into the international technology force inguy"
+    },
+    {
+      "i": 792,
+      "start": 3524.74,
+      "end": 3529.3,
+      "text": "to hack through and for the benefit of all theину what much a'"
+    },
+    {
+      "i": 793,
+      "start": 3529.3,
+      "end": 3529.7799999999997,
+      "text": "ABO"
+    },
+    {
+      "i": 794,
+      "start": 3530.7799999999997,
+      "end": 3531.2599999999998,
+      "text": "thee."
+    },
+    {
+      "i": 795,
+      "start": 3531.2599999999998,
+      "end": 3532.06,
+      "text": "Great than 뭐"
+    },
+    {
+      "i": 796,
+      "start": 3532.1,
+      "end": 3535.14,
+      "text": "The sequences us and the"
+    },
+    {
+      "i": 797,
+      "start": 3535.14,
+      "end": 3537.54,
+      "text": "to use a lot more вещ Suz record was coming from neful bae"
+    },
+    {
+      "i": 798,
+      "start": 3537.54,
+      "end": 3547.86,
+      "text": "the future. We are of course hiring the design resources. There's no stopping in that regard."
+    },
+    {
+      "i": 799,
+      "start": 3547.86,
+      "end": 3559.06,
+      "text": "Both of these we believe we will. What we will do is to ensure the best growth for the"
+    },
+    {
+      "i": 800,
+      "start": 3559.06,
+      "end": 3573.2,
+      "text": "company, 26, 27, 28 and beyond. We will ensure the resources are being spent to achieve our"
+    },
+    {
+      "i": 801,
+      "start": 3573.2,
+      "end": 3577.82,
+      "text": "future growth for the company. Thank you."
+    },
+    {
+      "i": 802,
+      "start": 3577.82,
+      "end": 3582.2,
+      "text": "Well noted. Thank you, Rick. Thank you, David."
+    },
+    {
+      "i": 803,
+      "start": 3582.2,
+      "end": 3587.58,
+      "text": "Thank you. Ladies and gentlemen, we are going to take the last one. Next one, Charlie Chan,"
+    },
+    {
+      "i": 804,
+      "start": 3587.58,
+      "end": 3589.02,
+      "text": "Morgan Stanley. Go ahead, please."
+    },
+    {
+      "i": 805,
+      "start": 3589.02,
+      "end": 3597.7,
+      "text": "Thanks for taking my question, Rick, David, Jesse. So my first question is also on ASIC."
+    },
+    {
+      "i": 806,
+      "start": 3597.7,
+      "end": 3605.38,
+      "text": "So I believe without your help, your key customers cannot execute this well to tip out on time."
+    },
+    {
+      "i": 807,
+      "start": 3605.38,
+      "end": 3615.3,
+      "text": "So congratulations on that. My question is about your second largest project, meaning"
+    },
+    {
+      "i": 808,
+      "start": 3615.3,
+      "end": 3617.94,
+      "text": "what would make your customers not to choose you?"
+    },
+    {
+      "i": 809,
+      "start": 3617.94,
+      "end": 3618.94,
+      "text": "Mediatek you have."
+    },
+    {
+      "i": 810,
+      "start": 3618.94,
+      "end": 3619.0,
+      "text": "Yes. I'm a big fan of Mediatek. I'm a big fan of Mediatek. I'm a big fan of Mediatek."
+    },
+    {
+      "i": 811,
+      "start": 3619.0,
+      "end": 3619.5,
+      "text": "Can you expand that?"
+    },
+    {
+      "i": 812,
+      "start": 3619.5,
+      "end": 3629.16,
+      "text": "Yeah. I'mFlip is a big fan …"
+    },
+    {
+      "i": 813,
+      "start": 3629.16,
+      "end": 3632.54,
+      "text": "I mean, for CISP as it's a company that takes the energy out of your credit yolk ,"
+    },
+    {
+      "i": 814,
+      "start": 3632.54,
+      "end": 3635.6,
+      "text": "it's a multi completelyебps and card four there's need galore any ocean executive"
+    },
+    {
+      "i": 815,
+      "start": 3635.6,
+      "end": 3640.68,
+      "text": "the most漸 the most significant physical strength coming from a group of riders though"
+    },
+    {
+      "i": 816,
+      "start": 3640.68,
+      "end": 3641.56,
+      "text": "far behind."
+    },
+    {
+      "i": 817,
+      "start": 3641.56,
+      "end": 3645.7,
+      "text": "So our tende pretending that any people that is open to a lot of technology and mobile"
+    },
+    {
+      "i": 818,
+      "start": 3645.7,
+      "end": 3646.92,
+      "text": "on localHave the favorite can focus rather on well .."
+    },
+    {
+      "i": 819,
+      "start": 3646.92,
+      "end": 3647.84,
+      "text": "You want to see and distribute that to what other riders would do."
+    },
+    {
+      "i": 820,
+      "start": 3647.84,
+      "end": 3648.84,
+      "text": "yak harden themself."
+    },
+    {
+      "i": 821,
+      "start": 3648.84,
+      "end": 3660.6600000000003,
+      "text": "As I said a couple of times, we are engaging with various large CSPs."
+    },
+    {
+      "i": 822,
+      "start": 3660.6600000000003,
+      "end": 3674.6400000000003,
+      "text": "We appreciate your comments about our capabilities and we also believe we do possess those capabilities."
+    },
+    {
+      "i": 823,
+      "start": 3674.64,
+      "end": 3687.52,
+      "text": "The decision, of course, rests with the customer and we remain quite, shall we say, hopeful."
+    },
+    {
+      "i": 824,
+      "start": 3687.52,
+      "end": 3696.9,
+      "text": "But no matter what, I think for MediaTek, I believe we have proven ourselves to be not"
+    },
+    {
+      "i": 825,
+      "start": 3696.9,
+      "end": 3704.2,
+      "text": "only a viable but also a very competitive ASIC supplier for the whole industry."
+    },
+    {
+      "i": 826,
+      "start": 3704.2,
+      "end": 3704.64,
+      "text": "That is an important point."
+    },
+    {
+      "i": 827,
+      "start": 3704.64,
+      "end": 3714.72,
+      "text": "So I do not believe we should just constrain ourselves to this or that opportunity."
+    },
+    {
+      "i": 828,
+      "start": 3714.72,
+      "end": 3723.46,
+      "text": "There are and there will be plenty of opportunities which will enable our future growth."
+    },
+    {
+      "i": 829,
+      "start": 3723.46,
+      "end": 3727.94,
+      "text": "I'm absolutely confident in that."
+    },
+    {
+      "i": 830,
+      "start": 3727.94,
+      "end": 3728.94,
+      "text": "Thank you."
+    },
+    {
+      "i": 831,
+      "start": 3728.94,
+      "end": 3729.94,
+      "text": "Great."
+    },
+    {
+      "i": 832,
+      "start": 3729.94,
+      "end": 3732.94,
+      "text": "I'm looking forward to your next success."
+    },
+    {
+      "i": 833,
+      "start": 3732.94,
+      "end": 3734.2,
+      "text": "So next one is a e-commerce."
+    },
+    {
+      "i": 834,
+      "start": 3734.2,
+      "end": 3736.2,
+      "text": "I think it gets easier."
+    },
+    {
+      "i": 835,
+      "start": 3736.2,
+      "end": 3740.64,
+      "text": "It's about your full-year revenue guidance in USC."
+    },
+    {
+      "i": 836,
+      "start": 3740.64,
+      "end": 3745.8999999999996,
+      "text": "I appreciate that company uses U.S. dollars to reflect your real operations."
+    },
+    {
+      "i": 837,
+      "start": 3745.8999999999996,
+      "end": 3753.9199999999996,
+      "text": "So when you provide a full-year U.S. dollars revenue guidance, can you also extend the"
+    },
+    {
+      "i": 838,
+      "start": 3753.9199999999996,
+      "end": 3755.9199999999996,
+      "text": "implied fourth quarter seasonality?"
+    },
+    {
+      "i": 839,
+      "start": 3755.9199999999996,
+      "end": 3756.9199999999996,
+      "text": "Thank you."
+    },
+    {
+      "i": 840,
+      "start": 3756.9199999999996,
+      "end": 3762.2,
+      "text": "Well, Charlie, if we're looking beyond the seasonality for the full year based on the"
+    },
+    {
+      "i": 841,
+      "start": 3762.2,
+      "end": 3763.2,
+      "text": "U.S. dollars, I think we still feel that we have a lot of potential."
+    },
+    {
+      "i": 842,
+      "start": 3763.2,
+      "end": 3764.2,
+      "text": "Thank you."
+    },
+    {
+      "i": 843,
+      "start": 3764.2,
+      "end": 3770.2,
+      "text": "I think we're looking for a year-over-year growth, a meeting growth for the full year."
+    },
+    {
+      "i": 844,
+      "start": 3770.2,
+      "end": 3771.2,
+      "text": "Okay."
+    },
+    {
+      "i": 845,
+      "start": 3771.2,
+      "end": 3772.2,
+      "text": "Okay."
+    },
+    {
+      "i": 846,
+      "start": 3772.2,
+      "end": 3776.58,
+      "text": "So would that imply fourth quarter to be slightly off-slicing?"
+    },
+    {
+      "i": 847,
+      "start": 3776.58,
+      "end": 3780.22,
+      "text": "And what would be the driver behind?"
+    },
+    {
+      "i": 848,
+      "start": 3780.22,
+      "end": 3784.0,
+      "text": "I think for the quarterly patterns, actually, right now it's hard to comment."
+    },
+    {
+      "i": 849,
+      "start": 3784.0,
+      "end": 3788.2,
+      "text": "I think for the full year, it's probably going to be easier."
+    },
+    {
+      "i": 850,
+      "start": 3788.2,
+      "end": 3789.2,
+      "text": "Okay."
+    },
+    {
+      "i": 851,
+      "start": 3789.2,
+      "end": 3790.2,
+      "text": "Great."
+    },
+    {
+      "i": 852,
+      "start": 3790.2,
+      "end": 3791.2,
+      "text": "Much appreciated for squeezing my questions."
+    },
+    {
+      "i": 853,
+      "start": 3791.2,
+      "end": 3792.2,
+      "text": "Thank you."
+    },
+    {
+      "i": 854,
+      "start": 3792.2,
+      "end": 3793.2,
+      "text": "Thank you."
+    },
+    {
+      "i": 855,
+      "start": 3793.2,
+      "end": 3794.2,
+      "text": "Thank you."
+    },
+    {
+      "i": 856,
+      "start": 3794.2,
+      "end": 3795.2,
+      "text": "Thank you."
+    },
+    {
+      "i": 857,
+      "start": 3795.2,
+      "end": 3796.2,
+      "text": "Thank you, Charlie."
+    },
+    {
+      "i": 858,
+      "start": 3796.2,
+      "end": 3797.2,
+      "text": "Ladies and gentlemen, we thank you for all your questions."
+    },
+    {
+      "i": 859,
+      "start": 3797.2,
+      "end": 3799.2,
+      "text": "Now I'll hand it over to Ms. Jessie Wong for closing comments."
+    },
+    {
+      "i": 860,
+      "start": 3799.2,
+      "end": 3800.2,
+      "text": "Ms. Wong, please go ahead."
+    },
+    {
+      "i": 861,
+      "start": 3800.2,
+      "end": 3801.2,
+      "text": "Ladies and gentlemen, this concludes Mediatek 2025 Second Photo Conference call."
+    },
+    {
+      "i": 862,
+      "start": 3801.2,
+      "end": 3802.2,
+      "text": "An audio replay will be available in one hour after the call at the sözsion of Mediatek's"
+    },
+    {
+      "i": 863,
+      "start": 3802.2,
+      "end": 3803.2,
+      "text": "website."
+    },
+    {
+      "i": 864,
+      "start": 3803.2,
+      "end": 3804.2,
+      "text": "We would like to thank you for your participation and you may now disconnect."
+    },
+    {
+      "i": 865,
+      "start": 3804.2,
+      "end": 3805.2,
+      "text": "Thank you, Ms. Wong."
+    },
+    {
+      "i": 866,
+      "start": 3805.2,
+      "end": 3806.2,
+      "text": "And ladies and gentlemen, thank you again for your attention."
+    },
+    {
+      "i": 867,
+      "start": 3806.2,
+      "end": 3807.2,
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "i": 868,
+      "start": 3807.2,
+      "end": 3808.2,
+      "text": "I'm Thank you."
+    },
+    {
+      "i": 869,
+      "start": 3808.2,
+      "end": 3809.2,
+      "text": "I'm at the end of the session."
+    },
+    {
+      "i": 870,
+      "start": 3809.2,
+      "end": 3810.2,
+      "text": "I'm at the end of the session."
+    },
+    {
+      "i": 871,
+      "start": 3810.2,
+      "end": 3811.2,
+      "text": "I'll be right back after the five-minuteнуться break."
+    },
+    {
+      "i": 872,
+      "start": 3811.2,
+      "end": 3812.2,
+      "text": "I want to thank all of you for your participation today."
+    },
+    {
+      "i": 873,
+      "start": 3812.2,
+      "end": 3813.2,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "i": 874,
+      "start": 3813.2,
+      "end": 3816.2,
+      "text": "at the investor session of Mediatek's website."
+    },
+    {
+      "i": 875,
+      "start": 3816.2,
+      "end": 3818.54,
+      "text": "We would like to thank you for your participation"
+    },
+    {
+      "i": 876,
+      "start": 3818.54,
+      "end": 3821.2,
+      "text": "and you may now disconnect."
+    },
+    {
+      "i": 877,
+      "start": 3821.2,
+      "end": 3822.4399999999996,
+      "text": "Thank you, Ms. Wong."
+    },
+    {
+      "i": 878,
+      "start": 3822.4399999999996,
+      "end": 3824.3599999999997,
+      "text": "And ladies and gentlemen, thank you again"
+    },
+    {
+      "i": 879,
+      "start": 3824.3599999999997,
+      "end": 3826.8999999999996,
+      "text": "for your participation in today's conference."
+    },
+    {
+      "i": 880,
+      "start": 3826.8999999999996,
+      "end": 3828.5,
+      "text": "You may now disconnect."
+    },
+    {
+      "i": 881,
+      "start": 3828.5,
+      "end": 3830.0,
+      "text": "Thank you again. Goodbye."
+    }
+  ],
+  "full_text": "Welcome to the Mediatek 2025 Second Quarter Investors Conference Call. Financial results and presentations for today's call are available on the Investors section of the company website at www.mediatek.com. Now, I would like to turn the call over to Ms. Jessie Wong, Deputy Director of Investor Relations. Ms. Wong, please go ahead. Good afternoon, everyone. Joining us today are Dr. Rick Tsai, Mediatek CEO, and Mr. David Gu, Mediatek CFO. Mr. Gu will report our second quarter results, and then Dr. Tsai will provide our prepared remarks. After that, we will open for Q&A. As a reminder, today's presentation will provide forward-looking statements based on our current expectations. The statements are subject to various risks and factors, which may cause actual results to differ materially, from the statements. The presentation materials supplement non-TFIRS financial measures. Earnings distribution will be made in accordance with financial statements based on TFIRS. For details, please refer to the Safe Harbor Statement in our presentation slides. In addition, all contents provided in this teleconference are for your reference only, not intended for investment advice. Neither Mediatek, nor any of independent, or private investment providers is responsible for any actions taken in reliance on contents provided in today's call. Now, I would like to turn the call to our CFO, Mr. David Gu for the second quarter financial results. Thank you. Good afternoon. Now, let's start with the 2025 second quarter financial results. Please note that the currency used here is NT dollars. The foreign exchange rate applied to the second quarter result was 30.9%. The current exchange rate is about 1.9 NT dollars per 1 US dollar, which will imply around 61% appreciation of NT dollar compared to the foreign exchange rate of 32.9 in the first quarters. Due to the rather sizable FX movement, here we provide some more information. Basically, for every 1% appreciation for NT dollars, we will have an active impact for gross margin by around 0.2 percentage point, and also around 0.25%. So, this is a very good example. Thank you. So, we have an active impact for gross margin by around 0.25 percentage point to the market. With that, revenue for the second quarter was $150.4 billion, down 1.9% sequentially and up 18.1% year-over-year. If we include the FX factor in US dollar terms, second quarter revenue was up 4.4% sequentially and up 23.8% year-over-year. Growth margin for the quarter was 49.1%, up 1 percentage point from the previous quarter, and up 0.3 percentage point from the year-ago quarter. This quarter's growth margin includes a one-time related to a previous LTA, which contributes around 1.9 percentage point to the growth margin. Excluding this one-time item and assuming the FX rate back to our earlier guidance, level 32.5, our second quarter growth margin would have been 48.4% at the high end of our earlier guidance range. Operating expense for the quarter was $44.5 billion, compared with $43.8 billion in the previous quarter and $37.2 billion in the year-ago quarter. Operating income for the quarter was $10.2 billion, down 2.2% sequentially and up 17.7% year-over-year. Non-T-first operating income for the quarter was $30 billion. Operating margin for the quarter was 19.5%, down 0.1 percentage point in the previous quarter and down 0.1 percentage point year-over-year. Non-T-first operating margin for the quarter was $10.2 billion, compared with $14.5 billion in the previous quarter and down 1.6 percentage point year-over-year. Non-T-first operating margin for the quarter was $19.9%. Net income for the quarter was $28.1 billion, down 5% sequentially and up 8.1% year-over-year. Non-T-first net income for the quarter was $28.6 billion. Net profit margin for the quarter was $18.7%, 1.6 percentage points from the previous quarter and down 1.7 percentage point year-over-year. Non-T-first net profit margin for the quarter was 19%. EPS for the quarter was $17.5, down from $18.43 in the previous quarter and up from $16.19 in the year-ago quarter. Non-T-first EPS for the quarter was $17.81. A reconciliation table for our T-first and non-T-first financial measure is attached in our press release for your information. And that concludes my comments. Thank you. Thank you, David. Now, I would like to turn the call to CEO, Dr. Rick Tsai, for prepared remarks. Good afternoon, everyone. Mid-air tax second quarter revenue grew 4.4%. And 23.8% year-over-year in U.S. dollar. We attribute this largely to the strong business foundation we have built in the past few years. In the second quarter, we continue to see higher structure demand for edge AI SOCs and faster connectivity. To a lesser extent, we also noticed some pull-in demand amid trade uncertainties. We are on a roll. We are on track with our mid- to long-term growth journey. Our diverse existing businesses and growth initiatives underpin a robust foundation for mid-air tax. In 2025, several businesses are demonstrating strong growth momentum, including flagship smartphones, connectivity portfolio, and computing devices. While we anticipate revenues from our major growth initiatives, we are also anticipating revenue from our major growth initiatives. While we anticipate revenues from our major growth initiatives, we are also anticipating revenue from our major growth initiatives. We earn an expensive investment to start ramping up next year. Our激ssä車 business performs solidly with continuous expansion into the flagship segment. We expect the flagship smartphone revenue to reach U.S. $3 billion this year, representing an annual growth rate of more than 40%. Our leading connectivity portfolio, such as wireless cell phone, will almost do без復 grassroots activities. But we also expect a growth rate of 47%. It's low-end. We are a three-year-old business. Wi-Fi 7, 5G modem, and 10G PON, continues to gain shares in global telecom operators and leading consumer electronics players. We expect our connectivity business to grow strongly, with revenue exceeding US $3 billion this year. Furthermore, revenue from our computing solutions, which currently include tablets, Chromebooks, and the GB10 project that we collaborate with NVIDIA, is expected to grow more than 80% this year, to approximately US $1 billion, driven by strong AI demands. Moreover, we are fully focused on executing and expanding our growth initiatives, such as enterprise A6 and automotive businesses, each representing more than US $3 billion. We expect to gain US $40 billion revenue in the mid- to long-term. The business momentum for our enterprise A6 is very strong, as CSPs continue to evaluate and adopt A6 to enhance data center efficiency. To capture the increasing opportunities, we are rapidly expanding our R&D resources for the A6 team. Especially for recruiting. We are also developing new and emerging key talents. These resources are being deployed mainly to advanced nodes, advanced packaging technologies and next-generation IPs, such as 448G-30s and CPO. Backed by our robust 30s IP portfolio and strong execution capability, we currently have multiple engagements with global CSPs and other companies. We believe in our ability to add value to this fast-growing market and continue to expect sizable revenues starting next year. For automotive, we have been making very good progress in securing design wings for our Dimensity Auto high-end and mainstream cockpit and telematics solutions. The more advanced cockpit solution, CX1, which we co-developed with NVIDIA to support premium vehicles, will be sampling to customers soon in the second half of the year. We expect revenue from CX1 to surge in 2026, adding momentum to our automotive business, which has already been growing robustly. Furthermore, to support our new and emerging technologies, we are also developing a new feature called P Perspective Series Design and set up a landmark feature, one that will be a royalty-free cachet necesita un weekend of NVIDIA판 in Guizhou with a capital depletion of AFC for the international international company. The body is Zoe gram procuring monitor unit system that has been developed for創造 Tablet development in VB charmuke. The program will enable the company and the 승� Rescue MateC near on-pointed telemetry оно-design related products. Thanks, herkes. I would love to speak with a few speakers today. Can I just hand it back to the webinar or the speaker? Sure. We would love to promote and share my thoughts to the whole small nation. With all due respect, I would like to give back myところ. group launching two nanometer chips. These exciting developments reinforce our confidence in capturing growth opportunities in the mid to long term. With that, now let me talk about the recent business performance for our three revenue groups. Mobile phone accounted for 52% of total second quarter revenue and grew 13% year over year and declined 9% quarter over quarter. In US dollar, this revenue group grew 19% year over year and declined 3% sequentially. As I said earlier, our share gains in the flagship segment continues to drive year over year business growth, mainly thanks to the successful Dimensity 9400 family. Since the introduction of the Dimensity 9400 last year, we have enabled numerous popular flagship AI smartphones from Oppo, Vivo, and Redmi, and gained share in the market. To extend the momentum, we will soon be launching the next generation flagship SoC, Dimensity 9500, in the third quarter. Dimensity 9500 will deliver even more enhanced AI functions with more powerful computing capabilities. We have secured more customers and model adoptions than the previous generation. For the third quarter, we expect flagship revenue to grow as Dimensity 9500 enters mass production, while demand for the mainstream segment is expected to slow. Thank you. We hope to see the уber-class cryptocurrencyium gonna complete its role in this global trend. Hope to never be ahead again! over quarter. The sequential growth was mainly from the continuous ramp of AI-capable computing devices, share gain in consumer ASICs, and some pull-in demand. AI-capable computing devices have been well-received in the market and fueled our business momentum. We are glad to see all the major Android tablet brands, including Samsung, adopting MediaTek AI chips for their premium AI tablets this year. Lenovo also announced a premium AI Chromebook powered by MediaTek's 3-nm companion Ultra SoC in the second quarter. Moreover, GB10, the chip we co-developed with NVIDIA to power NVIDIA's NVIDIA-based chip, is now available for purchase in the market. Thank you. NVIDIA's AI supercomputer, DGF Spark, is scheduled to begin mass production in the third quarter. For the third quarter, this group continued to benefit from share gains in 5G modem, premium AI tablets, and automotive with year-over-year growth. However, some demand has been pulled to the first half of the year. We expect SmartEdge Plus to be able to serve as an immediately present platform for given offerings to the biggest platform in the 2021 sector rather than relying on these updated features. In Volumes loopback, we will look at the two Asia-chi ot the pure and latest end-to-end Challenge platform finance and control �. Meetings of by Neuron's support group. Neuron Trруж, CEO of ENC, threw in a mandatory guarantee of 452 years. Can China play czynb? I think China is the one in this world that is needed in this question. China played aOr the second game against China, Slacard lost ansightingly, making tram sine and 24% sequentially. In the second quarter, PowerIC benefited from share gains and better demand. We expect PowerIC revenue to decline sequentially in the third quarter on lower consumer electronics demand. Moving into the third quarter of 2025, we are excited at the ramp of Dimensity 9500 and GB10. We also expect the growth momentum from AI tablets and automotive to continue in the third quarter. However, as some demand has been pulled into the first half of the year and resulted in a different quarterly pattern, we expect the third quarter revenue to decline sequentially. With that, we expect our third quarter revenue to be in the range of NT$130.5 billion. We expect the third quarter revenue to be in the range of NT$130.1 billion to NT$140 billion, down 7% to 13% sequentially, and down 1% to up 6% year over year, at a forecasted exchange rate of NT$29 to US$1. Compared with the exchange rate of NT$30.9 to US$1. The impact from the potential exchange rate difference on our third quarter energy dollar revenue outlook is approximately 6%. As nearly all of our revenue is in US dollar, we also provide our third quarter revenue guidance in US dollar to fairly reflect the business situation. As such, it now looks to be in place until August of this year, or next year, ahead of every further quarter until the bottom line for what we can expect. In US dollar terms, our third quarter revenue will be in the range of USD$4.49 billion to USD$4.83 billion, down 1% to 8% sequentially and up 10% to 18% year over year. Close margin for the third quarter is forecasted at 47%, plus or minus .5%% points, quarterly operating expense ratio to be at 31%, plus or minus 2 percentage points. Finally, I would like to reiterate our strong commitment in investing in growth areas such as AI, data center, and automotive, which are still at their initial phases of market developments. We believe their growth potentials are strong enough to help us weather short-term volatility. We remain confident in our technologies and our capability to grow in the mid-term to long-term. This concludes my prepared remarks. Thank you. Thank you, Rick. Operators, we are now ready for Q&A session. May we please have the first question? Yes. Ladies and gentlemen, we are now in question and answer session. If you would like to ask the question, please press star 1 on your telephone keypad. Please ask your questions after your name is announced, and please limit your questions to two at a time to allow more participants to join the discussion. After two questions, we will move to the next caller. Should you have more questions, please press star 1 to come back to the queue. And to cancel your question, please press star 2. Thank you. As a reminder, it is greatly appreciated that you turned off speakerphone mode of your device to prevent possible echo effect. We thank you for your cooperation. And our first question is coming from Sunny Lin UBS. Go ahead, please. Sunny Lin UBS Thank you very much. Good afternoon. So, my first question is on ASIC side. So, could you share with us a bit more color on your progress to run more projects? And what is your goal? What is your goal? What is your goal? What is your priority? I think you have a good overview of your projects in the coming few years. You talk about a good revenue contribution for 2026 in the update on the revenue opportunity versus your prior guidance of $1 billion. And beyond that, maybe more importantly, is there a point when we should expect maybe more meaningful uplift as you start to run more projects? Thank you very much. Okay. On ASIC side, we remain. I think we have to start. We are in the process of implementing the project. We are looking for the right person. We are looking for the right person. We are confident that we will do our revenue forecast for late next year. We believe our customer is doing well in their taping out progress. In addition, we are also engaging with various potential CSP customers for various applications. We feel good about our opportunities in moving forward. We look forward to, as I said a couple of times in the prepared remarks, the next year. We expect strong growth from the data center ASIC business in the coming years. Thank you. Sorry, just a very quick follow-up. Since most investors are quite paying attention to the $1 billion target for 2026, so now maybe given some hiccups on the taping out in the short term, should we assume maybe a lower contribution for 2026? But then going to 2027, you should certainly scale to a much higher number for 2027? Well, as I said, I just said now we remain confident that we will do our revenue forecast for late 2026. And we believe our 2027 number will be good. But I do not know how to compare to what you have in your forecast. But the 2027 will definitely bring quite a bit of growth from the ASIC business. Thank you. Got it. No problem. Thank you very much. My second question is on your process development. I'm pretty glad to see that MediaTek is being pretty fast in 2.9-minute process migration, maybe starting from a 20-minute process migration. That's right. That's right. I think it's a very good question, and I think it's something that we should be looking at. I think it's a good question. I think it's a good question. And I think it's a good question. I think it's a good question. I think it's a good question. I think it's a good question. I think it's a good question. So, maybe starting from a 5G smartphone SoCs, basically in the same product generation as iOS. So, I wonder what's giving you the confidence for such quick process migration? And could you share with us maybe the key benefits for the 2.9-minute process migration? Is it more on the performance or more on the power efficiency? Well, maybe just say something about 2.9-minute first web host. I think the performance and power efficiency will improve quite a bit, especially in the power efficiency part. So it's critical for the, for instance, the flagship SOC business and the market requirements. It's critical. Not to mention, of course, with the data center ASIC business coming up, the performance will be better. Yes. Yes. Yes. So, you know, people are just moving as fast as they can into the advanced process nodes. Now, why MediaTek is now moving into 2-nanometer process node at almost the same pace as the other major world class tier one companies? Well, I have all the thanks for our technical people, managers, engineers, together with really close collaboration with our partner, TSMC. I cannot say enough to thank them. After several years, really hard and intelligent work from our people and TSMC. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you very much, Kevin. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. I appreciate it. Thank you. Thank you. Thank you. Thank you. Thank you. You know. Where we are. And we expect nothing less forthcoming nodes. We certainly will continue to invest, and we will reap the benefits from next generation process node, also. Thank you. Got it. Go ahead, please. Thank you. Thank you for taking my question. Good afternoon. My question is also about the AI-edged rig. It's obviously quite positive on the growth in the longer term. May I just also follow up? When we see that 2027, you will see quite strong growth for the AI accelerator growth. Is it mainly from the one single specific CSP, or do we see more than just one AI-edged contribution happening in the year of 2027? Well, Laura, we cannot comment specifically. How many customers will be reaping revenues from in 2027? Suffice to say that we are engaging aggressively with multiple CSPs. I would say the revenue growth from the first customer will be, I believe, very robust. And we work. We are really working diligently to see whether we can add more revenue sources. But we cannot comment any further right now. Thank you. Sure, certainly. And also, my second question is about our business model. I recall that previously on the AI-edged rig project, we did mention that we are more flexible in terms of our collaboration. We have a lot of collaboration with the client. Do we see that for the following projects, what kind of the role we are doing versus our like a U.S. peers or Asian peers? Do we feel more like in charge of the or can we also kind of in charge of the full design, including the top line, and also the full process? I think there are two aspects to your question. One is the business model. The other one is the capability. Capability point of view, we are confident that we can perform all the way, not only if we're analyzing, speccing models. We can. We are capable. From the IPs to the, of course, the design. It's very complex design. It's very complex. We have a lot of technology capability and advanced packaging technology capabilities, not to mention the very strong execution capability. So yes, we are confident we can. But on the other hand, from business model point of view, we remain flexible, as I said previously. We work with customers closely in different. And the chip now architecture is very complex. So there are various ways to accommodate, to serve our customers, even within one chip architecture. So without further going into the details, what I can say is we really work closely and provide customers with not only the best of the best. We're also very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very good. Not only flexibility from the beginning and during the process, if customer needs to change or modify their model, we just jump ahead to meet their request. So I truly believe this is a really a win-win business model for the customers and MediaTek. Thank you. Thank you. Thank you. Thank you. Thank you very much. Thank you. Next one, Goku Halihalan, JP Morgan. Go ahead, please. Yeah. Hi. Thanks for taking my question. So just to clarify something on the enterprise ASIC or data center ASIC, Rick, I think in February, you had mentioned this project for next year will start in first quarter or second quarter next year and reach a billion dollar of revenue. So you're saying that you're not going to be excluding HBM. Are we still kind of largely sticking to this timeline? Looks like the timeline is a little bit later based on your current commentary, but you're still sticking to that $1 billion even if the timeline is later. Is that a fair representation? We are working very closely with our customers to ensure the table, a good time for table, and the table will be ready later this year in the third quarter. And we are doing everything we can. We are preparing everything in advance to ensure a seamless execution after the table. We feel confident that we can really run this table into early production. Thank you. Thank you. So we are going to be running this table into early production in next year starting roughly later quarter next year. So we strive to achieve that $1 billion target as I said before. Thank you. Okay. Got it. And just wanted to understand, because I think first time we talk about this project, we were expecting this to start production in 25. Obviously there's been some delays. What is the reason for these delays in your perspective? And how do you characterize this? And when you talk about longer-term visibility, how do you factor in some of these kind of changes which are quite unique to the ASIC business into that longer-term opportunity? Gokul, Dave here. First of all, I want to clarify, I think starting from the beginning, I don't recall we made any comment talking about the revenue start from 25. I think we talked about the major one is actually 26. So we never talked about the 25. And the second part, actually, I understand, especially some people worry about the hiccups. When we give out the revenue guidance for next year, rest assured we're also affecting some of the potential hiccups as well. So providing actually the hiccups is within the original guidance or original range. So that's why actually, I guess, that's why you're wondering why. Even though there's some hiccups, but the revenue target didn't really change. I think that's the major reason. Is there a risk that this project will see some scale down given that your competitor also has a project which is of larger scale? Like how do we kind of assess that risk? Or is that risk already kind of factored into your guidance? I think so far, again, because we're talking about ramping up really third quarter, late third quarter next year. So even... Okay. Even in the worst case, if the overall scale is coming down, it will not impact the next quarter, next year's revenue. It may be impacting your lifetime, which was 27, 28. But for the MPI, the new product introduction, you just need to start enough wafer to start with. The positioning of different chips is quite different for customer's data center use. So, you know, we're talking about the data center. We're talking about the data center. We're talking about the data center. We're talking about the data center. So, we remain, again, confident that our chips will have really very good growth in the coming years. Thank you. Thanks. Thanks, Rick. Maybe my second question is on the automotive side. You seem to be seeing more and more traction on the smart cockpit, telematics. Could you talk a little bit about more of the... Yeah. Yeah. Yeah. No issues, on context. Like we just talked about, what makes you for Interas really good? We'll talk more about it later, and then we'll do a fun video as well. Hey. Yeah. I was just going to add, like, commissioning to A Pentel that regards their single project and their ecosystem, I think that this outcome has changed tremendously. So we now work with, like, the AI tech side and these Alphabet guys, they utilize ali-systems and this multi- кораб Backами protocol is a more Applause on customer services, inspirational communication for int harden people, which is very helpful, I think that's a class and industry like no other. Goku, I think for the billion-dollar revenue target, I think we probably won't be able to make it in next year. Even though we do see very strong revenue growth year over year, I guess we still probably need two to three years to see that benchmark. For next year, we will not see a billion dollars. From the design in and design win, or maybe just the backlog perspective or design pipeline perspective, I think it all looks actually pretty healthy and solid. Your question, Goku, about the ADAS, of course, you're right about the ADAS and the coming architecture of having ADAS and the cockpit chip in one SOC. For now, you certainly know that we are focusing on cockpit. And we are focusing on the cockpit. And we are focusing on the cockpit. And we are focusing on the cockpit. As far as I'm concerned, we are working, I should say, working with certain customers to build the ADAS chip. That's all I can say. And with that, we are quite confident, we're very confident that we will move into the ADAS field sometime soon. Thank you. Thanks. Thank you. Next one, Felix Pan, KGI. Go ahead, please. Hi, good afternoon. Rick, David, and JC. Two questions from me. First of all, for the N2's progress, we are at the same pace as our competitors moving to the N2. But as we know, the consumption for the smartphone is pretty weak from year to date, even with some subsidies. So I just wonder... How likely is it for your customer to transfer the cost for the migration to the customer? Is that the consumption can be with this kind of the cost increase? That's my first question. Second question will be the AI ethic. I think in the early days, I think maybe one company can do like all the service from the computing die, IOT die. So this... But now we see... I think... We see more like... Like more and more players jumping to the place. So we see something smaller like the people doing service, people doing the computing die. How do you see the trends going forward? Any color will be grateful. That's my question. Thanks. Well, the mobile flagship SOCs, there's no doubt in our mind that the 2 nanometer will be... In the mainstream for the flagship. No doubt in our mind. The demand... The user experiences, requirements, all points that way. By the way, I think the smartphone market is not growing big, but it's not doing... It's not doing... It's not doing... It's not doing... Poorly either. I think it is about the same as last year for instance. Wire, the share of the flagship phone has gone steadily higher every year. And that's why it was a part of reason, our share in the flagship SOC continue to grow also. But 2 nanometer with its power consumption, it's still a... power consumption benefits and the superior performance are really a perfect fit. There's no replacing for that for the next generation flagship SOC for the mobile domain. Then on the ASIC part. Okay well again I think you hear right on that the ASIC the data center ASIC is getting more and more and much more complex as the requirement for the computing power for the power consumption requirements for the very high speed interconnect up and out or demand a tremendous technology capability from computing area the well either the custom design computing chip or the XPU kind of a computing chip although we believe the custom computing chip will occupy the majority of the ASIC market for data centers and the other demand for the fast extremely fast interconnect which of course we well everybody's moving from 200G to 400G not everybody very few people can do that by the way only very few. Uh moving on and media tech is one of the very few who can do that and if and we also need to invest in the CPO as the next step after for 400G even less importantly or more importantly the advanced packaging technology the 2.5D very large chip size aging capability is a must but together are we also with the 3.5D packaging technology these are very difficult but also a must for the data center to achieve is to produce the computing power the tokens per second as a reasonable power consumption and a TCO the media attack and the data center to achieve this is a must. I would say it's one of the very few who can and who will fulfill all those very very challenging technology requirements and business model flexibility. Thank you. Okay thank you. Thank you. Next one Brett Simpson, Erite. Go ahead. Thank you. Please. Yeah thanks very much. I had a near-term question and a long-term question. I guess first up on a near term can you maybe just clarify the smartphone outlook for Q3. I think you said flagship would grow but is overall smartphone sales growing sequentially in Q3 and I guess we're coming off a period of subsidies in China particularly mid-range low-end we're seeing cutbacks in subsidy. So can you maybe share with us your perspective on how you think China consumer demand plays into second half. Do you anticipate any inventory builds and directionally would you expect sequential growth in Q4 for smartphones? Thank you. Right first and first uh overall I think we see a pretty healthy and normal inventory situation in the marketplace both actually for our customers and also for channel inventory so it's healthy and uh props to uh normal and probably closer from the lean and for third quarter specifically uh due to our flagship ramping up we see a very strong revenue rent for our flagship uh for mainstream and also the entry level i would say probably flat down a bit but overall i think for the market momentum i will use the world probably healthy i won't say it's strong but it's really definitely healthy and partially due to the incentive programs and also the product migrations in the marketplace and and just on just on that david so you're you're shipping 9500 a little bit earlier than we would have expected uh into q3 uh does that take away does that change your thinking on q4 i mean can do would you expect smartphones to grow in q4 just direction i think for for flagships i think it's going to be a little bit different from what we were expecting start from q3 but it's not going to stop at q4 you will continue from q3 q4 actually all the way to q1 i think basically that's the cadence in uh brim down cycle for flagship okay great thanks and maybe for rick i i just wanted to talk well a multi-part question on the nvidia relationship for mediatek and and where you think this is going and and and maybe just first of all um the scope of this partnership i'd love to understand um how much headcount is going to be in the future and and how much of the revenue is going to be in the future and and and how much of the revenue is going to be in the future and and how you're assigning to this opportunity um does the opportunity uh with nvidia extend to collaborations on 400 gig certies um i know you're working with nvidia on autonomous vehicles does that extend into robotics um so can you maybe just talk at a high level about how you're thinking about this relationship and in terms of the business model um with nvidia obviously you're starting to ramp the dg10 this quarter but can you give us a sense as to how this translates to revenues and whether the business model with nvidia is a creative or dilutive to to eat corporate ebit margins thank you all right let me uh get my head straight first uh it is truly a multi-part question let me just start with our uh our nvidia uh collaboration model uh we have two very active and i would say up to now quite successful uh business collaborations one being the arm computing chip square which uh you just mentioned gp10 uh it's already it will it will be shipped uh very soon in the third quarter and the other one being the uh cockpit chips uh in the uh autonomous vehicles uh both and as i said the cx1 i just mentioned in my remarks uh was developed uh through the collaboration with nvidia uh both companies have putting uh a lot of resources we we obviously uh do uh we were putting resources uh well around a thousand a year roughly uh uh saying all that uh these are uh just the beginning of this uh i would say very promising and mutually beneficial collaboration model uh as i would uh certainly believe jensen also believe in um want remains to be made of a lot of different technologies and uh TIM IMPOWE has a broad But like I thinned of으 entity of They uh I can't break M steady company uh but i have there a system that like the uh OC ph of all реб , n N to value for both companies are very positive in this time of the but the very robust demand for all kinds of ai capability one key bottleneck is the resources and in this way both companies can in this collaboration model both companies can achieve more with the existing or resources the created value i think will be obvious for both companies thank you thank you thank you next one bruce lu gorman sachs go ahead please hello thank you for taking taking my question uh again my question is still for the asic i think we could just mention that the customer as it has different positioning right so does the do you see any changes in terms of the positioning for the asic chips moving forward i.e that you know in the past you know there's a rule of thunder training for gpu you know inferences for asic but it sounds like sounds to me that there are certain changes for that so do you see a clear positioning for asian in inference or reasoning or it is also because of competition right i mean if the customer is it can really compete in with gpu in certain you know uh or in their previous planning do you see that change the addressable market for you and for your customers well bruce i will not act as a data center expert myself we are however only asic chip supplier however as we have engaged with multiple parties in the business i think you can we can uh calculate the tab uh for the uh for instance for the asic the customer is customer of course uh business and i believe the number we have been quoting 40 billion dollar 10. actually if you look at different uh different parties we are probably on the low side of the term so i would say from that point of view we are being certainly not too aggressive and uh the other thing i think is quite sure is the uh the custom to being custom chip the most important thing is the customers understand their workload requirement because they know the best and so that they can custom build certain chips more efficiently than a general purpose accelerated uh ai chip both are critical both will remain more than viable for the data center industry i don't think there's any question to that it's just the reality of the uh data center uh industry uh requires uh the large csps to build their own data centers with a shared industry and that's powerful and that's you know that's the reality of the data centers industry requires uh the large csps to build their own custom silicon so that they can they have a certain portfolio of their capacity or capability to be more efficient and more potentially cost and power efficient. But the ratio of their planning for different either training or reasoning or influencing really also depends greatly on again their business outlook. It's very difficult for us to comment truthfully. Thank you. Just a quick follow-up on this. I mean the reason we want to know that is that whether this heat carbon delay is due to like technical difficulty or any changes in terms of positioning, any changes in the component. Is it due to the competition landscape or just simply that the chips are a bit difficult? Bruce, I think so far what we see actually like you say from the market competition perspective, there's no material change in the last few quarter. So I think you can rest assured the delay or whatever is not due to what you talk about the competition. I see. I understand. Thank you. Okay. The second thing is that for the profitability into next year, as you might know that we have like ASX chips going up, even with a billion dollar, TSN is raising the price. We still comfortable with our gross margin to be stable for next year and onwards with the current range? I think due to the different business model and also the accounting, I think probably the better way we talked about earlier is going to be operating margin . That's specific for ASX business, right? But in terms of overall revenue for overall gross margin for next year? I think for if you put it aside with the business model perspective, I think our goal is still trying to stabilize the gross margin. I see. I understand. Regardless the pricing, wafer price or cost and different product mix, right? Yup. Okay. Thank you. Thank you. Next one off the line. Okay. Next one off the line. Macquarie, go ahead, please. Hi. Hi, Rick and David. Congrats that MediaTek have many, make many new product commercially soon. So my question is about GP10 and also ASIC. Number one, I think just one NSX about GP10 and then the, so I think the investor is still under-appreciating the partnership you make. And can you share with us under the concept of partnership, how you do this, you know, product sharing? And also, will we see more to go on this partnership? That's my first question. Thanks. Well, I think for the GP10, basically, it's NVIDIA own the product. So they sell the product to the marketplace and we get paid in return. But in terms of the share, it's NVIDIA. Okay. So I think the share, we will not be able to share some other detail. Yeah. Okay. Got you. Thank you. Second one is more about ASIC and revenue. We understand that there's a lot of discussion on ASIC and then in the future, can company and most closure break down ASIC? Thank you. I'm sorry. Can you repeat your question again? You mean breakdown? Yeah. So the financial report in the future, can you give us more breakdown, the subsequent breakdown, for example, smart age, smart phone, and also the ASIC breakdowns on the revenue side? I think for next year, actually, we will know our final decision. Yeah. Okay. Thank you. No more question. Thank you. Next question. Next one, Brett Ling, Bank of America. Go ahead, please. Oh, thank you for squeezing me in. So I have two questions. They are basically long-term questions. So the first question will be on the long-term outlook, say into 2027 or 2028, do we have any revenue or profitability target for the firm reached by research reaching certain level from the non-consumer electronics? For example, ASIC or things like automotive, robotics? Thank you. Brett, I think we can provide probably the direction of guidance, but we won't be able to provide the detailed guidance, especially if we're given a more dynamic market. I think like we talked about earlier, starting from this year, next year, we see multiple sector of growth opportunities. ASIC, AIASIC, automotive, wearable, and computing. So we do believe actually we're seeing real new continued growth all the way from 2027 and 2028. I think that's all we're seeing so far. But in terms of the detailed breakdown by different contribution, we will not be able to provide detail right now. Sure. Got it. Thank you very much. So my second question will be, well, we sort of mentioned that is on the engineering resource. We have learned the resource is really tight and the cost, the expense is also getting higher with the growing AI demand. So are engineering resource a potential bottleneck to Mediatek's business upside? If that is, when will that be and how does Mediatek handle the risk? Thank you. Again, there are two aspects to it. Number one is the resources by itself. It is tight, yes. Yes. I believe that is the kind of industry-wide phenomena. So the one thing we are doing is to have really these resources are corporate. We have a corporate resource planning to prioritize our business, our chips resources, and to also retain. Okay. Thank you. Thank you. Thank you. And also to put the state of the art classroom to architect it, welcomed regarding해 corporate activity. This takes now to major principles and key concepts as we looking for more Zukunft two of the tech design monde and then Corel within one of its terrifying methods. So so there is also modeling instances between other Europeanست y Pra不要 flight предлаг Guido also theubers-based into the international technology force inguy to hack through and for the benefit of all theину what much a' ABO thee. Great than 뭐 The sequences us and the to use a lot more вещ Suz record was coming from neful bae the future. We are of course hiring the design resources. There's no stopping in that regard. Both of these we believe we will. What we will do is to ensure the best growth for the company, 26, 27, 28 and beyond. We will ensure the resources are being spent to achieve our future growth for the company. Thank you. Well noted. Thank you, Rick. Thank you, David. Thank you. Ladies and gentlemen, we are going to take the last one. Next one, Charlie Chan, Morgan Stanley. Go ahead, please. Thanks for taking my question, Rick, David, Jesse. So my first question is also on ASIC. So I believe without your help, your key customers cannot execute this well to tip out on time. So congratulations on that. My question is about your second largest project, meaning what would make your customers not to choose you? Mediatek you have. Yes. I'm a big fan of Mediatek. I'm a big fan of Mediatek. I'm a big fan of Mediatek. Can you expand that? Yeah. I'mFlip is a big fan … I mean, for CISP as it's a company that takes the energy out of your credit yolk , it's a multi completelyебps and card four there's need galore any ocean executive the most漸 the most significant physical strength coming from a group of riders though far behind. So our tende pretending that any people that is open to a lot of technology and mobile on localHave the favorite can focus rather on well .. You want to see and distribute that to what other riders would do. yak harden themself. As I said a couple of times, we are engaging with various large CSPs. We appreciate your comments about our capabilities and we also believe we do possess those capabilities. The decision, of course, rests with the customer and we remain quite, shall we say, hopeful. But no matter what, I think for MediaTek, I believe we have proven ourselves to be not only a viable but also a very competitive ASIC supplier for the whole industry. That is an important point. So I do not believe we should just constrain ourselves to this or that opportunity. There are and there will be plenty of opportunities which will enable our future growth. I'm absolutely confident in that. Thank you. Great. I'm looking forward to your next success. So next one is a e-commerce. I think it gets easier. It's about your full-year revenue guidance in USC. I appreciate that company uses U.S. dollars to reflect your real operations. So when you provide a full-year U.S. dollars revenue guidance, can you also extend the implied fourth quarter seasonality? Thank you. Well, Charlie, if we're looking beyond the seasonality for the full year based on the U.S. dollars, I think we still feel that we have a lot of potential. Thank you. I think we're looking for a year-over-year growth, a meeting growth for the full year. Okay. Okay. So would that imply fourth quarter to be slightly off-slicing? And what would be the driver behind? I think for the quarterly patterns, actually, right now it's hard to comment. I think for the full year, it's probably going to be easier. Okay. Great. Much appreciated for squeezing my questions. Thank you. Thank you. Thank you. Thank you. Thank you, Charlie. Ladies and gentlemen, we thank you for all your questions. Now I'll hand it over to Ms. Jessie Wong for closing comments. Ms. Wong, please go ahead. Ladies and gentlemen, this concludes Mediatek 2025 Second Photo Conference call. An audio replay will be available in one hour after the call at the sözsion of Mediatek's website. We would like to thank you for your participation and you may now disconnect. Thank you, Ms. Wong. And ladies and gentlemen, thank you again for your attention. Good afternoon, everyone. I'm Thank you. I'm at the end of the session. I'm at the end of the session. I'll be right back after the five-minuteнуться break. I want to thank all of you for your participation today. Thank you so much for listening. at the investor session of Mediatek's website. We would like to thank you for your participation and you may now disconnect. Thank you, Ms. Wong. And ladies and gentlemen, thank you again for your participation in today's conference. You may now disconnect. Thank you again. Goodbye."
+}

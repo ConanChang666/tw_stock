@@ -1,0 +1,2027 @@
+{
+  "symbol": "2412_2025Q1",
+  "source_url": "https://production-mp3-full.s3.amazonaws.com/pS9ix5Nf/ch03-dA6ue2.mp3",
+  "language": "en",
+  "duration_sec": null,
+  "created_at": "2025-09-25T12:35:23Z",
+  "model": "whisper-large-v3",
+  "segments": [
+    {
+      "i": 0,
+      "start": 0.16,
+      "end": 2.04,
+      "text": "Good afternoon, ladies and gentlemen."
+    },
+    {
+      "i": 1,
+      "start": 2.64,
+      "end": 8.8,
+      "text": "Welcome to Zhonghua Telecom Conference Call for the company's first quarter 2025 operating results."
+    },
+    {
+      "i": 2,
+      "start": 9.700000000000001,
+      "end": 12.780000000000001,
+      "text": "During the presentation, all lines will be on listen-only mode,"
+    },
+    {
+      "i": 3,
+      "start": 13.3,
+      "end": 19.5,
+      "text": "and when the briefing is finished, directions for submitting your questions will be given in the question-and-answer session."
+    },
+    {
+      "i": 4,
+      "start": 20.28,
+      "end": 25.18,
+      "text": "For your information, this conference call is now being broadcast live over the Internet."
+    },
+    {
+      "i": 5,
+      "start": 25.76,
+      "end": 29.96,
+      "text": "Webcast replay will be available within an hour after the conference is finished."
+    },
+    {
+      "i": 6,
+      "start": 30.74,
+      "end": 39.6,
+      "text": "Please visit CHT IR website, www.cht.com.tw, slash IR, under the IR calendar section."
+    },
+    {
+      "i": 7,
+      "start": 40.54,
+      "end": 46.379999999999995,
+      "text": "And now I would like to turn it over to Ms. Angela Tsai, Assistant Vice President of Investor Relations."
+    },
+    {
+      "i": 8,
+      "start": 46.78,
+      "end": 47.1,
+      "text": "Thank you."
+    },
+    {
+      "i": 9,
+      "start": 47.64,
+      "end": 49.019999999999996,
+      "text": "Ms. Tsai, please go ahead."
+    },
+    {
+      "i": 10,
+      "start": 50.68,
+      "end": 51.56,
+      "text": "Thank you."
+    },
+    {
+      "i": 11,
+      "start": 51.68,
+      "end": 52.620000000000005,
+      "text": "I'm Angela Tsai."
+    },
+    {
+      "i": 12,
+      "start": 52.86,
+      "end": 56.760000000000005,
+      "text": "Welcome to our first quarter 2025 result conference call."
+    },
+    {
+      "i": 13,
+      "start": 57.22,
+      "end": 59.620000000000005,
+      "text": "Joining me on the call today are our presidents,"
+    },
+    {
+      "i": 14,
+      "start": 60.0,
+      "end": 63.66,
+      "text": "and our chief financial officer, Audrey Xu."
+    },
+    {
+      "i": 15,
+      "start": 64.54,
+      "end": 69.04,
+      "text": "During today's call, management will begin with the recent strategic achievements"
+    },
+    {
+      "i": 16,
+      "start": 69.04,
+      "end": 72.44,
+      "text": "and provide our business overview of the first quarter,"
+    },
+    {
+      "i": 17,
+      "start": 72.96000000000001,
+      "end": 77.26,
+      "text": "followed by a discussion of our segment performance and the financial results."
+    },
+    {
+      "i": 18,
+      "start": 77.94,
+      "end": 81.88,
+      "text": "After, we will move on to the question-and-answer portion of the call."
+    },
+    {
+      "i": 19,
+      "start": 82.98,
+      "end": 87.26,
+      "text": "On slide two, please read our disclaimers and notes concerning forward-looking statements."
+    },
+    {
+      "i": 20,
+      "start": 88.0,
+      "end": 89.66,
+      "text": "Now, without further delay,"
+    },
+    {
+      "i": 21,
+      "start": 90.0,
+      "end": 94.16,
+      "text": "turn the call over to our president. President Lin, please go ahead."
+    },
+    {
+      "i": 22,
+      "start": 95.44,
+      "end": 98.36,
+      "text": "Thank you, Angela, and hello, everyone. Welcome"
+    },
+    {
+      "i": 23,
+      "start": 98.36,
+      "end": 102.18,
+      "text": "to our first quarter 2025 Results Conference Call."
+    },
+    {
+      "i": 24,
+      "start": 102.6,
+      "end": 106.36,
+      "text": "We are excited to report net income and EPS"
+    },
+    {
+      "i": 25,
+      "start": 106.36,
+      "end": 110.64,
+      "text": "delivered a 4.3% year-over-year"
+    },
+    {
+      "i": 26,
+      "start": 110.64,
+      "end": 114.5,
+      "text": "increase in the first quarter. Driven by our solid"
+    },
+    {
+      "i": 27,
+      "start": 114.5,
+      "end": 118.52,
+      "text": "operation and leading position in mobile, fixed-line, and"
+    },
+    {
+      "i": 28,
+      "start": 118.52,
+      "end": 122.72,
+      "text": "ICT business, despite the first quarter's"
+    },
+    {
+      "i": 29,
+      "start": 122.72,
+      "end": 126.56,
+      "text": "rapid change in the macroeconomic climate due to"
+    },
+    {
+      "i": 30,
+      "start": 126.56,
+      "end": 130.56,
+      "text": "the global tariff issue, from which we believe there"
+    },
+    {
+      "i": 31,
+      "start": 130.56,
+      "end": 134.56,
+      "text": "is no material impact, we believe that this may"
+    },
+    {
+      "i": 32,
+      "start": 134.56,
+      "end": 138.2,
+      "text": "even present new opportunities for our"
+    },
+    {
+      "i": 33,
+      "start": 138.2,
+      "end": 142.18,
+      "text": "international business. At the same time, our strong"
+    },
+    {
+      "i": 34,
+      "start": 142.18,
+      "end": 146.24,
+      "text": "financial performance positions us to continue investing"
+    },
+    {
+      "i": 35,
+      "start": 146.24,
+      "end": 148.48,
+      "text": "to seize new opportunities."
+    },
+    {
+      "i": 36,
+      "start": 148.52,
+      "end": 152.28,
+      "text": "Particularly those from enterprise customers who may be"
+    },
+    {
+      "i": 37,
+      "start": 152.28,
+      "end": 155.44,
+      "text": "expanding their manufacturing bases globally."
+    },
+    {
+      "i": 38,
+      "start": 157.04000000000002,
+      "end": 160.42000000000002,
+      "text": "Meanwhile, we will continue to execute our Sea, Land,"
+    },
+    {
+      "i": 39,
+      "start": 160.60000000000002,
+      "end": 164.5,
+      "text": "and Sky advanced network strategy to prepare for the"
+    },
+    {
+      "i": 40,
+      "start": 164.5,
+      "end": 168.38,
+      "text": "future and enhance network resilience, leveraging"
+    },
+    {
+      "i": 41,
+      "start": 168.38,
+      "end": 172.46,
+      "text": "our leading technology strengths. In general, we"
+    },
+    {
+      "i": 42,
+      "start": 172.46,
+      "end": 176.36,
+      "text": "collaborated with partners to successfully integrate"
+    },
+    {
+      "i": 43,
+      "start": 176.36,
+      "end": 178.36,
+      "text": "the ST2 high-orbit setup."
+    },
+    {
+      "i": 44,
+      "start": 178.52,
+      "end": 185.44,
+      "text": "Europe's largest center for the"
+    },
+    {
+      "i": 45,
+      "start": 185.44,
+      "end": 189.0,
+      "text": "infrastructure of 5G for the"
+    },
+    {
+      "i": 46,
+      "start": 189.0,
+      "end": 190.64000000000001,
+      "text": "international network."
+    },
+    {
+      "i": 47,
+      "start": 190.64000000000001,
+      "end": 192.9,
+      "text": "Through implementations to strengthen clean"
+    },
+    {
+      "i": 48,
+      "start": 192.9,
+      "end": 195.04000000000002,
+      "text": "media access, we will tally the"
+    },
+    {
+      "i": 49,
+      "start": 195.04000000000002,
+      "end": 196.70000000000002,
+      "text": "cost of有人ages nets based on"
+    },
+    {
+      "i": 50,
+      "start": 196.70000000000002,
+      "end": 199.16000000000003,
+      "text": "the technology."
+    },
+    {
+      "i": 51,
+      "start": 199.16000000000003,
+      "end": 205.48000000000002,
+      "text": "before"
+    },
+    {
+      "i": 52,
+      "start": 205.48000000000002,
+      "end": 207.20000000000002,
+      "text": "from our"
+    },
+    {
+      "i": 53,
+      "start": 207.20000000000002,
+      "end": 207.62,
+      "text": "knowledge base complet. Thank you."
+    },
+    {
+      "i": 54,
+      "start": 207.62,
+      "end": 208.5,
+      "text": "следующkiu хочет berat知 oko 5G stagiaol combat advancedよう 33vis a global enzimpatashitakon onesigse roiveโ�잔 Child Church New Radio o-ew 5.12. view-videom街依岡 w fuqçä présent ng acontece stovićăm Lananderä"
+    },
+    {
+      "i": 55,
+      "start": 208.52,
+      "end": 219.22,
+      "text": "Australia to bring a dedicated microgear satellite to Taiwan, complementing our existing multi-orbit satellite architecture."
+    },
+    {
+      "i": 56,
+      "start": 219.92000000000002,
+      "end": 228.92000000000002,
+      "text": "As for C, we announced our investment in E2A, the Trans-Pacific undersea cable connecting Asia to North America"
+    },
+    {
+      "i": 57,
+      "start": 228.92000000000002,
+      "end": 237.58,
+      "text": "to meet the growing demand from OTT players and the digital transformation, including the foreseeable AI boom."
+    },
+    {
+      "i": 58,
+      "start": 237.58,
+      "end": 244.04000000000002,
+      "text": "To our great delight, we are proud to receive multiple awards in the first quarter,"
+    },
+    {
+      "i": 59,
+      "start": 244.68,
+      "end": 248.68,
+      "text": "acknowledging our leadership in the business and ESG performance."
+    },
+    {
+      "i": 60,
+      "start": 249.12,
+      "end": 258.04,
+      "text": "For international honors, our outstanding 5G smart port solution was recognized by Asia Telecom Awards"
+    },
+    {
+      "i": 61,
+      "start": 258.04,
+      "end": 260.76,
+      "text": "as the technology innovation of the year."
+    },
+    {
+      "i": 62,
+      "start": 260.76,
+      "end": 267.12,
+      "text": "We were also ranked top five for S&P Global ESG Score,"
+    },
+    {
+      "i": 63,
+      "start": 267.68,
+      "end": 274.02,
+      "text": "Zaporo in the sustainability a book 2025 for the third consecutive year"
+    },
+    {
+      "i": 64,
+      "start": 276.22,
+      "end": 282.62,
+      "text": "The accurate and secured the highest A ranking from CDP for both climate"
+    },
+    {
+      "i": 65,
+      "start": 282.62,
+      "end": 288.62,
+      "text": "and the supply engagement leadership for the second consecutive year."
+    },
+    {
+      "i": 66,
+      "start": 289.14,
+      "end": 293.16,
+      "text": "Finally, we would like to highlight that the kab Ziqi,"
+    },
+    {
+      "i": 67,
+      "start": 293.16,
+      "end": 296.26,
+      "text": "diagram is the first Taiwanese Telecom certified"
+    },
+    {
+      "i": 68,
+      "start": 296.26,
+      "end": 296.9,
+      "text": "under the most stringent"
+    },
+    {
+      "i": 69,
+      "start": 296.9,
+      "end": 306.78,
+      "text": "international anti-bribery standard, showing our determination to deliver outstanding"
+    },
+    {
+      "i": 70,
+      "start": 306.78,
+      "end": 312.9,
+      "text": "cooperative governance. Going forward, China Telecom will continue to maintain its leading"
+    },
+    {
+      "i": 71,
+      "start": 312.9,
+      "end": 320.44,
+      "text": "position across all key benchmarks in the industry. Now let's move on to the business overview of the"
+    },
+    {
+      "i": 72,
+      "start": 320.44,
+      "end": 330.28,
+      "text": "first quarter of 2025. Please turn to page 5 to review our leading position in Taiwan's mobile"
+    },
+    {
+      "i": 73,
+      "start": 330.28,
+      "end": 338.14,
+      "text": "market. According to the statistics from Taiwan's telecom regulator, by March, we had successfully"
+    },
+    {
+      "i": 74,
+      "start": 338.14,
+      "end": 347.18,
+      "text": "acquired the largest revenue share in Taiwan's mobile market at 40.5%, as well as the largest"
+    },
+    {
+      "i": 75,
+      "start": 347.18,
+      "end": 350.14,
+      "text": "subscriber share at 39.5%."
+    },
+    {
+      "i": 76,
+      "start": 350.44,
+      "end": 376.32,
+      "text": "Our mobile service revenue in the first quarter increased about 2% year-over-year, mainly due to"
+    },
+    {
+      "i": 77,
+      "start": 376.32,
+      "end": 380.42,
+      "text": "the subscriber number increase and continued performance."
+    },
+    {
+      "i": 78,
+      "start": 380.44,
+      "end": 390.32,
+      "text": "In addition, we are pleased to report a 42% increase in the average monthly fee uplift from the"
+    },
+    {
+      "i": 79,
+      "start": 390.32,
+      "end": 398.52,
+      "text": "5G migration, contributing to the stability of our overall mobile output, which delivered a slight"
+    },
+    {
+      "i": 80,
+      "start": 398.52,
+      "end": 402.28,
+      "text": "quarter-over-quarter increase in the first quarter."
+    },
+    {
+      "i": 81,
+      "start": 407.1,
+      "end": 410.42,
+      "text": "Let's move on to slide 6 for update on the business overview of the first quarter."
+    },
+    {
+      "i": 82,
+      "start": 410.44,
+      "end": 422.94,
+      "text": "In the first quarter, our cross-tier upgrade promotion package continued to be well received,"
+    },
+    {
+      "i": 83,
+      "start": 422.94,
+      "end": 433.08,
+      "text": "with near 70% of the package adopters choosing service offering of 300 Mbps and above,"
+    },
+    {
+      "i": 84,
+      "start": 433.8,
+      "end": 440.42,
+      "text": "including the highest speed offering of 1 Gbps. As a result, on a year-over-year basis,"
+    },
+    {
+      "i": 85,
+      "start": 440.44,
+      "end": 453.14,
+      "text": "our subscribers with speed of 300 Mbps and above increased by 16%, while those with speeds of 1 Gbps"
+    },
+    {
+      "i": 86,
+      "start": 453.14,
+      "end": 461.6,
+      "text": "growth significantly. Given the continued speed upgrade from our subscribers, our fixed broadband"
+    },
+    {
+      "i": 87,
+      "start": 461.6,
+      "end": 469.68,
+      "text": "revenue and our pool is keeping another quarterly increase by 2.5% and 2.1%."
+    },
+    {
+      "i": 88,
+      "start": 469.68,
+      "end": 469.74,
+      "text": "Thank you for your attention."
+    },
+    {
+      "i": 89,
+      "start": 469.76,
+      "end": 469.84,
+      "text": "Thank you for your attention."
+    },
+    {
+      "i": 90,
+      "start": 470.44,
+      "end": 472.6,
+      "text": "year over year, respectively."
+    },
+    {
+      "i": 91,
+      "start": 473.1,
+      "end": 477.9,
+      "text": "And we are confident that this growth will persist."
+    },
+    {
+      "i": 92,
+      "start": 478.71999999999997,
+      "end": 482.8,
+      "text": "Now let's take a close look at the performance of our business group."
+    },
+    {
+      "i": 93,
+      "start": 486.14,
+      "end": 491.82,
+      "text": "Slide 6 provides a deep overview of highlights from our customer application services."
+    },
+    {
+      "i": 94,
+      "start": 492.42,
+      "end": 497.94,
+      "text": "In the first quarter, we continue to see positive growth in each value-added services offering."
+    },
+    {
+      "i": 95,
+      "start": 497.94,
+      "end": 503.88,
+      "text": "Our multi-play package with service offering of mobile fixed broadband and Wi-Fi"
+    },
+    {
+      "i": 96,
+      "start": 503.88,
+      "end": 509.2,
+      "text": "continues to deliver outstanding year-over-year growth of 33%"
+    },
+    {
+      "i": 97,
+      "start": 509.2,
+      "end": 514.58,
+      "text": "and driven by our strong network quality and effective reward point strategy."
+    },
+    {
+      "i": 98,
+      "start": 515.56,
+      "end": 519.16,
+      "text": "Video business maintains its growth trajectory."
+    },
+    {
+      "i": 99,
+      "start": 519.6,
+      "end": 524.78,
+      "text": "Subscriptions increased by 12.5% year-over-year,"
+    },
+    {
+      "i": 100,
+      "start": 524.78,
+      "end": 527.32,
+      "text": "driven by the sports content."
+    },
+    {
+      "i": 101,
+      "start": 527.32,
+      "end": 530.6400000000001,
+      "text": "And our exclusive release of popular dramas."
+    },
+    {
+      "i": 102,
+      "start": 530.6400000000001,
+      "end": 538.32,
+      "text": "Our effective content strategy lead to a 45% increase of Hami video subscribers"
+    },
+    {
+      "i": 103,
+      "start": 538.32,
+      "end": 543.0600000000001,
+      "text": "compared with the same quarter last year, which is encouraging."
+    },
+    {
+      "i": 104,
+      "start": 543.0600000000001,
+      "end": 548.6400000000001,
+      "text": "As a result, our overall video revenue in the first quarter rose steadily."
+    },
+    {
+      "i": 105,
+      "start": 548.6400000000001,
+      "end": 556.7,
+      "text": "In addition, our consumer cybersecurity subscription also surged by 21% year-over-year"
+    },
+    {
+      "i": 106,
+      "start": 556.7,
+      "end": 557.3000000000001,
+      "text": "during this year."
+    },
+    {
+      "i": 107,
+      "start": 557.3,
+      "end": 560.62,
+      "text": "We 쉽ly sawщd 10% increase more in this quarter,"
+    },
+    {
+      "i": 108,
+      "start": 560.62,
+      "end": 568.16,
+      "text": "steadily increasing his revenue contribution as expected."
+    },
+    {
+      "i": 109,
+      "start": 568.16,
+      "end": 575.2199999999999,
+      "text": "Slide 6 illustrates the key highlights in our enterprise ICT business."
+    },
+    {
+      "i": 110,
+      "start": 575.2199999999999,
+      "end": 580.04,
+      "text": "We are excited to report strong enterprise ICT business performance in the first quarter"
+    },
+    {
+      "i": 111,
+      "start": 580.3,
+      "end": 584.8599999999999,
+      "text": "revenue increased by 13% year-over-year,"
+    },
+    {
+      "i": 112,
+      "start": 585.18,
+      "end": 586.5799999999999,
+      "text": "driven by project revenue"
+    },
+    {
+      "i": 113,
+      "start": 586.5799999999999,
+      "end": 587.06,
+      "text": "recognition"
+    },
+    {
+      "i": 114,
+      "start": 587.06,
+      "end": 587.0999999999999,
+      "text": "..."
+    },
+    {
+      "i": 115,
+      "start": 587.0999999999999,
+      "end": 587.2199999999999,
+      "text": "reactionization"
+    },
+    {
+      "i": 116,
+      "start": 587.2199999999999,
+      "end": 587.24,
+      "text": "exploration,"
+    },
+    {
+      "i": 117,
+      "start": 587.24,
+      "end": 587.26,
+      "text": "..."
+    },
+    {
+      "i": 118,
+      "start": 587.26,
+      "end": 587.3,
+      "text": "..."
+    },
+    {
+      "i": 119,
+      "start": 587.3,
+      "end": 594.92,
+      "text": "robust performance across our major pillars and continued growth in recurring revenue."
+    },
+    {
+      "i": 120,
+      "start": 594.92,
+      "end": 604.3,
+      "text": "We believe our strategy to increase our recurring revenue is important as it can help stabilize overall ICT performance."
+    },
+    {
+      "i": 121,
+      "start": 604.9599999999999,
+      "end": 608.56,
+      "text": "For a closer look at each emerging application service offering,"
+    },
+    {
+      "i": 122,
+      "start": 608.56,
+      "end": 623.3599999999999,
+      "text": "in the first quarter, we are excited to see year-over-year revenue growth in our cybersecurity, IBC, and cloud business of 40%, 29%, and 13%, respectively."
+    },
+    {
+      "i": 123,
+      "start": 623.3599999999999,
+      "end": 632.9399999999999,
+      "text": "Cybersecurity revenue achieved the 13th consecutive quarter of year-over-year growth,"
+    },
+    {
+      "i": 124,
+      "start": 633.64,
+      "end": 638.3599999999999,
+      "text": "mainly driven by the project completed for financial institutions."
+    },
+    {
+      "i": 125,
+      "start": 638.56,
+      "end": 647.7199999999999,
+      "text": "And the franchise, Chainstore Client, along with contribution from streaming consumer."
+    },
+    {
+      "i": 126,
+      "start": 648.38,
+      "end": 657.56,
+      "text": "Meanwhile, IBC and cloud revenue were boosted by the contribution from the smart government project,"
+    },
+    {
+      "i": 127,
+      "start": 658.76,
+      "end": 667.1999999999999,
+      "text": "accomplished by the increasing recurring revenue from both IBC and the international public cloud service."
+    },
+    {
+      "i": 128,
+      "start": 667.1999999999999,
+      "end": 668.1999999999999,
+      "text": "The later experience..."
+    },
+    {
+      "i": 129,
+      "start": 668.56,
+      "end": 670.56,
+      "text": "particularly strong growth."
+    },
+    {
+      "i": 130,
+      "start": 670.56,
+      "end": 678.56,
+      "text": "Notably, as the first telecom in Taiwan to be honored as AWS's premier tier service partner,"
+    },
+    {
+      "i": 131,
+      "start": 678.56,
+      "end": 687.56,
+      "text": "we hold the most AWS certificates, demonstrating our leading cloud technology within the industry."
+    },
+    {
+      "i": 132,
+      "start": 687.56,
+      "end": 692.56,
+      "text": "Additionally, our 5G private network also delivers double-digit revenue growth,"
+    },
+    {
+      "i": 133,
+      "start": 692.56,
+      "end": 698.38,
+      "text": "driven by the revenue recognition from the international community."
+    },
+    {
+      "i": 134,
+      "start": 698.38,
+      "end": 700.38,
+      "text": "We are also excited to see the growth of the cloud service industry in the future,"
+    },
+    {
+      "i": 135,
+      "start": 700.38,
+      "end": 702.38,
+      "text": "as well as the growth of the cloud services industry in the future."
+    },
+    {
+      "i": 136,
+      "start": 702.38,
+      "end": 704.38,
+      "text": "We are excited to see the growth of the cloud services industry in the future,"
+    },
+    {
+      "i": 137,
+      "start": 704.38,
+      "end": 706.38,
+      "text": "as well as the growth of the cloud services industry in the future,"
+    },
+    {
+      "i": 138,
+      "start": 706.38,
+      "end": 708.38,
+      "text": "driven by the revenue recognition of clients, as well as year-over-year revenue growth in our AIoT service business,"
+    },
+    {
+      "i": 139,
+      "start": 708.38,
+      "end": 710.38,
+      "text": "fueled by projects in the finance and retail sectors."
+    },
+    {
+      "i": 140,
+      "start": 710.38,
+      "end": 715.38,
+      "text": "And we are delighted to report the network integration contract worth over NT$1 billion secured in the first quarter"
+    },
+    {
+      "i": 141,
+      "start": 715.38,
+      "end": 720.38,
+      "text": "from a leading financial holding company, which we expect to inject revenue and profit in the near future."
+    },
+    {
+      "i": 142,
+      "start": 720.38,
+      "end": 724.38,
+      "text": "In addition, leveraging our leading data analysis capabilities, we are also looking to increase the data analysis capabilities of our customers,"
+    },
+    {
+      "i": 143,
+      "start": 724.38,
+      "end": 726.38,
+      "text": "which will be used to generate revenue and profit in the near future."
+    },
+    {
+      "i": 144,
+      "start": 726.38,
+      "end": 728.38,
+      "text": "In addition, leveraging our leading data analysis capabilities,"
+    },
+    {
+      "i": 145,
+      "start": 728.38,
+      "end": 733.38,
+      "text": "we are proud to win the high-power AMI expansion project again,"
+    },
+    {
+      "i": 146,
+      "start": 733.38,
+      "end": 738.38,
+      "text": "recognizing our expertise in energy management."
+    },
+    {
+      "i": 147,
+      "start": 738.38,
+      "end": 749.38,
+      "text": "We were honored with four major awards at the CIO Taiwan's 2025 United Vendor Award,"
+    },
+    {
+      "i": 148,
+      "start": 749.38,
+      "end": 755.38,
+      "text": "including the outstanding service provider for the fourth consecutive year,"
+    },
+    {
+      "i": 149,
+      "start": 755.38,
+      "end": 759.48,
+      "text": "we were the exclusive winner from telecom industry."
+    },
+    {
+      "i": 150,
+      "start": 762.38,
+      "end": 766.6,
+      "text": "Black Knight illustrated our international subsidiary performance."
+    },
+    {
+      "i": 151,
+      "start": 767.22,
+      "end": 774.9399999999999,
+      "text": "In the first quarter, revenue from our overseas subsidiary increased by 8.2% year over year,"
+    },
+    {
+      "i": 152,
+      "start": 775.28,
+      "end": 781.74,
+      "text": "mainly due to the growing ICT services provided to the high-tech customers in the United States"
+    },
+    {
+      "i": 153,
+      "start": 781.74,
+      "end": 784.62,
+      "text": "and the Southeast Asia market."
+    },
+    {
+      "i": 154,
+      "start": 784.62,
+      "end": 788.5600000000001,
+      "text": "In light of the global economic landscape change,"
+    },
+    {
+      "i": 155,
+      "start": 789.02,
+      "end": 796.24,
+      "text": "we have observed business opportunity from the growing Taiwanese investment in the United States"
+    },
+    {
+      "i": 156,
+      "start": 796.24,
+      "end": 804.3,
+      "text": "and saw projects in our pipeline mainly progressing as a result of the relocation of AI supply chain,"
+    },
+    {
+      "i": 157,
+      "start": 804.78,
+      "end": 806.78,
+      "text": "including the AIDC construction."
+    },
+    {
+      "i": 158,
+      "start": 806.78,
+      "end": 811.0,
+      "text": "The Strong Telecom Global, our subsidiary in the United States,"
+    },
+    {
+      "i": 159,
+      "start": 811.28,
+      "end": 814.6,
+      "text": "expanded our Arizona office in April,"
+    },
+    {
+      "i": 160,
+      "start": 814.62,
+      "end": 820.82,
+      "text": "and launched a new office in May in Texas office to support business development."
+    },
+    {
+      "i": 161,
+      "start": 821.48,
+      "end": 825.62,
+      "text": "In addition, our business in Singapore, Vietnam, and Thailand"
+    },
+    {
+      "i": 162,
+      "start": 825.62,
+      "end": 830.7,
+      "text": "all experienced double-digit revenue growth in the first quarter,"
+    },
+    {
+      "i": 163,
+      "start": 831.2,
+      "end": 835.32,
+      "text": "largely driven by the providing ICT services for Taiwanese enterprise"
+    },
+    {
+      "i": 164,
+      "start": 835.32,
+      "end": 839.42,
+      "text": "to build new factories in the Southeast Asia market."
+    },
+    {
+      "i": 165,
+      "start": 839.42,
+      "end": 842.46,
+      "text": "To support overseas business,"
+    },
+    {
+      "i": 166,
+      "start": 842.8,
+      "end": 844.52,
+      "text": "we announced our investment,"
+    },
+    {
+      "i": 167,
+      "start": 844.62,
+      "end": 850.4,
+      "text": "and we are also working with Taiwan to expand our investment in the new submarine cable system,"
+    },
+    {
+      "i": 168,
+      "start": 850.4,
+      "end": 851.4,
+      "text": "E2A, in March."
+    },
+    {
+      "i": 169,
+      "start": 851.4,
+      "end": 859.4,
+      "text": "This trans-Pacific fiber optical network will connect the submarine cable system between North America and Asia."
+    },
+    {
+      "i": 170,
+      "start": 859.4,
+      "end": 865.4,
+      "text": "Our strategy is to enable diverse connectivity options,"
+    },
+    {
+      "i": 171,
+      "start": 865.4,
+      "end": 871.48,
+      "text": "strengthen Taiwan's position as a key submarine cable hub in the Asia-Pacific region,"
+    },
+    {
+      "i": 172,
+      "start": 871.48,
+      "end": 874.48,
+      "text": "and further enhance the overall network resilience to response to the global demand."
+    },
+    {
+      "i": 173,
+      "start": 874.62,
+      "end": 876.78,
+      "text": "Our technology will be able to support the development of the new submarine cable system,"
+    },
+    {
+      "i": 174,
+      "start": 876.78,
+      "end": 878.72,
+      "text": "and enhance the overall network resilience to support the global demand."
+    },
+    {
+      "i": 175,
+      "start": 878.72,
+      "end": 880.76,
+      "text": "Our technology will be able to support the development of the new submarine cable system,"
+    },
+    {
+      "i": 176,
+      "start": 880.76,
+      "end": 882.04,
+      "text": "and enhance the overall network resilience to support the global demand."
+    },
+    {
+      "i": 177,
+      "start": 882.04,
+      "end": 884.04,
+      "text": "Now let's move on to page 11,"
+    },
+    {
+      "i": 178,
+      "start": 884.04,
+      "end": 887.62,
+      "text": "for the financial performance of our three business groups."
+    },
+    {
+      "i": 179,
+      "start": 888.1,
+      "end": 889.2,
+      "text": "In the first quarter,"
+    },
+    {
+      "i": 180,
+      "start": 889.2,
+      "end": 896.58,
+      "text": "our CDG delivered a 4.9% year-over-year increase of its income before tax,"
+    },
+    {
+      "i": 181,
+      "start": 896.58,
+      "end": 898.58,
+      "text": "which is quite healthy,"
+    },
+    {
+      "i": 182,
+      "start": 898.58,
+      "end": 902.8,
+      "text": "as our mobile ARPU will steadily develop"
+    },
+    {
+      "i": 183,
+      "start": 902.8,
+      "end": 904.44,
+      "text": "and fix broadband issues,"
+    },
+    {
+      "i": 184,
+      "start": 904.44,
+      "end": 908.1400000000001,
+      "text": "and our ARPU is expected to continue to hold up."
+    },
+    {
+      "i": 185,
+      "start": 908.1400000000001,
+      "end": 908.86,
+      "text": "In addition,"
+    },
+    {
+      "i": 186,
+      "start": 908.86,
+      "end": 911.86,
+      "text": "our ICT business continues to expand."
+    },
+    {
+      "i": 187,
+      "start": 911.86,
+      "end": 919.0200000000001,
+      "text": "We are delighted to see EDG's total revenue increase by 2.3% year-over-year,"
+    },
+    {
+      "i": 188,
+      "start": 919.0200000000001,
+      "end": 929.2800000000001,
+      "text": "mainly underpinned by the strong ICT business revenue growth of 11.6% year-over-year."
+    },
+    {
+      "i": 189,
+      "start": 929.2800000000001,
+      "end": 932.62,
+      "text": "This growth was offset by a continued decline in EDG's fixed broadband business growth,"
+    },
+    {
+      "i": 190,
+      "start": 932.62,
+      "end": 933.84,
+      "text": "which is quite healthy,"
+    },
+    {
+      "i": 191,
+      "start": 933.84,
+      "end": 934.4200000000001,
+      "text": "and our ADG business is expected to continue to grow."
+    },
+    {
+      "i": 192,
+      "start": 934.44,
+      "end": 935.44,
+      "text": "Our APAC everytime's voice revenue,"
+    },
+    {
+      "i": 193,
+      "start": 935.44,
+      "end": 938.8800000000001,
+      "text": "which staring the ..."
+    },
+    {
+      "i": 194,
+      "start": 938.8800000000001,
+      "end": 942.6600000000001,
+      "text": "to a 3.8% year-over-year decrease in the income before tax,"
+    },
+    {
+      "i": 195,
+      "start": 942.6600000000001,
+      "end": 948.9200000000001,
+      "text": "is helping the ESG growth"
+    },
+    {
+      "i": 196,
+      "start": 949.2,
+      "end": 952.4200000000001,
+      "text": "to increase."
+    },
+    {
+      "i": 197,
+      "start": 952.4200000000001,
+      "end": 956.3800000000001,
+      "text": "Both increased modestly in the first quarter,"
+    },
+    {
+      "i": 198,
+      "start": 956.3800000000001,
+      "end": 962.84,
+      "text": "due to its robust international IBC business growth and continued strong demand for the integrated ICT services in the global market."
+    },
+    {
+      "i": 199,
+      "start": 962.84,
+      "end": 963.32,
+      "text": "Now,"
+    },
+    {
+      "i": 200,
+      "start": 963.32,
+      "end": 964.2600000000001,
+      "text": "I would like to hand the call over toub"
+    },
+    {
+      "i": 201,
+      "start": 964.2600000000001,
+      "end": 964.34,
+      "text": "for the next presentation."
+    },
+    {
+      "i": 202,
+      "start": 964.34,
+      "end": 964.3800000000001,
+      "text": "Now, I would like to hand the call over to Thank you."
+    },
+    {
+      "i": 203,
+      "start": 964.44,
+      "end": 966.98,
+      "text": "to Audrey Fee for the financial update."
+    },
+    {
+      "i": 204,
+      "start": 969.6,
+      "end": 972.5,
+      "text": "Thank you, President. Good afternoon, everyone."
+    },
+    {
+      "i": 205,
+      "start": 972.7600000000001,
+      "end": 976.2800000000001,
+      "text": "It is my pleasure to present an overview of our"
+    },
+    {
+      "i": 206,
+      "start": 976.2800000000001,
+      "end": 979.4200000000001,
+      "text": "financial results for the first quarter of 2025."
+    },
+    {
+      "i": 207,
+      "start": 980.5,
+      "end": 984.24,
+      "text": "Please refer to slide 12, Income Statement"
+    },
+    {
+      "i": 208,
+      "start": 984.24,
+      "end": 988.12,
+      "text": "Highlights. Let me walk you through the key financial metrics"
+    },
+    {
+      "i": 209,
+      "start": 988.12,
+      "end": 992.08,
+      "text": "for the quarter. Revenue reached over $55"
+    },
+    {
+      "i": 210,
+      "start": 992.08,
+      "end": 996.14,
+      "text": "billion, making the fifth consecutive year of growth."
+    },
+    {
+      "i": 211,
+      "start": 996.6800000000001,
+      "end": 1000.14,
+      "text": "This represents a year-over-year increase of"
+    },
+    {
+      "i": 212,
+      "start": 1000.14,
+      "end": 1004.34,
+      "text": "1.6%, driven primarily by the expansion"
+    },
+    {
+      "i": 213,
+      "start": 1004.34,
+      "end": 1007.98,
+      "text": "of our ICT business, along with solid performance"
+    },
+    {
+      "i": 214,
+      "start": 1007.98,
+      "end": 1012.1,
+      "text": "in mobile and broadband services. Income from"
+    },
+    {
+      "i": 215,
+      "start": 1012.1,
+      "end": 1016.12,
+      "text": "operations and net income rose by 5% and"
+    },
+    {
+      "i": 216,
+      "start": 1016.12,
+      "end": 1020.08,
+      "text": "4.3%, respectively, compared to the same"
+    },
+    {
+      "i": 217,
+      "start": 1020.08,
+      "end": 1021.0400000000001,
+      "text": "period last year."
+    },
+    {
+      "i": 218,
+      "start": 1021.0400000000001,
+      "end": 1022.0600000000001,
+      "text": "Income from operations and net income rose by"
+    },
+    {
+      "i": 219,
+      "start": 1022.06,
+      "end": 1024.0,
+      "text": "5%. Improvements were fueled by the strong"
+    },
+    {
+      "i": 220,
+      "start": 1024.0,
+      "end": 1027.56,
+      "text": "performance of our IDC Internet Data Center business"
+    },
+    {
+      "i": 221,
+      "start": 1027.56,
+      "end": 1031.52,
+      "text": "and sustained growth in mobile and video service"
+    },
+    {
+      "i": 222,
+      "start": 1031.52,
+      "end": 1035.94,
+      "text": "subscriptions. Earnings per share increased"
+    },
+    {
+      "i": 223,
+      "start": 1035.94,
+      "end": 1039.8999999999999,
+      "text": "by NT1.21 to NT1.26,"
+    },
+    {
+      "i": 224,
+      "start": 1040.46,
+      "end": 1043.54,
+      "text": "reflecting consistently profitability"
+    },
+    {
+      "i": 225,
+      "start": 1043.54,
+      "end": 1047.6599999999999,
+      "text": "and our disciplined cost management. EBITDA and EBITDA"
+    },
+    {
+      "i": 226,
+      "start": 1047.6599999999999,
+      "end": 1050.96,
+      "text": "margin both recorded modest gains during the quarter."
+    },
+    {
+      "i": 227,
+      "start": 1051.02,
+      "end": 1052.04,
+      "text": "Notably, the growth in the cost of the business"
+    },
+    {
+      "i": 228,
+      "start": 1052.06,
+      "end": 1053.96,
+      "text": "and net income increased by a significant"
+    },
+    {
+      "i": 229,
+      "start": 1053.96,
+      "end": 1055.3999999999999,
+      "text": "percentage. This is a significant improvement"
+    },
+    {
+      "i": 230,
+      "start": 1055.3999999999999,
+      "end": 1056.52,
+      "text": "in the performance of our business."
+    },
+    {
+      "i": 231,
+      "start": 1056.52,
+      "end": 1057.62,
+      "text": "Income from operations and net income"
+    },
+    {
+      "i": 232,
+      "start": 1057.62,
+      "end": 1058.4199999999998,
+      "text": "increased by a significant percentage. This is a significant"
+    },
+    {
+      "i": 233,
+      "start": 1058.4199999999998,
+      "end": 1058.62,
+      "text": "improvement in the performance of our business."
+    },
+    {
+      "i": 234,
+      "start": 1058.62,
+      "end": 1059.44,
+      "text": "Notably, both EBITDA and net income reached their"
+    },
+    {
+      "i": 235,
+      "start": 1059.44,
+      "end": 1059.52,
+      "text": "highest level in nine years for a first quarter"
+    },
+    {
+      "i": 236,
+      "start": 1059.52,
+      "end": 1063.04,
+      "text": "period, underscoring the resilience and strength"
+    },
+    {
+      "i": 237,
+      "start": 1063.04,
+      "end": 1064.7,
+      "text": "of our core operations."
+    },
+    {
+      "i": 238,
+      "start": 1064.7,
+      "end": 1070.36,
+      "text": "Now let's turn to slide 13, balance sheet highlights."
+    },
+    {
+      "i": 239,
+      "start": 1071.78,
+      "end": 1075.2,
+      "text": "Total assets increased by 0.5%"
+    },
+    {
+      "i": 240,
+      "start": 1075.2,
+      "end": 1080.1799999999998,
+      "text": "on March 31, 2025, compared to the year end 2024."
+    },
+    {
+      "i": 241,
+      "start": 1080.86,
+      "end": 1082.04,
+      "text": "The growth was primarily due to the increase in"
+    },
+    {
+      "i": 242,
+      "start": 1082.04,
+      "end": 1083.76,
+      "text": "net income. The growth was primarily driven by an increase"
+    },
+    {
+      "i": 243,
+      "start": 1083.76,
+      "end": 1088.12,
+      "text": "in other current monetary assets, which further strengthened"
+    },
+    {
+      "i": 244,
+      "start": 1088.12,
+      "end": 1092.22,
+      "text": "our liquidity position. Property plan and equipment"
+    },
+    {
+      "i": 245,
+      "start": 1092.22,
+      "end": 1098.18,
+      "text": "declined by 1.1%. As depreciation expense exceeded net"
+    },
+    {
+      "i": 246,
+      "start": 1098.18,
+      "end": 1102.06,
+      "text": "additions of fixed assets during the quarter, this reflects"
+    },
+    {
+      "i": 247,
+      "start": 1102.06,
+      "end": 1106.8999999999999,
+      "text": "our continued emphasis on capital discipline and asset"
+    },
+    {
+      "i": 248,
+      "start": 1106.8999999999999,
+      "end": 1112.02,
+      "text": "efficiency. Total liability decreased by 5.5%"
+    },
+    {
+      "i": 249,
+      "start": 1112.04,
+      "end": 1115.28,
+      "text": "mainly due to a reduction in accounts payable."
+    },
+    {
+      "i": 250,
+      "start": 1116.42,
+      "end": 1121.3,
+      "text": "Our current ratio improved further and remained above 100%,"
+    },
+    {
+      "i": 251,
+      "start": 1121.3,
+      "end": 1124.94,
+      "text": "highlighting healthy short-term liquidity and financial"
+    },
+    {
+      "i": 252,
+      "start": 1124.94,
+      "end": 1129.48,
+      "text": "flexibility. In addition, the debt ratio declined slightly,"
+    },
+    {
+      "i": 253,
+      "start": 1129.8799999999999,
+      "end": 1134.6599999999999,
+      "text": "and net debt over EBITDA remains at zero. Taken together,"
+    },
+    {
+      "i": 254,
+      "start": 1135.12,
+      "end": 1138.52,
+      "text": "these metrics highlight our solid financial position and"
+    },
+    {
+      "i": 255,
+      "start": 1138.52,
+      "end": 1139.74,
+      "text": "prudent capital structure."
+    },
+    {
+      "i": 256,
+      "start": 1140.92,
+      "end": 1141.86,
+      "text": "Now let's turn to slide 14, balance sheet highlights."
+    },
+    {
+      "i": 257,
+      "start": 1141.86,
+      "end": 1142.02,
+      "text": "The growth was primarily due to a reduction in accounts"
+    },
+    {
+      "i": 258,
+      "start": 1142.02,
+      "end": 1144.86,
+      "text": "payable. The growth was primarily due to an increase"
+    },
+    {
+      "i": 259,
+      "start": 1144.86,
+      "end": 1145.34,
+      "text": "in accountounced debt, due to weight finalmente decreased"
+    },
+    {
+      "i": 260,
+      "start": 1145.34,
+      "end": 1146.28,
+      "text": "by 0.5%, Congrats!"
+    },
+    {
+      "i": 261,
+      "start": 1146.28,
+      "end": 1171.34,
+      "text": "Credit balance sheet 4 slide, slide 14 influencial"
+    },
+    {
+      "i": 262,
+      "start": 1171.34,
+      "end": 1175.3799999999999,
+      "text": "with a greater portion of the build-up occurring early in the year."
+    },
+    {
+      "i": 263,
+      "start": 1175.98,
+      "end": 1180.74,
+      "text": "Importantly, we remain committed to disciplined capital management,"
+    },
+    {
+      "i": 264,
+      "start": 1180.74,
+      "end": 1187.52,
+      "text": "and four-year mobile-related cap is still expected to be lower than in 2024."
+    },
+    {
+      "i": 265,
+      "start": 1188.56,
+      "end": 1194.9399999999998,
+      "text": "As a result of these factors, free cash flow declined by 17.4% year-over-year."
+    },
+    {
+      "i": 266,
+      "start": 1195.4399999999998,
+      "end": 1197.32,
+      "text": "This was in line with expectations."
+    },
+    {
+      "i": 267,
+      "start": 1197.32,
+      "end": 1202.6,
+      "text": "Given the investment timing, we continue to maintain a strong cash position"
+    },
+    {
+      "i": 268,
+      "start": 1202.6,
+      "end": 1206.86,
+      "text": "and stable operating inflows, which provides a solid foundation"
+    },
+    {
+      "i": 269,
+      "start": 1206.86,
+      "end": 1209.96,
+      "text": "to support business growth and shareholder return."
+    },
+    {
+      "i": 270,
+      "start": 1211.3,
+      "end": 1216.48,
+      "text": "So now let's turn to slide 15, performance relative to Q1 2025 guidance."
+    },
+    {
+      "i": 271,
+      "start": 1217.08,
+      "end": 1221.8799999999999,
+      "text": "For the first quarter of 2025, revenue was broadly in line"
+    },
+    {
+      "i": 272,
+      "start": 1221.8799999999999,
+      "end": 1224.4199999999998,
+      "text": "with the guidance we provided earlier this year."
+    },
+    {
+      "i": 273,
+      "start": 1225.2,
+      "end": 1226.86,
+      "text": "Meanwhile, income from operations,"
+    },
+    {
+      "i": 274,
+      "start": 1227.32,
+      "end": 1234.98,
+      "text": "net income, EPS, and EBITDA all surpass our Q1 guidance by a modest margin."
+    },
+    {
+      "i": 275,
+      "start": 1235.7,
+      "end": 1241.1599999999999,
+      "text": "This outperformance was primarily driven by the steady growth of our core business,"
+    },
+    {
+      "i": 276,
+      "start": 1241.7,
+      "end": 1247.1599999999999,
+      "text": "improved profitability in our ICT business, and lower than expected operating costs,"
+    },
+    {
+      "i": 277,
+      "start": 1247.52,
+      "end": 1253.5,
+      "text": "reflecting our ongoing efforts to optimize operation and maintain disciplined cost control."
+    },
+    {
+      "i": 278,
+      "start": 1253.76,
+      "end": 1257.3,
+      "text": "This concludes the financial overview for the first quarter."
+    },
+    {
+      "i": 279,
+      "start": 1257.32,
+      "end": 1261.98,
+      "text": "In the second quarter of 2025, we are pleased to report a solid start to the year."
+    },
+    {
+      "i": 280,
+      "start": 1262.74,
+      "end": 1267.32,
+      "text": "So we now open the floor for questions and welcome your insights."
+    },
+    {
+      "i": 281,
+      "start": 1268.3999999999999,
+      "end": 1269.52,
+      "text": "Yes, thank you."
+    },
+    {
+      "i": 282,
+      "start": 1270.0,
+      "end": 1273.5,
+      "text": "Ladies and gentlemen, we will now begin our question and answer session."
+    },
+    {
+      "i": 283,
+      "start": 1274.08,
+      "end": 1276.86,
+      "text": "If you have a question for any of today's speakers,"
+    },
+    {
+      "i": 284,
+      "start": 1277.48,
+      "end": 1282.6,
+      "text": "please press star key and number one on your telephone keypad, and you will enter the queue."
+    },
+    {
+      "i": 285,
+      "start": 1283.3799999999999,
+      "end": 1286.24,
+      "text": "After you are announced, please ask your question."
+    },
+    {
+      "i": 286,
+      "start": 1286.24,
+      "end": 1286.3,
+      "text": "Thank you."
+    },
+    {
+      "i": 287,
+      "start": 1287.32,
+      "end": 1290.56,
+      "text": "If you are speaking, please be louder or closer to the microphone."
+    },
+    {
+      "i": 288,
+      "start": 1291.46,
+      "end": 1295.36,
+      "text": "If you find that your question has been answered before it is your turn to speak,"
+    },
+    {
+      "i": 289,
+      "start": 1295.82,
+      "end": 1299.3,
+      "text": "please press star key number two to cancel the question."
+    },
+    {
+      "i": 290,
+      "start": 1300.2,
+      "end": 1304.4399999999998,
+      "text": "And you are also welcome to send questions via chat box on the webcast page."
+    },
+    {
+      "i": 291,
+      "start": 1304.8999999999999,
+      "end": 1307.52,
+      "text": "We will begin with the questions from telephone line,"
+    },
+    {
+      "i": 292,
+      "start": 1307.8999999999999,
+      "end": 1310.1599999999999,
+      "text": "and then move to the queries from the web page."
+    },
+    {
+      "i": 293,
+      "start": 1310.4399999999998,
+      "end": 1310.8,
+      "text": "Thank you."
+    },
+    {
+      "i": 294,
+      "start": 1312.06,
+      "end": 1316.74,
+      "text": "Now please press star key and number one on your keypad if you would like to ask the question."
+    },
+    {
+      "i": 295,
+      "start": 1317.0,
+      "end": 1317.32,
+      "text": "Thank you."
+    },
+    {
+      "i": 296,
+      "start": 1317.52,
+      "end": 1336.56,
+      "text": "We are now in question and answer session."
+    },
+    {
+      "i": 297,
+      "start": 1336.9399999999998,
+      "end": 1341.78,
+      "text": "If you would like to ask the question, please press star key and number one on your keypad."
+    },
+    {
+      "i": 298,
+      "start": 1342.06,
+      "end": 1342.4399999999998,
+      "text": "Thank you."
+    },
+    {
+      "i": 299,
+      "start": 1342.4399999999998,
+      "end": 1342.48,
+      "text": "Thank you."
+    },
+    {
+      "i": 300,
+      "start": 1347.32,
+      "end": 1347.56,
+      "text": "Thank you."
+    },
+    {
+      "i": 301,
+      "start": 1347.56,
+      "end": 1349.6599999999999,
+      "text": "Thank you."
+    },
+    {
+      "i": 302,
+      "start": 1349.84,
+      "end": 1368.36,
+      "text": "If you'd like to ask your question, please press star key and number one on your keypad."
+    },
+    {
+      "i": 303,
+      "start": 1368.36,
+      "end": 1369.06,
+      "text": "Thank you."
+    },
+    {
+      "i": 304,
+      "start": 1369.06,
+      "end": 1370.74,
+      "text": "Thank you."
+    },
+    {
+      "i": 305,
+      "start": 1370.74,
+      "end": 1371.04,
+      "text": "Thank you."
+    },
+    {
+      "i": 306,
+      "start": 1371.26,
+      "end": 1372.1,
+      "text": "Thank you."
+    },
+    {
+      "i": 307,
+      "start": 1372.1,
+      "end": 1376.32,
+      "text": "If you would like to ask your question, please press star key, number one on your keypad."
+    },
+    {
+      "i": 308,
+      "start": 1376.62,
+      "end": 1377.0,
+      "text": "Thank you."
+    },
+    {
+      "i": 309,
+      "start": 1377.32,
+      "end": 1405.8799999999999,
+      "text": "If you would like to ask a question,"
+    },
+    {
+      "i": 310,
+      "start": 1405.88,
+      "end": 1409.3000000000002,
+      "text": "please press the star key and number one on your keypad."
+    },
+    {
+      "i": 311,
+      "start": 1410.14,
+      "end": 1414.3600000000001,
+      "text": "Or you may also submit your questions through the chat box on the webcast page."
+    },
+    {
+      "i": 312,
+      "start": 1414.68,
+      "end": 1415.0400000000002,
+      "text": "Thank you."
+    },
+    {
+      "i": 313,
+      "start": 1435.88,
+      "end": 1465.8600000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 314,
+      "start": 1465.88,
+      "end": 1467.38,
+      "text": "If you are on the webcast page,"
+    },
+    {
+      "i": 315,
+      "start": 1467.6000000000001,
+      "end": 1471.3200000000002,
+      "text": "you may also submit your questions through the chat box on the page."
+    },
+    {
+      "i": 316,
+      "start": 1471.5400000000002,
+      "end": 1471.88,
+      "text": "Thank you."
+    },
+    {
+      "i": 317,
+      "start": 1495.88,
+      "end": 1516.6000000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 318,
+      "start": 1523.64,
+      "end": 1524.2,
+      "text": "Okay."
+    },
+    {
+      "i": 319,
+      "start": 1524.3400000000001,
+      "end": 1525.8600000000001,
+      "text": "Then if there are no further questions,"
+    },
+    {
+      "i": 320,
+      "start": 1525.88,
+      "end": 1528.5400000000002,
+      "text": "I'll turn it back over to President Lin."
+    },
+    {
+      "i": 321,
+      "start": 1528.7800000000002,
+      "end": 1529.16,
+      "text": "Thank you."
+    },
+    {
+      "i": 322,
+      "start": 1530.1000000000001,
+      "end": 1530.66,
+      "text": "Okay."
+    },
+    {
+      "i": 323,
+      "start": 1530.8600000000001,
+      "end": 1532.1000000000001,
+      "text": "If there's no question,"
+    },
+    {
+      "i": 324,
+      "start": 1532.96,
+      "end": 1534.68,
+      "text": "then thank you for your participation."
+    },
+    {
+      "i": 325,
+      "start": 1535.22,
+      "end": 1535.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 326,
+      "start": 1537.0800000000002,
+      "end": 1538.5200000000002,
+      "text": "Thank you, President Lin."
+    },
+    {
+      "i": 327,
+      "start": 1538.68,
+      "end": 1539.6000000000001,
+      "text": "And ladies and gentlemen,"
+    },
+    {
+      "i": 328,
+      "start": 1539.7600000000002,
+      "end": 1543.0600000000002,
+      "text": "we thank you for your participation in Chongha Telecom's conference."
+    },
+    {
+      "i": 329,
+      "start": 1543.6000000000001,
+      "end": 1545.7800000000002,
+      "text": "There will be a webcast replay within an hour."
+    },
+    {
+      "i": 330,
+      "start": 1546.2800000000002,
+      "end": 1551.2600000000002,
+      "text": "Please visit www.cht.com.tw slash IR"
+    },
+    {
+      "i": 331,
+      "start": 1551.2600000000002,
+      "end": 1553.3200000000002,
+      "text": "under the IR calendar section."
+    },
+    {
+      "i": 332,
+      "start": 1554.0200000000002,
+      "end": 1554.98,
+      "text": "You may now disconnect."
+    },
+    {
+      "i": 333,
+      "start": 1554.98,
+      "end": 1555.8600000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 334,
+      "start": 1555.98,
+      "end": 1556.74,
+      "text": "Again, goodbye."
+    },
+    {
+      "i": 335,
+      "start": 1556.74,
+      "end": 1556.88,
+      "text": "Thank you."
+    }
+  ],
+  "full_text": "Good afternoon, ladies and gentlemen. Welcome to Zhonghua Telecom Conference Call for the company's first quarter 2025 operating results. During the presentation, all lines will be on listen-only mode, and when the briefing is finished, directions for submitting your questions will be given in the question-and-answer session. For your information, this conference call is now being broadcast live over the Internet. Webcast replay will be available within an hour after the conference is finished. Please visit CHT IR website, www.cht.com.tw, slash IR, under the IR calendar section. And now I would like to turn it over to Ms. Angela Tsai, Assistant Vice President of Investor Relations. Thank you. Ms. Tsai, please go ahead. Thank you. I'm Angela Tsai. Welcome to our first quarter 2025 result conference call. Joining me on the call today are our presidents, and our chief financial officer, Audrey Xu. During today's call, management will begin with the recent strategic achievements and provide our business overview of the first quarter, followed by a discussion of our segment performance and the financial results. After, we will move on to the question-and-answer portion of the call. On slide two, please read our disclaimers and notes concerning forward-looking statements. Now, without further delay, turn the call over to our president. President Lin, please go ahead. Thank you, Angela, and hello, everyone. Welcome to our first quarter 2025 Results Conference Call. We are excited to report net income and EPS delivered a 4.3% year-over-year increase in the first quarter. Driven by our solid operation and leading position in mobile, fixed-line, and ICT business, despite the first quarter's rapid change in the macroeconomic climate due to the global tariff issue, from which we believe there is no material impact, we believe that this may even present new opportunities for our international business. At the same time, our strong financial performance positions us to continue investing to seize new opportunities. Particularly those from enterprise customers who may be expanding their manufacturing bases globally. Meanwhile, we will continue to execute our Sea, Land, and Sky advanced network strategy to prepare for the future and enhance network resilience, leveraging our leading technology strengths. In general, we collaborated with partners to successfully integrate the ST2 high-orbit setup. Europe's largest center for the infrastructure of 5G for the international network. Through implementations to strengthen clean media access, we will tally the cost of有人ages nets based on the technology. before<|da|> from our knowledge base complet. Thank you. следующkiu хочет berat知 oko 5G stagiaol combat advancedよう 33vis a global enzimpatashitakon onesigse roiveโ�잔 Child Church New Radio o-ew 5.12. view-videom街依岡 w fuqçä présent ng acontece stovićăm Lananderä Australia to bring a dedicated microgear satellite to Taiwan, complementing our existing multi-orbit satellite architecture. As for C, we announced our investment in E2A, the Trans-Pacific undersea cable connecting Asia to North America to meet the growing demand from OTT players and the digital transformation, including the foreseeable AI boom. To our great delight, we are proud to receive multiple awards in the first quarter, acknowledging our leadership in the business and ESG performance. For international honors, our outstanding 5G smart port solution was recognized by Asia Telecom Awards as the technology innovation of the year. We were also ranked top five for S&P Global ESG Score, Zaporo in the sustainability a book 2025 for the third consecutive year The accurate and secured the highest A ranking from CDP for both climate and the supply engagement leadership for the second consecutive year. Finally, we would like to highlight that the kab Ziqi, diagram is the first Taiwanese Telecom certified under the most stringent international anti-bribery standard, showing our determination to deliver outstanding cooperative governance. Going forward, China Telecom will continue to maintain its leading position across all key benchmarks in the industry. Now let's move on to the business overview of the first quarter of 2025. Please turn to page 5 to review our leading position in Taiwan's mobile market. According to the statistics from Taiwan's telecom regulator, by March, we had successfully acquired the largest revenue share in Taiwan's mobile market at 40.5%, as well as the largest subscriber share at 39.5%. Our mobile service revenue in the first quarter increased about 2% year-over-year, mainly due to the subscriber number increase and continued performance. In addition, we are pleased to report a 42% increase in the average monthly fee uplift from the 5G migration, contributing to the stability of our overall mobile output, which delivered a slight quarter-over-quarter increase in the first quarter. Let's move on to slide 6 for update on the business overview of the first quarter. In the first quarter, our cross-tier upgrade promotion package continued to be well received, with near 70% of the package adopters choosing service offering of 300 Mbps and above, including the highest speed offering of 1 Gbps. As a result, on a year-over-year basis, our subscribers with speed of 300 Mbps and above increased by 16%, while those with speeds of 1 Gbps growth significantly. Given the continued speed upgrade from our subscribers, our fixed broadband revenue and our pool is keeping another quarterly increase by 2.5% and 2.1%. Thank you for your attention. Thank you for your attention. year over year, respectively. And we are confident that this growth will persist. Now let's take a close look at the performance of our business group. Slide 6 provides a deep overview of highlights from our customer application services. In the first quarter, we continue to see positive growth in each value-added services offering. Our multi-play package with service offering of mobile fixed broadband and Wi-Fi continues to deliver outstanding year-over-year growth of 33% and driven by our strong network quality and effective reward point strategy. Video business maintains its growth trajectory. Subscriptions increased by 12.5% year-over-year, driven by the sports content. And our exclusive release of popular dramas. Our effective content strategy lead to a 45% increase of Hami video subscribers compared with the same quarter last year, which is encouraging. As a result, our overall video revenue in the first quarter rose steadily. In addition, our consumer cybersecurity subscription also surged by 21% year-over-year during this year. We 쉽ly sawщd 10% increase more in this quarter, steadily increasing his revenue contribution as expected. Slide 6 illustrates the key highlights in our enterprise ICT business. We are excited to report strong enterprise ICT business performance in the first quarter revenue increased by 13% year-over-year, driven by project revenue recognition ... reactionization exploration, ... ... robust performance across our major pillars and continued growth in recurring revenue. We believe our strategy to increase our recurring revenue is important as it can help stabilize overall ICT performance. For a closer look at each emerging application service offering, in the first quarter, we are excited to see year-over-year revenue growth in our cybersecurity, IBC, and cloud business of 40%, 29%, and 13%, respectively. Cybersecurity revenue achieved the 13th consecutive quarter of year-over-year growth, mainly driven by the project completed for financial institutions. And the franchise, Chainstore Client, along with contribution from streaming consumer. Meanwhile, IBC and cloud revenue were boosted by the contribution from the smart government project, accomplished by the increasing recurring revenue from both IBC and the international public cloud service. The later experience... particularly strong growth. Notably, as the first telecom in Taiwan to be honored as AWS's premier tier service partner, we hold the most AWS certificates, demonstrating our leading cloud technology within the industry. Additionally, our 5G private network also delivers double-digit revenue growth, driven by the revenue recognition from the international community. We are also excited to see the growth of the cloud service industry in the future, as well as the growth of the cloud services industry in the future. We are excited to see the growth of the cloud services industry in the future, as well as the growth of the cloud services industry in the future, driven by the revenue recognition of clients, as well as year-over-year revenue growth in our AIoT service business, fueled by projects in the finance and retail sectors. And we are delighted to report the network integration contract worth over NT$1 billion secured in the first quarter from a leading financial holding company, which we expect to inject revenue and profit in the near future. In addition, leveraging our leading data analysis capabilities, we are also looking to increase the data analysis capabilities of our customers, which will be used to generate revenue and profit in the near future. In addition, leveraging our leading data analysis capabilities, we are proud to win the high-power AMI expansion project again, recognizing our expertise in energy management. We were honored with four major awards at the CIO Taiwan's 2025 United Vendor Award, including the outstanding service provider for the fourth consecutive year, we were the exclusive winner from telecom industry. Black Knight illustrated our international subsidiary performance. In the first quarter, revenue from our overseas subsidiary increased by 8.2% year over year, mainly due to the growing ICT services provided to the high-tech customers in the United States and the Southeast Asia market. In light of the global economic landscape change, we have observed business opportunity from the growing Taiwanese investment in the United States and saw projects in our pipeline mainly progressing as a result of the relocation of AI supply chain, including the AIDC construction. The Strong Telecom Global, our subsidiary in the United States, expanded our Arizona office in April, and launched a new office in May in Texas office to support business development. In addition, our business in Singapore, Vietnam, and Thailand all experienced double-digit revenue growth in the first quarter, largely driven by the providing ICT services for Taiwanese enterprise to build new factories in the Southeast Asia market. To support overseas business, we announced our investment, and we are also working with Taiwan to expand our investment in the new submarine cable system, E2A, in March. This trans-Pacific fiber optical network will connect the submarine cable system between North America and Asia. Our strategy is to enable diverse connectivity options, strengthen Taiwan's position as a key submarine cable hub in the Asia-Pacific region, and further enhance the overall network resilience to response to the global demand. Our technology will be able to support the development of the new submarine cable system, and enhance the overall network resilience to support the global demand. Our technology will be able to support the development of the new submarine cable system, and enhance the overall network resilience to support the global demand. Now let's move on to page 11, for the financial performance of our three business groups. In the first quarter, our CDG delivered a 4.9% year-over-year increase of its income before tax, which is quite healthy, as our mobile ARPU will steadily develop and fix broadband issues, and our ARPU is expected to continue to hold up. In addition, our ICT business continues to expand. We are delighted to see EDG's total revenue increase by 2.3% year-over-year, mainly underpinned by the strong ICT business revenue growth of 11.6% year-over-year. This growth was offset by a continued decline in EDG's fixed broadband business growth, which is quite healthy, and our ADG business is expected to continue to grow. Our APAC everytime's voice revenue, which staring the ... to a 3.8% year-over-year decrease in the income before tax, is helping the ESG growth to increase. Both increased modestly in the first quarter, due to its robust international IBC business growth and continued strong demand for the integrated ICT services in the global market. Now, I would like to hand the call over toub for the next presentation. Now, I would like to hand the call over to Thank you. to Audrey Fee for the financial update. Thank you, President. Good afternoon, everyone. It is my pleasure to present an overview of our financial results for the first quarter of 2025. Please refer to slide 12, Income Statement Highlights. Let me walk you through the key financial metrics for the quarter. Revenue reached over $55 billion, making the fifth consecutive year of growth. This represents a year-over-year increase of 1.6%, driven primarily by the expansion of our ICT business, along with solid performance in mobile and broadband services. Income from operations and net income rose by 5% and 4.3%, respectively, compared to the same period last year. Income from operations and net income rose by 5%. Improvements were fueled by the strong performance of our IDC Internet Data Center business and sustained growth in mobile and video service subscriptions. Earnings per share increased by NT1.21 to NT1.26, reflecting consistently profitability and our disciplined cost management. EBITDA and EBITDA margin both recorded modest gains during the quarter. Notably, the growth in the cost of the business and net income increased by a significant percentage. This is a significant improvement in the performance of our business. Income from operations and net income increased by a significant percentage. This is a significant improvement in the performance of our business. Notably, both EBITDA and net income reached their highest level in nine years for a first quarter period, underscoring the resilience and strength of our core operations. Now let's turn to slide 13, balance sheet highlights. Total assets increased by 0.5% on March 31, 2025, compared to the year end 2024. The growth was primarily due to the increase in net income. The growth was primarily driven by an increase in other current monetary assets, which further strengthened our liquidity position. Property plan and equipment declined by 1.1%. As depreciation expense exceeded net additions of fixed assets during the quarter, this reflects our continued emphasis on capital discipline and asset efficiency. Total liability decreased by 5.5% mainly due to a reduction in accounts payable. Our current ratio improved further and remained above 100%, highlighting healthy short-term liquidity and financial flexibility. In addition, the debt ratio declined slightly, and net debt over EBITDA remains at zero. Taken together, these metrics highlight our solid financial position and prudent capital structure. Now let's turn to slide 14, balance sheet highlights. The growth was primarily due to a reduction in accounts payable. The growth was primarily due to an increase in accountounced debt, due to weight finalmente decreased by 0.5%, Congrats! Credit balance sheet 4 slide, slide 14 influencial with a greater portion of the build-up occurring early in the year. Importantly, we remain committed to disciplined capital management, and four-year mobile-related cap is still expected to be lower than in 2024. As a result of these factors, free cash flow declined by 17.4% year-over-year. This was in line with expectations. Given the investment timing, we continue to maintain a strong cash position and stable operating inflows, which provides a solid foundation to support business growth and shareholder return. So now let's turn to slide 15, performance relative to Q1 2025 guidance. For the first quarter of 2025, revenue was broadly in line with the guidance we provided earlier this year. Meanwhile, income from operations, net income, EPS, and EBITDA all surpass our Q1 guidance by a modest margin. This outperformance was primarily driven by the steady growth of our core business, improved profitability in our ICT business, and lower than expected operating costs, reflecting our ongoing efforts to optimize operation and maintain disciplined cost control. This concludes the financial overview for the first quarter. In the second quarter of 2025, we are pleased to report a solid start to the year. So we now open the floor for questions and welcome your insights. Yes, thank you. Ladies and gentlemen, we will now begin our question and answer session. If you have a question for any of today's speakers, please press star key and number one on your telephone keypad, and you will enter the queue. After you are announced, please ask your question. Thank you. If you are speaking, please be louder or closer to the microphone. If you find that your question has been answered before it is your turn to speak, please press star key number two to cancel the question. And you are also welcome to send questions via chat box on the webcast page. We will begin with the questions from telephone line, and then move to the queries from the web page. Thank you. Now please press star key and number one on your keypad if you would like to ask the question. Thank you. We are now in question and answer session. If you would like to ask the question, please press star key and number one on your keypad. Thank you. Thank you. Thank you. Thank you. If you'd like to ask your question, please press star key and number one on your keypad. Thank you. Thank you. Thank you. Thank you. If you would like to ask your question, please press star key, number one on your keypad. Thank you. If you would like to ask a question, please press the star key and number one on your keypad. Or you may also submit your questions through the chat box on the webcast page. Thank you. Thank you. If you are on the webcast page, you may also submit your questions through the chat box on the page. Thank you. Thank you. Okay. Then if there are no further questions, I'll turn it back over to President Lin. Thank you. Okay. If there's no question, then thank you for your participation. Thank you. Thank you, President Lin. And ladies and gentlemen, we thank you for your participation in Chongha Telecom's conference. There will be a webcast replay within an hour. Please visit www.cht.com.tw slash IR under the IR calendar section. You may now disconnect. Thank you. Again, goodbye. Thank you."
+}

@@ -1,0 +1,5177 @@
+{
+  "symbol": "2382_2025Q1",
+  "source_url": "https://irconference.twse.com.tw/2382_211_20250514_en.mp3",
+  "language": "en",
+  "duration_sec": null,
+  "created_at": "2025-09-25T11:34:15Z",
+  "model": "whisper-large-v3",
+  "segments": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Thank you all for joining us today for QANTA's first quarter 2025 earnings conference call."
+    },
+    {
+      "i": 1,
+      "start": 6.66,
+      "end": 12.120000000000001,
+      "text": "My name is Carrie Liu. I'm the research analyst covering QANTA at Citi and will be moderating"
+    },
+    {
+      "i": 2,
+      "start": 12.120000000000001,
+      "end": 17.94,
+      "text": "today's call. Joining us on the call today are Mr. C.C. Leung, Vice Chairman and President,"
+    },
+    {
+      "i": 3,
+      "start": 18.48,
+      "end": 24.1,
+      "text": "Mr. Elton Young, CFO and spokesperson, as well as Carol and Ale from the IR team."
+    },
+    {
+      "i": 4,
+      "start": 24.1,
+      "end": 28.78,
+      "text": "We will begin with the prepared remarks and financial overview from Carol,"
+    },
+    {
+      "i": 5,
+      "start": 28.78,
+      "end": 35.04,
+      "text": "followed by a Q&A session. Without further ado, I will now turn it over to Carol. Carol,"
+    },
+    {
+      "i": 6,
+      "start": 35.160000000000004,
+      "end": 43.24,
+      "text": "please go ahead. Thanks, Carrie. Good day and welcome to QANTA Computer first quarter 2025"
+    },
+    {
+      "i": 7,
+      "start": 43.24,
+      "end": 48.8,
+      "text": "earnings results conference call. The call is hosted by Citi Global Market Taiwan Securities."
+    },
+    {
+      "i": 8,
+      "start": 49.46,
+      "end": 55.06,
+      "text": "The presentation material for today's call is available to the public on MOTS and on QANTA's"
+    },
+    {
+      "i": 9,
+      "start": 55.06,
+      "end": 58.1,
+      "text": "website at www.qantatw.com."
+    },
+    {
+      "i": 10,
+      "start": 58.78,
+      "end": 65.22,
+      "text": "This is Carol. I'm joined today by QANTA's management, Mr. C.C. Leung, our Vice Chairman"
+    },
+    {
+      "i": 11,
+      "start": 65.22,
+      "end": 71.54,
+      "text": "and President, Mr. Elton Young, Chief Financial Officer and Senior Vice President in QANTA's IR team."
+    },
+    {
+      "i": 12,
+      "start": 72.46000000000001,
+      "end": 77.48,
+      "text": "In a moment, we will start with the financial presentation. After that, the management will"
+    },
+    {
+      "i": 13,
+      "start": 77.48,
+      "end": 83.8,
+      "text": "host a Q&A to share our view about the business and industry outlook. During this call, we will"
+    },
+    {
+      "i": 14,
+      "start": 83.8,
+      "end": 88.4,
+      "text": "be making forward-looking statements, which are predictions, projections, and other statements"
+    },
+    {
+      "i": 15,
+      "start": 88.78,
+      "end": 93.82000000000001,
+      "text": "about future events. These statements are based upon our current expectations and assumptions"
+    },
+    {
+      "i": 16,
+      "start": 93.82000000000001,
+      "end": 100.36,
+      "text": "that are subject to lots of risks and uncertainties. As such, the actual results will differ materially"
+    },
+    {
+      "i": 17,
+      "start": 100.36,
+      "end": 105.66,
+      "text": "from our forecast. We undertake no obligation to update or revise any forward-looking statements."
+    },
+    {
+      "i": 18,
+      "start": 106.72,
+      "end": 112.1,
+      "text": "So now, let's walk through the financials. We delivered another record-breaking quarter"
+    },
+    {
+      "i": 19,
+      "start": 112.1,
+      "end": 117.74000000000001,
+      "text": "in QANTA first quarter 2025. We sell gross profits, operating profits, and net profits,"
+    },
+    {
+      "i": 20,
+      "start": 117.74000000000001,
+      "end": 118.74000000000001,
+      "text": "reaching all-time highs."
+    },
+    {
+      "i": 21,
+      "start": 118.78,
+      "end": 125.96000000000001,
+      "text": "This strong performance provides a solid foundation for the year ahead, which we anticipate will"
+    },
+    {
+      "i": 22,
+      "start": 125.96000000000001,
+      "end": 133.58,
+      "text": "be shaped by both significant growth opportunities and evolving challenges. Revenue for the quarter"
+    },
+    {
+      "i": 23,
+      "start": 133.58,
+      "end": 143.58,
+      "text": "was $486 billion, up 16.4% quarter-on-quarter and 87.6% year-over-year respectively. Thanks"
+    },
+    {
+      "i": 24,
+      "start": 143.58,
+      "end": 148.62,
+      "text": "to slightly better supply conditions for the latest AI servers, along with stronger lead"
+    },
+    {
+      "i": 25,
+      "start": 148.78,
+      "end": 155.78,
+      "text": "and expanded demand for general compute servers and notebooks, we saw strong sales momentum"
+    },
+    {
+      "i": 26,
+      "start": 155.78,
+      "end": 162.66,
+      "text": "throughout the quarter. Notebook shipments totaled 10.8 million units for the quarter,"
+    },
+    {
+      "i": 27,
+      "start": 162.66,
+      "end": 169.54,
+      "text": "representing a 2.7% decline from the previous quarter, but a 2.9% increase compared to the"
+    },
+    {
+      "i": 28,
+      "start": 169.54,
+      "end": 175.78,
+      "text": "same period last year. This outcome surpassed our expectations of a double-digit sequential"
+    },
+    {
+      "i": 29,
+      "start": 175.78,
+      "end": 176.78,
+      "text": "decline."
+    },
+    {
+      "i": 30,
+      "start": 176.78,
+      "end": 178.78,
+      "text": "We attribute a strong shipments to the growth of the market. We also have a strong supply"
+    },
+    {
+      "i": 31,
+      "start": 178.78,
+      "end": 184.28,
+      "text": "of the market, with customers cooling forward demand at the end of the quarter due to the"
+    },
+    {
+      "i": 32,
+      "start": 184.28,
+      "end": 185.28,
+      "text": "uncertainty surrounding US tariffs."
+    },
+    {
+      "i": 33,
+      "start": 185.28,
+      "end": 194.28,
+      "text": "The company's gross profit reached a record $38.5 billion, roaring 23.8% quarter-on-quarter"
+    },
+    {
+      "i": 34,
+      "start": 194.28,
+      "end": 201.78,
+      "text": "and 75.3% year-over-year. The gross margin for the quarter was 7.92%, representing 48"
+    },
+    {
+      "i": 35,
+      "start": 201.78,
+      "end": 206.78,
+      "text": "bps increase quarter-on-quarter and 55 bps decline year-over-year. The margin for the"
+    },
+    {
+      "i": 36,
+      "start": 206.78,
+      "end": 207.78,
+      "text": "quarter was $7.92% and reached a record $58.5 billion."
+    },
+    {
+      "i": 37,
+      "start": 207.78,
+      "end": 213.28,
+      "text": "The margin improvement was largely driven by strong demand for general compute servers"
+    },
+    {
+      "i": 38,
+      "start": 213.28,
+      "end": 221.28,
+      "text": "and a lighter magnitude of margin dilution from high-end AI servers for slower RIP. Additionally,"
+    },
+    {
+      "i": 39,
+      "start": 221.28,
+      "end": 228.28,
+      "text": "a reduced sales contribution from notebooks also helped margins."
+    },
+    {
+      "i": 40,
+      "start": 228.28,
+      "end": 234.28,
+      "text": "As servers outgrew other product categories, the sales contribution from servers reached"
+    },
+    {
+      "i": 41,
+      "start": 234.28,
+      "end": 235.28,
+      "text": "65-70%."
+    },
+    {
+      "i": 42,
+      "start": 235.28,
+      "end": 236.28,
+      "text": "While the sales contribution from the market was lower than the average, the margin was"
+    },
+    {
+      "i": 43,
+      "start": 236.28,
+      "end": 237.28,
+      "text": "reduced by about 1.2%."
+    },
+    {
+      "i": 44,
+      "start": 237.28,
+      "end": 245.78,
+      "text": "While the sales shares of notebooks was further diluted to below 25% this quarter, operating"
+    },
+    {
+      "i": 45,
+      "start": 245.78,
+      "end": 252.78,
+      "text": "profits hit an all-time high of $24.6 billion this quarter, representing a 62.3% increase"
+    },
+    {
+      "i": 46,
+      "start": 252.78,
+      "end": 253.78,
+      "text": "sequentially."
+    },
+    {
+      "i": 47,
+      "start": 253.78,
+      "end": 263.28,
+      "text": "Year-over-year, profit more than doubled, up 110% from $11.7 billion a year ago, making"
+    },
+    {
+      "i": 48,
+      "start": 263.28,
+      "end": 265.28,
+      "text": "a strong $12.9 billion increase."
+    },
+    {
+      "i": 49,
+      "start": 265.28,
+      "end": 266.28,
+      "text": "The operating profit was also higher than the average, with a higher margin increase"
+    },
+    {
+      "i": 50,
+      "start": 266.28,
+      "end": 267.28,
+      "text": "by about 1.2%."
+    },
+    {
+      "i": 51,
+      "start": 267.28,
+      "end": 274.28,
+      "text": "The operating margin of this quarter was an all-time high of 5.07%, up 143 bps quarter-on-quarter"
+    },
+    {
+      "i": 52,
+      "start": 274.28,
+      "end": 275.28,
+      "text": "than 50 bps year-on-year."
+    },
+    {
+      "i": 53,
+      "start": 275.28,
+      "end": 284.28,
+      "text": "Operating expenses was $13.9 billion for this quarter, going down from a record level of"
+    },
+    {
+      "i": 54,
+      "start": 284.28,
+      "end": 291.28,
+      "text": "$15.9 billion in both quarter-24, or 12.8% sequential decrease."
+    },
+    {
+      "i": 55,
+      "start": 291.28,
+      "end": 296.28,
+      "text": "On a year-over-year basis, OPEX increased by 35.4%, primarily due to the increase in"
+    },
+    {
+      "i": 56,
+      "start": 296.28,
+      "end": 302.28,
+      "text": "Forex purchases and失 Phantom giving the first quarter when it was traded at Q1 2017."
+    },
+    {
+      "i": 57,
+      "start": 302.28,
+      "end": 303.28,
+      "text": "vaccin AS consciousness So if the pathway for OPEX 2018."
+    },
+    {
+      "i": 58,
+      "start": 303.28,
+      "end": 306.28,
+      "text": "By Quickly Investing Payment"
+    },
+    {
+      "i": 59,
+      "start": 306.28,
+      "end": 317.96,
+      "text": "Andrea Maloney Indated"
+    },
+    {
+      "i": 60,
+      "start": 317.96,
+      "end": 322.28,
+      "text": "For 130 years in 2020, the 일� York Capital valued by IT took a Governed Analysisлена"
+    },
+    {
+      "i": 61,
+      "start": 322.28,
+      "end": 323.28,
+      "text": "Earl Dugas"
+    },
+    {
+      "i": 62,
+      "start": 323.28,
+      "end": 324.28,
+      "text": "in an Phase 2 Review First fundretake in 2009."
+    },
+    {
+      "i": 63,
+      "start": 324.28,
+      "end": 324.96,
+      "text": "What實 Imp eer Blick"
+    },
+    {
+      "i": 64,
+      "start": 324.96,
+      "end": 325.28,
+      "text": "■né man Catherine"
+    },
+    {
+      "i": 65,
+      "start": 325.28,
+      "end": 332.82,
+      "text": "The primary items include net borrower's gains of $2.1 billion and net interest expenses of $1 billion."
+    },
+    {
+      "i": 66,
+      "start": 334.26,
+      "end": 340.71999999999997,
+      "text": "Stepping down the income statement, the net income after tax was a record $19.5 billion,"
+    },
+    {
+      "i": 67,
+      "start": 340.97999999999996,
+      "end": 346.55999999999995,
+      "text": "increased by 22.8% quarter-to-quarter and 61.6% year-over-year."
+    },
+    {
+      "i": 68,
+      "start": 346.56,
+      "end": 356.46,
+      "text": "The net margin after tax was 4.01%, which grew 21 bps quarter-to-quarter and declined 65 bps year-over-year respectively."
+    },
+    {
+      "i": 69,
+      "start": 357.56,
+      "end": 361.56,
+      "text": "The tax rate for the quarter was 22.1%."
+    },
+    {
+      "i": 70,
+      "start": 361.56,
+      "end": 369.62,
+      "text": "And all of the above concluded an all-time high of earnings per share of $5.06 per quarter,"
+    },
+    {
+      "i": 71,
+      "start": 370.18,
+      "end": 375.96,
+      "text": "representing a sequential increase of 94% and a surge of $1.93."
+    },
+    {
+      "i": 72,
+      "start": 376.56,
+      "end": 380.3,
+      "text": "Turning to the balance sheet,"
+    },
+    {
+      "i": 73,
+      "start": 381.3,
+      "end": 388.78000000000003,
+      "text": "Cash and short-term investments slightly increased to $215 billion, from $201 billion at the end of last quarter."
+    },
+    {
+      "i": 74,
+      "start": 389.52,
+      "end": 399.02,
+      "text": "Account receivables reached an all-time high of $461 billion, from $371 billion in the previous quarter, reflecting the self-worth."
+    },
+    {
+      "i": 75,
+      "start": 400.78,
+      "end": 404.62,
+      "text": "Inventory rose to a record $277 billion this quarter,"
+    },
+    {
+      "i": 76,
+      "start": 404.62,
+      "end": 406.54,
+      "text": "spending driven by cost-revenue."
+    },
+    {
+      "i": 77,
+      "start": 406.56,
+      "end": 411.3,
+      "text": "The shareholder's equity, attributed to the parent company, was around $293 billion,"
+    },
+    {
+      "i": 78,
+      "start": 411.3,
+      "end": 413.4,
+      "text": "down from $222 billion at the end of previous quarter,"
+    },
+    {
+      "i": 79,
+      "start": 413.4,
+      "end": 417.4,
+      "text": "due to the deduction of cash dividends of $50.2 billion on an actuarial basis."
+    },
+    {
+      "i": 80,
+      "start": 417.4,
+      "end": 422.4,
+      "text": "Let's now discuss the ongoing plans for responding to U.S. debt."
+    },
+    {
+      "i": 81,
+      "start": 422.4,
+      "end": 427.48,
+      "text": "The U.S. debt is expected to rise to $3.2 billion by the end of next quarter,"
+    },
+    {
+      "i": 82,
+      "start": 427.48,
+      "end": 431.52,
+      "text": "with a $2.2 billion return on the U.S. debt."
+    },
+    {
+      "i": 83,
+      "start": 431.52,
+      "end": 435.3,
+      "text": "The U.S. debt is expected to rise to $3.2 billion by the end of next quarter,"
+    },
+    {
+      "i": 84,
+      "start": 435.3,
+      "end": 438.32,
+      "text": "with a $3.2 billion return on the U.S. debt."
+    },
+    {
+      "i": 85,
+      "start": 438.92,
+      "end": 441.5,
+      "text": "As we highlighted in previous calls,"
+    },
+    {
+      "i": 86,
+      "start": 441.5,
+      "end": 447.28000000000003,
+      "text": "this contact business strategy is built on three key pillars,"
+    },
+    {
+      "i": 87,
+      "start": 447.28000000000003,
+      "end": 452.32,
+      "text": "advanced R&D, precise marketing, and manufacturing resilience."
+    },
+    {
+      "i": 88,
+      "start": 452.32,
+      "end": 457.72,
+      "text": "Among these, manufacturing resilience has proven to be a competitive advantage"
+    },
+    {
+      "i": 89,
+      "start": 457.72,
+      "end": 461.12,
+      "text": "in today's volatile market environments."
+    },
+    {
+      "i": 90,
+      "start": 462.3,
+      "end": 465.2,
+      "text": "Contact manufacturing resilience"
+    },
+    {
+      "i": 91,
+      "start": 465.3,
+      "end": 470.46000000000004,
+      "text": "is rooted in our extensive global manufacturing capabilities."
+    },
+    {
+      "i": 92,
+      "start": 470.46000000000004,
+      "end": 474.06,
+      "text": "We translate R&D breakthroughs into commercial products"
+    },
+    {
+      "i": 93,
+      "start": 474.06,
+      "end": 477.98,
+      "text": "quickly and cost effectively, enabling customers"
+    },
+    {
+      "i": 94,
+      "start": 477.98,
+      "end": 482.68,
+      "text": "to capitalize on emerging market opportunities."
+    },
+    {
+      "i": 95,
+      "start": 482.68,
+      "end": 486.0,
+      "text": "Our flexible and scalable production infrastructure"
+    },
+    {
+      "i": 96,
+      "start": 486.0,
+      "end": 490.5,
+      "text": "allows us to adapt to shipping customer demands"
+    },
+    {
+      "i": 97,
+      "start": 490.5,
+      "end": 493.98,
+      "text": "and involving global trade dynamics."
+    },
+    {
+      "i": 98,
+      "start": 493.98,
+      "end": 499.44,
+      "text": "Our production network now spans nine major sites worldwide,"
+    },
+    {
+      "i": 99,
+      "start": 499.44,
+      "end": 503.76,
+      "text": "one in Taiwan, two in China, Shanghai and Chongqing,"
+    },
+    {
+      "i": 100,
+      "start": 503.76,
+      "end": 509.46000000000004,
+      "text": "two in Southeast Asia, Thailand and Vietnam, two in the US,"
+    },
+    {
+      "i": 101,
+      "start": 509.46000000000004,
+      "end": 515.28,
+      "text": "Tennessee and California, one in Mexico, and one in Germany."
+    },
+    {
+      "i": 102,
+      "start": 515.28,
+      "end": 517.6800000000001,
+      "text": "The global presence allows us to offer"
+    },
+    {
+      "i": 103,
+      "start": 517.6800000000001,
+      "end": 522.9,
+      "text": "agile, regionally optimized manufacturing solutions."
+    },
+    {
+      "i": 104,
+      "start": 522.9,
+      "end": 523.98,
+      "text": "Specifically,"
+    },
+    {
+      "i": 105,
+      "start": 523.98,
+      "end": 528.6,
+      "text": "to address tariff-related challenges for AI production."
+    },
+    {
+      "i": 106,
+      "start": 528.6,
+      "end": 531.36,
+      "text": "Our magical facility has the flexibility"
+    },
+    {
+      "i": 107,
+      "start": 531.36,
+      "end": 535.98,
+      "text": "to realize timely expansion, from focusing solely"
+    },
+    {
+      "i": 108,
+      "start": 535.98,
+      "end": 539.64,
+      "text": "on manufacturing automotive-related products"
+    },
+    {
+      "i": 109,
+      "start": 539.64,
+      "end": 543.54,
+      "text": "to scaling up AI server manufacturing capabilities"
+    },
+    {
+      "i": 110,
+      "start": 543.54,
+      "end": 545.46,
+      "text": "as needed."
+    },
+    {
+      "i": 111,
+      "start": 545.46,
+      "end": 550.6800000000001,
+      "text": "This adds extra flexibility to support our final system"
+    },
+    {
+      "i": 112,
+      "start": 550.6800000000001,
+      "end": 552.9,
+      "text": "assembly operations in the US."
+    },
+    {
+      "i": 113,
+      "start": 552.9,
+      "end": 557.52,
+      "text": "Alongside our existing AI production facilities in Taiwan and Thailand."
+    },
+    {
+      "i": 114,
+      "start": 557.52,
+      "end": 564.52,
+      "text": "If the policy conditions are clear and customers are ready to move quickly,"
+    },
+    {
+      "i": 115,
+      "start": 564.52,
+      "end": 569.52,
+      "text": "we can complete mass production readiness within just a few months."
+    },
+    {
+      "i": 116,
+      "start": 569.52,
+      "end": 575.52,
+      "text": "This positions us to effectively support downstream production at our US sites"
+    },
+    {
+      "i": 117,
+      "start": 575.52,
+      "end": 578.52,
+      "text": "and respond quickly to market demands."
+    },
+    {
+      "i": 118,
+      "start": 578.52,
+      "end": 581.52,
+      "text": "Reflecting the continuing competition, we are now able to expand our production capacity."
+    },
+    {
+      "i": 119,
+      "start": 581.52,
+      "end": 593.14,
+      "text": "Our capacity for first quarter reached $4.7 billion, up from $2.6 billion in the same period"
+    },
+    {
+      "i": 120,
+      "start": 593.14,
+      "end": 594.14,
+      "text": "last year."
+    },
+    {
+      "i": 121,
+      "start": 594.14,
+      "end": 600.14,
+      "text": "In line with this momentum, we revised our four-year capex budget to $20 billion."
+    },
+    {
+      "i": 122,
+      "start": 600.14,
+      "end": 607.14,
+      "text": "We would like to provide some commentary here on several factors that will impact our business"
+    },
+    {
+      "i": 123,
+      "start": 607.14,
+      "end": 610.14,
+      "text": "performance in the second quarter and the remainder of 2020."
+    },
+    {
+      "i": 124,
+      "start": 610.14,
+      "end": 619.76,
+      "text": "Driven by customers pulling in orders during a period of short-term carry pause and ongoing"
+    },
+    {
+      "i": 125,
+      "start": 619.76,
+      "end": 625.76,
+      "text": "manufacturing relocation, we expect that the strong notebook shipment momentum seen in"
+    },
+    {
+      "i": 126,
+      "start": 625.76,
+      "end": 632.76,
+      "text": "first quarter will carry into second quarter, then result in a high single-digit sequential"
+    },
+    {
+      "i": 127,
+      "start": 632.76,
+      "end": 635.76,
+      "text": "growth with upside potential."
+    },
+    {
+      "i": 128,
+      "start": 635.76,
+      "end": 640.76,
+      "text": "However, this demand is somehow front-loaded."
+    },
+    {
+      "i": 129,
+      "start": 640.76,
+      "end": 645.76,
+      "text": "We could see a more muted seasonal pattern in the second half of the year."
+    },
+    {
+      "i": 130,
+      "start": 645.76,
+      "end": 653.76,
+      "text": "At this point, visibility beyond 90 days remains limited due to ongoing macro and industry"
+    },
+    {
+      "i": 131,
+      "start": 653.76,
+      "end": 654.76,
+      "text": "uncertainties."
+    },
+    {
+      "i": 132,
+      "start": 654.76,
+      "end": 660.76,
+      "text": "We will provide more coverage on four-year guidance when additional clarity is available."
+    },
+    {
+      "i": 133,
+      "start": 660.76,
+      "end": 661.76,
+      "text": "For auto business, we are shifting our focus to the auto industry."
+    },
+    {
+      "i": 134,
+      "start": 661.76,
+      "end": 662.76,
+      "text": "We are also focusing on the auto industry."
+    },
+    {
+      "i": 135,
+      "start": 662.76,
+      "end": 663.76,
+      "text": "We are focusing on the auto industry."
+    },
+    {
+      "i": 136,
+      "start": 663.76,
+      "end": 664.76,
+      "text": "We are focusing on the auto industry."
+    },
+    {
+      "i": 137,
+      "start": 664.76,
+      "end": 665.76,
+      "text": "We are focusing on the auto industry."
+    },
+    {
+      "i": 138,
+      "start": 665.76,
+      "end": 670.76,
+      "text": "Quality product and revenue growth습니다ing investor and investment away from low-value,"
+    },
+    {
+      "i": 139,
+      "start": 670.76,
+      "end": 674.76,
+      "text": "commoditized, and volume driven products."
+    },
+    {
+      "i": 140,
+      "start": 674.76,
+      "end": 678.76,
+      "text": "Like most modules and sensors."
+    },
+    {
+      "i": 141,
+      "start": 678.76,
+      "end": 684.76,
+      "text": "Instead, we are prioritizing resourcesful for the development of high-value and content"
+    },
+    {
+      "i": 142,
+      "start": 684.76,
+      "end": 691.76,
+      "text": "rich products such as advanced data, card computers, and crop returns."
+    },
+    {
+      "i": 143,
+      "start": 691.76,
+      "end": 694.76,
+      "text": "To mitigate the current auto market uncertainty."
+    },
+    {
+      "i": 144,
+      "start": 694.76,
+      "end": 701.76,
+      "text": "resources relocation will help bolster our competitiveness for the upcoming recovery."
+    },
+    {
+      "i": 145,
+      "start": 701.76,
+      "end": 710.76,
+      "text": "Considering the evolving revenue mix driven by the accelerated shipment of new generation"
+    },
+    {
+      "i": 146,
+      "start": 710.76,
+      "end": 719.76,
+      "text": "AI server racks with higher ASP relative to lower ASP AI models, general compute servers,"
+    },
+    {
+      "i": 147,
+      "start": 719.76,
+      "end": 726.76,
+      "text": "notebook, photo, and other product categories. We anticipate some degree of margin dilution"
+    },
+    {
+      "i": 148,
+      "start": 726.76,
+      "end": 732.76,
+      "text": "moving forward. The new generation of AI servers went to mass"
+    },
+    {
+      "i": 149,
+      "start": 732.76,
+      "end": 739.76,
+      "text": "production in the late first quarter, while still in a slower ramp pace due to supply"
+    },
+    {
+      "i": 150,
+      "start": 739.76,
+      "end": 746.76,
+      "text": "constraints. On top of that, the demand for the lower ASP AI models remained strong and"
+    },
+    {
+      "i": 151,
+      "start": 746.76,
+      "end": 748.76,
+      "text": "contributed to the overall AI shipment."
+    },
+    {
+      "i": 152,
+      "start": 749.76,
+      "end": 756.76,
+      "text": "As customers are urging for timely deployment of their AI infrastructure, we are seeing"
+    },
+    {
+      "i": 153,
+      "start": 756.76,
+      "end": 764.76,
+      "text": "strong demand and limited supply of AI. Given that revenues are tied to the timing of shipment"
+    },
+    {
+      "i": 154,
+      "start": 764.76,
+      "end": 773.76,
+      "text": "of respective projects, we could see variability in server revenue growth rates depending on"
+    },
+    {
+      "i": 155,
+      "start": 773.76,
+      "end": 778.9399999999999,
+      "text": "ASP mix and individual customer delivery schedules."
+    },
+    {
+      "i": 156,
+      "start": 779.76,
+      "end": 785.76,
+      "text": "The AI server was a large contributor, driving the sales momentum in the first quarter, with"
+    },
+    {
+      "i": 157,
+      "start": 785.76,
+      "end": 792.76,
+      "text": "robust growth from both AI servers and general compute servers. AI server sales exceeded"
+    },
+    {
+      "i": 158,
+      "start": 792.76,
+      "end": 801.76,
+      "text": "60% of overall server sales, and their contribution will further increase in the second quarter."
+    },
+    {
+      "i": 159,
+      "start": 801.76,
+      "end": 808.76,
+      "text": "The sales of AI servers grew more than double from a year ago, in good shape to realize"
+    },
+    {
+      "i": 160,
+      "start": 809.76,
+      "end": 813.76,
+      "text": "potential four-year growth for 2025."
+    },
+    {
+      "i": 161,
+      "start": 813.76,
+      "end": 820.76,
+      "text": "Currency exchange fluctuations are another uncertain factor that would impact our quarter"
+    },
+    {
+      "i": 162,
+      "start": 820.76,
+      "end": 829.76,
+      "text": "performance. Over the years, we've been establishing a hedging mechanism to manage this rig as a"
+    },
+    {
+      "i": 163,
+      "start": 829.76,
+      "end": 835.76,
+      "text": "regular course of business, monitoring our net position exposed to exchange rate fluctuations"
+    },
+    {
+      "i": 164,
+      "start": 835.76,
+      "end": 837.76,
+      "text": "on a daily basis."
+    },
+    {
+      "i": 165,
+      "start": 837.76,
+      "end": 846.76,
+      "text": "In general, most of our account receivables and compatibles are denominated from U.S. dollars."
+    },
+    {
+      "i": 166,
+      "start": 846.76,
+      "end": 853.76,
+      "text": "The exchange rate risks tend to offset each other. Even during the recent turmoil in"
+    },
+    {
+      "i": 167,
+      "start": 853.76,
+      "end": 861.76,
+      "text": "the forex market, our hedging strategy has proven effective for our growing business,"
+    },
+    {
+      "i": 168,
+      "start": 861.76,
+      "end": 863.76,
+      "text": "and the risks remain manageable."
+    },
+    {
+      "i": 169,
+      "start": 863.76,
+      "end": 866.76,
+      "text": "Overall, we believe the product mix is a key factor in the growth of our market."
+    },
+    {
+      "i": 170,
+      "start": 867.76,
+      "end": 873.76,
+      "text": "The market has a greater impact on our margins than currency exchange fluctuations."
+    },
+    {
+      "i": 171,
+      "start": 873.76,
+      "end": 882.76,
+      "text": "To close, we are pleased to present another remarkable quarter to our investors."
+    },
+    {
+      "i": 172,
+      "start": 882.76,
+      "end": 886.76,
+      "text": "The first quarter result provided a great start to the year."
+    },
+    {
+      "i": 173,
+      "start": 886.76,
+      "end": 893.76,
+      "text": "Though the outlook for the second half remains unclear, we are set for a better second quarter."
+    },
+    {
+      "i": 174,
+      "start": 893.76,
+      "end": 896.76,
+      "text": "Thanks to our employees and management team for their hard work, and the support they"
+    },
+    {
+      "i": 175,
+      "start": 896.76,
+      "end": 901.76,
+      "text": "have shown for their dedication in achieving the unprecedented outcomes."
+    },
+    {
+      "i": 176,
+      "start": 901.76,
+      "end": 908.76,
+      "text": "That enables Quanta to consistently make our way for a balance between delivering satisfactory"
+    },
+    {
+      "i": 177,
+      "start": 908.76,
+      "end": 913.76,
+      "text": "shareholders' returns and investing in our long-term goals."
+    },
+    {
+      "i": 178,
+      "start": 913.76,
+      "end": 920.76,
+      "text": "Recently, Quanta's board of directors has resolved a record cash dividend payout of"
+    },
+    {
+      "i": 179,
+      "start": 920.76,
+      "end": 925.76,
+      "text": "$50.2 billion, official year 2024 earnings distribution."
+    },
+    {
+      "i": 180,
+      "start": 926.76,
+      "end": 932.76,
+      "text": "The management also executed several rounds of capital investment in our manufacturing"
+    },
+    {
+      "i": 181,
+      "start": 932.76,
+      "end": 934.76,
+      "text": "site in North America."
+    },
+    {
+      "i": 182,
+      "start": 934.76,
+      "end": 940.76,
+      "text": "The investment helped exercise the expansion of capacity and product production relocation"
+    },
+    {
+      "i": 183,
+      "start": 940.76,
+      "end": 942.76,
+      "text": "specifically for A.I."
+    },
+    {
+      "i": 184,
+      "start": 942.76,
+      "end": 944.76,
+      "text": "server manufacturing."
+    },
+    {
+      "i": 185,
+      "start": 944.76,
+      "end": 950.76,
+      "text": "The expansion is providing us additional flexibility to respond to the US tariff policies."
+    },
+    {
+      "i": 186,
+      "start": 950.76,
+      "end": 955.76,
+      "text": "We are seeing CSP customers maintain heavy investment in A.I."
+    },
+    {
+      "i": 187,
+      "start": 955.76,
+      "end": 960.08,
+      "text": "in AI compute and data center infrastructure."
+    },
+    {
+      "i": 188,
+      "start": 960.08,
+      "end": 964.8,
+      "text": "The recent TAPEX guidance from top US hyperscalers"
+    },
+    {
+      "i": 189,
+      "start": 964.8,
+      "end": 967.72,
+      "text": "confirmed that they are either maintaining or rising"
+    },
+    {
+      "i": 190,
+      "start": 967.72,
+      "end": 972.34,
+      "text": "cap for AI spending in 2025, despite"
+    },
+    {
+      "i": 191,
+      "start": 972.34,
+      "end": 975.1,
+      "text": "from a high base last year."
+    },
+    {
+      "i": 192,
+      "start": 975.1,
+      "end": 977.8,
+      "text": "As such, the accelerating AI shipment"
+    },
+    {
+      "i": 193,
+      "start": 977.8,
+      "end": 981.28,
+      "text": "presents a major tailwind for the year."
+    },
+    {
+      "i": 194,
+      "start": 981.28,
+      "end": 984.62,
+      "text": "We keep working closely with our customers"
+    },
+    {
+      "i": 195,
+      "start": 984.62,
+      "end": 988.1,
+      "text": "in an agile and nimble manner to effectively make"
+    },
+    {
+      "i": 196,
+      "start": 988.1,
+      "end": 993.0600000000001,
+      "text": "the necessary adjustments to adapt changes."
+    },
+    {
+      "i": 197,
+      "start": 993.0600000000001,
+      "end": 997.88,
+      "text": "Over the decades, Qantas has had solid track records"
+    },
+    {
+      "i": 198,
+      "start": 997.88,
+      "end": 1002.26,
+      "text": "in facilitating prudent strategy, smart environment,"
+    },
+    {
+      "i": 199,
+      "start": 1002.26,
+      "end": 1005.14,
+      "text": "and Excel operational execution to navigate"
+    },
+    {
+      "i": 200,
+      "start": 1005.14,
+      "end": 1008.84,
+      "text": "through fluctuation environments."
+    },
+    {
+      "i": 201,
+      "start": 1008.84,
+      "end": 1012.74,
+      "text": "As we scale our global presence, we"
+    },
+    {
+      "i": 202,
+      "start": 1012.74,
+      "end": 1014.62,
+      "text": "remain focused on driving improvement"
+    },
+    {
+      "i": 203,
+      "start": 1014.62,
+      "end": 1018.62,
+      "text": "in productivity, efficiency, and utilization"
+    },
+    {
+      "i": 204,
+      "start": 1018.62,
+      "end": 1022.44,
+      "text": "to help offset the growth in expenses and managing"
+    },
+    {
+      "i": 205,
+      "start": 1022.44,
+      "end": 1025.24,
+      "text": "associated risks."
+    },
+    {
+      "i": 206,
+      "start": 1025.24,
+      "end": 1029.74,
+      "text": "Overall, we remain cautiously optimistic of our business"
+    },
+    {
+      "i": 207,
+      "start": 1029.74,
+      "end": 1032.12,
+      "text": "for the rest of the year."
+    },
+    {
+      "i": 208,
+      "start": 1032.12,
+      "end": 1035.26,
+      "text": "We are confident in our ability to stay"
+    },
+    {
+      "i": 209,
+      "start": 1035.26,
+      "end": 1039.86,
+      "text": "on a growth trajectory, with profit expansion continuing"
+    },
+    {
+      "i": 210,
+      "start": 1039.86,
+      "end": 1043.48,
+      "text": "to outcast cost increases."
+    },
+    {
+      "i": 211,
+      "start": 1043.48,
+      "end": 1044.0,
+      "text": "We believe that."
+    },
+    {
+      "i": 212,
+      "start": 1044.0,
+      "end": 1044.5,
+      "text": "Thank you."
+    },
+    {
+      "i": 213,
+      "start": 1044.62,
+      "end": 1045.4799999999998,
+      "text": "Thank you."
+    },
+    {
+      "i": 214,
+      "start": 1045.4799999999998,
+      "end": 1046.3799999999999,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 215,
+      "start": 1046.3799999999999,
+      "end": 1048.52,
+      "text": "Thank you."
+    },
+    {
+      "i": 216,
+      "start": 1048.52,
+      "end": 1053.7399999999998,
+      "text": "Dr."
+    },
+    {
+      "i": 217,
+      "start": 1053.7399999999998,
+      "end": 1055.9399999999998,
+      "text": "Yeah."
+    },
+    {
+      "i": 218,
+      "start": 1055.9399999999998,
+      "end": 1062.62,
+      "text": "I think just want to get one more question and then"
+    },
+    {
+      "i": 219,
+      "start": 1062.62,
+      "end": 1065.56,
+      "text": "we'll play up the next question."
+    },
+    {
+      "i": 220,
+      "start": 1065.56,
+      "end": 1067.3,
+      "text": "Next question please."
+    },
+    {
+      "i": 221,
+      "start": 1068.3,
+      "end": 1071.12,
+      "text": "Today at 5 o'clock if we take another second"
+    },
+    {
+      "i": 222,
+      "start": 1071.12,
+      "end": 1074.4199999999998,
+      "text": "please to the Q&A we have a question"
+    },
+    {
+      "i": 223,
+      "start": 1074.62,
+      "end": 1077.9199999999998,
+      "text": "Thank you very much, Carol, for the financial overview."
+    },
+    {
+      "i": 224,
+      "start": 1077.9199999999998,
+      "end": 1080.6599999999999,
+      "text": "We will now begin the Q&A session."
+    },
+    {
+      "i": 225,
+      "start": 1080.6599999999999,
+      "end": 1082.4199999999998,
+      "text": "If you would like to ask a question,"
+    },
+    {
+      "i": 226,
+      "start": 1082.4199999999998,
+      "end": 1084.36,
+      "text": "please use the raise hand function"
+    },
+    {
+      "i": 227,
+      "start": 1084.36,
+      "end": 1087.2199999999998,
+      "text": "and we will call on you in order."
+    },
+    {
+      "i": 228,
+      "start": 1087.2199999999998,
+      "end": 1090.3799999999999,
+      "text": "As a reminder, please limit yourself to one question"
+    },
+    {
+      "i": 229,
+      "start": 1090.3799999999999,
+      "end": 1094.12,
+      "text": "and one follow-up to allow greater participation."
+    },
+    {
+      "i": 230,
+      "start": 1094.12,
+      "end": 1097.1599999999999,
+      "text": "Thank you for your cooperation."
+    },
+    {
+      "i": 231,
+      "start": 1097.1599999999999,
+      "end": 1101.4199999999998,
+      "text": "Let's go to our first question."
+    },
+    {
+      "i": 232,
+      "start": 1101.42,
+      "end": 1105.5600000000002,
+      "text": "Randy, please go ahead."
+    },
+    {
+      "i": 233,
+      "start": 1105.5600000000002,
+      "end": 1108.96,
+      "text": "Hey, yes, thank you for asking the call."
+    },
+    {
+      "i": 234,
+      "start": 1108.96,
+      "end": 1111.8200000000002,
+      "text": "My first question, I wanted to ask"
+    },
+    {
+      "i": 235,
+      "start": 1111.8200000000002,
+      "end": 1114.5600000000002,
+      "text": "on the second quarter outlook."
+    },
+    {
+      "i": 236,
+      "start": 1114.5600000000002,
+      "end": 1117.96,
+      "text": "First, after the strong first quarter,"
+    },
+    {
+      "i": 237,
+      "start": 1117.96,
+      "end": 1122.28,
+      "text": "you had a 20% dip to start April."
+    },
+    {
+      "i": 238,
+      "start": 1122.28,
+      "end": 1126.66,
+      "text": "I'm curious if you could give a view as we go through,"
+    },
+    {
+      "i": 239,
+      "start": 1126.66,
+      "end": 1128.68,
+      "text": "if you're seeing an acceleration,"
+    },
+    {
+      "i": 240,
+      "start": 1128.68,
+      "end": 1131.38,
+      "text": "how you view overall growth."
+    },
+    {
+      "i": 241,
+      "start": 1131.38,
+      "end": 1133.7800000000002,
+      "text": "How do you see growth for second quarter?"
+    },
+    {
+      "i": 242,
+      "start": 1133.7800000000002,
+      "end": 1138.88,
+      "text": "And then if you could split that between the AI,"
+    },
+    {
+      "i": 243,
+      "start": 1138.88,
+      "end": 1143.98,
+      "text": "the higher ASP AI racks versus lower ASP AI server,"
+    },
+    {
+      "i": 244,
+      "start": 1143.98,
+      "end": 1148.24,
+      "text": "and then also for expectation on continued strength"
+    },
+    {
+      "i": 245,
+      "start": 1148.24,
+      "end": 1149.44,
+      "text": "from general server."
+    },
+    {
+      "i": 246,
+      "start": 1153.18,
+      "end": 1155.18,
+      "text": "Thanks, Randy, for your questions."
+    },
+    {
+      "i": 247,
+      "start": 1155.18,
+      "end": 1158.64,
+      "text": "As Carol touched on in the prepared remarks,"
+    },
+    {
+      "i": 248,
+      "start": 1158.64,
+      "end": 1161.2800000000002,
+      "text": "the new generation of the high ASP AI server"
+    },
+    {
+      "i": 249,
+      "start": 1161.28,
+      "end": 1163.68,
+      "text": "is expected to be a very competitive product."
+    },
+    {
+      "i": 250,
+      "start": 1163.68,
+      "end": 1166.1399999999999,
+      "text": "So we're expecting the percentage will keep growing"
+    },
+    {
+      "i": 251,
+      "start": 1166.1399999999999,
+      "end": 1171.58,
+      "text": "among the split between the AI server to total server"
+    },
+    {
+      "i": 252,
+      "start": 1171.58,
+      "end": 1175.34,
+      "text": "will rising from 60% in the first quarter"
+    },
+    {
+      "i": 253,
+      "start": 1175.34,
+      "end": 1180.74,
+      "text": "to keep going to 70% and to be the target for this year."
+    },
+    {
+      "i": 254,
+      "start": 1180.74,
+      "end": 1184.78,
+      "text": "So we're seeing more high ASP product contribution into."
+    },
+    {
+      "i": 255,
+      "start": 1184.78,
+      "end": 1188.08,
+      "text": "So that's what I mentioned about some dilution"
+    },
+    {
+      "i": 256,
+      "start": 1188.08,
+      "end": 1190.72,
+      "text": "about our close margins."
+    },
+    {
+      "i": 257,
+      "start": 1190.72,
+      "end": 1193.32,
+      "text": "So we're seeing more high ASP product contribution"
+    },
+    {
+      "i": 258,
+      "start": 1193.32,
+      "end": 1194.72,
+      "text": "to the same directions."
+    },
+    {
+      "i": 259,
+      "start": 1194.72,
+      "end": 1199.78,
+      "text": "This is our AI service situation for second quarter."
+    },
+    {
+      "i": 260,
+      "start": 1199.78,
+      "end": 1200.6200000000001,
+      "text": "OK."
+    },
+    {
+      "i": 261,
+      "start": 1200.6200000000001,
+      "end": 1203.68,
+      "text": "And I'll just ask, and the follow up,"
+    },
+    {
+      "i": 262,
+      "start": 1203.68,
+      "end": 1205.26,
+      "text": "and it'll be two part follow up."
+    },
+    {
+      "i": 263,
+      "start": 1205.26,
+      "end": 1209.32,
+      "text": "But if you could give a view, the general server"
+    },
+    {
+      "i": 264,
+      "start": 1209.32,
+      "end": 1212.48,
+      "text": "what drove the strength in first quarter?"
+    },
+    {
+      "i": 265,
+      "start": 1212.48,
+      "end": 1214.06,
+      "text": "It's been kind of a stable market."
+    },
+    {
+      "i": 266,
+      "start": 1214.06,
+      "end": 1217.06,
+      "text": "But how much was share gain?"
+    },
+    {
+      "i": 267,
+      "start": 1217.06,
+      "end": 1220.16,
+      "text": "And then how much you see that market continue?"
+    },
+    {
+      "i": 268,
+      "start": 1220.16,
+      "end": 1223.8600000000001,
+      "text": "And the second part of my follow up,"
+    },
+    {
+      "i": 269,
+      "start": 1223.8600000000001,
+      "end": 1228.0600000000002,
+      "text": "I actually wanted to ask about the GPU supply demands."
+    },
+    {
+      "i": 270,
+      "start": 1228.0600000000002,
+      "end": 1232.3200000000002,
+      "text": "I think you mentioned supply of GPUs."
+    },
+    {
+      "i": 271,
+      "start": 1232.3200000000002,
+      "end": 1235.72,
+      "text": "But we've seen a lot of delays on the racks,"
+    },
+    {
+      "i": 272,
+      "start": 1235.72,
+      "end": 1238.8000000000002,
+      "text": "but actually chip production smoother."
+    },
+    {
+      "i": 273,
+      "start": 1238.8000000000002,
+      "end": 1242.8200000000002,
+      "text": "So I'm curious where the constraints are on GPU,"
+    },
+    {
+      "i": 274,
+      "start": 1242.8200000000002,
+      "end": 1245.5600000000002,
+      "text": "like if you're getting enough availability,"
+    },
+    {
+      "i": 275,
+      "start": 1245.5600000000002,
+      "end": 1249.96,
+      "text": "whether for the high AI server, high ASP AI server,"
+    },
+    {
+      "i": 276,
+      "start": 1249.96,
+      "end": 1254.1000000000001,
+      "text": "or constraints with prioritization there,"
+    },
+    {
+      "i": 277,
+      "start": 1254.1000000000001,
+      "end": 1256.76,
+      "text": "waiting for those racks, the low ASP server."
+    },
+    {
+      "i": 278,
+      "start": 1256.76,
+      "end": 1260.1200000000001,
+      "text": "Yeah, just curious why supply constraints, given the delays,"
+    },
+    {
+      "i": 279,
+      "start": 1260.1200000000001,
+      "end": 1261.72,
+      "text": "and where you're seeing those constraints?"
+    },
+    {
+      "i": 280,
+      "start": 1275.56,
+      "end": 1279.16,
+      "text": "Let me put another way around to answer your question."
+    },
+    {
+      "i": 281,
+      "start": 1279.16,
+      "end": 1279.8,
+      "text": "First of all,"
+    },
+    {
+      "i": 282,
+      "start": 1279.96,
+      "end": 1285.2,
+      "text": "the customer's to deploy the data center view out,"
+    },
+    {
+      "i": 283,
+      "start": 1285.2,
+      "end": 1287.76,
+      "text": "keep going up, and it's very strong."
+    },
+    {
+      "i": 284,
+      "start": 1287.76,
+      "end": 1289.06,
+      "text": "Demand's very strong."
+    },
+    {
+      "i": 285,
+      "start": 1289.06,
+      "end": 1293.66,
+      "text": "So they pick up what is available in the market."
+    },
+    {
+      "i": 286,
+      "start": 1293.66,
+      "end": 1296.5,
+      "text": "So in the first quarter, due to the limitation"
+    },
+    {
+      "i": 287,
+      "start": 1296.5,
+      "end": 1300.52,
+      "text": "from the high ASP of the server, the ratings,"
+    },
+    {
+      "i": 288,
+      "start": 1300.52,
+      "end": 1307.32,
+      "text": "the customer employee more current versions of the AI server."
+    },
+    {
+      "i": 289,
+      "start": 1307.32,
+      "end": 1309.8600000000001,
+      "text": "And definitely, there's a lot, you know,"
+    },
+    {
+      "i": 290,
+      "start": 1309.96,
+      "end": 1312.96,
+      "text": "there's a lot of allocation between the current order,"
+    },
+    {
+      "i": 291,
+      "start": 1312.96,
+      "end": 1316.1200000000001,
+      "text": "between the high ASP and low ASP,"
+    },
+    {
+      "i": 292,
+      "start": 1316.1200000000001,
+      "end": 1319.9,
+      "text": "whether to talk about the share gain or share loss."
+    },
+    {
+      "i": 293,
+      "start": 1319.9,
+      "end": 1322.1000000000001,
+      "text": "Let me put the other way around for your reference."
+    },
+    {
+      "i": 294,
+      "start": 1322.1000000000001,
+      "end": 1325.6000000000001,
+      "text": "Because the demand's still there, demand's still intact."
+    },
+    {
+      "i": 295,
+      "start": 1325.6000000000001,
+      "end": 1330.46,
+      "text": "Customer just do the allocation between the GPU, the readiness,"
+    },
+    {
+      "i": 296,
+      "start": 1330.46,
+      "end": 1333.2,
+      "text": "so they can move on to next version or current version."
+    },
+    {
+      "i": 297,
+      "start": 1333.2,
+      "end": 1334.96,
+      "text": "Okay. So that's a dynamic."
+    },
+    {
+      "i": 298,
+      "start": 1334.96,
+      "end": 1336.96,
+      "text": "And moving into the second quarter,"
+    },
+    {
+      "i": 299,
+      "start": 1336.96,
+      "end": 1339.96,
+      "text": "the supply for the high ASP is getting better and better."
+    },
+    {
+      "i": 300,
+      "start": 1339.96,
+      "end": 1344.3600000000001,
+      "text": "But just to the availability from the chief vendor,"
+    },
+    {
+      "i": 301,
+      "start": 1344.3600000000001,
+      "end": 1346.8600000000001,
+      "text": "greater from the customer demand."
+    },
+    {
+      "i": 302,
+      "start": 1346.8600000000001,
+      "end": 1349.76,
+      "text": "Customer demand is still over there, still intact,"
+    },
+    {
+      "i": 303,
+      "start": 1349.76,
+      "end": 1351.1000000000001,
+      "text": "still very strong."
+    },
+    {
+      "i": 304,
+      "start": 1351.1000000000001,
+      "end": 1352.82,
+      "text": "Okay. So you kind of ?"
+    },
+    {
+      "i": 305,
+      "start": 1352.82,
+      "end": 1356.16,
+      "text": "Okay, different between the high ASP"
+    },
+    {
+      "i": 306,
+      "start": 1356.16,
+      "end": 1360.0,
+      "text": "and low ASP AI server."
+    },
+    {
+      "i": 307,
+      "start": 1360.0,
+      "end": 1361.16,
+      "text": "Okay, thank you."
+    },
+    {
+      "i": 308,
+      "start": 1361.16,
+      "end": 1362.96,
+      "text": "And if you could come in on the general server outlook,"
+    },
+    {
+      "i": 309,
+      "start": 1362.96,
+      "end": 1366.82,
+      "text": "and then I'll drop back to the queue."
+    },
+    {
+      "i": 310,
+      "start": 1366.82,
+      "end": 1369.66,
+      "text": "The keep going, but in this quarter,"
+    },
+    {
+      "i": 311,
+      "start": 1369.66,
+      "end": 1369.9,
+      "text": "the high ASP, you know, they had some issues,"
+    },
+    {
+      "i": 312,
+      "start": 1369.9,
+      "end": 1369.92,
+      "text": "but they, they had no issues."
+    },
+    {
+      "i": 313,
+      "start": 1369.92,
+      "end": 1376.92,
+      "text": "server, the ghost rate should be better than the low ASP server, relatively."
+    },
+    {
+      "i": 314,
+      "start": 1376.92,
+      "end": 1386.48,
+      "text": "Okay. Yes, thank you very much. Thank you, Randy. And then the next question"
+    },
+    {
+      "i": 315,
+      "start": 1386.48,
+      "end": 1392.46,
+      "text": "will be coming from Howard. Howard, please go ahead."
+    },
+    {
+      "i": 316,
+      "start": 1399.92,
+      "end": 1410.72,
+      "text": "Hello. Can you hear me? Great. Congratulations on the quarter. My first question is on Notebook."
+    },
+    {
+      "i": 317,
+      "start": 1410.72,
+      "end": 1417.76,
+      "text": "So I wanted to ask, I was a bit surprised that Notebook was less than 25% of total revenues"
+    },
+    {
+      "i": 318,
+      "start": 1417.76,
+      "end": 1424.28,
+      "text": "in the first quarter. So I guess my first question is, are we seeing a pretty strong"
+    },
+    {
+      "i": 319,
+      "start": 1424.28,
+      "end": 1429.14,
+      "text": "kind of recovery in terms of Chromebook shipments in Q1?"
+    },
+    {
+      "i": 320,
+      "start": 1429.92,
+      "end": 1439.68,
+      "text": "No, it's not. It's not. Now, I'll allocate to the Chromebook. Chromebook still comes,"
+    },
+    {
+      "i": 321,
+      "start": 1439.68,
+      "end": 1445.68,
+      "text": "you know, back to the regular pattern, only, you know, 10% plus, minus something only."
+    },
+    {
+      "i": 322,
+      "start": 1445.68,
+      "end": 1450.68,
+      "text": "So now keep pushing about total Notebook shipments."
+    },
+    {
+      "i": 323,
+      "start": 1450.68,
+      "end": 1459.9,
+      "text": "Got it. And then real quick, just in terms of the"
+    },
+    {
+      "i": 324,
+      "start": 1459.9,
+      "end": 1468.46,
+      "text": "2025 kind of guidance by segment, just to touch back on what you guys guided for the"
+    },
+    {
+      "i": 325,
+      "start": 1468.46,
+      "end": 1474.6200000000001,
+      "text": "last time, you guys said that AI revenues will grow triple digit year on year, and general"
+    },
+    {
+      "i": 326,
+      "start": 1474.6200000000001,
+      "end": 1481.6200000000001,
+      "text": "server will be flat year on year, and automotive will be up single digit year on year. Are"
+    },
+    {
+      "i": 327,
+      "start": 1481.6200000000001,
+      "end": 1486.9,
+      "text": "these guidance still unchanged, you know, three months later today?"
+    },
+    {
+      "i": 328,
+      "start": 1486.9,
+      "end": 1488.9,
+      "text": "By far."
+    },
+    {
+      "i": 329,
+      "start": 1489.9,
+      "end": 1497.46,
+      "text": "By far. So with the AI contribution to over 70%, all the strategies are still on track."
+    },
+    {
+      "i": 330,
+      "start": 1497.46,
+      "end": 1503.9,
+      "text": "Okay. And the general server looking slightly better from 5-day shift to slightly up, okay,"
+    },
+    {
+      "i": 331,
+      "start": 1503.9,
+      "end": 1507.9,
+      "text": "for year on year basis."
+    },
+    {
+      "i": 332,
+      "start": 1507.9,
+      "end": 1518.3400000000001,
+      "text": "Got it. Okay. So one last question from me, and I just wanted to clarify maybe your answer"
+    },
+    {
+      "i": 333,
+      "start": 1518.3400000000001,
+      "end": 1519.38,
+      "text": "to one of the questions."
+    },
+    {
+      "i": 334,
+      "start": 1519.38,
+      "end": 1519.42,
+      "text": "Okay."
+    },
+    {
+      "i": 335,
+      "start": 1519.9,
+      "end": 1527.22,
+      "text": "I want to run these questions earlier. So looking at the lower ASP AI server product,"
+    },
+    {
+      "i": 336,
+      "start": 1527.22,
+      "end": 1532.8400000000001,
+      "text": "you mentioned Q1 demand was quite strong. Is it fair to assume that that demand will"
+    },
+    {
+      "i": 337,
+      "start": 1532.8400000000001,
+      "end": 1540.8200000000002,
+      "text": "continue to remain that strong for the remainder of the year? Or are you expecting demand for"
+    },
+    {
+      "i": 338,
+      "start": 1540.8200000000002,
+      "end": 1549.38,
+      "text": "the lower ASP AI servers to fall off in the coming quarters?"
+    },
+    {
+      "i": 339,
+      "start": 1549.38,
+      "end": 1552.38,
+      "text": "Okay. So the demand for the lower ASP AI servers is still growing. As I mentioned, there"
+    },
+    {
+      "i": 340,
+      "start": 1552.38,
+      "end": 1557.0600000000002,
+      "text": "are two dimensions for your reference. First of all, it's about allocation between the"
+    },
+    {
+      "i": 341,
+      "start": 1557.0600000000002,
+      "end": 1566.3600000000001,
+      "text": "high ASP and low ASP of the server. That's to the availability. And we still see the"
+    },
+    {
+      "i": 342,
+      "start": 1566.3600000000001,
+      "end": 1572.24,
+      "text": "low ASP general server still keep growing, but the percentage maybe below to the high"
+    },
+    {
+      "i": 343,
+      "start": 1572.24,
+      "end": 1576.4,
+      "text": "ASP servers for the quarters. Okay."
+    },
+    {
+      "i": 344,
+      "start": 1579.38,
+      "end": 1584.14,
+      "text": "Got it. Still growing, but growing at a slower pace. Got it. Thank you. I'll jump back to"
+    },
+    {
+      "i": 345,
+      "start": 1584.14,
+      "end": 1585.14,
+      "text": "the queue. Thank you so much."
+    },
+    {
+      "i": 346,
+      "start": 1585.14,
+      "end": 1593.14,
+      "text": "Thank you, Howard. And the next question will be coming from Angela. Angela, please go ahead."
+    },
+    {
+      "i": 347,
+      "start": 1593.14,
+      "end": 1601.14,
+      "text": "Hello. Can you hear me?"
+    },
+    {
+      "i": 348,
+      "start": 1601.14,
+      "end": 1604.14,
+      "text": "Yeah, Angela, please go ahead."
+    },
+    {
+      "i": 349,
+      "start": 1604.14,
+      "end": 1609.38,
+      "text": "Oh, okay. Thank you for taking my question. Just a follow-up question regarding to the"
+    },
+    {
+      "i": 350,
+      "start": 1609.38,
+      "end": 1618.22,
+      "text": "AI server. Can you give us a definition of the low ASP and high ASP of the AI server?"
+    },
+    {
+      "i": 351,
+      "start": 1618.22,
+      "end": 1625.2600000000002,
+      "text": "Not that sure what that means, low ASP AI server demand strong in the first quarter."
+    },
+    {
+      "i": 352,
+      "start": 1625.2600000000002,
+      "end": 1627.2600000000002,
+      "text": "That's my follow-up question first."
+    },
+    {
+      "i": 353,
+      "start": 1627.2600000000002,
+      "end": 1638.14,
+      "text": "Yeah, that's a different ASP. No, that's the current version of the GPU. Or maybe it's"
+    },
+    {
+      "i": 354,
+      "start": 1638.14,
+      "end": 1639.14,
+      "text": "a different version."
+    },
+    {
+      "i": 355,
+      "start": 1639.14,
+      "end": 1641.98,
+      "text": "Yeah, that's the current version of the GPU. But the next generation of GPU, due to the"
+    },
+    {
+      "i": 356,
+      "start": 1641.98,
+      "end": 1647.9,
+      "text": "different infrastructure, so they have a different price tag. And the next generation now kicking"
+    },
+    {
+      "i": 357,
+      "start": 1647.9,
+      "end": 1652.9,
+      "text": "in this quarter is the high ASP, the current GB200 stuff."
+    },
+    {
+      "i": 358,
+      "start": 1652.9,
+      "end": 1661.5,
+      "text": "Oh, okay. So it means Harper is a lower ASP AI server and the Blackwell GB is a high ASP"
+    },
+    {
+      "i": 359,
+      "start": 1661.5,
+      "end": 1663.9,
+      "text": "AI server. Am I right?"
+    },
+    {
+      "i": 360,
+      "start": 1663.9,
+      "end": 1666.98,
+      "text": "Yeah, to some extent, yes."
+    },
+    {
+      "i": 361,
+      "start": 1666.98,
+      "end": 1667.98,
+      "text": "Okay."
+    },
+    {
+      "i": 362,
+      "start": 1667.98,
+      "end": 1668.98,
+      "text": "Thanks."
+    },
+    {
+      "i": 363,
+      "start": 1668.98,
+      "end": 1674.54,
+      "text": "Okay, thanks for clarification. And we think your AI server is a top-paying buy and sell"
+    },
+    {
+      "i": 364,
+      "start": 1674.54,
+      "end": 1680.74,
+      "text": "model. And based on accounting principles, if you buy the GPU from clients by CSPs and"
+    },
+    {
+      "i": 365,
+      "start": 1680.74,
+      "end": 1690.14,
+      "text": "assemble and sell to them, will you book your sales in the value including GPU, CPU, or"
+    },
+    {
+      "i": 366,
+      "start": 1690.14,
+      "end": 1698.82,
+      "text": "you will have a net deducting the major chip with the other net value only?"
+    },
+    {
+      "i": 367,
+      "start": 1698.98,
+      "end": 1699.98,
+      "text": "That's the question. Follow-up."
+    },
+    {
+      "i": 368,
+      "start": 1699.98,
+      "end": 1700.98,
+      "text": "That's a mix. It depends on the customer's requirement. If the consignment model, then"
+    },
+    {
+      "i": 369,
+      "start": 1700.98,
+      "end": 1701.98,
+      "text": "we offset the key components or the cost. If the buy-sale model, then we'll come at everything."
+    },
+    {
+      "i": 370,
+      "start": 1701.98,
+      "end": 1702.98,
+      "text": "So there's a mix among our customers. But the major aligned part of our business is"
+    },
+    {
+      "i": 371,
+      "start": 1702.98,
+      "end": 1703.98,
+      "text": "the buy-and-sell models."
+    },
+    {
+      "i": 372,
+      "start": 1703.98,
+      "end": 1704.98,
+      "text": "Okay. So based on your clients' current performance, what is the best way to sell"
+    },
+    {
+      "i": 373,
+      "start": 1704.98,
+      "end": 1705.98,
+      "text": "your products?"
+    },
+    {
+      "i": 374,
+      "start": 1705.98,
+      "end": 1706.98,
+      "text": "Well, the best way to sell your products, the best way is to sell your products in"
+    },
+    {
+      "i": 375,
+      "start": 1706.98,
+      "end": 1707.98,
+      "text": "a high-end market. So if you're a customer, you can't sell your products in a high-end"
+    },
+    {
+      "i": 376,
+      "start": 1707.98,
+      "end": 1708.98,
+      "text": "market. You have to buy a lot of products. So you have to buy a lot of products. If you're"
+    },
+    {
+      "i": 377,
+      "start": 1708.98,
+      "end": 1709.98,
+      "text": "a consumer, you can't sell your products in a high-end market. So you have to buy a lot"
+    },
+    {
+      "i": 378,
+      "start": 1709.98,
+      "end": 1710.98,
+      "text": "of everything in a high-end market because you've got to из lane in the customer's"
+    },
+    {
+      "i": 379,
+      "start": 1710.98,
+      "end": 1712.22,
+      "text": "market. So in terms of the compliance with your 180, they can't sell your products."
+    },
+    {
+      "i": 380,
+      "start": 1712.22,
+      "end": 1714.22,
+      "text": "So they have to beन what Professional End put out here."
+    },
+    {
+      "i": 381,
+      "start": 1714.22,
+      "end": 1715.22,
+      "text": "Aaa.."
+    },
+    {
+      "i": 382,
+      "start": 1715.22,
+      "end": 1716.2,
+      "text": "Ahhm."
+    },
+    {
+      "i": 383,
+      "start": 1716.2,
+      "end": 1720.84,
+      "text": "Well, what what it helps us to get used to is in this minor part, functioning"
+    },
+    {
+      "i": 384,
+      "start": 1720.84,
+      "end": 1722.18,
+      "text": "of the стрейч巴 , we can"
+    },
+    {
+      "i": 385,
+      "start": 1722.18,
+      "end": 1723.58,
+      "text": "have a number of challenges we can get more accurate, wenn the customer nugget"
+    },
+    {
+      "i": 386,
+      "start": 1723.58,
+      "end": 1725.1200000000001,
+      "text": "alに"
+    },
+    {
+      "i": 387,
+      "start": 1725.1200000000001,
+      "end": 1729.8,
+      "text": "of a are not the risk of the commercial underlying costs would be better"
+    },
+    {
+      "i": 388,
+      "start": 1729.8,
+      "end": 1734.5,
+      "text": "than the cost and the bill or this we'd better stay healthy with our customers if we can"
+    },
+    {
+      "i": 389,
+      "start": 1734.5,
+      "end": 1735.5,
+      "text": "perform."
+    },
+    {
+      "i": 390,
+      "start": 1735.5,
+      "end": 1736.5,
+      "text": "Right."
+    },
+    {
+      "i": 391,
+      "start": 1736.5,
+      "end": 1738.1200000000001,
+      "text": "Ahem, I just had an concerns about that."
+    },
+    {
+      "i": 392,
+      "start": 1738.1200000000001,
+      "end": 1739.1,
+      "text": "Yes."
+    },
+    {
+      "i": 393,
+      "start": 1739.1,
+      "end": 1739.54,
+      "text": "Of course, Mr.���rutier."
+    },
+    {
+      "i": 394,
+      "start": 1739.54,
+      "end": 1739.6,
+      "text": "Yes."
+    },
+    {
+      "i": 395,
+      "start": 1739.6,
+      "end": 1743.6,
+      "text": "The prime part of business is buy and sell models."
+    },
+    {
+      "i": 396,
+      "start": 1745.6,
+      "end": 1746.6,
+      "text": "Okay, I get it."
+    },
+    {
+      "i": 397,
+      "start": 1746.6,
+      "end": 1747.6,
+      "text": "The major part..."
+    },
+    {
+      "i": 398,
+      "start": 1747.6,
+      "end": 1748.6,
+      "text": "Okay, last question is that regard..."
+    },
+    {
+      "i": 399,
+      "start": 1748.6,
+      "end": 1749.6,
+      "text": "Major part."
+    },
+    {
+      "i": 400,
+      "start": 1749.6,
+      "end": 1750.6,
+      "text": "The buy and sell."
+    },
+    {
+      "i": 401,
+      "start": 1750.6,
+      "end": 1751.6,
+      "text": "Yep."
+    },
+    {
+      "i": 402,
+      "start": 1751.6,
+      "end": 1752.6,
+      "text": "Okay, thanks."
+    },
+    {
+      "i": 403,
+      "start": 1752.6,
+      "end": 1759.6,
+      "text": "And the last question is regarding to the first quarter financial, about the non-up."
+    },
+    {
+      "i": 404,
+      "start": 1759.6,
+      "end": 1767.6,
+      "text": "It's quite rare to see that your interest net expense in the first quarter."
+    },
+    {
+      "i": 405,
+      "start": 1767.6,
+      "end": 1773.6,
+      "text": "Can you explain the major reason and will this condition last into the following quarters?"
+    },
+    {
+      "i": 406,
+      "start": 1773.6,
+      "end": 1774.6,
+      "text": "Okay, thank you."
+    },
+    {
+      "i": 407,
+      "start": 1775.6,
+      "end": 1778.6,
+      "text": "Yeah, the business keeps growing."
+    },
+    {
+      "i": 408,
+      "start": 1778.6,
+      "end": 1783.6,
+      "text": "So you can see the flowing account receivable, inventory."
+    },
+    {
+      "i": 409,
+      "start": 1783.6,
+      "end": 1787.6,
+      "text": "They were working capital-hungry."
+    },
+    {
+      "i": 410,
+      "start": 1787.6,
+      "end": 1793.6,
+      "text": "That's also one of the strengths, advantage of balance sheet, our income to the account"
+    },
+    {
+      "i": 411,
+      "start": 1793.6,
+      "end": 1794.6,
+      "text": "market."
+    },
+    {
+      "i": 412,
+      "start": 1794.6,
+      "end": 1796.6,
+      "text": "But to win the business, also expense."
+    },
+    {
+      "i": 413,
+      "start": 1796.6,
+      "end": 1797.6,
+      "text": "Okay."
+    },
+    {
+      "i": 414,
+      "start": 1797.6,
+      "end": 1804.6,
+      "text": "And when you've got your income, your selling working capital needs, as a result, you need"
+    },
+    {
+      "i": 415,
+      "start": 1804.6,
+      "end": 1809.6,
+      "text": "additional interest expense to cover the selling working capital needs."
+    },
+    {
+      "i": 416,
+      "start": 1809.6,
+      "end": 1810.6,
+      "text": "Okay?"
+    },
+    {
+      "i": 417,
+      "start": 1810.6,
+      "end": 1814.6,
+      "text": "So customer require you to pull in the GPU."
+    },
+    {
+      "i": 418,
+      "start": 1814.6,
+      "end": 1819.6,
+      "text": "That means you need to pay more working capital to accommodate."
+    },
+    {
+      "i": 419,
+      "start": 1819.6,
+      "end": 1824.6,
+      "text": "So only few players, that's one of the key reason, the only few players can, in this"
+    },
+    {
+      "i": 420,
+      "start": 1824.6,
+      "end": 1826.6,
+      "text": "industry, to working with the central bank."
+    },
+    {
+      "i": 421,
+      "start": 1826.6,
+      "end": 1829.6,
+      "text": "with the CSP for this type of business."
+    },
+    {
+      "i": 422,
+      "start": 1832.6,
+      "end": 1834.6,
+      "text": "Okay, makes sense."
+    },
+    {
+      "i": 423,
+      "start": 1834.6,
+      "end": 1838.6,
+      "text": "And so do we need to expect that this situation will continue"
+    },
+    {
+      "i": 424,
+      "start": 1838.6,
+      "end": 1843.6,
+      "text": "when your GP or AI, high-SP AI cells growing up,"
+    },
+    {
+      "i": 425,
+      "start": 1843.6,
+      "end": 1847.6,
+      "text": "that will see this kind of situation continuously?"
+    },
+    {
+      "i": 426,
+      "start": 1849.6,
+      "end": 1850.6,
+      "text": "That could be a question."
+    },
+    {
+      "i": 427,
+      "start": 1850.6,
+      "end": 1854.6,
+      "text": "That is how we do funding this working capital need."
+    },
+    {
+      "i": 428,
+      "start": 1854.6,
+      "end": 1859.6,
+      "text": "Okay, you can look for any low funding cost vehicle"
+    },
+    {
+      "i": 429,
+      "start": 1859.6,
+      "end": 1863.6,
+      "text": "to maybe can lower down the overall interest expense"
+    },
+    {
+      "i": 430,
+      "start": 1863.6,
+      "end": 1864.6,
+      "text": "going forward."
+    },
+    {
+      "i": 431,
+      "start": 1864.6,
+      "end": 1867.6,
+      "text": "Okay, but I think there are big changes in the first half."
+    },
+    {
+      "i": 432,
+      "start": 1867.6,
+      "end": 1870.6,
+      "text": "When you're renting out, taking this business model,"
+    },
+    {
+      "i": 433,
+      "start": 1870.6,
+      "end": 1873.6,
+      "text": "then that definitely comes with more working capital need."
+    },
+    {
+      "i": 434,
+      "start": 1873.6,
+      "end": 1877.6,
+      "text": "Okay, that as a result will have higher interest expense."
+    },
+    {
+      "i": 435,
+      "start": 1879.6,
+      "end": 1881.6,
+      "text": "Okay, thanks, Mary."
+    },
+    {
+      "i": 436,
+      "start": 1881.6,
+      "end": 1883.6,
+      "text": "Thanks for your answer."
+    },
+    {
+      "i": 437,
+      "start": 1884.6,
+      "end": 1886.6,
+      "text": "Thank you, Angela."
+    },
+    {
+      "i": 438,
+      "start": 1886.6,
+      "end": 1888.6,
+      "text": "Next question will be coming from Albert."
+    },
+    {
+      "i": 439,
+      "start": 1888.6,
+      "end": 1890.6,
+      "text": "Albert, please go ahead."
+    },
+    {
+      "i": 440,
+      "start": 1891.6,
+      "end": 1894.6,
+      "text": "Thanks, Terry, for hosting the call."
+    },
+    {
+      "i": 441,
+      "start": 1894.6,
+      "end": 1898.6,
+      "text": "And congrats, management, on the strong results."
+    },
+    {
+      "i": 442,
+      "start": 1898.6,
+      "end": 1904.6,
+      "text": "So my first question is based on what you're saying,"
+    },
+    {
+      "i": 443,
+      "start": 1904.6,
+      "end": 1909.6,
+      "text": "the CSP customer, they bought a lot of Hopper AGX in first quarter,"
+    },
+    {
+      "i": 444,
+      "start": 1909.6,
+      "end": 1913.6,
+      "text": "and now we are ramping up the backup server into second quarter."
+    },
+    {
+      "i": 445,
+      "start": 1913.6,
+      "end": 1914.6,
+      "text": "So basically,"
+    },
+    {
+      "i": 446,
+      "start": 1914.6,
+      "end": 1920.6,
+      "text": "how would you compare the customer preference in Blackwell AGX"
+    },
+    {
+      "i": 447,
+      "start": 1920.6,
+      "end": 1923.6,
+      "text": "versus GB server configuration?"
+    },
+    {
+      "i": 448,
+      "start": 1923.6,
+      "end": 1926.6,
+      "text": "Is it fair to say GB is the preferred solution"
+    },
+    {
+      "i": 449,
+      "start": 1926.6,
+      "end": 1928.6,
+      "text": "by CSP in Blackwell generation?"
+    },
+    {
+      "i": 450,
+      "start": 1928.6,
+      "end": 1932.6,
+      "text": "And if customers, they face some issue in GB server,"
+    },
+    {
+      "i": 451,
+      "start": 1932.6,
+      "end": 1938.6,
+      "text": "is it possible for CSP customer to switch back and buy Blackwell AGX,"
+    },
+    {
+      "i": 452,
+      "start": 1938.6,
+      "end": 1943.6,
+      "text": "or it's not doable because their design is mainly for GB?"
+    },
+    {
+      "i": 453,
+      "start": 1943.6,
+      "end": 1944.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 454,
+      "start": 1944.6,
+      "end": 1949.6,
+      "text": "Thank you, Albert, for your question."
+    },
+    {
+      "i": 455,
+      "start": 1949.6,
+      "end": 1952.6,
+      "text": "You know, customers, first of all,"
+    },
+    {
+      "i": 456,
+      "start": 1952.6,
+      "end": 1955.6,
+      "text": "customers different AI adoption plan,"
+    },
+    {
+      "i": 457,
+      "start": 1955.6,
+      "end": 1958.6,
+      "text": "and they have a huge AI demand."
+    },
+    {
+      "i": 458,
+      "start": 1958.6,
+      "end": 1962.6,
+      "text": "So they can accommodate different type of compute needs,"
+    },
+    {
+      "i": 459,
+      "start": 1962.6,
+      "end": 1967.6,
+      "text": "ranging from the H200, GB200, or GB300."
+    },
+    {
+      "i": 460,
+      "start": 1967.6,
+      "end": 1970.6,
+      "text": "So there are different type of adoption plan."
+    },
+    {
+      "i": 461,
+      "start": 1970.6,
+      "end": 1971.6,
+      "text": "And from contact perspective,"
+    },
+    {
+      "i": 462,
+      "start": 1971.6,
+      "end": 1974.6,
+      "text": "we cannot speak for the customer or speak for the vendors."
+    },
+    {
+      "i": 463,
+      "start": 1974.6,
+      "end": 1979.6,
+      "text": "So long as that, what we can do is best to meet the customer's requirement"
+    },
+    {
+      "i": 464,
+      "start": 1979.6,
+      "end": 1983.6,
+      "text": "at the right timing, right cost, and right scale."
+    },
+    {
+      "i": 465,
+      "start": 1983.6,
+      "end": 1987.6,
+      "text": "So that's why I mentioned that we are doing allocation"
+    },
+    {
+      "i": 466,
+      "start": 1987.6,
+      "end": 1992.6,
+      "text": "between the high or low AI server."
+    },
+    {
+      "i": 467,
+      "start": 1992.6,
+      "end": 1996.6,
+      "text": "You know, QANDA, we are ready for every type of product."
+    },
+    {
+      "i": 468,
+      "start": 1996.6,
+      "end": 2000.6,
+      "text": "And customers subject to how they're to go out,"
+    },
+    {
+      "i": 469,
+      "start": 2000.6,
+      "end": 2002.6,
+      "text": "we have an AI adoption plan."
+    },
+    {
+      "i": 470,
+      "start": 2002.6,
+      "end": 2004.6,
+      "text": "So we cannot speak for them."
+    },
+    {
+      "i": 471,
+      "start": 2004.6,
+      "end": 2006.6,
+      "text": "But we will, for sure, you know,"
+    },
+    {
+      "i": 472,
+      "start": 2006.6,
+      "end": 2008.6,
+      "text": "we can accommodate what they require."
+    },
+    {
+      "i": 473,
+      "start": 2008.6,
+      "end": 2010.6,
+      "text": "So whether they can scale fair or not,"
+    },
+    {
+      "i": 474,
+      "start": 2010.6,
+      "end": 2012.6,
+      "text": "which we don't have ideas."
+    },
+    {
+      "i": 475,
+      "start": 2012.6,
+      "end": 2018.6,
+      "text": "But what we can do is we get ready at the best price for that."
+    },
+    {
+      "i": 476,
+      "start": 2018.6,
+      "end": 2023.6,
+      "text": "Best TCO, leadership product for them."
+    },
+    {
+      "i": 477,
+      "start": 2023.6,
+      "end": 2025.6,
+      "text": "That's very clear."
+    },
+    {
+      "i": 478,
+      "start": 2025.6,
+      "end": 2026.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 479,
+      "start": 2026.6,
+      "end": 2029.6,
+      "text": "And my follow-up question is,"
+    },
+    {
+      "i": 480,
+      "start": 2030.6,
+      "end": 2034.6,
+      "text": "Carol mentioned Notebook will grow like iSingo did it"
+    },
+    {
+      "i": 481,
+      "start": 2034.6,
+      "end": 2037.6,
+      "text": "with in second quarter."
+    },
+    {
+      "i": 482,
+      "start": 2037.6,
+      "end": 2044.6,
+      "text": "And you also mentioned that the upper or AGX server will grow,"
+    },
+    {
+      "i": 483,
+      "start": 2044.6,
+      "end": 2047.6,
+      "text": "but probably at a slower rate versus GP,"
+    },
+    {
+      "i": 484,
+      "start": 2047.6,
+      "end": 2051.6,
+      "text": "which means AI server will accessory into second quarter."
+    },
+    {
+      "i": 485,
+      "start": 2051.6,
+      "end": 2057.6,
+      "text": "And with these two, that means probably we will see more than 10%"
+    },
+    {
+      "i": 486,
+      "start": 2057.6,
+      "end": 2059.6,
+      "text": "quote-on-quote revenue growth in second quarter."
+    },
+    {
+      "i": 487,
+      "start": 2059.6,
+      "end": 2060.6,
+      "text": "Is it?"
+    },
+    {
+      "i": 488,
+      "start": 2060.6,
+      "end": 2064.6,
+      "text": "I think it's a fair argument."
+    },
+    {
+      "i": 489,
+      "start": 2064.6,
+      "end": 2066.6,
+      "text": "And if that's the case,"
+    },
+    {
+      "i": 490,
+      "start": 2066.6,
+      "end": 2070.6,
+      "text": "second quarter can be easily like 55 billion."
+    },
+    {
+      "i": 491,
+      "start": 2070.6,
+      "end": 2073.6,
+      "text": "But April revenue is only 15 billion."
+    },
+    {
+      "i": 492,
+      "start": 2073.6,
+      "end": 2076.6,
+      "text": "So why there's a big show for it in April?"
+    },
+    {
+      "i": 493,
+      "start": 2076.6,
+      "end": 2078.6,
+      "text": "Is there a specific reason?"
+    },
+    {
+      "i": 494,
+      "start": 2078.6,
+      "end": 2082.6,
+      "text": "And we are expecting a huge jump in May and June."
+    },
+    {
+      "i": 495,
+      "start": 2082.6,
+      "end": 2083.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 496,
+      "start": 2090.6,
+      "end": 2091.6,
+      "text": "Thank you, Carol."
+    },
+    {
+      "i": 497,
+      "start": 2091.6,
+      "end": 2092.6,
+      "text": "Thank you for your question."
+    },
+    {
+      "i": 498,
+      "start": 2092.6,
+      "end": 2094.6,
+      "text": "I think it's a fair question."
+    },
+    {
+      "i": 499,
+      "start": 2094.6,
+      "end": 2096.6,
+      "text": "I think it's a fair question."
+    },
+    {
+      "i": 500,
+      "start": 2096.6,
+      "end": 2097.6,
+      "text": "It's a fair question."
+    },
+    {
+      "i": 501,
+      "start": 2097.6,
+      "end": 2098.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 502,
+      "start": 2098.6,
+      "end": 2099.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 503,
+      "start": 2099.6,
+      "end": 2100.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 504,
+      "start": 2100.6,
+      "end": 2101.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 505,
+      "start": 2101.6,
+      "end": 2102.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 506,
+      "start": 2102.6,
+      "end": 2103.6,
+      "text": "You know, Calder, again, thanks for your question."
+    },
+    {
+      "i": 507,
+      "start": 2103.6,
+      "end": 2104.6,
+      "text": "First of all, in our customer practice,"
+    },
+    {
+      "i": 508,
+      "start": 2104.6,
+      "end": 2105.6,
+      "text": "we don't talk about revenue growth rate."
+    },
+    {
+      "i": 509,
+      "start": 2105.6,
+      "end": 2106.6,
+      "text": "You know, what we can say is, you know,"
+    },
+    {
+      "i": 510,
+      "start": 2106.6,
+      "end": 2107.6,
+      "text": "we see the Notebook's growing better,"
+    },
+    {
+      "i": 511,
+      "start": 2107.6,
+      "end": 2108.6,
+      "text": "and high-hp server we're kicking in this quarter."
+    },
+    {
+      "i": 512,
+      "start": 2108.6,
+      "end": 2109.6,
+      "text": "You know, again, this is still an unknown swing factor"
+    },
+    {
+      "i": 513,
+      "start": 2109.6,
+      "end": 2110.6,
+      "text": "about how the customer is going to grow."
+    },
+    {
+      "i": 514,
+      "start": 2110.6,
+      "end": 2111.6,
+      "text": "Our first question is, you know,"
+    },
+    {
+      "i": 515,
+      "start": 2111.6,
+      "end": 2112.6,
+      "text": "in the first quarter,"
+    },
+    {
+      "i": 516,
+      "start": 2112.6,
+      "end": 2113.6,
+      "text": "what's the next step in this quarter?"
+    },
+    {
+      "i": 517,
+      "start": 2113.6,
+      "end": 2114.6,
+      "text": "You know, the first quarter,"
+    },
+    {
+      "i": 518,
+      "start": 2114.6,
+      "end": 2115.6,
+      "text": "we're talking about the second quarter,"
+    },
+    {
+      "i": 519,
+      "start": 2115.6,
+      "end": 2122.48,
+      "text": "Again, this is still a known swing factor about how the customer to allocate between"
+    },
+    {
+      "i": 520,
+      "start": 2122.48,
+      "end": 2129.36,
+      "text": "the high-speed and low-speed as well as the readiness of the chips from chip vendors."
+    },
+    {
+      "i": 521,
+      "start": 2129.36,
+      "end": 2135.54,
+      "text": "So, there's a swing factor over there."
+    },
+    {
+      "i": 522,
+      "start": 2145.6,
+      "end": 2152.6,
+      "text": "Hello, Alton."
+    },
+    {
+      "i": 523,
+      "start": 2152.6,
+      "end": 2155.6,
+      "text": "Alton?"
+    },
+    {
+      "i": 524,
+      "start": 2155.6,
+      "end": 2158.6,
+      "text": "Sherry?"
+    },
+    {
+      "i": 525,
+      "start": 2158.6,
+      "end": 2161.6,
+      "text": "Yes."
+    },
+    {
+      "i": 526,
+      "start": 2161.6,
+      "end": 2164.6,
+      "text": "Hi."
+    },
+    {
+      "i": 527,
+      "start": 2164.6,
+      "end": 2169.6,
+      "text": "Hi, Sherry."
+    },
+    {
+      "i": 528,
+      "start": 2169.6,
+      "end": 2172.6,
+      "text": "Hi, Alton."
+    },
+    {
+      "i": 529,
+      "start": 2172.6,
+      "end": 2174.6,
+      "text": "Sherry?"
+    },
+    {
+      "i": 530,
+      "start": 2174.6,
+      "end": 2175.6,
+      "text": "Yes."
+    },
+    {
+      "i": 531,
+      "start": 2175.6,
+      "end": 2176.6,
+      "text": "Hi, Alton."
+    },
+    {
+      "i": 532,
+      "start": 2176.6,
+      "end": 2179.6,
+      "text": "I think we lost you for a couple of seconds."
+    },
+    {
+      "i": 533,
+      "start": 2179.6,
+      "end": 2180.6,
+      "text": "Not really."
+    },
+    {
+      "i": 534,
+      "start": 2180.6,
+      "end": 2181.6,
+      "text": "Okay."
+    },
+    {
+      "i": 535,
+      "start": 2181.6,
+      "end": 2188.6,
+      "text": "Just to touch down about, you know, for the border, we don't provide a for the revenue"
+    },
+    {
+      "i": 536,
+      "start": 2188.6,
+      "end": 2192.6,
+      "text": "growth rate based on our customer ."
+    },
+    {
+      "i": 537,
+      "start": 2192.6,
+      "end": 2200.6,
+      "text": "But what we can say is we see the better notebook pulling from the customer for the border,"
+    },
+    {
+      "i": 538,
+      "start": 2200.6,
+      "end": 2204.6,
+      "text": "and we expecting witness the high-speed service."
+    },
+    {
+      "i": 539,
+      "start": 2204.6,
+      "end": 2206.6,
+      "text": "The high-speed server we're kicking in this quarter."
+    },
+    {
+      "i": 540,
+      "start": 2206.6,
+      "end": 2215.1,
+      "text": "Again, it's just to the readiness of the chip vendors and the customer plan to allocate"
+    },
+    {
+      "i": 541,
+      "start": 2215.1,
+      "end": 2218.6,
+      "text": "between the high-speed and low-speed service ."
+    },
+    {
+      "i": 542,
+      "start": 2218.6,
+      "end": 2219.6,
+      "text": "Okay."
+    },
+    {
+      "i": 543,
+      "start": 2219.6,
+      "end": 2224.6,
+      "text": "But we are looking for that and what the information we have now for the second quarter."
+    },
+    {
+      "i": 544,
+      "start": 2224.6,
+      "end": 2225.6,
+      "text": "Understood."
+    },
+    {
+      "i": 545,
+      "start": 2225.6,
+      "end": 2226.6,
+      "text": "That's very clear."
+    },
+    {
+      "i": 546,
+      "start": 2226.6,
+      "end": 2227.6,
+      "text": "Thank you, Alton."
+    },
+    {
+      "i": 547,
+      "start": 2227.6,
+      "end": 2228.6,
+      "text": "I'll go back to Q."
+    },
+    {
+      "i": 548,
+      "start": 2228.6,
+      "end": 2229.6,
+      "text": "Thank you, Alton."
+    },
+    {
+      "i": 549,
+      "start": 2229.6,
+      "end": 2230.6,
+      "text": "Thank you, Sherry."
+    },
+    {
+      "i": 550,
+      "start": 2230.6,
+      "end": 2231.6,
+      "text": "Thank you, Alton."
+    },
+    {
+      "i": 551,
+      "start": 2231.6,
+      "end": 2232.6,
+      "text": "Thank you, Sherry."
+    },
+    {
+      "i": 552,
+      "start": 2232.6,
+      "end": 2233.6,
+      "text": "Thank you, Alton."
+    },
+    {
+      "i": 553,
+      "start": 2234.6,
+      "end": 2235.6,
+      "text": "Thank you, Albert."
+    },
+    {
+      "i": 554,
+      "start": 2235.6,
+      "end": 2237.6,
+      "text": "Next question will be coming from Sky."
+    },
+    {
+      "i": 555,
+      "start": 2237.6,
+      "end": 2239.6,
+      "text": "Sky, please go ahead."
+    },
+    {
+      "i": 556,
+      "start": 2239.6,
+      "end": 2243.6,
+      "text": "Thank you to take my question."
+    },
+    {
+      "i": 557,
+      "start": 2243.6,
+      "end": 2250.0,
+      "text": "I just want to know that many world-class automaker and the companies are collaborating"
+    },
+    {
+      "i": 558,
+      "start": 2250.0,
+      "end": 2252.6,
+      "text": "with the Earth on automotive projects."
+    },
+    {
+      "i": 559,
+      "start": 2252.6,
+      "end": 2259.6,
+      "text": "Science is typically take three to five years to go from project initiate to mass production."
+    },
+    {
+      "i": 560,
+      "start": 2259.6,
+      "end": 2263.6,
+      "text": "I'd like to ask, is there a chance that our automotive industry will be able to do"
+    },
+    {
+      "i": 561,
+      "start": 2263.6,
+      "end": 2264.6,
+      "text": "that?"
+    },
+    {
+      "i": 562,
+      "start": 2264.6,
+      "end": 2271.6,
+      "text": "And our automotive business could reach to trillion dollars labor in three to five years"
+    },
+    {
+      "i": 563,
+      "start": 2271.6,
+      "end": 2272.6,
+      "text": "later?"
+    },
+    {
+      "i": 564,
+      "start": 2272.6,
+      "end": 2281.6,
+      "text": "It's kind of a touchdown in the prepared ."
+    },
+    {
+      "i": 565,
+      "start": 2281.6,
+      "end": 2292.6,
+      "text": "The EV business probably facing some sort of hiccups in this year due to the microeconomics"
+    },
+    {
+      "i": 566,
+      "start": 2292.6,
+      "end": 2296.6,
+      "text": "due to the issues, due to the inflation issues."
+    },
+    {
+      "i": 567,
+      "start": 2296.6,
+      "end": 2308.1,
+      "text": "So, that's why we are mentioning we change our strategy to migrate from the low-ASG product"
+    },
+    {
+      "i": 568,
+      "start": 2308.1,
+      "end": 2309.6,
+      "text": "to high-valued , okay."
+    },
+    {
+      "i": 569,
+      "start": 2309.6,
+      "end": 2313.6,
+      "text": "And we'll keep expecting the revenue growth for this year, okay."
+    },
+    {
+      "i": 570,
+      "start": 2313.6,
+      "end": 2316.6,
+      "text": "But we still high-expecting."
+    },
+    {
+      "i": 571,
+      "start": 2316.6,
+      "end": 2319.6,
+      "text": "We still are excited about this opportunity."
+    },
+    {
+      "i": 572,
+      "start": 2319.6,
+      "end": 2320.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 573,
+      "start": 2320.6,
+      "end": 2321.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 574,
+      "start": 2321.6,
+      "end": 2322.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 575,
+      "start": 2322.6,
+      "end": 2323.6,
+      "text": "Next slide, please."
+    },
+    {
+      "i": 576,
+      "start": 2323.6,
+      "end": 2324.6,
+      "text": "And these are just two anything about the work system that we going through."
+    },
+    {
+      "i": 577,
+      "start": 2324.6,
+      "end": 2329.96,
+      "text": "One is the"
+    },
+    {
+      "i": 578,
+      "start": 2329.96,
+      "end": 2334.7999999999997,
+      "text": "we did coughing trial."
+    },
+    {
+      "i": 579,
+      "start": 2334.7999999999997,
+      "end": 2336.08,
+      "text": "One is"
+    },
+    {
+      "i": 580,
+      "start": 2336.08,
+      "end": 2340.16,
+      "text": "wearableako"
+    },
+    {
+      "i": 581,
+      "start": 2340.16,
+      "end": 2348.6,
+      "text": "No exposure in 21 months only."
+    },
+    {
+      "i": 582,
+      "start": 2348.6,
+      "end": 2349.3199999999997,
+      "text": "No anyик"
+    },
+    {
+      "i": 583,
+      "start": 2351.6,
+      "end": 2356.7599999999998,
+      "text": "Thank you, Alton, for the comments."
+    },
+    {
+      "i": 584,
+      "start": 2356.7599999999998,
+      "end": 2360.36,
+      "text": "We will move on to the next question from Randy."
+    },
+    {
+      "i": 585,
+      "start": 2360.36,
+      "end": 2362.36,
+      "text": "Randy, please go ahead."
+    },
+    {
+      "i": 586,
+      "start": 2362.36,
+      "end": 2364.36,
+      "text": "Yeah, no, thank you."
+    },
+    {
+      "i": 587,
+      "start": 2364.36,
+      "end": 2371.52,
+      "text": "My follow-up question, you mentioned some of the IASP server is subject to the chip"
+    },
+    {
+      "i": 588,
+      "start": 2371.52,
+      "end": 2374.22,
+      "text": "reliability, availability."
+    },
+    {
+      "i": 589,
+      "start": 2374.22,
+      "end": 2376.22,
+      "text": "Could you discuss more on the hardware?"
+    },
+    {
+      "i": 590,
+      "start": 2376.22,
+      "end": 2383.16,
+      "text": "I mean, there's been comments about yield ramp for the past few months."
+    },
+    {
+      "i": 591,
+      "start": 2383.16,
+      "end": 2388.74,
+      "text": "But if you could talk about what you're seeing from the ability to manufacture and improve"
+    },
+    {
+      "i": 592,
+      "start": 2388.74,
+      "end": 2393.3599999999997,
+      "text": "yields, how smoothly you see that ramp up."
+    },
+    {
+      "i": 593,
+      "start": 2393.3599999999997,
+      "end": 2401.62,
+      "text": "And as we go toward GB300, originally there was optimism at GTC about some of the design"
+    },
+    {
+      "i": 594,
+      "start": 2401.62,
+      "end": 2404.12,
+      "text": "changes on the new architecture."
+    },
+    {
+      "i": 595,
+      "start": 2404.12,
+      "end": 2406.2,
+      "text": "But it looks like we'll keep with Bianca."
+    },
+    {
+      "i": 596,
+      "start": 2406.2,
+      "end": 2414.3399999999997,
+      "text": "So, how you're seeing the transition to GB300 if that ramps up, say, later third quarter"
+    },
+    {
+      "i": 597,
+      "start": 2414.3399999999997,
+      "end": 2415.3399999999997,
+      "text": "or fourth quarter?"
+    },
+    {
+      "i": 598,
+      "start": 2415.3399999999997,
+      "end": 2420.3399999999997,
+      "text": "First of all, we don't comment about the rumor."
+    },
+    {
+      "i": 599,
+      "start": 2420.3399999999997,
+      "end": 2424.3399999999997,
+      "text": "Second, if there's a hold-to, we are more than happy."
+    },
+    {
+      "i": 600,
+      "start": 2424.3399999999997,
+      "end": 2429.3399999999997,
+      "text": "It's easier for the ramping schedule and improve the yield rates."
+    },
+    {
+      "i": 601,
+      "start": 2429.3399999999997,
+      "end": 2433.14,
+      "text": "But again, we don't speak for our vendors."
+    },
+    {
+      "i": 602,
+      "start": 2433.14,
+      "end": 2434.14,
+      "text": "But what we understand is that we are not going to have the same yield."
+    },
+    {
+      "i": 603,
+      "start": 2434.14,
+      "end": 2435.14,
+      "text": "We are going to have the same yield."
+    },
+    {
+      "i": 604,
+      "start": 2435.14,
+      "end": 2436.14,
+      "text": "So, we are going to have the same yield."
+    },
+    {
+      "i": 605,
+      "start": 2436.14,
+      "end": 2437.14,
+      "text": "So, we are going to have the same yield."
+    },
+    {
+      "i": 606,
+      "start": 2437.14,
+      "end": 2438.14,
+      "text": "Most of the key issue has been solved for the GB200."
+    },
+    {
+      "i": 607,
+      "start": 2438.14,
+      "end": 2439.14,
+      "text": "But what will happen will change the migration plan?"
+    },
+    {
+      "i": 608,
+      "start": 2439.14,
+      "end": 2440.14,
+      "text": "We don't know."
+    },
+    {
+      "i": 609,
+      "start": 2440.14,
+      "end": 2443.14,
+      "text": "But as I mentioned, customers have their own adoption plan and they will ever change it."
+    },
+    {
+      "i": 610,
+      "start": 2443.14,
+      "end": 2444.14,
+      "text": "So, we have some always have flexibility to meet the customers' requirements."
+    },
+    {
+      "i": 611,
+      "start": 2444.14,
+      "end": 2445.14,
+      "text": "Okay."
+    },
+    {
+      "i": 612,
+      "start": 2445.14,
+      "end": 2446.14,
+      "text": "Great."
+    },
+    {
+      "i": 613,
+      "start": 2446.14,
+      "end": 2447.14,
+      "text": "That's clear."
+    },
+    {
+      "i": 614,
+      "start": 2447.14,
+      "end": 2448.14,
+      "text": "Okay."
+    },
+    {
+      "i": 615,
+      "start": 2448.14,
+      "end": 2449.14,
+      "text": "And I wanted to ask a follow-up on margins."
+    },
+    {
+      "i": 616,
+      "start": 2449.14,
+      "end": 2450.14,
+      "text": "I know you can't guide experts."
+    },
+    {
+      "i": 617,
+      "start": 2450.14,
+      "end": 2451.14,
+      "text": "But what you can tell us is that you have some very good information."
+    },
+    {
+      "i": 618,
+      "start": 2451.14,
+      "end": 2452.14,
+      "text": "And what is the best way to get to know the customers?"
+    },
+    {
+      "i": 619,
+      "start": 2452.14,
+      "end": 2453.14,
+      "text": "And what are the most important things you can tell us about, especially in terms of"
+    },
+    {
+      "i": 620,
+      "start": 2453.14,
+      "end": 2454.14,
+      "text": "the market?"
+    },
+    {
+      "i": 621,
+      "start": 2454.14,
+      "end": 2455.14,
+      "text": "So, the most important thing is that you have to be able to get the right information"
+    },
+    {
+      "i": 622,
+      "start": 2455.14,
+      "end": 2456.14,
+      "text": "and the right information."
+    },
+    {
+      "i": 623,
+      "start": 2456.14,
+      "end": 2463.14,
+      "text": "So, I know that a lot of Q&As are happening at this point in life, but perhaps it will"
+    },
+    {
+      "i": 624,
+      "start": 2463.14,
+      "end": 2473.96,
+      "text": "seem like you're planning to do longer or"
+    },
+    {
+      "i": 625,
+      "start": 2473.96,
+      "end": 2476.06,
+      "text": "more ambitious недpower."
+    },
+    {
+      "i": 626,
+      "start": 2476.06,
+      "end": 2479.7599999999998,
+      "text": "I'm wondering if that's something you're making such an effort to start with."
+    },
+    {
+      "i": 627,
+      "start": 2479.7599999999998,
+      "end": 2480.7599999999998,
+      "text": "Okay."
+    },
+    {
+      "i": 628,
+      "start": 2480.7599999999998,
+      "end": 2481.3799999999997,
+      "text": "So, we do tend to be really simple."
+    },
+    {
+      "i": 629,
+      "start": 2481.3799999999997,
+      "end": 2485.74,
+      "text": "We just give more along with it, and that can go really very real quick."
+    },
+    {
+      "i": 630,
+      "start": 2485.74,
+      "end": 2486.12,
+      "text": "Okay."
+    },
+    {
+      "i": 631,
+      "start": 2486.14,
+      "end": 2492.8399999999997,
+      "text": "operating margin, even though gross margin comes down, you can, with the scale up, maintain"
+    },
+    {
+      "i": 632,
+      "start": 2492.8399999999997,
+      "end": 2493.8399999999997,
+      "text": "that."
+    },
+    {
+      "i": 633,
+      "start": 2493.8399999999997,
+      "end": 2497.08,
+      "text": "And, sorry, the second part, one, a task for SX."
+    },
+    {
+      "i": 634,
+      "start": 2497.08,
+      "end": 2505.18,
+      "text": "Is there a sensitivity on revenue and cost from that NT dollar recent appreciation?"
+    },
+    {
+      "i": 635,
+      "start": 2505.18,
+      "end": 2511.56,
+      "text": "How much, if that would have any impact, or that's kind of a natural hedge to the gross"
+    },
+    {
+      "i": 636,
+      "start": 2511.56,
+      "end": 2513.56,
+      "text": "and operating margin?"
+    },
+    {
+      "i": 637,
+      "start": 2513.56,
+      "end": 2516.7999999999997,
+      "text": "Okay, thanks Randy."
+    },
+    {
+      "i": 638,
+      "start": 2516.7999999999997,
+      "end": 2521.74,
+      "text": "For your first question about our OP margin, you know, maybe I'm a political, because every"
+    },
+    {
+      "i": 639,
+      "start": 2521.74,
+      "end": 2523.74,
+      "text": "quarter has different product mix."
+    },
+    {
+      "i": 640,
+      "start": 2523.74,
+      "end": 2526.08,
+      "text": "So there are different libraries."
+    },
+    {
+      "i": 641,
+      "start": 2526.08,
+      "end": 2528.06,
+      "text": "So I'll bring maybe up and down."
+    },
+    {
+      "i": 642,
+      "start": 2528.06,
+      "end": 2535.7799999999997,
+      "text": "But for the overall OP expenses, we are managed to make sure the gross of the OP expenses,"
+    },
+    {
+      "i": 643,
+      "start": 2535.7799999999997,
+      "end": 2540.06,
+      "text": "the gross rate is below our sales gross rate."
+    },
+    {
+      "i": 644,
+      "start": 2540.06,
+      "end": 2543.54,
+      "text": "Secondly, it probably, slightly higher."
+    },
+    {
+      "i": 645,
+      "start": 2543.54,
+      "end": 2547.98,
+      "text": "But above, of next year, total about 49 billion ."
+    },
+    {
+      "i": 646,
+      "start": 2547.98,
+      "end": 2548.98,
+      "text": "Okay."
+    },
+    {
+      "i": 647,
+      "start": 2548.98,
+      "end": 2551.42,
+      "text": "So that's an up and down."
+    },
+    {
+      "i": 648,
+      "start": 2551.42,
+      "end": 2558.04,
+      "text": "In the second quarter, we still need to put more effort to ready for the GB300."
+    },
+    {
+      "i": 649,
+      "start": 2558.04,
+      "end": 2565.32,
+      "text": "So we're expecting the other expenses will be raised as well."
+    },
+    {
+      "i": 650,
+      "start": 2565.32,
+      "end": 2571.88,
+      "text": "So more than for conservative SX, we're still willing to say that some of the pressure for"
+    },
+    {
+      "i": 651,
+      "start": 2571.88,
+      "end": 2572.72,
+      "text": "the OP margins in the second quarter."
+    },
+    {
+      "i": 652,
+      "start": 2572.72,
+      "end": 2573.52,
+      "text": "Okay."
+    },
+    {
+      "i": 653,
+      "start": 2573.54,
+      "end": 2574.54,
+      "text": "So we're expecting that some of the pressure will be raised in the second quarter, even"
+    },
+    {
+      "i": 654,
+      "start": 2574.54,
+      "end": 2575.54,
+      "text": "though they have a leverage for our top line."
+    },
+    {
+      "i": 655,
+      "start": 2575.54,
+      "end": 2580.54,
+      "text": "For the second part of your question about SX, you know, I also would love to have some"
+    },
+    {
+      "i": 656,
+      "start": 2580.54,
+      "end": 2589.54,
+      "text": "magic to come up with linear forecast, so how many percentage of NDD appreciated, then"
+    },
+    {
+      "i": 657,
+      "start": 2589.54,
+      "end": 2594.54,
+      "text": "we'll come up how many percentage impact our margins."
+    },
+    {
+      "i": 658,
+      "start": 2594.54,
+      "end": 2596.98,
+      "text": "But basically, it's run by different way of run."
+    },
+    {
+      "i": 659,
+      "start": 2596.98,
+      "end": 2597.98,
+      "text": "Okay."
+    },
+    {
+      "i": 660,
+      "start": 2597.98,
+      "end": 2600.98,
+      "text": "So there's a lot of swing factor among that."
+    },
+    {
+      "i": 661,
+      "start": 2600.98,
+      "end": 2601.98,
+      "text": "So that's what I mentioned."
+    },
+    {
+      "i": 662,
+      "start": 2601.98,
+      "end": 2602.98,
+      "text": "You know, we're going to have to do some more work."
+    },
+    {
+      "i": 663,
+      "start": 2602.98,
+      "end": 2607.98,
+      "text": "But first, you know, we have natural hedge, RANDAP."
+    },
+    {
+      "i": 664,
+      "start": 2607.98,
+      "end": 2612.98,
+      "text": "Secondly, we have a dynamic hedge mechanism."
+    },
+    {
+      "i": 665,
+      "start": 2612.98,
+      "end": 2616.98,
+      "text": "We don't live in a naked position."
+    },
+    {
+      "i": 666,
+      "start": 2616.98,
+      "end": 2619.98,
+      "text": "We will always margin on daily basis."
+    },
+    {
+      "i": 667,
+      "start": 2619.98,
+      "end": 2621.98,
+      "text": "So we hopefully, we can measure well."
+    },
+    {
+      "i": 668,
+      "start": 2621.98,
+      "end": 2627.98,
+      "text": "But you know, the three is very big, anyhow, we still see kind of measurable and controllable,"
+    },
+    {
+      "i": 669,
+      "start": 2627.98,
+      "end": 2631.98,
+      "text": "you know, based on our regular basis of the hedging activities."
+    },
+    {
+      "i": 670,
+      "start": 2631.98,
+      "end": 2632.98,
+      "text": "Okay."
+    },
+    {
+      "i": 671,
+      "start": 2632.98,
+      "end": 2636.98,
+      "text": "Okay, great. Thanks a lot."
+    },
+    {
+      "i": 672,
+      "start": 2636.98,
+      "end": 2640.98,
+      "text": "Thank you, Randy."
+    },
+    {
+      "i": 673,
+      "start": 2640.98,
+      "end": 2644.98,
+      "text": "Thank you. Our next question comes from Kayling. Kayling, please go ahead."
+    },
+    {
+      "i": 674,
+      "start": 2644.98,
+      "end": 2656.48,
+      "text": "Yes, thank you for taking my question. I'm asking on the margin side. For OPM, I think"
+    },
+    {
+      "i": 675,
+      "start": 2656.48,
+      "end": 2665.64,
+      "text": "we mentioned that in 2Q, our R&D expense could increase on GB200 RAM. Does that mean our"
+    },
+    {
+      "i": 676,
+      "start": 2665.64,
+      "end": 2672.1,
+      "text": "second quarter OPM will also have pressure quarter on quarter, a little bit of gross"
+    },
+    {
+      "i": 677,
+      "start": 2672.1,
+      "end": 2675.48,
+      "text": "margin pressure because of product mix?"
+    },
+    {
+      "i": 678,
+      "start": 2675.48,
+      "end": 2681.94,
+      "text": "Yeah, I just touched on that. Yes."
+    },
+    {
+      "i": 679,
+      "start": 2681.94,
+      "end": 2686.46,
+      "text": "And on the overall long-term view, when high AST, AST-B, AST-B, AST-B, AST-B, AST-B, AST-B,"
+    },
+    {
+      "i": 680,
+      "start": 2686.46,
+      "end": 2692.08,
+      "text": "and other servers like GB200 reach a certain scale, and we also have certain experience"
+    },
+    {
+      "i": 681,
+      "start": 2692.08,
+      "end": 2703.7,
+      "text": "ramping that, would you say those AI servers' OPM is higher or lower than current OPM level?"
+    },
+    {
+      "i": 682,
+      "start": 2703.7,
+      "end": 2712.86,
+      "text": "This is a dynamic industry. We'll keep the next generation of the new CPU in the market."
+    },
+    {
+      "i": 683,
+      "start": 2712.86,
+      "end": 2715.86,
+      "text": "So we'll keep the new R&D expenses. To measure quanta, we'll keep the new CPU in the market."
+    },
+    {
+      "i": 684,
+      "start": 2715.86,
+      "end": 2716.36,
+      "text": "So we'll keep the new R&D expenses. To measure quanta, we'll keep the new CPU in the market."
+    },
+    {
+      "i": 685,
+      "start": 2716.36,
+      "end": 2716.44,
+      "text": "To measure quanta, we'll keep the new CPU in the market. So we'll keep the new CPU in the market."
+    },
+    {
+      "i": 686,
+      "start": 2716.44,
+      "end": 2717.5,
+      "text": "And this year we will, we'll keep the new CPU in the market."
+    },
+    {
+      "i": 687,
+      "start": 2717.5,
+      "end": 2717.7400000000002,
+      "text": "And this year we'll keep the new CPU in the market."
+    },
+    {
+      "i": 688,
+      "start": 2717.7400000000002,
+      "end": 2718.08,
+      "text": "And this year we will, we'll keep the new CPU in the market."
+    },
+    {
+      "i": 689,
+      "start": 2718.08,
+      "end": 2721.34,
+      "text": "So we are, we're just ahead of competitors to come out, set out a product."
+    },
+    {
+      "i": 690,
+      "start": 2721.34,
+      "end": 2727.7200000000003,
+      "text": "And just what I mentioned, we more or less, we more likely to provide the guidance"
+    },
+    {
+      "i": 691,
+      "start": 2727.7200000000003,
+      "end": 2733.78,
+      "text": "of overall OPM expenses for the full year, space it, for your modeling, for your forecast."
+    },
+    {
+      "i": 692,
+      "start": 2733.78,
+      "end": 2735.48,
+      "text": "So what I'm saying next year, we're putting 49 billion cents into overall tax."
+    },
+    {
+      "i": 693,
+      "start": 2735.48,
+      "end": 2738.44,
+      "text": "So what I'm saying next year, we're putting 49 billion cents into overall tax."
+    },
+    {
+      "i": 694,
+      "start": 2738.44,
+      "end": 2744.2200000000003,
+      "text": "And this year probably, you know, ahead of now, you know, the, the 49 billion."
+    },
+    {
+      "i": 695,
+      "start": 2744.2200000000003,
+      "end": 2746.34,
+      "text": "But, again, our goal is the mass property market, not the other way around."
+    },
+    {
+      "i": 696,
+      "start": 2746.34,
+      "end": 2754.1800000000003,
+      "text": "is to make sure our revenue growth rate is below our revenue growth rate."
+    },
+    {
+      "i": 697,
+      "start": 2754.1800000000003,
+      "end": 2755.4,
+      "text": "There's an overall goal."
+    },
+    {
+      "i": 698,
+      "start": 2755.82,
+      "end": 2760.88,
+      "text": "The next goal is to increase absolute margin dollar."
+    },
+    {
+      "i": 699,
+      "start": 2761.78,
+      "end": 2765.1200000000003,
+      "text": "The product mix can change from time to time,"
+    },
+    {
+      "i": 700,
+      "start": 2765.7200000000003,
+      "end": 2770.76,
+      "text": "and subject to the product mix and subject to the new product revenue out."
+    },
+    {
+      "i": 701,
+      "start": 2771.3,
+      "end": 2774.6000000000004,
+      "text": "So there's a lot of variability about the open margins."
+    },
+    {
+      "i": 702,
+      "start": 2774.6,
+      "end": 2779.92,
+      "text": "So I'll probably give you another dimension for you to model in your forecast."
+    },
+    {
+      "i": 703,
+      "start": 2781.94,
+      "end": 2783.1,
+      "text": "Okay, thank you."
+    },
+    {
+      "i": 704,
+      "start": 2783.22,
+      "end": 2787.16,
+      "text": "Just a quick follow-up on the previous question about GB200 assembly yield."
+    },
+    {
+      "i": 705,
+      "start": 2787.98,
+      "end": 2791.16,
+      "text": "Are we seeing any issues with that,"
+    },
+    {
+      "i": 706,
+      "start": 2791.2599999999998,
+      "end": 2796.7799999999997,
+      "text": "or is it mainly the chip supply issue that we are seeing to ramp GB200?"
+    },
+    {
+      "i": 707,
+      "start": 2798.38,
+      "end": 2799.66,
+      "text": "Thanks for your question."
+    },
+    {
+      "i": 708,
+      "start": 2799.7599999999998,
+      "end": 2802.54,
+      "text": "I don't want to comment about what the vendor's performance."
+    },
+    {
+      "i": 709,
+      "start": 2802.54,
+      "end": 2803.36,
+      "text": "Okay."
+    },
+    {
+      "i": 710,
+      "start": 2803.7799999999997,
+      "end": 2804.54,
+      "text": "What we're seeing,"
+    },
+    {
+      "i": 711,
+      "start": 2804.6,
+      "end": 2807.8399999999997,
+      "text": "the key about it is what the amount and the timing."
+    },
+    {
+      "i": 712,
+      "start": 2808.7,
+      "end": 2811.42,
+      "text": "Our customer, we don't buy directly from the chip vendor."
+    },
+    {
+      "i": 713,
+      "start": 2811.6,
+      "end": 2813.02,
+      "text": "We buy from our customers."
+    },
+    {
+      "i": 714,
+      "start": 2813.54,
+      "end": 2816.54,
+      "text": "The customer gives us a schedule, and we discuss what the schedule."
+    },
+    {
+      "i": 715,
+      "start": 2816.96,
+      "end": 2817.66,
+      "text": "That's what I mentioned."
+    },
+    {
+      "i": 716,
+      "start": 2817.9,
+      "end": 2820.7799999999997,
+      "text": "We are not others, a model maker."
+    },
+    {
+      "i": 717,
+      "start": 2821.4,
+      "end": 2823.14,
+      "text": "Their customer is a chip maker."
+    },
+    {
+      "i": 718,
+      "start": 2823.62,
+      "end": 2828.72,
+      "text": "Our customer, we buy from, based on the buy-sell model, we buy from CSP."
+    },
+    {
+      "i": 719,
+      "start": 2828.72,
+      "end": 2833.88,
+      "text": "So the key thing for us is how to discuss what the timing, the quantity,"
+    },
+    {
+      "i": 720,
+      "start": 2833.88,
+      "end": 2836.6400000000003,
+      "text": "they can provide, and what to allocate,"
+    },
+    {
+      "i": 721,
+      "start": 2836.6400000000003,
+      "end": 2847.12,
+      "text": "how resources allocate our product among the H200 or GB200 or GB300."
+    },
+    {
+      "i": 722,
+      "start": 2847.12,
+      "end": 2849.12,
+      "text": "So it's a totally different dynamic."
+    },
+    {
+      "i": 723,
+      "start": 2849.12,
+      "end": 2857.2400000000002,
+      "text": "When you talk about the vendors, we are facing about the CSP instead of the chip makers."
+    },
+    {
+      "i": 724,
+      "start": 2859.2400000000002,
+      "end": 2860.02,
+      "text": "I see."
+    },
+    {
+      "i": 725,
+      "start": 2860.12,
+      "end": 2860.48,
+      "text": "Thank you."
+    },
+    {
+      "i": 726,
+      "start": 2860.56,
+      "end": 2861.58,
+      "text": "I'll get back to the queue."
+    },
+    {
+      "i": 727,
+      "start": 2861.58,
+      "end": 2863.58,
+      "text": "Thank you."
+    },
+    {
+      "i": 728,
+      "start": 2863.88,
+      "end": 2864.48,
+      "text": "Thank you."
+    },
+    {
+      "i": 729,
+      "start": 2864.48,
+      "end": 2871.44,
+      "text": "Due to time constraint, our last question will be coming from Kevin."
+    },
+    {
+      "i": 730,
+      "start": 2871.44,
+      "end": 2873.1400000000003,
+      "text": "Kevin, please go ahead."
+    },
+    {
+      "i": 731,
+      "start": 2875.1400000000003,
+      "end": 2880.1800000000003,
+      "text": "Yeah. Thank you for accepting my question and congratulate on the outstanding quarter."
+    },
+    {
+      "i": 732,
+      "start": 2880.6400000000003,
+      "end": 2882.84,
+      "text": "And my first question is about the visibility."
+    },
+    {
+      "i": 733,
+      "start": 2883.1,
+      "end": 2886.88,
+      "text": "As you have already mentioned, the visibility for like MBPC"
+    },
+    {
+      "i": 734,
+      "start": 2886.88,
+      "end": 2890.6,
+      "text": "for those consumer products remain very limited for a second time."
+    },
+    {
+      "i": 735,
+      "start": 2891.04,
+      "end": 2893.88,
+      "text": "And I want to ask about what is your visibility?"
+    },
+    {
+      "i": 736,
+      "start": 2894.48,
+      "end": 2903.1400000000003,
+      "text": "What is the order visibility of your server, especially for AI, high SP or low SP server business for the second half?"
+    },
+    {
+      "i": 737,
+      "start": 2903.6400000000003,
+      "end": 2908.44,
+      "text": "And what do you think the future will be for this industry?"
+    },
+    {
+      "i": 738,
+      "start": 2908.44,
+      "end": 2913.2000000000003,
+      "text": "Like it has been a very strong growth during the past year in 2025."
+    },
+    {
+      "i": 739,
+      "start": 2913.2000000000003,
+      "end": 2916.6800000000003,
+      "text": "Do you think the momentum will remain for a year to come?"
+    },
+    {
+      "i": 740,
+      "start": 2917.38,
+      "end": 2918.38,
+      "text": "That's my first question."
+    },
+    {
+      "i": 741,
+      "start": 2920.46,
+      "end": 2923.38,
+      "text": "First fully, definitely the visibility is getting better."
+    },
+    {
+      "i": 742,
+      "start": 2923.88,
+      "end": 2925.7000000000003,
+      "text": "That's why we're kicking in this quarter."
+    },
+    {
+      "i": 743,
+      "start": 2926.32,
+      "end": 2932.44,
+      "text": "And again, on war, still subject to the availability for the chip makers."
+    },
+    {
+      "i": 744,
+      "start": 2932.98,
+      "end": 2941.44,
+      "text": "And whether for the work outlook for the 2026, actually all the CSPs and earnings already tell you."
+    },
+    {
+      "i": 745,
+      "start": 2942.26,
+      "end": 2944.48,
+      "text": "They are keep their investment."
+    },
+    {
+      "i": 746,
+      "start": 2944.92,
+      "end": 2946.12,
+      "text": "They keep a lot of cap backs."
+    },
+    {
+      "i": 747,
+      "start": 2946.6,
+      "end": 2951.5,
+      "text": "And they are also looking forward to the keep a growth rate for the 2026."
+    },
+    {
+      "i": 748,
+      "start": 2951.96,
+      "end": 2953.86,
+      "text": "Maybe growth rate is low."
+    },
+    {
+      "i": 749,
+      "start": 2953.88,
+      "end": 2957.06,
+      "text": "But the 2026 still keep growing."
+    },
+    {
+      "i": 750,
+      "start": 2957.54,
+      "end": 2962.5,
+      "text": "That's why I keep talking, you know, the demand there, the demand impact."
+    },
+    {
+      "i": 751,
+      "start": 2963.08,
+      "end": 2967.06,
+      "text": "But subject to what availability about the chips."
+    },
+    {
+      "i": 752,
+      "start": 2968.02,
+      "end": 2968.94,
+      "text": "They will come up."
+    },
+    {
+      "i": 753,
+      "start": 2968.94,
+      "end": 2973.7000000000003,
+      "text": "What's the customer will decide what to allocate the product."
+    },
+    {
+      "i": 754,
+      "start": 2973.7000000000003,
+      "end": 2977.76,
+      "text": "Because they keep want to keep to provide AI service."
+    },
+    {
+      "i": 755,
+      "start": 2978.0,
+      "end": 2982.02,
+      "text": "They want to keep deploy the low value of the data center."
+    },
+    {
+      "i": 756,
+      "start": 2982.02,
+      "end": 2983.26,
+      "text": "They don't hold the pace."
+    },
+    {
+      "i": 757,
+      "start": 2983.26,
+      "end": 2983.36,
+      "text": "Okay."
+    },
+    {
+      "i": 758,
+      "start": 2983.36,
+      "end": 2983.44,
+      "text": "Okay."
+    },
+    {
+      "i": 759,
+      "start": 2983.44,
+      "end": 2983.5,
+      "text": "Okay."
+    },
+    {
+      "i": 760,
+      "start": 2983.5,
+      "end": 2983.6,
+      "text": "Okay."
+    },
+    {
+      "i": 761,
+      "start": 2983.6,
+      "end": 2983.7000000000003,
+      "text": "Okay."
+    },
+    {
+      "i": 762,
+      "start": 2983.7000000000003,
+      "end": 2983.84,
+      "text": "Okay."
+    },
+    {
+      "i": 763,
+      "start": 2983.88,
+      "end": 2983.94,
+      "text": "Okay."
+    },
+    {
+      "i": 764,
+      "start": 2985.38,
+      "end": 2985.98,
+      "text": "Yeah."
+    },
+    {
+      "i": 765,
+      "start": 2986.2400000000002,
+      "end": 2986.62,
+      "text": "Understood."
+    },
+    {
+      "i": 766,
+      "start": 2986.84,
+      "end": 2992.94,
+      "text": "So can we assume that we have full visibility for server business for like second half this year?"
+    },
+    {
+      "i": 767,
+      "start": 2996.48,
+      "end": 2997.84,
+      "text": "We're talking for that."
+    },
+    {
+      "i": 768,
+      "start": 2998.42,
+      "end": 2999.4,
+      "text": "We're looking for that."
+    },
+    {
+      "i": 769,
+      "start": 2999.56,
+      "end": 3000.12,
+      "text": "We're looking for that."
+    },
+    {
+      "i": 770,
+      "start": 3001.02,
+      "end": 3001.6,
+      "text": "Yeah."
+    },
+    {
+      "i": 771,
+      "start": 3002.1600000000003,
+      "end": 3002.42,
+      "text": "Okay."
+    },
+    {
+      "i": 772,
+      "start": 3002.54,
+      "end": 3002.86,
+      "text": "Understood."
+    },
+    {
+      "i": 773,
+      "start": 3003.08,
+      "end": 3006.42,
+      "text": "And my final follow-up is about the automotive business."
+    },
+    {
+      "i": 774,
+      "start": 3006.6400000000003,
+      "end": 3013.1,
+      "text": "As you already mentioned, it still will be our momentum for like the next year to go."
+    },
+    {
+      "i": 775,
+      "start": 3013.1,
+      "end": 3013.7000000000003,
+      "text": "So, yeah."
+    },
+    {
+      "i": 776,
+      "start": 3013.7,
+      "end": 3022.4199999999996,
+      "text": "I just want to understand the like percentage contribution we are expecting for the auto business for years to come."
+    },
+    {
+      "i": 777,
+      "start": 3022.4199999999996,
+      "end": 3026.56,
+      "text": "Because we have mentioned that maybe like high single, maybe reach double digit."
+    },
+    {
+      "i": 778,
+      "start": 3026.9399999999996,
+      "end": 3027.12,
+      "text": "Yeah."
+    },
+    {
+      "i": 779,
+      "start": 3027.12,
+      "end": 3032.4399999999996,
+      "text": "But we all see that the growth momentum for the highest server is very strong."
+    },
+    {
+      "i": 780,
+      "start": 3032.7999999999997,
+      "end": 3035.1,
+      "text": "The percentage wise, they seem to be diluted."
+    },
+    {
+      "i": 781,
+      "start": 3035.3399999999997,
+      "end": 3040.2599999999998,
+      "text": "Any new comments on this percentage contribution for the years to come for auto business?"
+    },
+    {
+      "i": 782,
+      "start": 3040.2599999999998,
+      "end": 3043.1,
+      "text": "Again, you still, you still, you still."
+    },
+    {
+      "i": 783,
+      "start": 3043.1,
+      "end": 3046.0,
+      "text": "It's still single digit for the, for the, for the years."
+    },
+    {
+      "i": 784,
+      "start": 3046.16,
+      "end": 3046.46,
+      "text": "Okay."
+    },
+    {
+      "i": 785,
+      "start": 3046.8399999999997,
+      "end": 3051.06,
+      "text": "And if we all agree, 2026 is still going here for the server."
+    },
+    {
+      "i": 786,
+      "start": 3051.58,
+      "end": 3059.7599999999998,
+      "text": "So we're not, can I expect in this, the EV business will outgrow the server business in the, in the 2026."
+    },
+    {
+      "i": 787,
+      "start": 3060.08,
+      "end": 3067.7599999999998,
+      "text": "So I would say 2026 is still single digit for the, for the AV business for the next year."
+    },
+    {
+      "i": 788,
+      "start": 3067.96,
+      "end": 3068.08,
+      "text": "Okay."
+    },
+    {
+      "i": 789,
+      "start": 3069.58,
+      "end": 3070.06,
+      "text": "Yeah."
+    },
+    {
+      "i": 790,
+      "start": 3070.06,
+      "end": 3070.62,
+      "text": "Understood."
+    },
+    {
+      "i": 791,
+      "start": 3070.9,
+      "end": 3072.94,
+      "text": "So maybe we'll see it in like 2020."
+    },
+    {
+      "i": 792,
+      "start": 3073.1,
+      "end": 3077.64,
+      "text": "Maybe in 2027 when we will see the percentage may be larger."
+    },
+    {
+      "i": 793,
+      "start": 3079.48,
+      "end": 3080.64,
+      "text": "I totally agree."
+    },
+    {
+      "i": 794,
+      "start": 3080.64,
+      "end": 3082.56,
+      "text": "Because there's a loan certification process."
+    },
+    {
+      "i": 795,
+      "start": 3083.48,
+      "end": 3094.54,
+      "text": "So what we can do is make sure we are keep going, keep go along with the key buyer, key friend, key AV player."
+    },
+    {
+      "i": 796,
+      "start": 3095.14,
+      "end": 3096.38,
+      "text": "We are still working with them."
+    },
+    {
+      "i": 797,
+      "start": 3096.92,
+      "end": 3101.72,
+      "text": "And that's why, you know, today we are, we are touched on about other expansion in our German."
+    },
+    {
+      "i": 798,
+      "start": 3102.18,
+      "end": 3103.08,
+      "text": "They're one of the key."
+    },
+    {
+      "i": 799,
+      "start": 3103.1,
+      "end": 3110.12,
+      "text": "Key purpose to provide a service in our customer in the, in the, in the Eurocontinentals."
+    },
+    {
+      "i": 800,
+      "start": 3110.98,
+      "end": 3128.16,
+      "text": "So, you know, again, all this stuff, no matter the EV or server, we need to prepare upfront and taking time to work with the customer to win the customer trust, to come out, come out the cost list product for them."
+    },
+    {
+      "i": 801,
+      "start": 3128.16,
+      "end": 3133.08,
+      "text": "That can, that's why it can get a low heading through, you know, for market coverage."
+    },
+    {
+      "i": 802,
+      "start": 3133.12,
+      "end": 3135.14,
+      "text": "And we can't expect that to come out, but product come out in the market."
+    },
+    {
+      "i": 803,
+      "start": 3135.2999999999997,
+      "end": 3137.2599999999998,
+      "text": "This is point of DNA and point of strategy."
+    },
+    {
+      "i": 804,
+      "start": 3138.94,
+      "end": 3140.22,
+      "text": "Yeah, understood."
+    },
+    {
+      "i": 805,
+      "start": 3140.68,
+      "end": 3140.96,
+      "text": "Sorry."
+    },
+    {
+      "i": 806,
+      "start": 3140.96,
+      "end": 3154.5,
+      "text": "May I have the final follow up, like our dividend policy, we have very, very good dividend for this year, but you have already mentioned that the CapEx seems to be much higher than what we expected for this year."
+    },
+    {
+      "i": 807,
+      "start": 3154.86,
+      "end": 3158.22,
+      "text": "So I'd like to ask about the future dividend policy."
+    },
+    {
+      "i": 808,
+      "start": 3160.86,
+      "end": 3162.98,
+      "text": "You know, you know, it depends on how, how, you know, how you're going to, how you're going to get the dividend policy and."
+    },
+    {
+      "i": 809,
+      "start": 3162.98,
+      "end": 3163.08,
+      "text": "You know, you know, it depends on how, how it's going to be."
+    },
+    {
+      "i": 810,
+      "start": 3163.1,
+      "end": 3169.02,
+      "text": "business grow you know again if you look about back about what what we were doing uh in the"
+    },
+    {
+      "i": 811,
+      "start": 3169.02,
+      "end": 3175.58,
+      "text": "dividend policy we were we always look in the balance between the cash reserve for the capes"
+    },
+    {
+      "i": 812,
+      "start": 3175.58,
+      "end": 3184.38,
+      "text": "for the ind and also to return to our shareholders so it could be a could be a family volatility but"
+    },
+    {
+      "i": 813,
+      "start": 3184.38,
+      "end": 3191.3399999999997,
+      "text": "if you're looking at we're at least 80 percent of our earnings to our our shareholders based on our"
+    },
+    {
+      "i": 814,
+      "start": 3191.34,
+      "end": 3202.7000000000003,
+      "text": "tariff perfect thank you very much thank you kevin um and uh elton i know we are running out"
+    },
+    {
+      "i": 815,
+      "start": 3202.7000000000003,
+      "end": 3209.34,
+      "text": "of time but maybe just you know one very quick question from me regarding gb200 the system"
+    },
+    {
+      "i": 816,
+      "start": 3209.34,
+      "end": 3215.26,
+      "text": "complexity you know have obviously raised the bar for odm so order allocation has been highly"
+    },
+    {
+      "i": 817,
+      "start": 3215.26,
+      "end": 3221.26,
+      "text": "concentrated on leading suppliers including quanta um but as we migrate to gb300 or"
+    },
+    {
+      "i": 818,
+      "start": 3221.26,
+      "end": 3221.32,
+      "text": "the gb300 is a very important part of the system because it's a very important part of the system"
+    },
+    {
+      "i": 819,
+      "start": 3221.32,
+      "end": 3228.04,
+      "text": "even next generation uh do you expect to see any competitive landscape changes or did you or you"
+    },
+    {
+      "i": 820,
+      "start": 3228.04,
+      "end": 3231.8,
+      "text": "know do you expect to gain more market share"
+    },
+    {
+      "i": 821,
+      "start": 3245.1600000000003,
+      "end": 3251.2400000000002,
+      "text": "again again who work with the customer closely working with the customer and the time they"
+    },
+    {
+      "i": 822,
+      "start": 3251.24,
+      "end": 3258.04,
+      "text": "provide the design for them and most you know again competition always there and it will get"
+    },
+    {
+      "i": 823,
+      "start": 3258.04,
+      "end": 3263.4799999999996,
+      "text": "used to to that we also assume there's a competition over there so you know we don't"
+    },
+    {
+      "i": 824,
+      "start": 3264.3599999999997,
+      "end": 3269.0,
+      "text": "fear about any competition but who can provide a safe cost who can provide the"
+    },
+    {
+      "i": 825,
+      "start": 3269.0,
+      "end": 3274.52,
+      "text": "the leadership product who can provide a tco product they can win the orders and the"
+    },
+    {
+      "i": 826,
+      "start": 3274.52,
+      "end": 3281.0,
+      "text": "quanta get used to that and the quantum you know we'll keep working with uh chip key chip makers"
+    },
+    {
+      "i": 827,
+      "start": 3281.0,
+      "end": 3288.84,
+      "text": "make sure we go along with that and also fully understand what the csv needs no matter how they"
+    },
+    {
+      "i": 828,
+      "start": 3288.84,
+      "end": 3295.08,
+      "text": "change your sharing if you know customers well upfront so you know how to product for them"
+    },
+    {
+      "i": 829,
+      "start": 3295.08,
+      "end": 3301.4,
+      "text": "then we can keep winning the winning the orders from that again this is market practice and the"
+    },
+    {
+      "i": 830,
+      "start": 3301.4,
+      "end": 3308.52,
+      "text": "quanta in this space for decades we migrate from the notebook for the regular server to the ai"
+    },
+    {
+      "i": 831,
+      "start": 3308.52,
+      "end": 3311.0,
+      "text": "server for the ev or even for the hardware hierarchy that may be a little different even noise start"
+    },
+    {
+      "i": 832,
+      "start": 3311.0,
+      "end": 3319.22,
+      "text": "next change next new product the same DNA same strategy we see the season we"
+    },
+    {
+      "i": 833,
+      "start": 3319.22,
+      "end": 3325.34,
+      "text": "get used to the customer from technical you know to make sure we know the"
+    },
+    {
+      "i": 834,
+      "start": 3325.34,
+      "end": 3330.2,
+      "text": "product we know the customer will come up and the computing design still our"
+    },
+    {
+      "i": 835,
+      "start": 3330.2,
+      "end": 3336.62,
+      "text": "DNA so we make sure we can keep winning the order from the customers without"
+    },
+    {
+      "i": 836,
+      "start": 3336.62,
+      "end": 3343.46,
+      "text": "without you understood before we close I'd like to thank the management team"
+    },
+    {
+      "i": 837,
+      "start": 3343.46,
+      "end": 3351.62,
+      "text": "for their time and insights today CC and Elton is any final remarks to share"
+    },
+    {
+      "i": 838,
+      "start": 3352.18,
+      "end": 3358.74,
+      "text": "thank you for the question about our culture and I"
+    },
+    {
+      "i": 839,
+      "start": 3358.74,
+      "end": 3365.8199999999997,
+      "text": "as we continue to do our best on the next level"
+    },
+    {
+      "i": 840,
+      "start": 3365.8199999999997,
+      "end": 3366.3199999999997,
+      "text": "and"
+    },
+    {
+      "i": 841,
+      "start": 3366.62,
+      "end": 3368.62,
+      "text": "technology"
+    },
+    {
+      "i": 842,
+      "start": 3368.62,
+      "end": 3370.62,
+      "text": "that's all I've got"
+    },
+    {
+      "i": 843,
+      "start": 3370.62,
+      "end": 3372.62,
+      "text": "that's all"
+    },
+    {
+      "i": 844,
+      "start": 3372.62,
+      "end": 3374.62,
+      "text": "together"
+    },
+    {
+      "i": 845,
+      "start": 3374.62,
+      "end": 3378.62,
+      "text": "internally and well closely with our customers"
+    },
+    {
+      "i": 846,
+      "start": 3378.62,
+      "end": 3380.62,
+      "text": "and the possibility that"
+    },
+    {
+      "i": 847,
+      "start": 3380.62,
+      "end": 3382.62,
+      "text": "that's how we could do"
+    },
+    {
+      "i": 848,
+      "start": 3382.62,
+      "end": 3388.62,
+      "text": "great"
+    },
+    {
+      "i": 849,
+      "start": 3388.62,
+      "end": 3393.62,
+      "text": "thank you again CC Elton Carol and Ale thanks to everyone who joined us on the"
+    },
+    {
+      "i": 850,
+      "start": 3393.62,
+      "end": 3396.58,
+      "text": "call today if you have any additional follow-ups"
+    },
+    {
+      "i": 851,
+      "start": 3396.62,
+      "end": 3402.62,
+      "text": "please reach out to Qantas IR team or me carry from city that concludes today's"
+    },
+    {
+      "i": 852,
+      "start": 3402.62,
+      "end": 3406.62,
+      "text": "call thank you and have a great day"
+    },
+    {
+      "i": 853,
+      "start": 3406.62,
+      "end": 3412.62,
+      "text": "thank you thank you"
+    },
+    {
+      "i": 854,
+      "start": 3412.62,
+      "end": 3413.62,
+      "text": "goodbye"
+    },
+    {
+      "i": 855,
+      "start": 3413.62,
+      "end": 3415.62,
+      "text": "you"
+    },
+    {
+      "i": 856,
+      "start": 3415.62,
+      "end": 3417.62,
+      "text": "you"
+    },
+    {
+      "i": 857,
+      "start": 3417.62,
+      "end": 3419.62,
+      "text": "you"
+    },
+    {
+      "i": 858,
+      "start": 3419.62,
+      "end": 3421.62,
+      "text": "you"
+    },
+    {
+      "i": 859,
+      "start": 3421.62,
+      "end": 3423.62,
+      "text": "you"
+    },
+    {
+      "i": 860,
+      "start": 3423.62,
+      "end": 3425.62,
+      "text": "you"
+    }
+  ],
+  "full_text": "Thank you all for joining us today for QANTA's first quarter 2025 earnings conference call. My name is Carrie Liu. I'm the research analyst covering QANTA at Citi and will be moderating today's call. Joining us on the call today are Mr. C.C. Leung, Vice Chairman and President, Mr. Elton Young, CFO and spokesperson, as well as Carol and Ale from the IR team. We will begin with the prepared remarks and financial overview from Carol, followed by a Q&A session. Without further ado, I will now turn it over to Carol. Carol, please go ahead. Thanks, Carrie. Good day and welcome to QANTA Computer first quarter 2025 earnings results conference call. The call is hosted by Citi Global Market Taiwan Securities. The presentation material for today's call is available to the public on MOTS and on QANTA's website at www.qantatw.com. This is Carol. I'm joined today by QANTA's management, Mr. C.C. Leung, our Vice Chairman and President, Mr. Elton Young, Chief Financial Officer and Senior Vice President in QANTA's IR team. In a moment, we will start with the financial presentation. After that, the management will host a Q&A to share our view about the business and industry outlook. During this call, we will be making forward-looking statements, which are predictions, projections, and other statements about future events. These statements are based upon our current expectations and assumptions that are subject to lots of risks and uncertainties. As such, the actual results will differ materially from our forecast. We undertake no obligation to update or revise any forward-looking statements. So now, let's walk through the financials. We delivered another record-breaking quarter in QANTA first quarter 2025. We sell gross profits, operating profits, and net profits, reaching all-time highs. This strong performance provides a solid foundation for the year ahead, which we anticipate will be shaped by both significant growth opportunities and evolving challenges. Revenue for the quarter was $486 billion, up 16.4% quarter-on-quarter and 87.6% year-over-year respectively. Thanks to slightly better supply conditions for the latest AI servers, along with stronger lead and expanded demand for general compute servers and notebooks, we saw strong sales momentum throughout the quarter. Notebook shipments totaled 10.8 million units for the quarter, representing a 2.7% decline from the previous quarter, but a 2.9% increase compared to the same period last year. This outcome surpassed our expectations of a double-digit sequential decline. We attribute a strong shipments to the growth of the market. We also have a strong supply of the market, with customers cooling forward demand at the end of the quarter due to the uncertainty surrounding US tariffs. The company's gross profit reached a record $38.5 billion, roaring 23.8% quarter-on-quarter and 75.3% year-over-year. The gross margin for the quarter was 7.92%, representing 48 bps increase quarter-on-quarter and 55 bps decline year-over-year. The margin for the quarter was $7.92% and reached a record $58.5 billion. The margin improvement was largely driven by strong demand for general compute servers and a lighter magnitude of margin dilution from high-end AI servers for slower RIP. Additionally, a reduced sales contribution from notebooks also helped margins. As servers outgrew other product categories, the sales contribution from servers reached 65-70%. While the sales contribution from the market was lower than the average, the margin was reduced by about 1.2%. While the sales shares of notebooks was further diluted to below 25% this quarter, operating profits hit an all-time high of $24.6 billion this quarter, representing a 62.3% increase sequentially. Year-over-year, profit more than doubled, up 110% from $11.7 billion a year ago, making a strong $12.9 billion increase. The operating profit was also higher than the average, with a higher margin increase by about 1.2%. The operating margin of this quarter was an all-time high of 5.07%, up 143 bps quarter-on-quarter than 50 bps year-on-year. Operating expenses was $13.9 billion for this quarter, going down from a record level of $15.9 billion in both quarter-24, or 12.8% sequential decrease. On a year-over-year basis, OPEX increased by 35.4%, primarily due to the increase in Forex purchases and失 Phantom giving the first quarter when it was traded at Q1 2017. vaccin AS consciousness So if the pathway for OPEX 2018. By Quickly Investing Payment Andrea Maloney Indated For 130 years in 2020, the 일� York Capital valued by IT took a Governed Analysisлена Earl Dugas in an Phase 2 Review First fundretake in 2009. What實 Imp eer Blick■né man Catherine The primary items include net borrower's gains of $2.1 billion and net interest expenses of $1 billion. Stepping down the income statement, the net income after tax was a record $19.5 billion, increased by 22.8% quarter-to-quarter and 61.6% year-over-year. The net margin after tax was 4.01%, which grew 21 bps quarter-to-quarter and declined 65 bps year-over-year respectively. The tax rate for the quarter was 22.1%. And all of the above concluded an all-time high of earnings per share of $5.06 per quarter, representing a sequential increase of 94% and a surge of $1.93. Turning to the balance sheet, Cash and short-term investments slightly increased to $215 billion, from $201 billion at the end of last quarter. Account receivables reached an all-time high of $461 billion, from $371 billion in the previous quarter, reflecting the self-worth. Inventory rose to a record $277 billion this quarter, spending driven by cost-revenue. The shareholder's equity, attributed to the parent company, was around $293 billion, down from $222 billion at the end of previous quarter, due to the deduction of cash dividends of $50.2 billion on an actuarial basis. Let's now discuss the ongoing plans for responding to U.S. debt. The U.S. debt is expected to rise to $3.2 billion by the end of next quarter, with a $2.2 billion return on the U.S. debt. The U.S. debt is expected to rise to $3.2 billion by the end of next quarter, with a $3.2 billion return on the U.S. debt. As we highlighted in previous calls, this contact business strategy is built on three key pillars, advanced R&D, precise marketing, and manufacturing resilience. Among these, manufacturing resilience has proven to be a competitive advantage in today's volatile market environments. Contact manufacturing resilience is rooted in our extensive global manufacturing capabilities. We translate R&D breakthroughs into commercial products quickly and cost effectively, enabling customers to capitalize on emerging market opportunities. Our flexible and scalable production infrastructure allows us to adapt to shipping customer demands and involving global trade dynamics. Our production network now spans nine major sites worldwide, one in Taiwan, two in China, Shanghai and Chongqing, two in Southeast Asia, Thailand and Vietnam, two in the US, Tennessee and California, one in Mexico, and one in Germany. The global presence allows us to offer agile, regionally optimized manufacturing solutions. Specifically, to address tariff-related challenges for AI production. Our magical facility has the flexibility to realize timely expansion, from focusing solely on manufacturing automotive-related products to scaling up AI server manufacturing capabilities as needed. This adds extra flexibility to support our final system assembly operations in the US. Alongside our existing AI production facilities in Taiwan and Thailand. If the policy conditions are clear and customers are ready to move quickly, we can complete mass production readiness within just a few months. This positions us to effectively support downstream production at our US sites and respond quickly to market demands. Reflecting the continuing competition, we are now able to expand our production capacity. Our capacity for first quarter reached $4.7 billion, up from $2.6 billion in the same period last year. In line with this momentum, we revised our four-year capex budget to $20 billion. We would like to provide some commentary here on several factors that will impact our business performance in the second quarter and the remainder of 2020. Driven by customers pulling in orders during a period of short-term carry pause and ongoing manufacturing relocation, we expect that the strong notebook shipment momentum seen in first quarter will carry into second quarter, then result in a high single-digit sequential growth with upside potential. However, this demand is somehow front-loaded. We could see a more muted seasonal pattern in the second half of the year. At this point, visibility beyond 90 days remains limited due to ongoing macro and industry uncertainties. We will provide more coverage on four-year guidance when additional clarity is available. For auto business, we are shifting our focus to the auto industry. We are also focusing on the auto industry. We are focusing on the auto industry. We are focusing on the auto industry. We are focusing on the auto industry. Quality product and revenue growth습니다ing investor and investment away from low-value, commoditized, and volume driven products. Like most modules and sensors. Instead, we are prioritizing resourcesful for the development of high-value and content rich products such as advanced data, card computers, and crop returns. To mitigate the current auto market uncertainty. resources relocation will help bolster our competitiveness for the upcoming recovery. Considering the evolving revenue mix driven by the accelerated shipment of new generation AI server racks with higher ASP relative to lower ASP AI models, general compute servers, notebook, photo, and other product categories. We anticipate some degree of margin dilution moving forward. The new generation of AI servers went to mass production in the late first quarter, while still in a slower ramp pace due to supply constraints. On top of that, the demand for the lower ASP AI models remained strong and contributed to the overall AI shipment. As customers are urging for timely deployment of their AI infrastructure, we are seeing strong demand and limited supply of AI. Given that revenues are tied to the timing of shipment of respective projects, we could see variability in server revenue growth rates depending on ASP mix and individual customer delivery schedules. The AI server was a large contributor, driving the sales momentum in the first quarter, with robust growth from both AI servers and general compute servers. AI server sales exceeded 60% of overall server sales, and their contribution will further increase in the second quarter. The sales of AI servers grew more than double from a year ago, in good shape to realize potential four-year growth for 2025. Currency exchange fluctuations are another uncertain factor that would impact our quarter performance. Over the years, we've been establishing a hedging mechanism to manage this rig as a regular course of business, monitoring our net position exposed to exchange rate fluctuations on a daily basis. In general, most of our account receivables and compatibles are denominated from U.S. dollars. The exchange rate risks tend to offset each other. Even during the recent turmoil in the forex market, our hedging strategy has proven effective for our growing business, and the risks remain manageable. Overall, we believe the product mix is a key factor in the growth of our market. The market has a greater impact on our margins than currency exchange fluctuations. To close, we are pleased to present another remarkable quarter to our investors. The first quarter result provided a great start to the year. Though the outlook for the second half remains unclear, we are set for a better second quarter. Thanks to our employees and management team for their hard work, and the support they have shown for their dedication in achieving the unprecedented outcomes. That enables Quanta to consistently make our way for a balance between delivering satisfactory shareholders' returns and investing in our long-term goals. Recently, Quanta's board of directors has resolved a record cash dividend payout of $50.2 billion, official year 2024 earnings distribution. The management also executed several rounds of capital investment in our manufacturing site in North America. The investment helped exercise the expansion of capacity and product production relocation specifically for A.I. server manufacturing. The expansion is providing us additional flexibility to respond to the US tariff policies. We are seeing CSP customers maintain heavy investment in A.I. in AI compute and data center infrastructure. The recent TAPEX guidance from top US hyperscalers confirmed that they are either maintaining or rising cap for AI spending in 2025, despite from a high base last year. As such, the accelerating AI shipment presents a major tailwind for the year. We keep working closely with our customers in an agile and nimble manner to effectively make the necessary adjustments to adapt changes. Over the decades, Qantas has had solid track records in facilitating prudent strategy, smart environment, and Excel operational execution to navigate through fluctuation environments. As we scale our global presence, we remain focused on driving improvement in productivity, efficiency, and utilization to help offset the growth in expenses and managing associated risks. Overall, we remain cautiously optimistic of our business for the rest of the year. We are confident in our ability to stay on a growth trajectory, with profit expansion continuing to outcast cost increases. We believe that. Thank you. Thank you. Thank you very much. Thank you. Dr. Yeah. I think just want to get one more question and then we'll play up the next question. Next question please. Today at 5 o'clock if we take another second please to the Q&A we have a question Thank you very much, Carol, for the financial overview. We will now begin the Q&A session. If you would like to ask a question, please use the raise hand function and we will call on you in order. As a reminder, please limit yourself to one question and one follow-up to allow greater participation. Thank you for your cooperation. Let's go to our first question. Randy, please go ahead. Hey, yes, thank you for asking the call. My first question, I wanted to ask on the second quarter outlook. First, after the strong first quarter, you had a 20% dip to start April. I'm curious if you could give a view as we go through, if you're seeing an acceleration, how you view overall growth. How do you see growth for second quarter? And then if you could split that between the AI, the higher ASP AI racks versus lower ASP AI server, and then also for expectation on continued strength from general server. Thanks, Randy, for your questions. As Carol touched on in the prepared remarks, the new generation of the high ASP AI server is expected to be a very competitive product. So we're expecting the percentage will keep growing among the split between the AI server to total server will rising from 60% in the first quarter to keep going to 70% and to be the target for this year. So we're seeing more high ASP product contribution into. So that's what I mentioned about some dilution about our close margins. So we're seeing more high ASP product contribution to the same directions. This is our AI service situation for second quarter. OK. And I'll just ask, and the follow up, and it'll be two part follow up. But if you could give a view, the general server what drove the strength in first quarter? It's been kind of a stable market. But how much was share gain? And then how much you see that market continue? And the second part of my follow up, I actually wanted to ask about the GPU supply demands. I think you mentioned supply of GPUs. But we've seen a lot of delays on the racks, but actually chip production smoother. So I'm curious where the constraints are on GPU, like if you're getting enough availability, whether for the high AI server, high ASP AI server, or constraints with prioritization there, waiting for those racks, the low ASP server. Yeah, just curious why supply constraints, given the delays, and where you're seeing those constraints? Let me put another way around to answer your question. First of all, the customer's to deploy the data center view out, keep going up, and it's very strong. Demand's very strong. So they pick up what is available in the market. So in the first quarter, due to the limitation from the high ASP of the server, the ratings, the customer employee more current versions of the AI server. And definitely, there's a lot, you know, there's a lot of allocation between the current order, between the high ASP and low ASP, whether to talk about the share gain or share loss. Let me put the other way around for your reference. Because the demand's still there, demand's still intact. Customer just do the allocation between the GPU, the readiness, so they can move on to next version or current version. Okay. So that's a dynamic. And moving into the second quarter, the supply for the high ASP is getting better and better. But just to the availability from the chief vendor, greater from the customer demand. Customer demand is still over there, still intact, still very strong. Okay. So you kind of ? Okay, different between the high ASP and low ASP AI server. Okay, thank you. And if you could come in on the general server outlook, and then I'll drop back to the queue. The keep going, but in this quarter, the high ASP, you know, they had some issues, but they, they had no issues. server, the ghost rate should be better than the low ASP server, relatively. Okay. Yes, thank you very much. Thank you, Randy. And then the next question will be coming from Howard. Howard, please go ahead. Hello. Can you hear me? Great. Congratulations on the quarter. My first question is on Notebook. So I wanted to ask, I was a bit surprised that Notebook was less than 25% of total revenues in the first quarter. So I guess my first question is, are we seeing a pretty strong kind of recovery in terms of Chromebook shipments in Q1? No, it's not. It's not. Now, I'll allocate to the Chromebook. Chromebook still comes, you know, back to the regular pattern, only, you know, 10% plus, minus something only. So now keep pushing about total Notebook shipments. Got it. And then real quick, just in terms of the 2025 kind of guidance by segment, just to touch back on what you guys guided for the last time, you guys said that AI revenues will grow triple digit year on year, and general server will be flat year on year, and automotive will be up single digit year on year. Are these guidance still unchanged, you know, three months later today? By far. By far. So with the AI contribution to over 70%, all the strategies are still on track. Okay. And the general server looking slightly better from 5-day shift to slightly up, okay, for year on year basis. Got it. Okay. So one last question from me, and I just wanted to clarify maybe your answer to one of the questions. Okay. I want to run these questions earlier. So looking at the lower ASP AI server product, you mentioned Q1 demand was quite strong. Is it fair to assume that that demand will continue to remain that strong for the remainder of the year? Or are you expecting demand for the lower ASP AI servers to fall off in the coming quarters? Okay. So the demand for the lower ASP AI servers is still growing. As I mentioned, there are two dimensions for your reference. First of all, it's about allocation between the high ASP and low ASP of the server. That's to the availability. And we still see the low ASP general server still keep growing, but the percentage maybe below to the high ASP servers for the quarters. Okay. Got it. Still growing, but growing at a slower pace. Got it. Thank you. I'll jump back to the queue. Thank you so much. Thank you, Howard. And the next question will be coming from Angela. Angela, please go ahead. Hello. Can you hear me? Yeah, Angela, please go ahead. Oh, okay. Thank you for taking my question. Just a follow-up question regarding to the AI server. Can you give us a definition of the low ASP and high ASP of the AI server? Not that sure what that means, low ASP AI server demand strong in the first quarter. That's my follow-up question first. Yeah, that's a different ASP. No, that's the current version of the GPU. Or maybe it's a different version. Yeah, that's the current version of the GPU. But the next generation of GPU, due to the different infrastructure, so they have a different price tag. And the next generation now kicking in this quarter is the high ASP, the current GB200 stuff. Oh, okay. So it means Harper is a lower ASP AI server and the Blackwell GB is a high ASP AI server. Am I right? Yeah, to some extent, yes. Okay. Thanks. Okay, thanks for clarification. And we think your AI server is a top-paying buy and sell model. And based on accounting principles, if you buy the GPU from clients by CSPs and assemble and sell to them, will you book your sales in the value including GPU, CPU, or you will have a net deducting the major chip with the other net value only? That's the question. Follow-up. That's a mix. It depends on the customer's requirement. If the consignment model, then we offset the key components or the cost. If the buy-sale model, then we'll come at everything. So there's a mix among our customers. But the major aligned part of our business is the buy-and-sell models. Okay. So based on your clients' current performance, what is the best way to sell your products? Well, the best way to sell your products, the best way is to sell your products in a high-end market. So if you're a customer, you can't sell your products in a high-end market. You have to buy a lot of products. So you have to buy a lot of products. If you're a consumer, you can't sell your products in a high-end market. So you have to buy a lot of everything in a high-end market because you've got to из lane in the customer's market. So in terms of the compliance with your 180, they can't sell your products. So they have to beन what Professional End put out here. Aaa.. Ahhm. Well, what what it helps us to get used to is in this minor part, functioning of the стрейч巴 , we can have a number of challenges we can get more accurate, wenn the customer nugget alに of a are not the risk of the commercial underlying costs would be better than the cost and the bill or this we'd better stay healthy with our customers if we can perform. Right. Ahem, I just had an concerns about that. Yes. Of course, Mr.���rutier. Yes. The prime part of business is buy and sell models. Okay, I get it. The major part... Okay, last question is that regard... Major part. The buy and sell. Yep. Okay, thanks. And the last question is regarding to the first quarter financial, about the non-up. It's quite rare to see that your interest net expense in the first quarter. Can you explain the major reason and will this condition last into the following quarters? Okay, thank you. Yeah, the business keeps growing. So you can see the flowing account receivable, inventory. They were working capital-hungry. That's also one of the strengths, advantage of balance sheet, our income to the account market. But to win the business, also expense. Okay. And when you've got your income, your selling working capital needs, as a result, you need additional interest expense to cover the selling working capital needs. Okay? So customer require you to pull in the GPU. That means you need to pay more working capital to accommodate. So only few players, that's one of the key reason, the only few players can, in this industry, to working with the central bank. with the CSP for this type of business. Okay, makes sense. And so do we need to expect that this situation will continue when your GP or AI, high-SP AI cells growing up, that will see this kind of situation continuously? That could be a question. That is how we do funding this working capital need. Okay, you can look for any low funding cost vehicle to maybe can lower down the overall interest expense going forward. Okay, but I think there are big changes in the first half. When you're renting out, taking this business model, then that definitely comes with more working capital need. Okay, that as a result will have higher interest expense. Okay, thanks, Mary. Thanks for your answer. Thank you, Angela. Next question will be coming from Albert. Albert, please go ahead. Thanks, Terry, for hosting the call. And congrats, management, on the strong results. So my first question is based on what you're saying, the CSP customer, they bought a lot of Hopper AGX in first quarter, and now we are ramping up the backup server into second quarter. So basically, how would you compare the customer preference in Blackwell AGX versus GB server configuration? Is it fair to say GB is the preferred solution by CSP in Blackwell generation? And if customers, they face some issue in GB server, is it possible for CSP customer to switch back and buy Blackwell AGX, or it's not doable because their design is mainly for GB? Thank you. Thank you, Albert, for your question. You know, customers, first of all, customers different AI adoption plan, and they have a huge AI demand. So they can accommodate different type of compute needs, ranging from the H200, GB200, or GB300. So there are different type of adoption plan. And from contact perspective, we cannot speak for the customer or speak for the vendors. So long as that, what we can do is best to meet the customer's requirement at the right timing, right cost, and right scale. So that's why I mentioned that we are doing allocation between the high or low AI server. You know, QANDA, we are ready for every type of product. And customers subject to how they're to go out, we have an AI adoption plan. So we cannot speak for them. But we will, for sure, you know, we can accommodate what they require. So whether they can scale fair or not, which we don't have ideas. But what we can do is we get ready at the best price for that. Best TCO, leadership product for them. That's very clear. Thank you. And my follow-up question is, Carol mentioned Notebook will grow like iSingo did it with in second quarter. And you also mentioned that the upper or AGX server will grow, but probably at a slower rate versus GP, which means AI server will accessory into second quarter. And with these two, that means probably we will see more than 10% quote-on-quote revenue growth in second quarter. Is it? I think it's a fair argument. And if that's the case, second quarter can be easily like 55 billion. But April revenue is only 15 billion. So why there's a big show for it in April? Is there a specific reason? And we are expecting a huge jump in May and June. Thank you. Thank you, Carol. Thank you for your question. I think it's a fair question. I think it's a fair question. It's a fair question. Thank you. Thank you. Thank you. Thank you. Thank you. You know, Calder, again, thanks for your question. First of all, in our customer practice, we don't talk about revenue growth rate. You know, what we can say is, you know, we see the Notebook's growing better, and high-hp server we're kicking in this quarter. You know, again, this is still an unknown swing factor about how the customer is going to grow. Our first question is, you know, in the first quarter, what's the next step in this quarter? You know, the first quarter, we're talking about the second quarter, Again, this is still a known swing factor about how the customer to allocate between the high-speed and low-speed as well as the readiness of the chips from chip vendors. So, there's a swing factor over there. Hello, Alton. Alton? Sherry? Yes. Hi. Hi, Sherry. Hi, Alton. Sherry? Yes. Hi, Alton. I think we lost you for a couple of seconds. Not really. Okay. Just to touch down about, you know, for the border, we don't provide a for the revenue growth rate based on our customer . But what we can say is we see the better notebook pulling from the customer for the border, and we expecting witness the high-speed service. The high-speed server we're kicking in this quarter. Again, it's just to the readiness of the chip vendors and the customer plan to allocate between the high-speed and low-speed service . Okay. But we are looking for that and what the information we have now for the second quarter. Understood. That's very clear. Thank you, Alton. I'll go back to Q. Thank you, Alton. Thank you, Sherry. Thank you, Alton. Thank you, Sherry. Thank you, Alton. Thank you, Albert. Next question will be coming from Sky. Sky, please go ahead. Thank you to take my question. I just want to know that many world-class automaker and the companies are collaborating with the Earth on automotive projects. Science is typically take three to five years to go from project initiate to mass production. I'd like to ask, is there a chance that our automotive industry will be able to do that? And our automotive business could reach to trillion dollars labor in three to five years later? It's kind of a touchdown in the prepared . The EV business probably facing some sort of hiccups in this year due to the microeconomics due to the issues, due to the inflation issues. So, that's why we are mentioning we change our strategy to migrate from the low-ASG product to high-valued , okay. And we'll keep expecting the revenue growth for this year, okay. But we still high-expecting. We still are excited about this opportunity. Thank you. Thank you. Thank you. Next slide, please. And these are just two anything about the work system that we going through. One is the we did coughing trial. One is wearableako No exposure in 21 months only. No anyик Thank you, Alton, for the comments. We will move on to the next question from Randy. Randy, please go ahead. Yeah, no, thank you. My follow-up question, you mentioned some of the IASP server is subject to the chip reliability, availability. Could you discuss more on the hardware? I mean, there's been comments about yield ramp for the past few months. But if you could talk about what you're seeing from the ability to manufacture and improve yields, how smoothly you see that ramp up. And as we go toward GB300, originally there was optimism at GTC about some of the design changes on the new architecture. But it looks like we'll keep with Bianca. So, how you're seeing the transition to GB300 if that ramps up, say, later third quarter or fourth quarter? First of all, we don't comment about the rumor. Second, if there's a hold-to, we are more than happy. It's easier for the ramping schedule and improve the yield rates. But again, we don't speak for our vendors. But what we understand is that we are not going to have the same yield. We are going to have the same yield. So, we are going to have the same yield. So, we are going to have the same yield. Most of the key issue has been solved for the GB200. But what will happen will change the migration plan? We don't know. But as I mentioned, customers have their own adoption plan and they will ever change it. So, we have some always have flexibility to meet the customers' requirements. Okay. Great. That's clear. Okay. And I wanted to ask a follow-up on margins. I know you can't guide experts. But what you can tell us is that you have some very good information. And what is the best way to get to know the customers? And what are the most important things you can tell us about, especially in terms of the market? So, the most important thing is that you have to be able to get the right information and the right information. So, I know that a lot of Q&As are happening at this point in life, but perhaps it will seem like you're planning to do longer or more ambitious недpower. I'm wondering if that's something you're making such an effort to start with. Okay. So, we do tend to be really simple. We just give more along with it, and that can go really very real quick. Okay. operating margin, even though gross margin comes down, you can, with the scale up, maintain that. And, sorry, the second part, one, a task for SX. Is there a sensitivity on revenue and cost from that NT dollar recent appreciation? How much, if that would have any impact, or that's kind of a natural hedge to the gross and operating margin? Okay, thanks Randy. For your first question about our OP margin, you know, maybe I'm a political, because every quarter has different product mix. So there are different libraries. So I'll bring maybe up and down. But for the overall OP expenses, we are managed to make sure the gross of the OP expenses, the gross rate is below our sales gross rate. Secondly, it probably, slightly higher. But above, of next year, total about 49 billion . Okay. So that's an up and down. In the second quarter, we still need to put more effort to ready for the GB300. So we're expecting the other expenses will be raised as well. So more than for conservative SX, we're still willing to say that some of the pressure for the OP margins in the second quarter. Okay. So we're expecting that some of the pressure will be raised in the second quarter, even though they have a leverage for our top line. For the second part of your question about SX, you know, I also would love to have some magic to come up with linear forecast, so how many percentage of NDD appreciated, then we'll come up how many percentage impact our margins. But basically, it's run by different way of run. Okay. So there's a lot of swing factor among that. So that's what I mentioned. You know, we're going to have to do some more work. But first, you know, we have natural hedge, RANDAP. Secondly, we have a dynamic hedge mechanism. We don't live in a naked position. We will always margin on daily basis. So we hopefully, we can measure well. But you know, the three is very big, anyhow, we still see kind of measurable and controllable, you know, based on our regular basis of the hedging activities. Okay. Okay, great. Thanks a lot. Thank you, Randy. Thank you. Our next question comes from Kayling. Kayling, please go ahead. Yes, thank you for taking my question. I'm asking on the margin side. For OPM, I think we mentioned that in 2Q, our R&D expense could increase on GB200 RAM. Does that mean our second quarter OPM will also have pressure quarter on quarter, a little bit of gross margin pressure because of product mix? Yeah, I just touched on that. Yes. And on the overall long-term view, when high AST, AST-B, AST-B, AST-B, AST-B, AST-B, AST-B, and other servers like GB200 reach a certain scale, and we also have certain experience ramping that, would you say those AI servers' OPM is higher or lower than current OPM level? This is a dynamic industry. We'll keep the next generation of the new CPU in the market. So we'll keep the new R&D expenses. To measure quanta, we'll keep the new CPU in the market. So we'll keep the new R&D expenses. To measure quanta, we'll keep the new CPU in the market. To measure quanta, we'll keep the new CPU in the market. So we'll keep the new CPU in the market. And this year we will, we'll keep the new CPU in the market. And this year we'll keep the new CPU in the market. And this year we will, we'll keep the new CPU in the market. So we are, we're just ahead of competitors to come out, set out a product. And just what I mentioned, we more or less, we more likely to provide the guidance of overall OPM expenses for the full year, space it, for your modeling, for your forecast. So what I'm saying next year, we're putting 49 billion cents into overall tax. So what I'm saying next year, we're putting 49 billion cents into overall tax. And this year probably, you know, ahead of now, you know, the, the 49 billion. But, again, our goal is the mass property market, not the other way around. is to make sure our revenue growth rate is below our revenue growth rate. There's an overall goal. The next goal is to increase absolute margin dollar. The product mix can change from time to time, and subject to the product mix and subject to the new product revenue out. So there's a lot of variability about the open margins. So I'll probably give you another dimension for you to model in your forecast. Okay, thank you. Just a quick follow-up on the previous question about GB200 assembly yield. Are we seeing any issues with that, or is it mainly the chip supply issue that we are seeing to ramp GB200? Thanks for your question. I don't want to comment about what the vendor's performance. Okay. What we're seeing, the key about it is what the amount and the timing. Our customer, we don't buy directly from the chip vendor. We buy from our customers. The customer gives us a schedule, and we discuss what the schedule. That's what I mentioned. We are not others, a model maker. Their customer is a chip maker. Our customer, we buy from, based on the buy-sell model, we buy from CSP. So the key thing for us is how to discuss what the timing, the quantity, they can provide, and what to allocate, how resources allocate our product among the H200 or GB200 or GB300. So it's a totally different dynamic. When you talk about the vendors, we are facing about the CSP instead of the chip makers. I see. Thank you. I'll get back to the queue. Thank you. Thank you. Due to time constraint, our last question will be coming from Kevin. Kevin, please go ahead. Yeah. Thank you for accepting my question and congratulate on the outstanding quarter. And my first question is about the visibility. As you have already mentioned, the visibility for like MBPC for those consumer products remain very limited for a second time. And I want to ask about what is your visibility? What is the order visibility of your server, especially for AI, high SP or low SP server business for the second half? And what do you think the future will be for this industry? Like it has been a very strong growth during the past year in 2025. Do you think the momentum will remain for a year to come? That's my first question. First fully, definitely the visibility is getting better. That's why we're kicking in this quarter. And again, on war, still subject to the availability for the chip makers. And whether for the work outlook for the 2026, actually all the CSPs and earnings already tell you. They are keep their investment. They keep a lot of cap backs. And they are also looking forward to the keep a growth rate for the 2026. Maybe growth rate is low. But the 2026 still keep growing. That's why I keep talking, you know, the demand there, the demand impact. But subject to what availability about the chips. They will come up. What's the customer will decide what to allocate the product. Because they keep want to keep to provide AI service. They want to keep deploy the low value of the data center. They don't hold the pace. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Yeah. Understood. So can we assume that we have full visibility for server business for like second half this year? We're talking for that. We're looking for that. We're looking for that. Yeah. Okay. Understood. And my final follow-up is about the automotive business. As you already mentioned, it still will be our momentum for like the next year to go. So, yeah. I just want to understand the like percentage contribution we are expecting for the auto business for years to come. Because we have mentioned that maybe like high single, maybe reach double digit. Yeah. But we all see that the growth momentum for the highest server is very strong. The percentage wise, they seem to be diluted. Any new comments on this percentage contribution for the years to come for auto business? Again, you still, you still, you still. It's still single digit for the, for the, for the years. Okay. And if we all agree, 2026 is still going here for the server. So we're not, can I expect in this, the EV business will outgrow the server business in the, in the 2026. So I would say 2026 is still single digit for the, for the AV business for the next year. Okay. Yeah. Understood. So maybe we'll see it in like 2020. Maybe in 2027 when we will see the percentage may be larger. I totally agree. Because there's a loan certification process. So what we can do is make sure we are keep going, keep go along with the key buyer, key friend, key AV player. We are still working with them. And that's why, you know, today we are, we are touched on about other expansion in our German. They're one of the key. Key purpose to provide a service in our customer in the, in the, in the Eurocontinentals. So, you know, again, all this stuff, no matter the EV or server, we need to prepare upfront and taking time to work with the customer to win the customer trust, to come out, come out the cost list product for them. That can, that's why it can get a low heading through, you know, for market coverage. And we can't expect that to come out, but product come out in the market. This is point of DNA and point of strategy. Yeah, understood. Sorry. May I have the final follow up, like our dividend policy, we have very, very good dividend for this year, but you have already mentioned that the CapEx seems to be much higher than what we expected for this year. So I'd like to ask about the future dividend policy. You know, you know, it depends on how, how, you know, how you're going to, how you're going to get the dividend policy and. You know, you know, it depends on how, how it's going to be. business grow you know again if you look about back about what what we were doing uh in the dividend policy we were we always look in the balance between the cash reserve for the capes for the ind and also to return to our shareholders so it could be a could be a family volatility but if you're looking at we're at least 80 percent of our earnings to our our shareholders based on our tariff perfect thank you very much thank you kevin um and uh elton i know we are running out of time but maybe just you know one very quick question from me regarding gb200 the system complexity you know have obviously raised the bar for odm so order allocation has been highly concentrated on leading suppliers including quanta um but as we migrate to gb300 or the gb300 is a very important part of the system because it's a very important part of the system even next generation uh do you expect to see any competitive landscape changes or did you or you know do you expect to gain more market share again again who work with the customer closely working with the customer and the time they provide the design for them and most you know again competition always there and it will get used to to that we also assume there's a competition over there so you know we don't fear about any competition but who can provide a safe cost who can provide the the leadership product who can provide a tco product they can win the orders and the quanta get used to that and the quantum you know we'll keep working with uh chip key chip makers make sure we go along with that and also fully understand what the csv needs no matter how they change your sharing if you know customers well upfront so you know how to product for them then we can keep winning the winning the orders from that again this is market practice and the quanta in this space for decades we migrate from the notebook for the regular server to the ai server for the ev or even for the hardware hierarchy that may be a little different even noise start next change next new product the same DNA same strategy we see the season we get used to the customer from technical you know to make sure we know the product we know the customer will come up and the computing design still our DNA so we make sure we can keep winning the order from the customers without without you understood before we close I'd like to thank the management team for their time and insights today CC and Elton is any final remarks to share thank you for the question about our culture and I as we continue to do our best on the next level and technology that's all I've got that's all together internally and well closely with our customers and the possibility that that's how we could do great thank you again CC Elton Carol and Ale thanks to everyone who joined us on the call today if you have any additional follow-ups please reach out to Qantas IR team or me carry from city that concludes today's call thank you and have a great day thank you thank you goodbye you you you you you you"
+}

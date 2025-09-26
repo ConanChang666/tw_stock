@@ -1,0 +1,5711 @@
+{
+  "symbol": "2303_2025Q1",
+  "source_url": "https://www.umc.com/upload/media/08_Investors/Financials/Quarterly_Results/Quarterly_2020-2029_English_pdf/2025/Q1_2025/UMC25Q1_Video.mp4",
+  "language": "en",
+  "duration_sec": null,
+  "created_at": "2025-09-25T16:02:39Z",
+  "model": "whisper-large-v3",
+  "segments": [
+    {
+      "i": 0,
+      "start": 0.2,
+      "end": 5.78,
+      "text": "Welcome, everyone, to UMC's 2025 First Quarter Earnings Conference Call."
+    },
+    {
+      "i": 1,
+      "start": 6.42,
+      "end": 9.620000000000001,
+      "text": "All lines have been placed on mute to prevent background noise."
+    },
+    {
+      "i": 2,
+      "start": 10.36,
+      "end": 13.92,
+      "text": "After the presentation, there will be a question and answer session."
+    },
+    {
+      "i": 3,
+      "start": 14.6,
+      "end": 18.8,
+      "text": "Please follow the instructions given at the time if you would like to ask the question."
+    },
+    {
+      "i": 4,
+      "start": 19.62,
+      "end": 24.44,
+      "text": "For your information, this conference call is now being broadcast live over the Internet."
+    },
+    {
+      "i": 5,
+      "start": 25.240000000000002,
+      "end": 29.060000000000002,
+      "text": "Webcast replay will be available within an hour after the conference has finished."
+    },
+    {
+      "i": 6,
+      "start": 29.06,
+      "end": 38.36,
+      "text": "Please visit our website, www.umc.com, under the Investor Relations, Investors, Events section."
+    },
+    {
+      "i": 7,
+      "start": 39.019999999999996,
+      "end": 44.76,
+      "text": "Now, I would like to introduce Mr. David Wong, Investor Relations Manager of UMC."
+    },
+    {
+      "i": 8,
+      "start": 45.32,
+      "end": 46.66,
+      "text": "Mr. Wong, please begin."
+    },
+    {
+      "i": 9,
+      "start": 47.82,
+      "end": 52.019999999999996,
+      "text": "Welcome to UMC's conference call for the first quarter of 2025."
+    },
+    {
+      "i": 10,
+      "start": 52.58,
+      "end": 59.019999999999996,
+      "text": "I'm joined by Mr. Chee Dong-Li, CFO of UMC, and Mr. Michael Lin, Senior Translator."
+    },
+    {
+      "i": 11,
+      "start": 59.6,
+      "end": 64.96000000000001,
+      "text": "I'm joined by Mr. David Wong, Director of Finance, because President Wong is absent due to urgent personal matter."
+    },
+    {
+      "i": 12,
+      "start": 65.86,
+      "end": 69.44,
+      "text": "In a moment, our CFO will present first quarter financial results,"
+    },
+    {
+      "i": 13,
+      "start": 70.04,
+      "end": 75.52000000000001,
+      "text": "followed by our key message to address UMC's focus in second quarter 2025 guidance."
+    },
+    {
+      "i": 14,
+      "start": 76.56,
+      "end": 80.08,
+      "text": "After our CFO's remarks, there will be a Q&A session."
+    },
+    {
+      "i": 15,
+      "start": 81.04,
+      "end": 86.96000000000001,
+      "text": "UMC's quarterly financial reports are available at our website, www.umc.com,"
+    },
+    {
+      "i": 16,
+      "start": 86.96000000000001,
+      "end": 88.96000000000001,
+      "text": "under the Investors, Financials."
+    },
+    {
+      "i": 17,
+      "start": 89.06,
+      "end": 96.7,
+      "text": "During this conference, we may make forward-looking statements based on management's current expectations and beliefs."
+    },
+    {
+      "i": 18,
+      "start": 97.64,
+      "end": 104.14,
+      "text": "These forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially,"
+    },
+    {
+      "i": 19,
+      "start": 104.72,
+      "end": 107.38,
+      "text": "including the risks that may be beyond the company's control."
+    },
+    {
+      "i": 20,
+      "start": 108.44,
+      "end": 111.54,
+      "text": "For a more detailed description of these risks and uncertainties,"
+    },
+    {
+      "i": 21,
+      "start": 111.80000000000001,
+      "end": 117.44,
+      "text": "please refer to our recent and subsequent filings with the SEC and the ROC Securities Authorities."
+    },
+    {
+      "i": 22,
+      "start": 117.7,
+      "end": 118.14,
+      "text": "Thank you."
+    },
+    {
+      "i": 23,
+      "start": 118.14,
+      "end": 118.4,
+      "text": "Thank you."
+    },
+    {
+      "i": 24,
+      "start": 118.4,
+      "end": 118.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 25,
+      "start": 118.42,
+      "end": 118.46000000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 26,
+      "start": 118.46000000000001,
+      "end": 118.52000000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 27,
+      "start": 118.52000000000001,
+      "end": 118.6,
+      "text": "Thank you."
+    },
+    {
+      "i": 28,
+      "start": 118.6,
+      "end": 118.66,
+      "text": "Thank you."
+    },
+    {
+      "i": 29,
+      "start": 118.66,
+      "end": 118.7,
+      "text": "Thank you."
+    },
+    {
+      "i": 30,
+      "start": 118.7,
+      "end": 118.76,
+      "text": "Thank you."
+    },
+    {
+      "i": 31,
+      "start": 118.76,
+      "end": 118.82000000000001,
+      "text": "Thank you."
+    },
+    {
+      "i": 32,
+      "start": 119.38,
+      "end": 129.32,
+      "text": "Thank you."
+    },
+    {
+      "i": 33,
+      "start": 130.02,
+      "end": 130.42000000000002,
+      "text": "Thank you."
+    },
+    {
+      "i": 34,
+      "start": 130.44,
+      "end": 136.58,
+      "text": "Thank you."
+    },
+    {
+      "i": 35,
+      "start": 136.58,
+      "end": 143.46,
+      "text": "the first quarter 2025 investor conference presentation materials which can be downloaded"
+    },
+    {
+      "i": 36,
+      "start": 143.46,
+      "end": 150.34,
+      "text": "or viewed in real time from our website. Starting on page four, the first quarter of 2025"
+    },
+    {
+      "i": 37,
+      "start": 150.98000000000002,
+      "end": 159.3,
+      "text": "consolidated revenue was 57.86 billion NT with gross margin at around 26.7 percent."
+    },
+    {
+      "i": 38,
+      "start": 160.58,
+      "end": 166.18,
+      "text": "Net income attributable to the stockholder of the parent was 7.78 billion NT"
+    },
+    {
+      "i": 39,
+      "start": 166.82000000000002,
+      "end": 175.06,
+      "text": "and the earnings per ordinary share was 0.62 NT dollars. Welfare shipment was slagged sequentially"
+    },
+    {
+      "i": 40,
+      "start": 175.06,
+      "end": 181.62,
+      "text": "compared to the previous quarter. However, it was up 12 percent year over year for the same period"
+    },
+    {
+      "i": 41,
+      "start": 182.18,
+      "end": 192.5,
+      "text": "of 2024. On page five, on the sequential comparison, welfare revenue declined 4.2 percent"
+    },
+    {
+      "i": 42,
+      "start": 193.06,
+      "end": 196.5,
+      "text": "sequentially to 57.85"
+    },
+    {
+      "i": 43,
+      "start": 196.58,
+      "end": 203.78,
+      "text": "billion NT, mainly due to this one time price adjustment in the beginning of calendar year."
+    },
+    {
+      "i": 44,
+      "start": 204.9,
+      "end": 212.9,
+      "text": "Gross margin was impacted by the lower ASB as well as the earthquake during the Chinese New Year"
+    },
+    {
+      "i": 45,
+      "start": 213.94,
+      "end": 224.58,
+      "text": "holidays. It went down to 26.7 percent or 15.4 billion NT dollars and we expect to see margin"
+    },
+    {
+      "i": 46,
+      "start": 224.58,
+      "end": 225.94,
+      "text": "recovery in the coming quarter. On page six, the first quarter of 2025 consolidated revenue was"
+    },
+    {
+      "i": 47,
+      "start": 225.94,
+      "end": 226.26000000000002,
+      "text": "$1.8 billion NT with gross margin at around 26.7 percent or 15.4 billion NT dollars. We expect to see margin recovery in the coming quarter."
+    },
+    {
+      "i": 48,
+      "start": 227.14000000000001,
+      "end": 230.60000000000002,
+      "text": "Netka"
+    },
+    {
+      "i": 49,
+      "start": 230.60000000000002,
+      "end": 232.42000000000002,
+      "text": "We look at weakensation, safety and property as expected."
+    },
+    {
+      "i": 50,
+      "start": 232.42000000000002,
+      "end": 235.44,
+      "text": "smells"
+    },
+    {
+      "i": 51,
+      "start": 235.46,
+      "end": 249.84,
+      "text": "We respect the"
+    },
+    {
+      "i": 52,
+      "start": 249.84,
+      "end": 255.44,
+      "text": "Hb"
+    },
+    {
+      "i": 53,
+      "start": 255.44,
+      "end": 255.54000000000002,
+      "text": "Dka"
+    },
+    {
+      "i": 54,
+      "start": 255.54000000000002,
+      "end": 256.58000000000004,
+      "text": "M ambitious"
+    },
+    {
+      "i": 55,
+      "start": 256.58,
+      "end": 262.65999999999997,
+      "text": "in the stock market and we have some losses coming from mark-to-market"
+    },
+    {
+      "i": 56,
+      "start": 262.65999999999997,
+      "end": 272.74,
+      "text": "investment valuation which is around 439 million NT loss."
+    },
+    {
+      "i": 57,
+      "start": 272.74,
+      "end": 279.96,
+      "text": "Total net income attributable to the shareholder of the parent in Q1 2025 was"
+    },
+    {
+      "i": 58,
+      "start": 279.96,
+      "end": 293.82,
+      "text": "7.777 million NT or EPS of 0.62 NT dollars in Q1 2025."
+    },
+    {
+      "i": 59,
+      "start": 294.74,
+      "end": 302.71999999999997,
+      "text": "For the year-over-year comparison, revenue increased by 5.9%."
+    },
+    {
+      "i": 60,
+      "start": 302.71999999999997,
+      "end": 309.26,
+      "text": "This is mainly due to the wafer shipment increase as I mentioned"
+    },
+    {
+      "i": 61,
+      "start": 309.26,
+      "end": 309.85999999999996,
+      "text": "earlier."
+    },
+    {
+      "i": 62,
+      "start": 309.85999999999996,
+      "end": 309.94,
+      "text": "So the stock market is growing at a rate of 0.7% to 0.7% and the shareholder is at a rate of 0.7% to 0.7%. This is mainly due to the wafer shipment increase as I mentioned earlier."
+    },
+    {
+      "i": 63,
+      "start": 309.94,
+      "end": 315.08,
+      "text": "Around 12% year-over-year wafer shipment increase."
+    },
+    {
+      "i": 64,
+      "start": 315.08,
+      "end": 331.26,
+      "text": "But it's offset by the ASP decline. And for the net income comparison, we see a 25%"
+    },
+    {
+      "i": 65,
+      "start": 331.26,
+      "end": 339.84,
+      "text": "year-over-year decline and therefore EPS also was lower"
+    },
+    {
+      "i": 66,
+      "start": 339.84,
+      "end": 344.97999999999996,
+      "text": "in the same magnitude."
+    },
+    {
+      "i": 67,
+      "start": 344.97999999999996,
+      "end": 352.67999999999995,
+      "text": "On the next page, cash position still remains over 100 billion NT."
+    },
+    {
+      "i": 68,
+      "start": 352.67999999999995,
+      "end": 361.65999999999997,
+      "text": "It's about 106 billion NT dollars at the end of March 31st."
+    },
+    {
+      "i": 69,
+      "start": 361.65999999999997,
+      "end": 369.73999999999995,
+      "text": "Our total equity now reached 390 billion NT dollars at the end of Q1 2025."
+    },
+    {
+      "i": 70,
+      "start": 369.74,
+      "end": 381.0,
+      "text": "On page 6, this routine beginning of the year, one of price adjustments, which represents"
+    },
+    {
+      "i": 71,
+      "start": 381.0,
+      "end": 387.72,
+      "text": "actually contribute to most of the revenue decline in Q1 of 2025."
+    },
+    {
+      "i": 72,
+      "start": 387.72,
+      "end": 394.02,
+      "text": "So roughly the ASP declined by about 4% to 5% in Q1."
+    },
+    {
+      "i": 73,
+      "start": 394.02,
+      "end": 399.64,
+      "text": "For revenue breakdown, we see a good growth coming out of our Q1."
+    },
+    {
+      "i": 74,
+      "start": 399.64,
+      "end": 405.02,
+      "text": "The average revenue growth for our Asian-based customers is now reached around 66% of our"
+    },
+    {
+      "i": 75,
+      "start": 405.02,
+      "end": 406.02,
+      "text": "total revenue."
+    },
+    {
+      "i": 76,
+      "start": 406.02,
+      "end": 413.02,
+      "text": "North America customers, on the other hand, represent about 22% of the pie."
+    },
+    {
+      "i": 77,
+      "start": 413.02,
+      "end": 424.97999999999996,
+      "text": "IDM show a mild growth on page 10 to 18% of the total revenue breakdown in Q1 2025."
+    },
+    {
+      "i": 78,
+      "start": 424.97999999999996,
+      "end": 428.94,
+      "text": "And consumer segment is the strongest in Q1 2025."
+    },
+    {
+      "i": 79,
+      "start": 428.94,
+      "end": 429.44,
+      "text": "Thank you."
+    },
+    {
+      "i": 80,
+      "start": 429.64,
+      "end": 432.34,
+      "text": "This will be the center of our conversation from up here."
+    },
+    {
+      "i": 81,
+      "start": 432.34,
+      "end": 432.53999999999996,
+      "text": "Jisheng Huang."
+    },
+    {
+      "i": 82,
+      "start": 432.53999999999996,
+      "end": 432.64,
+      "text": "praise you."
+    },
+    {
+      "i": 83,
+      "start": 432.64,
+      "end": 433.15999999999997,
+      "text": "Great talker."
+    },
+    {
+      "i": 84,
+      "start": 433.18,
+      "end": 434.7,
+      "text": "Thank you, Greg."
+    },
+    {
+      "i": 85,
+      "start": 436.14,
+      "end": 436.7,
+      "text": "Great job."
+    },
+    {
+      "i": 86,
+      "start": 436.7,
+      "end": 441.38,
+      "text": "If you are looking forstraOU funds, please incorporate your data into your accounts."
+    },
+    {
+      "i": 87,
+      "start": 441.41999999999996,
+      "end": 451.36,
+      "text": "Our improvement is that we can now look at the low revenue growth from COVID."
+    },
+    {
+      "i": 88,
+      "start": 451.36,
+      "end": 452.71999999999997,
+      "text": "The savings that mild growth facing high rain"
+    },
+    {
+      "i": 89,
+      "start": 452.71999999999997,
+      "end": 455.86,
+      "text": "racism is like a tornado, because we have been only at low levels for nearly 10 years"
+    },
+    {
+      "i": 90,
+      "start": 455.88,
+      "end": 455.9,
+      "text": "In the lower segment of quiz, there is a probability that low RO and holiday revenue,"
+    },
+    {
+      "i": 91,
+      "start": 455.9,
+      "end": 456.21999999999997,
+      "text": "Unexpected activity group, both disbelief, control loss punctuation, and unstable Barnett"
+    },
+    {
+      "i": 92,
+      "start": 456.24,
+      "end": 457.9,
+      "text": "at high NEFSEed you are people we are not all salt and bleed."
+    },
+    {
+      "i": 93,
+      "start": 457.91999999999996,
+      "end": 458.03999999999996,
+      "text": "Thank you."
+    },
+    {
+      "i": 94,
+      "start": 458.06,
+      "end": 458.08,
+      "text": "Previously, Disney introduced再 existing products like adsense 5"
+    },
+    {
+      "i": 95,
+      "start": 458.09999999999997,
+      "end": 458.24,
+      "text": "Seduced trend"
+    },
+    {
+      "i": 96,
+      "start": 458.26,
+      "end": 459.36,
+      "text": "China Weullie launched孩"
+    },
+    {
+      "i": 97,
+      "start": 459.36,
+      "end": 464.36,
+      "text": "account for 37% of the total revenue breakdown."
+    },
+    {
+      "i": 98,
+      "start": 464.36,
+      "end": 473.76,
+      "text": "In Q1, there was some disruption from earthquake, but mainly there's also annual maintenance"
+    },
+    {
+      "i": 99,
+      "start": 473.76,
+      "end": 478.86,
+      "text": "schedule, so capacity in Q1 was lower."
+    },
+    {
+      "i": 100,
+      "start": 478.86,
+      "end": 485.1,
+      "text": "And for quarter two, we see the back to normal capacity as well, some mild increase coming"
+    },
+    {
+      "i": 101,
+      "start": 485.1,
+      "end": 494.04,
+      "text": "out of Singapore FAS due to the ramp is starting."
+    },
+    {
+      "i": 102,
+      "start": 494.04,
+      "end": 507.66,
+      "text": "On page 14, our 2025 KPACs remain unchanged at 1.8 billion US dollars."
+    },
+    {
+      "i": 103,
+      "start": 507.66,
+      "end": 514.6600000000001,
+      "text": "So this above is the summary of UMC financial results for Q1."
+    },
+    {
+      "i": 104,
+      "start": 514.6600000000001,
+      "end": 515.08,
+      "text": "Thank you."
+    },
+    {
+      "i": 105,
+      "start": 515.1,
+      "end": 522.1,
+      "text": "Next, I would like to share our key message."
+    },
+    {
+      "i": 106,
+      "start": 522.1,
+      "end": 529.1,
+      "text": "I apologize for still putting Jason's picture here because it's rather short notice and"
+    },
+    {
+      "i": 107,
+      "start": 529.1,
+      "end": 534.1,
+      "text": "it's also more importantly, it's a very good picture."
+    },
+    {
+      "i": 108,
+      "start": 534.1,
+      "end": 539.1,
+      "text": "So our results in the first quarter were in line with our previous guidance."
+    },
+    {
+      "i": 109,
+      "start": 539.1,
+      "end": 544.6600000000001,
+      "text": "With slattish wafer shipment and one-time pricing adjustment at the beginning of Q1,"
+    },
+    {
+      "i": 110,
+      "start": 544.66,
+      "end": 547.66,
+      "text": "we saw a significant increase in revenue growth."
+    },
+    {
+      "i": 111,
+      "start": 547.66,
+      "end": 551.66,
+      "text": "We also saw a significant increase in revenue growth in Q2, which is a very good indicator"
+    },
+    {
+      "i": 112,
+      "start": 551.66,
+      "end": 554.66,
+      "text": "for the beginning of the year to reflect market conditions."
+    },
+    {
+      "i": 113,
+      "start": 554.66,
+      "end": 559.66,
+      "text": "First quarter highlight includes 22, 28 nanometer revenue hitting a record high, representing"
+    },
+    {
+      "i": 114,
+      "start": 559.66,
+      "end": 562.66,
+      "text": "37 of the total sales."
+    },
+    {
+      "i": 115,
+      "start": 562.66,
+      "end": 568.66,
+      "text": "That was driven by a 46% quarter-over-quarter increase in 22 nanometer revenue from products"
+    },
+    {
+      "i": 116,
+      "start": 568.66,
+      "end": 571.66,
+      "text": "such as OLED display driver IC, ISP, as well as digital data."
+    },
+    {
+      "i": 117,
+      "start": 571.66,
+      "end": 572.66,
+      "text": "So this is a very good indicator."
+    },
+    {
+      "i": 118,
+      "start": 572.66,
+      "end": 576.66,
+      "text": "That means there's actually a significant reach ofmannable sales to albeit at least"
+    },
+    {
+      "i": 119,
+      "start": 576.66,
+      "end": 577.98,
+      "text": "one unit end."
+    },
+    {
+      "i": 120,
+      "start": 577.98,
+      "end": 587.3399999999999,
+      "text": "But along the way, as the key changes, there's also a striped diagram, the same scenario"
+    },
+    {
+      "i": 121,
+      "start": 587.3399999999999,
+      "end": 588.74,
+      "text": "with 2020 screenlax."
+    },
+    {
+      "i": 122,
+      "start": 588.74,
+      "end": 595.64,
+      "text": "Also, at the timing of Q1, we saw that our risk rate was expensive because we have for"
+    },
+    {
+      "i": 123,
+      "start": 595.64,
+      "end": 597.1999999999999,
+      "text": "the first quarter."
+    },
+    {
+      "i": 124,
+      "start": 597.1999999999999,
+      "end": 602.22,
+      "text": "What the next next week was also the worst in deteriorating algorithmic and sales report."
+    },
+    {
+      "i": 125,
+      "start": 602.22,
+      "end": 607.22,
+      "text": "which provide additional 22nm capacity to support future growth."
+    },
+    {
+      "i": 126,
+      "start": 607.22,
+      "end": 616.22,
+      "text": "Pillar runs are underway and are scheduled to ramp up to volume production in early 2026."
+    },
+    {
+      "i": 127,
+      "start": 616.22,
+      "end": 622.22,
+      "text": "The expansion in Singapore also further broadens our geographic diversification,"
+    },
+    {
+      "i": 128,
+      "start": 622.22,
+      "end": 627.22,
+      "text": "enabling customers to strengthen their supply chain resilience."
+    },
+    {
+      "i": 129,
+      "start": 627.22,
+      "end": 637.22,
+      "text": "Meanwhile, in February, our board of directors proposed a cash dividend of 2.85 NT per share,"
+    },
+    {
+      "i": 130,
+      "start": 637.22,
+      "end": 646.22,
+      "text": "which is subject to approval from shareholders in the upcoming AGM on May 28."
+    },
+    {
+      "i": 131,
+      "start": 646.22,
+      "end": 655.22,
+      "text": "Looking ahead to the second quarter, we are expecting a moderate rebound in demand across all segments,"
+    },
+    {
+      "i": 132,
+      "start": 655.22,
+      "end": 657.22,
+      "text": "according to near-term data."
+    },
+    {
+      "i": 133,
+      "start": 657.22,
+      "end": 662.22,
+      "text": "The market will be still energia SUV, but low demand for full- erect manufacturing newıllations."
+    },
+    {
+      "i": 134,
+      "start": 662.22,
+      "end": 673.22,
+      "text": "In next quarter, a new cycle de externallygon in Vocêsen Future E reste en forma de Super des"
+    },
+    {
+      "i": 135,
+      "start": 673.22,
+      "end": 676.22,
+      "text": "que la mayor Girón not vamos de Puente."
+    },
+    {
+      "i": 136,
+      "start": 676.22,
+      "end": 680.22,
+      "text": "Don't be get lost at the Quinencia Brasilia Belmar� flashingará,"
+    },
+    {
+      "i": 137,
+      "start": 680.22,
+      "end": 683.22,
+      "text": "even if you leave off, through the their Christmas."
+    },
+    {
+      "i": 138,
+      "start": 683.22,
+      "end": 685.22,
+      "text": "And also, in scoreboard, de chlorurapool,"
+    },
+    {
+      "i": 139,
+      "start": 685.22,
+      "end": 686.22,
+      "text": "that makes glide24 to retirement incentives as global shameless."
+    },
+    {
+      "i": 140,
+      "start": 686.22,
+      "end": 687.22,
+      "text": "There is also the other nomination for commercial consumer ホルフォーステトリ・ケースグ ladies,"
+    },
+    {
+      "i": 141,
+      "start": 687.22,
+      "end": 691.82,
+      "text": "by focusing on execution of key technology products,"
+    },
+    {
+      "i": 142,
+      "start": 691.82,
+      "end": 697.3000000000001,
+      "text": "such as the 12 nanometer collaboration with US partners,"
+    },
+    {
+      "i": 143,
+      "start": 697.3000000000001,
+      "end": 699.82,
+      "text": "and ensuring our customers have access"
+    },
+    {
+      "i": 144,
+      "start": 699.82,
+      "end": 705.4,
+      "text": "to geographically diverse manufacturing options."
+    },
+    {
+      "i": 145,
+      "start": 705.4,
+      "end": 708.22,
+      "text": "In addition, we are implementing cost reduction"
+    },
+    {
+      "i": 146,
+      "start": 708.22,
+      "end": 713.02,
+      "text": "plans and accelerating AI and intelligent manufacturing"
+    },
+    {
+      "i": 147,
+      "start": 713.02,
+      "end": 717.78,
+      "text": "systems to enhance operational efficiency."
+    },
+    {
+      "i": 148,
+      "start": 717.78,
+      "end": 719.78,
+      "text": "Through these key focuses, we are"
+    },
+    {
+      "i": 149,
+      "start": 719.78,
+      "end": 724.3,
+      "text": "confident that UMC can maintain our financial and business"
+    },
+    {
+      "i": 150,
+      "start": 724.3,
+      "end": 724.9,
+      "text": "resilience."
+    },
+    {
+      "i": 151,
+      "start": 728.1999999999999,
+      "end": 734.42,
+      "text": "Now let's move on to the second quarter of 2025 guidance."
+    },
+    {
+      "i": 152,
+      "start": 734.42,
+      "end": 739.8199999999999,
+      "text": "Welfare streammen will increase by 5% to 7% sequentially."
+    },
+    {
+      "i": 153,
+      "start": 739.8199999999999,
+      "end": 742.96,
+      "text": "ASP in US dollar terms will remain"
+    },
+    {
+      "i": 154,
+      "start": 742.96,
+      "end": 744.96,
+      "text": "flat."
+    },
+    {
+      "i": 155,
+      "start": 744.96,
+      "end": 750.14,
+      "text": "First margin will be back to approximately 30%."
+    },
+    {
+      "i": 156,
+      "start": 750.14,
+      "end": 754.0,
+      "text": "And capacity utilization rate will also"
+    },
+    {
+      "i": 157,
+      "start": 754.0,
+      "end": 758.7800000000001,
+      "text": "recover to the around mid 70% range."
+    },
+    {
+      "i": 158,
+      "start": 758.7800000000001,
+      "end": 762.4200000000001,
+      "text": "And as I mentioned earlier, the cash base"
+    },
+    {
+      "i": 159,
+      "start": 762.4200000000001,
+      "end": 770.0600000000001,
+      "text": "will remain unchanged at about $1.8 billion US dollars."
+    },
+    {
+      "i": 160,
+      "start": 770.0600000000001,
+      "end": 772.2800000000001,
+      "text": "That concludes our remarks."
+    },
+    {
+      "i": 161,
+      "start": 772.2800000000001,
+      "end": 772.9000000000001,
+      "text": "Thank you for watching."
+    },
+    {
+      "i": 162,
+      "start": 772.96,
+      "end": 774.96,
+      "text": "Thank you all for your attention."
+    },
+    {
+      "i": 163,
+      "start": 774.96,
+      "end": 778.96,
+      "text": "And now we are ready for questions."
+    },
+    {
+      "i": 164,
+      "start": 778.96,
+      "end": 779.96,
+      "text": "Thank you, Jidong."
+    },
+    {
+      "i": 165,
+      "start": 779.96,
+      "end": 782.96,
+      "text": "And ladies and gentlemen, we will now begin the question"
+    },
+    {
+      "i": 166,
+      "start": 782.96,
+      "end": 783.96,
+      "text": "and answer session."
+    },
+    {
+      "i": 167,
+      "start": 783.96,
+      "end": 786.96,
+      "text": "If you have a question for any of today's speakers,"
+    },
+    {
+      "i": 168,
+      "start": 786.96,
+      "end": 789.96,
+      "text": "please press star 1 on your telephone keypad,"
+    },
+    {
+      "i": 169,
+      "start": 789.96,
+      "end": 791.96,
+      "text": "and you will enter the queue."
+    },
+    {
+      "i": 170,
+      "start": 791.96,
+      "end": 795.96,
+      "text": "After you are announced, please ask your question."
+    },
+    {
+      "i": 171,
+      "start": 795.96,
+      "end": 798.96,
+      "text": "If you find that your question has been answered before it is"
+    },
+    {
+      "i": 172,
+      "start": 798.96,
+      "end": 801.96,
+      "text": "your turn to speak, please press star 2 to cancel the question."
+    },
+    {
+      "i": 173,
+      "start": 801.96,
+      "end": 802.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 174,
+      "start": 802.96,
+      "end": 806.96,
+      "text": "And now please press star key number 1 on your keypad"
+    },
+    {
+      "i": 175,
+      "start": 806.96,
+      "end": 808.96,
+      "text": "if you would like to ask the question."
+    },
+    {
+      "i": 176,
+      "start": 808.96,
+      "end": 809.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 177,
+      "start": 809.96,
+      "end": 814.96,
+      "text": "And our first question will be coming from Sunny Lin, UBS."
+    },
+    {
+      "i": 178,
+      "start": 814.96,
+      "end": 815.96,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 179,
+      "start": 815.96,
+      "end": 819.96,
+      "text": "Thank you very much for taking my questions."
+    },
+    {
+      "i": 180,
+      "start": 819.96,
+      "end": 823.96,
+      "text": "So my first question, I want to start from the tariff impact."
+    },
+    {
+      "i": 181,
+      "start": 823.96,
+      "end": 827.96,
+      "text": "And so for the short term, how are tariffs affecting the customer"
+    },
+    {
+      "i": 182,
+      "start": 827.96,
+      "end": 830.96,
+      "text": "order behaviors for Q2 and second half?"
+    },
+    {
+      "i": 183,
+      "start": 830.96,
+      "end": 831.96,
+      "text": "And how are they affecting the customer order behavior for Q2 and second half?"
+    },
+    {
+      "i": 184,
+      "start": 831.96,
+      "end": 835.96,
+      "text": "And how is that impacting your business planning?"
+    },
+    {
+      "i": 185,
+      "start": 835.96,
+      "end": 839.96,
+      "text": "And it does seem like you are having a good recovery for Q2 sales."
+    },
+    {
+      "i": 186,
+      "start": 839.96,
+      "end": 844.96,
+      "text": "How much of that is driven by the pulling orders due to tariffs?"
+    },
+    {
+      "i": 187,
+      "start": 844.96,
+      "end": 845.96,
+      "text": "Okay."
+    },
+    {
+      "i": 188,
+      "start": 845.96,
+      "end": 851.96,
+      "text": "So UMC collaborate closely with customers for technology"
+    },
+    {
+      "i": 189,
+      "start": 851.96,
+      "end": 855.96,
+      "text": "and product qualification across multiple facts,"
+    },
+    {
+      "i": 190,
+      "start": 855.96,
+      "end": 860.96,
+      "text": "reducing exposures to site-specific risks and ensuring supply chain"
+    },
+    {
+      "i": 191,
+      "start": 860.96,
+      "end": 861.96,
+      "text": "resilience."
+    },
+    {
+      "i": 192,
+      "start": 861.96,
+      "end": 866.96,
+      "text": "We adopt a forward-looking approach to mitigate this risk,"
+    },
+    {
+      "i": 193,
+      "start": 866.96,
+      "end": 871.96,
+      "text": "including a geographically diversified manufacturing footprint."
+    },
+    {
+      "i": 194,
+      "start": 871.96,
+      "end": 878.96,
+      "text": "And by 2027, we will have manufacturing base for our most advanced available"
+    },
+    {
+      "i": 195,
+      "start": 878.96,
+      "end": 881.96,
+      "text": "technology in the U.S."
+    },
+    {
+      "i": 196,
+      "start": 881.96,
+      "end": 886.96,
+      "text": "UMC also has a healthy financial structure to navigate through macro"
+    },
+    {
+      "i": 197,
+      "start": 886.96,
+      "end": 888.96,
+      "text": "uncertainties."
+    },
+    {
+      "i": 198,
+      "start": 888.96,
+      "end": 889.96,
+      "text": "And so, you know, we have a lot of opportunities."
+    },
+    {
+      "i": 199,
+      "start": 889.96,
+      "end": 896.96,
+      "text": "And although the escalating trade tensions and global tariff policies"
+    },
+    {
+      "i": 200,
+      "start": 896.96,
+      "end": 900.96,
+      "text": "have increased uncertainties in the semi-industry,"
+    },
+    {
+      "i": 201,
+      "start": 900.96,
+      "end": 905.96,
+      "text": "and we have not seen market demand change in a very near term,"
+    },
+    {
+      "i": 202,
+      "start": 905.96,
+      "end": 909.96,
+      "text": "i.e., quarter to 2025 yet."
+    },
+    {
+      "i": 203,
+      "start": 909.96,
+      "end": 915.96,
+      "text": "Of course, visibility in the second half is becoming very limited."
+    },
+    {
+      "i": 204,
+      "start": 915.96,
+      "end": 917.96,
+      "text": "And longer term,"
+    },
+    {
+      "i": 205,
+      "start": 917.96,
+      "end": 924.96,
+      "text": "customers may decouple their internal manufacturing options and explore"
+    },
+    {
+      "i": 206,
+      "start": 924.96,
+      "end": 927.96,
+      "text": "external wafer sourcing options."
+    },
+    {
+      "i": 207,
+      "start": 927.96,
+      "end": 933.96,
+      "text": "And UMC's strategic positioning focusing on technology differentiation,"
+    },
+    {
+      "i": 208,
+      "start": 933.96,
+      "end": 938.96,
+      "text": "global manufacturing diversification, product mix optimization,"
+    },
+    {
+      "i": 209,
+      "start": 938.96,
+      "end": 941.96,
+      "text": "and manufacturing excellence."
+    },
+    {
+      "i": 210,
+      "start": 941.96,
+      "end": 945.96,
+      "text": "So I think in short,"
+    },
+    {
+      "i": 211,
+      "start": 945.96,
+      "end": 952.96,
+      "text": "there's very little change we observe for the second quarter."
+    },
+    {
+      "i": 212,
+      "start": 952.96,
+      "end": 959.96,
+      "text": "However, if you include our Q1 results plus our quarter two guidance,"
+    },
+    {
+      "i": 213,
+      "start": 959.96,
+      "end": 966.96,
+      "text": "we think we are slightly ahead our expectation at the beginning of the year."
+    },
+    {
+      "i": 214,
+      "start": 966.96,
+      "end": 970.96,
+      "text": "And that will give us some buffer for the uncertainty,"
+    },
+    {
+      "i": 215,
+      "start": 970.96,
+      "end": 973.96,
+      "text": "the increasing uncertainty in the second half."
+    },
+    {
+      "i": 216,
+      "start": 973.96,
+      "end": 974.96,
+      "text": "Got it."
+    },
+    {
+      "i": 217,
+      "start": 974.96,
+      "end": 976.96,
+      "text": "Thank you very much, Yidong."
+    },
+    {
+      "i": 218,
+      "start": 976.96,
+      "end": 984.96,
+      "text": "So basically, you are saying the growth in Q2 is not so much driven by pulling just a little bit."
+    },
+    {
+      "i": 219,
+      "start": 984.96,
+      "end": 987.96,
+      "text": "And so in that case,"
+    },
+    {
+      "i": 220,
+      "start": 987.96,
+      "end": 993.96,
+      "text": "should we be less concerned about meaningful drop of going to second half"
+    },
+    {
+      "i": 221,
+      "start": 993.96,
+      "end": 996.96,
+      "text": "because there's not much being pulled in?"
+    },
+    {
+      "i": 222,
+      "start": 996.96,
+      "end": 1001.96,
+      "text": "There's not that much pulling, you are correct, for quarter two."
+    },
+    {
+      "i": 223,
+      "start": 1001.96,
+      "end": 1003.96,
+      "text": "There's some customer,"
+    },
+    {
+      "i": 224,
+      "start": 1003.96,
+      "end": 1005.96,
+      "text": "or sideline,"
+    },
+    {
+      "i": 225,
+      "start": 1005.96,
+      "end": 1010.96,
+      "text": "and they want to take some precautionary action."
+    },
+    {
+      "i": 226,
+      "start": 1010.96,
+      "end": 1013.96,
+      "text": "But there are some customers doing the opposite."
+    },
+    {
+      "i": 227,
+      "start": 1013.96,
+      "end": 1017.96,
+      "text": "So net-net impact for quarter two is very limited."
+    },
+    {
+      "i": 228,
+      "start": 1017.96,
+      "end": 1022.96,
+      "text": "So, but again, we can now really see through second half."
+    },
+    {
+      "i": 229,
+      "start": 1022.96,
+      "end": 1031.96,
+      "text": "And what we are seeing right now doesn't really suggest there will be a shortfall in the coming quarters."
+    },
+    {
+      "i": 230,
+      "start": 1031.96,
+      "end": 1032.96,
+      "text": "Got it."
+    },
+    {
+      "i": 231,
+      "start": 1032.96,
+      "end": 1033.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 232,
+      "start": 1033.96,
+      "end": 1042.96,
+      "text": "My follow-up question on tariffs is in terms of the potential disruptions about the supply chain on the pricing side."
+    },
+    {
+      "i": 233,
+      "start": 1042.96,
+      "end": 1049.96,
+      "text": "And so if tariffs are put through, either for finished goods or direct semi-trips or both,"
+    },
+    {
+      "i": 234,
+      "start": 1049.96,
+      "end": 1053.96,
+      "text": "based on your current discussions with clients,"
+    },
+    {
+      "i": 235,
+      "start": 1053.96,
+      "end": 1057.96,
+      "text": "would you expect some impact on UMC's pricing and margin as well?"
+    },
+    {
+      "i": 236,
+      "start": 1057.96,
+      "end": 1060.96,
+      "text": "As maybe potentially everyone in the supply chain will need to share the cost."
+    },
+    {
+      "i": 237,
+      "start": 1060.96,
+      "end": 1062.96,
+      "text": "To some extent."
+    },
+    {
+      "i": 238,
+      "start": 1062.96,
+      "end": 1064.96,
+      "text": "I think we don't have a generalized answer."
+    },
+    {
+      "i": 239,
+      "start": 1064.96,
+      "end": 1067.96,
+      "text": "So let me start with our UMC pricing policy or strategy."
+    },
+    {
+      "i": 240,
+      "start": 1067.96,
+      "end": 1069.96,
+      "text": "We don't compete purely on pricing."
+    },
+    {
+      "i": 241,
+      "start": 1069.96,
+      "end": 1074.96,
+      "text": "Our strategy is built around technology differentiation and manufacturing excellence via regionally diversified manufacturing basis."
+    },
+    {
+      "i": 242,
+      "start": 1074.96,
+      "end": 1077.96,
+      "text": "All that attributes work,"
+    },
+    {
+      "i": 243,
+      "start": 1077.96,
+      "end": 1080.96,
+      "text": "but we don't have a general answer."
+    },
+    {
+      "i": 244,
+      "start": 1080.96,
+      "end": 1083.96,
+      "text": "So I think we need to share the cost to some extent."
+    },
+    {
+      "i": 245,
+      "start": 1083.96,
+      "end": 1085.96,
+      "text": "I think we don't have a general answer."
+    },
+    {
+      "i": 246,
+      "start": 1085.96,
+      "end": 1088.96,
+      "text": "So let me start with our UMC pricing policy or strategy."
+    },
+    {
+      "i": 247,
+      "start": 1088.96,
+      "end": 1096.96,
+      "text": "All that attributes work to insulate UMC and our customer away from low entry barrier markets."
+    },
+    {
+      "i": 248,
+      "start": 1096.96,
+      "end": 1102.96,
+      "text": "And despite the pricing pressures,"
+    },
+    {
+      "i": 249,
+      "start": 1102.96,
+      "end": 1115.96,
+      "text": "UMC remains committed to deliver differentiated technology and ensuring our customers to gain market share through the long-term strategic partnership."
+    },
+    {
+      "i": 250,
+      "start": 1115.96,
+      "end": 1118.96,
+      "text": "And so,"
+    },
+    {
+      "i": 251,
+      "start": 1118.96,
+      "end": 1122.96,
+      "text": "our value proposition is really to work with our customers in a transparent method."
+    },
+    {
+      "i": 252,
+      "start": 1122.96,
+      "end": 1126.96,
+      "text": "Our value proposition is really to work with our customers in a transparent method."
+    },
+    {
+      "i": 253,
+      "start": 1126.96,
+      "end": 1133.96,
+      "text": "Any disruption or the cost increase through tariffs,"
+    },
+    {
+      "i": 254,
+      "start": 1133.96,
+      "end": 1140.96,
+      "text": "we believe we will co-work with our customers to come up with a solution."
+    },
+    {
+      "i": 255,
+      "start": 1140.96,
+      "end": 1142.96,
+      "text": "Got it."
+    },
+    {
+      "i": 256,
+      "start": 1142.96,
+      "end": 1145.96,
+      "text": "And then I have a question on 28 nanometers."
+    },
+    {
+      "i": 257,
+      "start": 1145.96,
+      "end": 1146.96,
+      "text": "And so,"
+    },
+    {
+      "i": 258,
+      "start": 1146.96,
+      "end": 1147.96,
+      "text": "roughly,"
+    },
+    {
+      "i": 259,
+      "start": 1147.96,
+      "end": 1148.96,
+      "text": "what's the,"
+    },
+    {
+      "i": 260,
+      "start": 1148.96,
+      "end": 1151.96,
+      "text": "what's the utilization rates in Q1 and Q2?"
+    },
+    {
+      "i": 261,
+      "start": 1151.96,
+      "end": 1158.96,
+      "text": "And how should we think about the mix of 22 nanometers within the whole 28 and 22 nanometer cells,"
+    },
+    {
+      "i": 262,
+      "start": 1158.96,
+      "end": 1164.96,
+      "text": "let's say going to second half of 2025?"
+    },
+    {
+      "i": 263,
+      "start": 1164.96,
+      "end": 1165.96,
+      "text": "First of all,"
+    },
+    {
+      "i": 264,
+      "start": 1165.96,
+      "end": 1173.96,
+      "text": "our guidance for second quarter is mid 70 for the company as a whole."
+    },
+    {
+      "i": 265,
+      "start": 1173.96,
+      "end": 1175.96,
+      "text": "Of course,"
+    },
+    {
+      "i": 266,
+      "start": 1175.96,
+      "end": 1176.96,
+      "text": "12 nanometers,"
+    },
+    {
+      "i": 267,
+      "start": 1176.96,
+      "end": 1177.96,
+      "text": "12 inch,"
+    },
+    {
+      "i": 268,
+      "start": 1177.96,
+      "end": 1184.96,
+      "text": "12 inch is higher than corporate average and inch is below corporate average."
+    },
+    {
+      "i": 269,
+      "start": 1184.96,
+      "end": 1185.96,
+      "text": "Among 12,"
+    },
+    {
+      "i": 270,
+      "start": 1185.96,
+      "end": 1187.96,
+      "text": "I would say 22,"
+    },
+    {
+      "i": 271,
+      "start": 1187.96,
+      "end": 1191.96,
+      "text": "28 is the better sector,"
+    },
+    {
+      "i": 272,
+      "start": 1191.96,
+      "end": 1193.96,
+      "text": "is not the best sector."
+    },
+    {
+      "i": 273,
+      "start": 1193.96,
+      "end": 1199.96,
+      "text": "And right now,"
+    },
+    {
+      "i": 274,
+      "start": 1199.96,
+      "end": 1205.96,
+      "text": "22 and 28 represent 37% of our total revenue."
+    },
+    {
+      "i": 275,
+      "start": 1205.96,
+      "end": 1207.96,
+      "text": "And 22 alone,"
+    },
+    {
+      "i": 276,
+      "start": 1207.96,
+      "end": 1213.96,
+      "text": "I would say is more than mid-teens and continue to increase."
+    },
+    {
+      "i": 277,
+      "start": 1213.96,
+      "end": 1221.96,
+      "text": "And that will be a key growth driver for UNC's 2025 growth."
+    },
+    {
+      "i": 278,
+      "start": 1221.96,
+      "end": 1225.96,
+      "text": "So I hope that answers your question."
+    },
+    {
+      "i": 279,
+      "start": 1225.96,
+      "end": 1226.96,
+      "text": "That's very helpful."
+    },
+    {
+      "i": 280,
+      "start": 1226.96,
+      "end": 1227.96,
+      "text": "So mid-teens percentage,"
+    },
+    {
+      "i": 281,
+      "start": 1227.96,
+      "end": 1229.96,
+      "text": "that's in terms of total cells,"
+    },
+    {
+      "i": 282,
+      "start": 1229.96,
+      "end": 1230.96,
+      "text": "correct?"
+    },
+    {
+      "i": 283,
+      "start": 1230.96,
+      "end": 1232.96,
+      "text": "That's correct."
+    },
+    {
+      "i": 284,
+      "start": 1232.96,
+      "end": 1233.96,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 285,
+      "start": 1233.96,
+      "end": 1235.96,
+      "text": "And then maybe my last question."
+    },
+    {
+      "i": 286,
+      "start": 1235.96,
+      "end": 1239.96,
+      "text": "And so on this partnership with Intel on 12 nanometer,"
+    },
+    {
+      "i": 287,
+      "start": 1239.96,
+      "end": 1243.96,
+      "text": "what's the latest update that you could provide us?"
+    },
+    {
+      "i": 288,
+      "start": 1243.96,
+      "end": 1247.96,
+      "text": "And will it be possible that we see an earlier production in 2026?"
+    },
+    {
+      "i": 289,
+      "start": 1247.96,
+      "end": 1249.96,
+      "text": "And I guess lately,"
+    },
+    {
+      "i": 290,
+      "start": 1249.96,
+      "end": 1254.96,
+      "text": "given the maybe rising reshoring interest in the US,"
+    },
+    {
+      "i": 291,
+      "start": 1254.96,
+      "end": 1259.96,
+      "text": "are you seeing much stronger demand for this collaboration?"
+    },
+    {
+      "i": 292,
+      "start": 1259.96,
+      "end": 1262.96,
+      "text": "Maybe Michael can answer the question."
+    },
+    {
+      "i": 293,
+      "start": 1262.96,
+      "end": 1263.96,
+      "text": "Sure."
+    },
+    {
+      "i": 294,
+      "start": 1263.96,
+      "end": 1266.96,
+      "text": "So I think that the joint development is on track."
+    },
+    {
+      "i": 295,
+      "start": 1266.96,
+      "end": 1271.96,
+      "text": "We are progressing well according to the project milestones."
+    },
+    {
+      "i": 296,
+      "start": 1271.96,
+      "end": 1273.96,
+      "text": "At this moment,"
+    },
+    {
+      "i": 297,
+      "start": 1273.96,
+      "end": 1277.96,
+      "text": "we are verifying the silicon performance for the pilot line."
+    },
+    {
+      "i": 298,
+      "start": 1277.96,
+      "end": 1283.96,
+      "text": "And we expect the early PDK will be ready for the first wave of customers"
+    },
+    {
+      "i": 299,
+      "start": 1283.96,
+      "end": 1286.96,
+      "text": "by 2026 as planned."
+    },
+    {
+      "i": 300,
+      "start": 1286.96,
+      "end": 1287.96,
+      "text": "In fact,"
+    },
+    {
+      "i": 301,
+      "start": 1287.96,
+      "end": 1292.96,
+      "text": "we have been aligning with key customers on the device spec to speed up"
+    },
+    {
+      "i": 302,
+      "start": 1292.96,
+      "end": 1295.96,
+      "text": "the ramp up as quickly as possible."
+    },
+    {
+      "i": 303,
+      "start": 1295.96,
+      "end": 1296.96,
+      "text": "Right now,"
+    },
+    {
+      "i": 304,
+      "start": 1296.96,
+      "end": 1300.96,
+      "text": "we are putting the process technology in Arizona Fed."
+    },
+    {
+      "i": 305,
+      "start": 1300.96,
+      "end": 1301.96,
+      "text": "And so far,"
+    },
+    {
+      "i": 306,
+      "start": 1301.96,
+      "end": 1302.96,
+      "text": "the progress is on track."
+    },
+    {
+      "i": 307,
+      "start": 1302.96,
+      "end": 1303.96,
+      "text": "Got it."
+    },
+    {
+      "i": 308,
+      "start": 1303.96,
+      "end": 1304.96,
+      "text": "And so basically,"
+    },
+    {
+      "i": 309,
+      "start": 1304.96,
+      "end": 1305.96,
+      "text": "sales contribution,"
+    },
+    {
+      "i": 310,
+      "start": 1305.96,
+      "end": 1306.96,
+      "text": "you guys still from 2027?"
+    },
+    {
+      "i": 311,
+      "start": 1306.96,
+      "end": 1307.96,
+      "text": "Yes."
+    },
+    {
+      "i": 312,
+      "start": 1307.96,
+      "end": 1308.96,
+      "text": "Got it."
+    },
+    {
+      "i": 313,
+      "start": 1308.96,
+      "end": 1309.96,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 314,
+      "start": 1309.96,
+      "end": 1310.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 315,
+      "start": 1310.96,
+      "end": 1311.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 316,
+      "start": 1311.96,
+      "end": 1312.96,
+      "text": "Next one,"
+    },
+    {
+      "i": 317,
+      "start": 1312.96,
+      "end": 1313.96,
+      "text": "Lauriton City."
+    },
+    {
+      "i": 318,
+      "start": 1313.96,
+      "end": 1314.96,
+      "text": "Okay."
+    },
+    {
+      "i": 319,
+      "start": 1314.96,
+      "end": 1315.96,
+      "text": "So,"
+    },
+    {
+      "i": 320,
+      "start": 1315.96,
+      "end": 1316.96,
+      "text": "we have a lot of customers."
+    },
+    {
+      "i": 321,
+      "start": 1316.96,
+      "end": 1317.96,
+      "text": "We have a lot of customers."
+    },
+    {
+      "i": 322,
+      "start": 1317.96,
+      "end": 1318.96,
+      "text": "We have a lot of customers."
+    },
+    {
+      "i": 323,
+      "start": 1318.96,
+      "end": 1319.96,
+      "text": "We have a lot of customers."
+    },
+    {
+      "i": 324,
+      "start": 1319.96,
+      "end": 1320.96,
+      "text": "We have a lot of customers."
+    },
+    {
+      "i": 325,
+      "start": 1320.96,
+      "end": 1321.96,
+      "text": "We have a lot of customers."
+    },
+    {
+      "i": 326,
+      "start": 1321.96,
+      "end": 1322.96,
+      "text": "Yes,"
+    },
+    {
+      "i": 327,
+      "start": 1322.96,
+      "end": 1335.08,
+      "text": "and I would like say that the collision"
+    },
+    {
+      "i": 328,
+      "start": 1335.08,
+      "end": 1335.56,
+      "text": "tests are changing."
+    },
+    {
+      "i": 329,
+      "start": 1335.56,
+      "end": 1336.08,
+      "text": "Yeah."
+    },
+    {
+      "i": 330,
+      "start": 1336.08,
+      "end": 1337.08,
+      "text": "It's not изменing in any way."
+    },
+    {
+      "i": 331,
+      "start": 1337.08,
+      "end": 1338.08,
+      "text": "My question is,"
+    },
+    {
+      "i": 332,
+      "start": 1338.08,
+      "end": 1339.08,
+      "text": "you have students like you,"
+    },
+    {
+      "i": 333,
+      "start": 1339.08,
+      "end": 1344.96,
+      "text": "who are suited yet this year to become academics,"
+    },
+    {
+      "i": 334,
+      "start": 1344.96,
+      "end": 1349.6000000000001,
+      "text": "students with a vocational degree,"
+    },
+    {
+      "i": 335,
+      "start": 1349.6000000000001,
+      "end": 1350.96,
+      "text": "and you'll call in your friends that am into this."
+    },
+    {
+      "i": 336,
+      "start": 1350.96,
+      "end": 1351.96,
+      "text": "Okay."
+    },
+    {
+      "i": 337,
+      "start": 1351.96,
+      "end": 1356.96,
+      "text": "idea of customers has consistently among our top customers."
+    },
+    {
+      "i": 338,
+      "start": 1356.96,
+      "end": 1363.96,
+      "text": "And I think I don't need to mention their names, but you definitely know who they are."
+    },
+    {
+      "i": 339,
+      "start": 1363.96,
+      "end": 1377.96,
+      "text": "So from time to time we have JDPs, we have capacity support, and that will continue to"
+    },
+    {
+      "i": 340,
+      "start": 1377.96,
+      "end": 1383.96,
+      "text": "be our strategic collaboration going forward."
+    },
+    {
+      "i": 341,
+      "start": 1383.96,
+      "end": 1390.96,
+      "text": "So we do have other IDM customers in the U.S. working closely with UMC."
+    },
+    {
+      "i": 342,
+      "start": 1390.96,
+      "end": 1400.96,
+      "text": "But of course, the current stage, the most important project is this 12 nanometer U.S."
+    },
+    {
+      "i": 343,
+      "start": 1400.96,
+      "end": 1406.96,
+      "text": "footprint collaboration with these U.S. partners."
+    },
+    {
+      "i": 344,
+      "start": 1406.96,
+      "end": 1407.96,
+      "text": "Understood."
+    },
+    {
+      "i": 345,
+      "start": 1407.96,
+      "end": 1408.96,
+      "text": "Thank you."
+    },
+    {
+      "i": 346,
+      "start": 1408.96,
+      "end": 1412.96,
+      "text": "Because previously I also have the news, I understand that management already kind of"
+    },
+    {
+      "i": 347,
+      "start": 1412.96,
+      "end": 1420.96,
+      "text": "denied, but I'm just wondering, like, other than our current clients in U.S. IDMs, is"
+    },
+    {
+      "i": 348,
+      "start": 1420.96,
+      "end": 1427.96,
+      "text": "there any chance we can also work with Global Foundry on some sort of like a joint venture"
+    },
+    {
+      "i": 349,
+      "start": 1427.96,
+      "end": 1432.96,
+      "text": "or a cooperation, any type of the cooperation?"
+    },
+    {
+      "i": 350,
+      "start": 1432.96,
+      "end": 1436.96,
+      "text": "I don't want to comment on marketing."
+    },
+    {
+      "i": 351,
+      "start": 1436.96,
+      "end": 1441.96,
+      "text": "I think for an issue like this, it's so sensitive and important."
+    },
+    {
+      "i": 352,
+      "start": 1441.96,
+      "end": 1449.96,
+      "text": "It has to come from the official announcement from any company involved."
+    },
+    {
+      "i": 353,
+      "start": 1449.96,
+      "end": 1456.96,
+      "text": "But I think from, again, from UMC's perspective, we're consistently looking for strategic options"
+    },
+    {
+      "i": 354,
+      "start": 1456.96,
+      "end": 1461.96,
+      "text": "to enhance shareholder value."
+    },
+    {
+      "i": 355,
+      "start": 1461.96,
+      "end": 1465.96,
+      "text": "Anything can help to increase our competitive value."
+    },
+    {
+      "i": 356,
+      "start": 1465.96,
+      "end": 1473.96,
+      "text": "So, we have to look at our competitiveness as well as the shareholder's value."
+    },
+    {
+      "i": 357,
+      "start": 1473.96,
+      "end": 1478.96,
+      "text": "We will certainly look into that."
+    },
+    {
+      "i": 358,
+      "start": 1478.96,
+      "end": 1484.96,
+      "text": "And currently, there's no ongoing so-called merger activity right now."
+    },
+    {
+      "i": 359,
+      "start": 1484.96,
+      "end": 1494.96,
+      "text": "So, again, we have to say that there's no merger ongoing right now."
+    },
+    {
+      "i": 360,
+      "start": 1494.96,
+      "end": 1520.6000000000001,
+      "text": "So, I imagine that development of strategies personally and also"
+    },
+    {
+      "i": 361,
+      "start": 1520.6000000000001,
+      "end": 1522.96,
+      "text": "directly hurt a board game."
+    },
+    {
+      "i": 362,
+      "start": 1522.96,
+      "end": 1523.96,
+      "text": "Well, we..."
+    },
+    {
+      "i": 363,
+      "start": 1523.96,
+      "end": 1526.7,
+      "text": "the growth margin back to 30%."
+    },
+    {
+      "i": 364,
+      "start": 1526.7,
+      "end": 1533.5,
+      "text": "So can we kind of assume that Q1 is the 12th for the growth margin"
+    },
+    {
+      "i": 365,
+      "start": 1533.5,
+      "end": 1538.24,
+      "text": "since we have the one-time pricing adjustment back in Q1?"
+    },
+    {
+      "i": 366,
+      "start": 1539.1000000000001,
+      "end": 1543.3600000000001,
+      "text": "The overall demand seems back to no more."
+    },
+    {
+      "i": 367,
+      "start": 1543.3600000000001,
+      "end": 1549.52,
+      "text": "So I'm just wondering what's our view on the overall growth margin trend going forward?"
+    },
+    {
+      "i": 368,
+      "start": 1549.52,
+      "end": 1555.06,
+      "text": "Unfortunately, we mentioned the second half,"
+    },
+    {
+      "i": 369,
+      "start": 1555.42,
+      "end": 1561.4,
+      "text": "the visibility becomes very limited with a lot of increasing uncertainty."
+    },
+    {
+      "i": 370,
+      "start": 1562.34,
+      "end": 1568.74,
+      "text": "So it makes it very difficult to predict the numbers for the second half."
+    },
+    {
+      "i": 371,
+      "start": 1568.74,
+      "end": 1572.86,
+      "text": "We can only give the guidance a quarter at a time."
+    },
+    {
+      "i": 372,
+      "start": 1573.3,
+      "end": 1579.3799999999999,
+      "text": "But our possibility largely depends on what I mean, pricing, utilization rate."
+    },
+    {
+      "i": 373,
+      "start": 1579.52,
+      "end": 1582.62,
+      "text": "And for that movement and COGS."
+    },
+    {
+      "i": 374,
+      "start": 1582.62,
+      "end": 1588.22,
+      "text": "We have taken several initiatives to enhance our possibilities"
+    },
+    {
+      "i": 375,
+      "start": 1588.22,
+      "end": 1592.72,
+      "text": "that include business engagement, technology differentiation,"
+    },
+    {
+      "i": 376,
+      "start": 1593.8799999999999,
+      "end": 1595.84,
+      "text": "driving the efficiency in operations,"
+    },
+    {
+      "i": 377,
+      "start": 1596.58,
+      "end": 1603.74,
+      "text": "and improving our CAPAC efficiency to manage the depreciation impact."
+    },
+    {
+      "i": 378,
+      "start": 1604.3799999999999,
+      "end": 1608.7,
+      "text": "So current growth margin level reflects Q1 2025."
+    },
+    {
+      "i": 379,
+      "start": 1609.82,
+      "end": 1613.28,
+      "text": "This is a three-step process that скrypts through E Long Range and"
+    },
+    {
+      "i": 380,
+      "start": 1613.28,
+      "end": 1630.12,
+      "text": "sh Hui A Open yapand"
+    },
+    {
+      "i": 381,
+      "start": 1630.12,
+      "end": 1634.26,
+      "text": "suggests that Q1 is the leader ones."
+    },
+    {
+      "i": 382,
+      "start": 1634.46,
+      "end": 1637.96,
+      "text": "Close-eremiah and top-level changes are a lead lead ."
+    },
+    {
+      "i": 383,
+      "start": 1637.98,
+      "end": 1639.36,
+      "text": "This method is puree seid because several thousands,"
+    },
+    {
+      "i": 384,
+      "start": 1639.36,
+      "end": 1641.3999999999999,
+      "text": "can still remain intact."
+    },
+    {
+      "i": 385,
+      "start": 1643.7199999999998,
+      "end": 1645.1999999999998,
+      "text": "Okay, that's very fair."
+    },
+    {
+      "i": 386,
+      "start": 1645.54,
+      "end": 1646.5,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 387,
+      "start": 1647.1799999999998,
+      "end": 1647.56,
+      "text": "Thank you."
+    },
+    {
+      "i": 388,
+      "start": 1649.5,
+      "end": 1652.6799999999998,
+      "text": "Next one, Brett Ling, Bank of America Securities."
+    },
+    {
+      "i": 389,
+      "start": 1652.8999999999999,
+      "end": 1653.52,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 390,
+      "start": 1654.2199999999998,
+      "end": 1656.1399999999999,
+      "text": "Thank you for taking my question."
+    },
+    {
+      "i": 391,
+      "start": 1656.3799999999999,
+      "end": 1658.8799999999999,
+      "text": "Congrats on the well-solid 1Q result"
+    },
+    {
+      "i": 392,
+      "start": 1658.8799999999999,
+      "end": 1661.8999999999999,
+      "text": "and also the bright second quarter guidance."
+    },
+    {
+      "i": 393,
+      "start": 1662.2199999999998,
+      "end": 1663.34,
+      "text": "I have two questions."
+    },
+    {
+      "i": 394,
+      "start": 1663.82,
+      "end": 1666.8,
+      "text": "The first question would be in terms of the customer type."
+    },
+    {
+      "i": 395,
+      "start": 1666.8,
+      "end": 1673.1599999999999,
+      "text": "Has UMC seen potential upside from maybe North America or IDM"
+    },
+    {
+      "i": 396,
+      "start": 1673.1599999999999,
+      "end": 1676.3,
+      "text": "due to the current tariff issue?"
+    },
+    {
+      "i": 397,
+      "start": 1676.84,
+      "end": 1677.22,
+      "text": "Thank you."
+    },
+    {
+      "i": 398,
+      "start": 1678.3999999999999,
+      "end": 1683.24,
+      "text": "I think we do see increasing customer appreciation"
+    },
+    {
+      "i": 399,
+      "start": 1683.24,
+      "end": 1688.94,
+      "text": "to UMC's regionally diverse manufacturing base."
+    },
+    {
+      "i": 400,
+      "start": 1689.76,
+      "end": 1691.3,
+      "text": "So for various reasons,"
+    },
+    {
+      "i": 401,
+      "start": 1692.2,
+      "end": 1696.18,
+      "text": "customers may need to have certain type of product manufacturing"
+    },
+    {
+      "i": 402,
+      "start": 1696.18,
+      "end": 1696.78,
+      "text": "that are not in the U.S."
+    },
+    {
+      "i": 403,
+      "start": 1696.78,
+      "end": 1699.98,
+      "text": "in some specific manufacturing sites."
+    },
+    {
+      "i": 404,
+      "start": 1700.6,
+      "end": 1707.48,
+      "text": "And UMC with operations in Singapore, Taiwan, Japan, and China"
+    },
+    {
+      "i": 405,
+      "start": 1707.48,
+      "end": 1710.04,
+      "text": "and upcoming U.S. capacities,"
+    },
+    {
+      "i": 406,
+      "start": 1711.18,
+      "end": 1714.16,
+      "text": "I think our customers appreciate it even more recently"
+    },
+    {
+      "i": 407,
+      "start": 1714.16,
+      "end": 1716.68,
+      "text": "with the option we can offer."
+    },
+    {
+      "i": 408,
+      "start": 1717.6,
+      "end": 1721.0,
+      "text": "So I think that's the feeling"
+    },
+    {
+      "i": 409,
+      "start": 1721.0,
+      "end": 1725.92,
+      "text": "and also the sense we get from the recent conversation"
+    },
+    {
+      "i": 410,
+      "start": 1725.92,
+      "end": 1726.76,
+      "text": "with manufacturing."
+    },
+    {
+      "i": 411,
+      "start": 1726.78,
+      "end": 1727.78,
+      "text": "So I think that's the feeling"
+    },
+    {
+      "i": 412,
+      "start": 1727.78,
+      "end": 1730.28,
+      "text": "that we can offer to many of our major customers."
+    },
+    {
+      "i": 413,
+      "start": 1730.28,
+      "end": 1731.1,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 414,
+      "start": 1731.1,
+      "end": 1732.1,
+      "text": "That's very clear."
+    },
+    {
+      "i": 415,
+      "start": 1732.1,
+      "end": 1737.66,
+      "text": "But a follow-up question on that is that what time do we expect"
+    },
+    {
+      "i": 416,
+      "start": 1737.66,
+      "end": 1740.8799999999999,
+      "text": "to see so-called meaningful contribution"
+    },
+    {
+      "i": 417,
+      "start": 1740.8799999999999,
+      "end": 1742.26,
+      "text": "from this kind of impact?"
+    },
+    {
+      "i": 418,
+      "start": 1742.26,
+      "end": 1747.66,
+      "text": "So far it's very difficult to quantify."
+    },
+    {
+      "i": 419,
+      "start": 1748.04,
+      "end": 1754.2,
+      "text": "But for our Singapore FAB,"
+    },
+    {
+      "i": 420,
+      "start": 1754.68,
+      "end": 1756.56,
+      "text": "probably the best example is the FAB FAB."
+    },
+    {
+      "i": 421,
+      "start": 1756.56,
+      "end": 1757.56,
+      "text": "And I think that's a very good example"
+    },
+    {
+      "i": 422,
+      "start": 1757.56,
+      "end": 1763.56,
+      "text": "that the P3 is going to volume production in early 2026."
+    },
+    {
+      "i": 423,
+      "start": 1763.56,
+      "end": 1771.56,
+      "text": "And I think it's becoming a very pursuit after location"
+    },
+    {
+      "i": 424,
+      "start": 1771.56,
+      "end": 1778.56,
+      "text": "for its less impacted geopolitical tension."
+    },
+    {
+      "i": 425,
+      "start": 1778.56,
+      "end": 1784.56,
+      "text": "So certainly if there is any demand,"
+    },
+    {
+      "i": 426,
+      "start": 1784.56,
+      "end": 1785.56,
+      "text": "it seeks,"
+    },
+    {
+      "i": 427,
+      "start": 1785.56,
+      "end": 1786.4199999999998,
+      "text": "it's a very good example."
+    },
+    {
+      "i": 428,
+      "start": 1786.42,
+      "end": 1789.42,
+      "text": "But if we meet the capacity we can offer,"
+    },
+    {
+      "i": 429,
+      "start": 1789.42,
+      "end": 1793.42,
+      "text": "we will certainly see a better performance"
+    },
+    {
+      "i": 430,
+      "start": 1793.42,
+      "end": 1795.42,
+      "text": "out of our Singapore side."
+    },
+    {
+      "i": 431,
+      "start": 1795.42,
+      "end": 1800.42,
+      "text": "And same argument can apply to any other side we have."
+    },
+    {
+      "i": 432,
+      "start": 1800.42,
+      "end": 1805.42,
+      "text": "So I cannot give you a quantified answer for now."
+    },
+    {
+      "i": 433,
+      "start": 1805.42,
+      "end": 1810.42,
+      "text": "Just the customer appreciation certainly will endorse"
+    },
+    {
+      "i": 434,
+      "start": 1810.42,
+      "end": 1815.42,
+      "text": "our customer relationship and the so-called thickness"
+    },
+    {
+      "i": 435,
+      "start": 1815.42,
+      "end": 1816.42,
+      "text": "for the longer term."
+    },
+    {
+      "i": 436,
+      "start": 1816.42,
+      "end": 1819.42,
+      "text": "So I think that's the first question."
+    },
+    {
+      "i": 437,
+      "start": 1819.42,
+      "end": 1820.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 438,
+      "start": 1820.42,
+      "end": 1821.42,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 439,
+      "start": 1821.42,
+      "end": 1824.42,
+      "text": "Hopefully that we can also gain more so-called LTA"
+    },
+    {
+      "i": 440,
+      "start": 1824.42,
+      "end": 1825.42,
+      "text": "with that as well."
+    },
+    {
+      "i": 441,
+      "start": 1825.42,
+      "end": 1828.42,
+      "text": "If any, please do let us know."
+    },
+    {
+      "i": 442,
+      "start": 1828.42,
+      "end": 1831.42,
+      "text": "So my second question would be, well, end market demand."
+    },
+    {
+      "i": 443,
+      "start": 1831.42,
+      "end": 1834.42,
+      "text": "So could you also provide insights into the demand trends"
+    },
+    {
+      "i": 444,
+      "start": 1834.42,
+      "end": 1836.42,
+      "text": "across the key end markets,"
+    },
+    {
+      "i": 445,
+      "start": 1836.42,
+      "end": 1841.42,
+      "text": "such as especially for automotive and also industrial,"
+    },
+    {
+      "i": 446,
+      "start": 1841.42,
+      "end": 1844.42,
+      "text": "as well as the consumer electronics?"
+    },
+    {
+      "i": 447,
+      "start": 1844.42,
+      "end": 1846.42,
+      "text": "Have there been any notable shift"
+    },
+    {
+      "i": 448,
+      "start": 1846.42,
+      "end": 1849.42,
+      "text": "in the customer behavior or other patterns recently"
+    },
+    {
+      "i": 449,
+      "start": 1849.42,
+      "end": 1851.42,
+      "text": "compared to our last earnest call?"
+    },
+    {
+      "i": 450,
+      "start": 1851.42,
+      "end": 1852.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 451,
+      "start": 1852.42,
+      "end": 1853.42,
+      "text": "Yeah."
+    },
+    {
+      "i": 452,
+      "start": 1853.42,
+      "end": 1857.42,
+      "text": "For Q1, you know, consumer segment grew,"
+    },
+    {
+      "i": 453,
+      "start": 1857.42,
+      "end": 1862.42,
+      "text": "as our CFO alluded to, driven by Wi-Fi, DTV, Setup Box,"
+    },
+    {
+      "i": 454,
+      "start": 1862.42,
+      "end": 1864.42,
+      "text": "and driver IC."
+    },
+    {
+      "i": 455,
+      "start": 1864.42,
+      "end": 1867.42,
+      "text": "But all the other segments, such as communication,"
+    },
+    {
+      "i": 456,
+      "start": 1867.42,
+      "end": 1869.42,
+      "text": "remain relatively flat."
+    },
+    {
+      "i": 457,
+      "start": 1869.42,
+      "end": 1872.42,
+      "text": "And we saw computing kind of decline due to a softer demand"
+    },
+    {
+      "i": 458,
+      "start": 1872.42,
+      "end": 1873.42,
+      "text": "in I.O."
+    },
+    {
+      "i": 459,
+      "start": 1873.42,
+      "end": 1875.42,
+      "text": "Automotive for Q1 also declined."
+    },
+    {
+      "i": 460,
+      "start": 1875.42,
+      "end": 1880.42,
+      "text": "For Q1 also declined due to softness in microcontrollers,"
+    },
+    {
+      "i": 461,
+      "start": 1880.42,
+      "end": 1882.42,
+      "text": "DDI, as well as power management."
+    },
+    {
+      "i": 462,
+      "start": 1882.42,
+      "end": 1887.42,
+      "text": "But as you know, for Q2, all major segments for computing,"
+    },
+    {
+      "i": 463,
+      "start": 1887.42,
+      "end": 1891.42,
+      "text": "communications, consumer will grow."
+    },
+    {
+      "i": 464,
+      "start": 1891.42,
+      "end": 1895.42,
+      "text": "For computing segments, we expect that growth will be driven"
+    },
+    {
+      "i": 465,
+      "start": 1895.42,
+      "end": 1897.42,
+      "text": "by a flash controller IC."
+    },
+    {
+      "i": 466,
+      "start": 1897.42,
+      "end": 1902.42,
+      "text": "For communication, it will be increased from ISP, networking,"
+    },
+    {
+      "i": 467,
+      "start": 1902.42,
+      "end": 1905.42,
+      "text": "flash controller, as well as Wi-Fi."
+    },
+    {
+      "i": 468,
+      "start": 1905.42,
+      "end": 1910.42,
+      "text": "For consumer, it will grow due to continuous growth from DTV"
+    },
+    {
+      "i": 469,
+      "start": 1910.42,
+      "end": 1911.42,
+      "text": "and Setup Box."
+    },
+    {
+      "i": 470,
+      "start": 1911.42,
+      "end": 1916.42,
+      "text": "And last, but for automotive, we expect that segment to be"
+    },
+    {
+      "i": 471,
+      "start": 1916.42,
+      "end": 1919.42,
+      "text": "flattish, looking for Q2."
+    },
+    {
+      "i": 472,
+      "start": 1919.42,
+      "end": 1924.42,
+      "text": "Should we expect any meaningful recovery from this auto"
+    },
+    {
+      "i": 473,
+      "start": 1924.42,
+      "end": 1931.42,
+      "text": "industry, which seems to be, well, relatively softer for a while?"
+    },
+    {
+      "i": 474,
+      "start": 1931.42,
+      "end": 1934.42,
+      "text": "So the automotive right now, we expect that it will be a little"
+    },
+    {
+      "i": 475,
+      "start": 1934.42,
+      "end": 1935.42,
+      "text": "bit more flexible."
+    },
+    {
+      "i": 476,
+      "start": 1935.42,
+      "end": 1938.42,
+      "text": "The inventory seems kind of, you know, relatively high,"
+    },
+    {
+      "i": 477,
+      "start": 1938.42,
+      "end": 1941.42,
+      "text": "obviously, compared to other key segments of our business."
+    },
+    {
+      "i": 478,
+      "start": 1941.42,
+      "end": 1946.42,
+      "text": "So for now, we remain in a more conservative tone for the"
+    },
+    {
+      "i": 479,
+      "start": 1946.42,
+      "end": 1947.42,
+      "text": "auto market."
+    },
+    {
+      "i": 480,
+      "start": 1947.42,
+      "end": 1949.42,
+      "text": "Got it."
+    },
+    {
+      "i": 481,
+      "start": 1949.42,
+      "end": 1950.42,
+      "text": "Thank you very much."
+    },
+    {
+      "i": 482,
+      "start": 1950.42,
+      "end": 1953.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 483,
+      "start": 1953.42,
+      "end": 1956.42,
+      "text": "Next one, Charlie Chan, Morgan Stanley."
+    },
+    {
+      "i": 484,
+      "start": 1956.42,
+      "end": 1957.42,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 485,
+      "start": 1957.42,
+      "end": 1964.42,
+      "text": "Thanks for taking my question."
+    },
+    {
+      "i": 486,
+      "start": 1964.42,
+      "end": 1968.42,
+      "text": "My first question will be also on gross margin."
+    },
+    {
+      "i": 487,
+      "start": 1968.42,
+      "end": 1974.42,
+      "text": "So it seems like 1Q, you're doing a little bit better than the"
+    },
+    {
+      "i": 488,
+      "start": 1974.42,
+      "end": 1982.42,
+      "text": "guidance of the mid-20, and 2Q kind of hit the 30% amid some pricing"
+    },
+    {
+      "i": 489,
+      "start": 1982.42,
+      "end": 1983.42,
+      "text": "pressure."
+    },
+    {
+      "i": 490,
+      "start": 1983.42,
+      "end": 1989.42,
+      "text": "Can you share with us some more color about which parts are doing"
+    },
+    {
+      "i": 491,
+      "start": 1989.42,
+      "end": 1993.42,
+      "text": "better, no matter pricing or cost, or is just a kind of a little bit"
+    },
+    {
+      "i": 492,
+      "start": 1993.42,
+      "end": 1997.3200000000002,
+      "text": "more of a"
+    },
+    {
+      "i": 493,
+      "start": 1997.3200000000002,
+      "end": 1999.42,
+      "text": "little bit more of a"
+    },
+    {
+      "i": 494,
+      "start": 1999.42,
+      "end": 2004.42,
+      "text": "more of a"
+    },
+    {
+      "i": 495,
+      "start": 2004.42,
+      "end": 2007.42,
+      "text": "more of a"
+    },
+    {
+      "i": 496,
+      "start": 2007.42,
+      "end": 2012.42,
+      "text": "kind of impact, so you can deliver a better gross margin?"
+    },
+    {
+      "i": 497,
+      "start": 2012.42,
+      "end": 2013.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 498,
+      "start": 2013.42,
+      "end": 2015.42,
+      "text": "Well, thank you for saying that's better."
+    },
+    {
+      "i": 499,
+      "start": 2015.42,
+      "end": 2017.42,
+      "text": "Personally, I don't think it's better."
+    },
+    {
+      "i": 500,
+      "start": 2017.42,
+      "end": 2019.42,
+      "text": "We never feel enough to pursue a better gross margin."
+    },
+    {
+      "i": 501,
+      "start": 2019.42,
+      "end": 2021.42,
+      "text": "I think it's a very important index internally for all the management teams."
+    },
+    {
+      "i": 502,
+      "start": 2021.42,
+      "end": 2026.42,
+      "text": "So we have to streamline our operations, manage supply chain pricing, and drive"
+    },
+    {
+      "i": 503,
+      "start": 2026.42,
+      "end": 2030.3200000000002,
+      "text": "automation transformation."
+    },
+    {
+      "i": 504,
+      "start": 2030.3200000000002,
+      "end": 2038.3200000000002,
+      "text": "So this measure kind of helps us to offset or at least partially about those"
+    },
+    {
+      "i": 505,
+      "start": 2038.3200000000002,
+      "end": 2045.3200000000002,
+      "text": "cost headwinds, including green energy, including yearly, annually, cost, and"
+    },
+    {
+      "i": 506,
+      "start": 2045.3200000000002,
+      "end": 2047.3200000000002,
+      "text": "also the cost of the energy."
+    },
+    {
+      "i": 507,
+      "start": 2047.3200000000002,
+      "end": 2049.32,
+      "text": "So we have to do a lot of work to do that."
+    },
+    {
+      "i": 508,
+      "start": 2049.32,
+      "end": 2050.32,
+      "text": "So I think it's a good point."
+    },
+    {
+      "i": 509,
+      "start": 2050.32,
+      "end": 2052.2200000000003,
+      "text": "Again I really appreciate your input about theılary adjustment."
+    },
+    {
+      "i": 510,
+      "start": 2054.32,
+      "end": 2061.32,
+      "text": "So there are a couple of headwinds we need to offset through our cost reduction"
+    },
+    {
+      "i": 511,
+      "start": 2061.32,
+      "end": 2062.32,
+      "text": "effort."
+    },
+    {
+      "i": 512,
+      "start": 2065.32,
+      "end": 2077.32,
+      "text": "And in the beginning of the call, we mentioned that Q1 Q wholes li startup"
+    },
+    {
+      "i": 513,
+      "start": 2077.32,
+      "end": 2078.26,
+      "text": "expectations compared theus."
+    },
+    {
+      "i": 514,
+      "start": 2078.26,
+      "end": 2080.2200000000003,
+      "text": "Right here head of exploitation at the comparing to the guidance we did for the beginning of the year."
+    },
+    {
+      "i": 515,
+      "start": 2080.22,
+      "end": 2085.4599999999996,
+      "text": "is enough for the increasing uncertainty for the second half."
+    },
+    {
+      "i": 516,
+      "start": 2085.4599999999996,
+      "end": 2088.7799999999997,
+      "text": "So pursuing a better force margin"
+    },
+    {
+      "i": 517,
+      "start": 2088.7799999999997,
+      "end": 2092.3599999999997,
+      "text": "is the analyst's mandate for management team."
+    },
+    {
+      "i": 518,
+      "start": 2092.3599999999997,
+      "end": 2095.58,
+      "text": "We hope we can do better."
+    },
+    {
+      "i": 519,
+      "start": 2095.58,
+      "end": 2098.3799999999997,
+      "text": "Yeah, thanks for the comment, and I"
+    },
+    {
+      "i": 520,
+      "start": 2098.3799999999997,
+      "end": 2101.3399999999997,
+      "text": "hope you can keep it up."
+    },
+    {
+      "i": 521,
+      "start": 2101.3399999999997,
+      "end": 2109.8999999999996,
+      "text": "And second question is about your partnership"
+    },
+    {
+      "i": 522,
+      "start": 2109.9,
+      "end": 2112.36,
+      "text": "with Intel in the US."
+    },
+    {
+      "i": 523,
+      "start": 2112.36,
+      "end": 2118.54,
+      "text": "So just out of curiosity, do you receive some requests"
+    },
+    {
+      "i": 524,
+      "start": 2118.54,
+      "end": 2124.42,
+      "text": "that some of your customers want you to accelerate that US"
+    },
+    {
+      "i": 525,
+      "start": 2124.42,
+      "end": 2126.4,
+      "text": "operation with Intel?"
+    },
+    {
+      "i": 526,
+      "start": 2126.4,
+      "end": 2131.38,
+      "text": "Because it seems like you're a foundry peer, right?"
+    },
+    {
+      "i": 527,
+      "start": 2131.38,
+      "end": 2134.3,
+      "text": "Seems to receive a similar request,"
+    },
+    {
+      "i": 528,
+      "start": 2134.3,
+      "end": 2137.7400000000002,
+      "text": "and even some customers are willing to pay higher"
+    },
+    {
+      "i": 529,
+      "start": 2137.7400000000002,
+      "end": 2139.48,
+      "text": "with a price to be produced."
+    },
+    {
+      "i": 530,
+      "start": 2139.48,
+      "end": 2139.88,
+      "text": "Therefore, you're not a customer."
+    },
+    {
+      "i": 531,
+      "start": 2139.88,
+      "end": 2139.9,
+      "text": "Right?"
+    },
+    {
+      "i": 532,
+      "start": 2139.9,
+      "end": 2142.42,
+      "text": "So for their chips to be produced in the US."
+    },
+    {
+      "i": 533,
+      "start": 2142.42,
+      "end": 2148.5,
+      "text": "I know you have a planned schedule for the 12 nanometer"
+    },
+    {
+      "i": 534,
+      "start": 2148.5,
+      "end": 2151.64,
+      "text": "in the US, but I'm just curious whether you"
+    },
+    {
+      "i": 535,
+      "start": 2151.64,
+      "end": 2157.38,
+      "text": "are receiving a similar request that I hope you can speed up."
+    },
+    {
+      "i": 536,
+      "start": 2157.38,
+      "end": 2158.32,
+      "text": "The answer is yes."
+    },
+    {
+      "i": 537,
+      "start": 2158.32,
+      "end": 2160.78,
+      "text": "I think most of the customers like"
+    },
+    {
+      "i": 538,
+      "start": 2160.78,
+      "end": 2165.3,
+      "text": "to see the 12 nanometer solution as early as possible,"
+    },
+    {
+      "i": 539,
+      "start": 2165.3,
+      "end": 2169.04,
+      "text": "and they also have a very aggressive product launch"
+    },
+    {
+      "i": 540,
+      "start": 2169.04,
+      "end": 2169.88,
+      "text": "time."
+    },
+    {
+      "i": 541,
+      "start": 2169.88,
+      "end": 2174.2000000000003,
+      "text": "And they hope our 12 nanometer solution can catch up"
+    },
+    {
+      "i": 542,
+      "start": 2174.2000000000003,
+      "end": 2176.1600000000003,
+      "text": "with their product roadmap."
+    },
+    {
+      "i": 543,
+      "start": 2176.1600000000003,
+      "end": 2177.9,
+      "text": "So yes, the pressure is there."
+    },
+    {
+      "i": 544,
+      "start": 2177.9,
+      "end": 2181.38,
+      "text": "We understand that, and we received the inquiries"
+    },
+    {
+      "i": 545,
+      "start": 2181.38,
+      "end": 2186.12,
+      "text": "from our, what we call the early adopters."
+    },
+    {
+      "i": 546,
+      "start": 2186.12,
+      "end": 2188.88,
+      "text": "That's why we are under the pressure"
+    },
+    {
+      "i": 547,
+      "start": 2188.88,
+      "end": 2192.3,
+      "text": "to try to expedite the whole process."
+    },
+    {
+      "i": 548,
+      "start": 2192.3,
+      "end": 2195.28,
+      "text": "But it's already a very aggressive process,"
+    },
+    {
+      "i": 549,
+      "start": 2195.28,
+      "end": 2196.6800000000003,
+      "text": "I mean timeline."
+    },
+    {
+      "i": 550,
+      "start": 2196.6800000000003,
+      "end": 2199.86,
+      "text": "So it's also the first time we cooperate."
+    },
+    {
+      "i": 551,
+      "start": 2199.86,
+      "end": 2203.04,
+      "text": "We are partners."
+    },
+    {
+      "i": 552,
+      "start": 2203.04,
+      "end": 2207.6200000000003,
+      "text": "And there's also many tasks that need"
+    },
+    {
+      "i": 553,
+      "start": 2207.6200000000003,
+      "end": 2213.6200000000003,
+      "text": "to be solved before we can even try to catch up"
+    },
+    {
+      "i": 554,
+      "start": 2213.6200000000003,
+      "end": 2215.88,
+      "text": "with our aggressive timeline."
+    },
+    {
+      "i": 555,
+      "start": 2215.88,
+      "end": 2222.92,
+      "text": "So again, there's pressure and wish to do so."
+    },
+    {
+      "i": 556,
+      "start": 2222.92,
+      "end": 2229.84,
+      "text": "But in reality, so far we are on track with our planned schedule."
+    },
+    {
+      "i": 557,
+      "start": 2229.86,
+      "end": 2230.7000000000003,
+      "text": "REN في VIEI TÁO."
+    },
+    {
+      "i": 558,
+      "start": 2230.7000000000003,
+      "end": 2231.26,
+      "text": "CHALLENGE TAKEN LONGER THAN AHHHHH"
+    },
+    {
+      "i": 559,
+      "start": 2231.26,
+      "end": 2232.2200000000003,
+      "text": "Right."
+    },
+    {
+      "i": 560,
+      "start": 2233.58,
+      "end": 2236.46,
+      "text": "So, do you want to say anything"
+    },
+    {
+      "i": 561,
+      "start": 2236.46,
+      "end": 2239.4,
+      "text": "toQuew for us at this stage,"
+    },
+    {
+      "i": 562,
+      "start": 2239.4,
+      "end": 2242.42,
+      "text": "but I would just go one thing,"
+    },
+    {
+      "i": 563,
+      "start": 2242.42,
+      "end": 2245.6600000000003,
+      "text": "I mentioned quite a few things"
+    },
+    {
+      "i": 564,
+      "start": 2245.6600000000003,
+      "end": 2247.96,
+      "text": "about the Ak cryingoptics in the last Dialog."
+    },
+    {
+      "i": 565,
+      "start": 2247.96,
+      "end": 2252.3,
+      "text": "So with the Ardent rumor aroundう"
+    },
+    {
+      "i": 566,
+      "start": 2252.3,
+      "end": 2254.2000000000003,
+      "text": "of the PDA,"
+    },
+    {
+      "i": 567,
+      "start": 2254.2000000000003,
+      "end": 2258.7200000000003,
+      "text": "are you still someone still assuming"
+    },
+    {
+      "i": 568,
+      "start": 2258.7200000000003,
+      "end": 2259.56,
+      "text": "the hardcore notion, like think,"
+    },
+    {
+      "i": 569,
+      "start": 2259.56,
+      "end": 2259.84,
+      "text": "you're going to leave it to come back once?"
+    },
+    {
+      "i": 570,
+      "start": 2259.86,
+      "end": 2269.9,
+      "text": "I ask these questions because your industry already officially denied their future partnership"
+    },
+    {
+      "i": 571,
+      "start": 2269.9,
+      "end": 2272.98,
+      "text": "with the USFAT, which is Intel."
+    },
+    {
+      "i": 572,
+      "start": 2272.98,
+      "end": 2282.86,
+      "text": "So I'm not sure if that gives you more room or your concerns wish you to migrate to more"
+    },
+    {
+      "i": 573,
+      "start": 2282.86,
+      "end": 2285.86,
+      "text": "advanced nodes that would adopt EUV."
+    },
+    {
+      "i": 574,
+      "start": 2285.86,
+      "end": 2294.86,
+      "text": "So if you are using the market story as the background for this question, I have to be"
+    },
+    {
+      "i": 575,
+      "start": 2294.86,
+      "end": 2295.86,
+      "text": "extremely careful, right?"
+    },
+    {
+      "i": 576,
+      "start": 2295.86,
+      "end": 2299.6600000000003,
+      "text": "So in that case, the answer is no."
+    },
+    {
+      "i": 577,
+      "start": 2299.6600000000003,
+      "end": 2305.7400000000002,
+      "text": "So we are only focusing on the current node, which is 12 nanometers."
+    },
+    {
+      "i": 578,
+      "start": 2305.7400000000002,
+      "end": 2308.86,
+      "text": "And that's both companies decided."
+    },
+    {
+      "i": 579,
+      "start": 2308.86,
+      "end": 2315.86,
+      "text": "And there's a contract between two companies to execute this 12 nanometer."
+    },
+    {
+      "i": 580,
+      "start": 2315.86,
+      "end": 2324.86,
+      "text": "And for UMC alone, of course, I can speak for UMC, we appreciate this collaboration"
+    },
+    {
+      "i": 581,
+      "start": 2324.86,
+      "end": 2325.86,
+      "text": "with our US partner."
+    },
+    {
+      "i": 582,
+      "start": 2325.86,
+      "end": 2336.86,
+      "text": "And we offer our fountry know-how and the bulk of the technology structure."
+    },
+    {
+      "i": 583,
+      "start": 2336.86,
+      "end": 2344.86,
+      "text": "And US partner offer the onsite capacity with very limited depreciation."
+    },
+    {
+      "i": 584,
+      "start": 2344.86,
+      "end": 2345.86,
+      "text": "So we think it's a good idea."
+    },
+    {
+      "i": 585,
+      "start": 2345.86,
+      "end": 2346.86,
+      "text": "I think it's a very innovative mutual benefit collaboration."
+    },
+    {
+      "i": 586,
+      "start": 2346.86,
+      "end": 2347.86,
+      "text": "And certainly, we don't want to be limited to the current node only."
+    },
+    {
+      "i": 587,
+      "start": 2347.86,
+      "end": 2352.86,
+      "text": "However, this on-site only cover 12 nanometer for now."
+    },
+    {
+      "i": 588,
+      "start": 2352.86,
+      "end": 2353.86,
+      "text": "Okay."
+    },
+    {
+      "i": 589,
+      "start": 2353.86,
+      "end": 2356.86,
+      "text": "That's a great answer as well."
+    },
+    {
+      "i": 590,
+      "start": 2356.86,
+      "end": 2359.86,
+      "text": "So the last one, I think, very kind of technical short-term question."
+    },
+    {
+      "i": 591,
+      "start": 2359.86,
+      "end": 2367.86,
+      "text": "So I'm sorry, but did you get the answer for this one?"
+    },
+    {
+      "i": 592,
+      "start": 2367.86,
+      "end": 2370.86,
+      "text": "Or is this a more technical question?"
+    },
+    {
+      "i": 593,
+      "start": 2370.86,
+      "end": 2371.86,
+      "text": "Is there anything else?"
+    },
+    {
+      "i": 594,
+      "start": 2371.86,
+      "end": 2372.86,
+      "text": "Yes."
+    },
+    {
+      "i": 595,
+      "start": 2372.86,
+      "end": 2374.86,
+      "text": "Yeah, I think there's a good answer."
+    },
+    {
+      "i": 596,
+      "start": 2374.86,
+      "end": 2377.86,
+      "text": "Do you maintain your full year guidance?"
+    },
+    {
+      "i": 597,
+      "start": 2377.86,
+      "end": 2379.78,
+      "text": "And if that's the case, what do you"
+    },
+    {
+      "i": 598,
+      "start": 2379.78,
+      "end": 2382.96,
+      "text": "imply half and half seasonality?"
+    },
+    {
+      "i": 599,
+      "start": 2382.96,
+      "end": 2388.6,
+      "text": "How much concerted are you back in for second half?"
+    },
+    {
+      "i": 600,
+      "start": 2388.6,
+      "end": 2393.46,
+      "text": "Our view for the whole 2025 hasn't really changed."
+    },
+    {
+      "i": 601,
+      "start": 2393.46,
+      "end": 2396.34,
+      "text": "Our view on 2025 boundary market is"
+    },
+    {
+      "i": 602,
+      "start": 2396.34,
+      "end": 2400.6800000000003,
+      "text": "expected to grow in the mid to high team percentage,"
+    },
+    {
+      "i": 603,
+      "start": 2400.6800000000003,
+      "end": 2404.06,
+      "text": "like we mentioned earlier the previous quarter."
+    },
+    {
+      "i": 604,
+      "start": 2404.06,
+      "end": 2410.56,
+      "text": "UNP's addressable market should grow around low single digits"
+    },
+    {
+      "i": 605,
+      "start": 2410.56,
+      "end": 2413.88,
+      "text": "for our addressable market, which we intend"
+    },
+    {
+      "i": 606,
+      "start": 2413.88,
+      "end": 2418.62,
+      "text": "and we have declared we're going to outgrow that."
+    },
+    {
+      "i": 607,
+      "start": 2418.62,
+      "end": 2425.54,
+      "text": "Of course, I just mentioned that the first quarter"
+    },
+    {
+      "i": 608,
+      "start": 2425.54,
+      "end": 2428.36,
+      "text": "plus the guidance for quarter two"
+    },
+    {
+      "i": 609,
+      "start": 2428.36,
+      "end": 2432.54,
+      "text": "put us a little bit ahead of our expectation."
+    },
+    {
+      "i": 610,
+      "start": 2432.54,
+      "end": 2434.04,
+      "text": "But the uncertainty is in the future."
+    },
+    {
+      "i": 611,
+      "start": 2434.04,
+      "end": 2439.32,
+      "text": "And second half may offset that, which we don't know clearly yet."
+    },
+    {
+      "i": 612,
+      "start": 2439.32,
+      "end": 2445.22,
+      "text": "So that's the current view for the whole 2025."
+    },
+    {
+      "i": 613,
+      "start": 2445.22,
+      "end": 2450.68,
+      "text": "So we probably use single digit, maybe mid single digit"
+    },
+    {
+      "i": 614,
+      "start": 2450.68,
+      "end": 2454.44,
+      "text": "as a full year guide and try to calculate"
+    },
+    {
+      "i": 615,
+      "start": 2454.44,
+      "end": 2455.64,
+      "text": "the implied second half."
+    },
+    {
+      "i": 616,
+      "start": 2455.64,
+      "end": 2461.22,
+      "text": "Is that the right way to think about your narrative"
+    },
+    {
+      "i": 617,
+      "start": 2461.22,
+      "end": 2462.5,
+      "text": "on second half?"
+    },
+    {
+      "i": 618,
+      "start": 2462.5,
+      "end": 2463.0,
+      "text": "Yeah."
+    },
+    {
+      "i": 619,
+      "start": 2463.0,
+      "end": 2463.7,
+      "text": "Let's stick to it."
+    },
+    {
+      "i": 620,
+      "start": 2463.7,
+      "end": 2464.04,
+      "text": "OK."
+    },
+    {
+      "i": 621,
+      "start": 2464.04,
+      "end": 2465.6,
+      "text": "So I think that's the qualitative statement"
+    },
+    {
+      "i": 622,
+      "start": 2465.6,
+      "end": 2471.52,
+      "text": "that we're trying very hard to outperform our addressable market."
+    },
+    {
+      "i": 623,
+      "start": 2471.52,
+      "end": 2472.06,
+      "text": "OK."
+    },
+    {
+      "i": 624,
+      "start": 2472.06,
+      "end": 2472.8,
+      "text": "OK."
+    },
+    {
+      "i": 625,
+      "start": 2472.8,
+      "end": 2473.42,
+      "text": "Thank you."
+    },
+    {
+      "i": 626,
+      "start": 2473.42,
+      "end": 2474.72,
+      "text": "Yeah, I'll be back to the queue."
+    },
+    {
+      "i": 627,
+      "start": 2474.72,
+      "end": 2476.92,
+      "text": "Thank you."
+    },
+    {
+      "i": 628,
+      "start": 2476.92,
+      "end": 2478.44,
+      "text": "Thank you."
+    },
+    {
+      "i": 629,
+      "start": 2478.44,
+      "end": 2481.06,
+      "text": "Next one, Goku Harihalen, JP Morgan."
+    },
+    {
+      "i": 630,
+      "start": 2481.06,
+      "end": 2482.98,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 631,
+      "start": 2482.98,
+      "end": 2483.68,
+      "text": "Yeah, hi."
+    },
+    {
+      "i": 632,
+      "start": 2483.68,
+      "end": 2486.08,
+      "text": "Hi, Chitong, David, and Michael."
+    },
+    {
+      "i": 633,
+      "start": 2486.08,
+      "end": 2488.8,
+      "text": "My first question is on margin."
+    },
+    {
+      "i": 634,
+      "start": 2488.8,
+      "end": 2493.7,
+      "text": "I think you've kind of got back to 30% in Q2."
+    },
+    {
+      "i": 635,
+      "start": 2493.7,
+      "end": 2497.54,
+      "text": "How should we think about the cadence for margins?"
+    },
+    {
+      "i": 636,
+      "start": 2497.54,
+      "end": 2502.02,
+      "text": "Because it looks like your implied expectation in the second half"
+    },
+    {
+      "i": 637,
+      "start": 2502.02,
+      "end": 2504.8399999999997,
+      "text": "is going to be largely flourished, looks like."
+    },
+    {
+      "i": 638,
+      "start": 2504.8399999999997,
+      "end": 2508.7599999999998,
+      "text": "So if that's the case, how should we think about margins?"
+    },
+    {
+      "i": 639,
+      "start": 2508.7599999999998,
+      "end": 2513.62,
+      "text": "And could you also refresh what is your expected depreciation growth?"
+    },
+    {
+      "i": 640,
+      "start": 2513.62,
+      "end": 2516.48,
+      "text": "I think last time you said high 20% for this year."
+    },
+    {
+      "i": 641,
+      "start": 2516.48,
+      "end": 2518.3799999999997,
+      "text": "Is that still the case given Q1?"
+    },
+    {
+      "i": 642,
+      "start": 2518.3799999999997,
+      "end": 2522.62,
+      "text": "I think the increase was not that big sequentially."
+    },
+    {
+      "i": 643,
+      "start": 2522.62,
+      "end": 2523.58,
+      "text": "Depreciation."
+    },
+    {
+      "i": 644,
+      "start": 2523.58,
+      "end": 2527.54,
+      "text": "The increase still had 20% for 2025."
+    },
+    {
+      "i": 645,
+      "start": 2527.54,
+      "end": 2531.08,
+      "text": "Each quarter is sequentially going up."
+    },
+    {
+      "i": 646,
+      "start": 2531.08,
+      "end": 2534.8199999999997,
+      "text": "So we are facing higher depreciation expenses"
+    },
+    {
+      "i": 647,
+      "start": 2534.8199999999997,
+      "end": 2536.7,
+      "text": "for every quarter."
+    },
+    {
+      "i": 648,
+      "start": 2536.7,
+      "end": 2539.2799999999997,
+      "text": "So that's the pressure."
+    },
+    {
+      "i": 649,
+      "start": 2539.2799999999997,
+      "end": 2544.2799999999997,
+      "text": "And for margin guidance, I think I"
+    },
+    {
+      "i": 650,
+      "start": 2544.2799999999997,
+      "end": 2549.2999999999997,
+      "text": "have to highlight that about 2 percentage points in Q1"
+    },
+    {
+      "i": 651,
+      "start": 2549.2999999999997,
+      "end": 2552.18,
+      "text": "was impact from the earthquake."
+    },
+    {
+      "i": 652,
+      "start": 2552.18,
+      "end": 2552.86,
+      "text": "That's one out."
+    },
+    {
+      "i": 653,
+      "start": 2552.86,
+      "end": 2553.36,
+      "text": "Yeah."
+    },
+    {
+      "i": 654,
+      "start": 2553.58,
+      "end": 2557.9,
+      "text": "So if you add back that 2%, the increase"
+    },
+    {
+      "i": 655,
+      "start": 2557.9,
+      "end": 2563.12,
+      "text": "is more mild for the second half."
+    },
+    {
+      "i": 656,
+      "start": 2563.12,
+      "end": 2568.42,
+      "text": "And again, we are very sensitive to loading for the second half"
+    },
+    {
+      "i": 657,
+      "start": 2568.42,
+      "end": 2571.5,
+      "text": "in terms of where we are for the margin."
+    },
+    {
+      "i": 658,
+      "start": 2571.5,
+      "end": 2579.96,
+      "text": "We know the factor such as pricing, the depreciation."
+    },
+    {
+      "i": 659,
+      "start": 2579.96,
+      "end": 2583.08,
+      "text": "But we don't know the factor for forex."
+    },
+    {
+      "i": 660,
+      "start": 2583.08,
+      "end": 2584.58,
+      "text": "And loading."
+    },
+    {
+      "i": 661,
+      "start": 2584.58,
+      "end": 2590.46,
+      "text": "So of course, we continue to try to enrich our product mix"
+    },
+    {
+      "i": 662,
+      "start": 2590.46,
+      "end": 2593.2799999999997,
+      "text": "by having more 22 nanometers."
+    },
+    {
+      "i": 663,
+      "start": 2593.2799999999997,
+      "end": 2596.02,
+      "text": "So all these factors blended together"
+    },
+    {
+      "i": 664,
+      "start": 2596.02,
+      "end": 2602.6,
+      "text": "create the formula for our gross margin, especially"
+    },
+    {
+      "i": 665,
+      "start": 2602.6,
+      "end": 2603.54,
+      "text": "in the second half."
+    },
+    {
+      "i": 666,
+      "start": 2606.24,
+      "end": 2606.74,
+      "text": "Understood."
+    },
+    {
+      "i": 667,
+      "start": 2606.74,
+      "end": 2610.4,
+      "text": "So is 22-28 combined now higher margin?"
+    },
+    {
+      "i": 668,
+      "start": 2613.08,
+      "end": 2616.12,
+      "text": "Compared to the corporate average already?"
+    },
+    {
+      "i": 669,
+      "start": 2616.12,
+      "end": 2619.46,
+      "text": "Or is it still not there yet?"
+    },
+    {
+      "i": 670,
+      "start": 2619.46,
+      "end": 2622.44,
+      "text": "If you exclude the new depreciation out"
+    },
+    {
+      "i": 671,
+      "start": 2622.44,
+      "end": 2627.46,
+      "text": "of Thailand P6 and Singapore P3, of course, it is."
+    },
+    {
+      "i": 672,
+      "start": 2627.46,
+      "end": 2630.2999999999997,
+      "text": "But if you include that, I'm not so sure."
+    },
+    {
+      "i": 673,
+      "start": 2630.2999999999997,
+      "end": 2633.84,
+      "text": "May not be the case."
+    },
+    {
+      "i": 674,
+      "start": 2633.84,
+      "end": 2636.7799999999997,
+      "text": "But the depreciation is there anyway,"
+    },
+    {
+      "i": 675,
+      "start": 2636.7799999999997,
+      "end": 2641.3199999999997,
+      "text": "with or without the extra 22-28 contribution."
+    },
+    {
+      "i": 676,
+      "start": 2641.3199999999997,
+      "end": 2642.16,
+      "text": "So of course."
+    },
+    {
+      "i": 677,
+      "start": 2642.16,
+      "end": 2642.72,
+      "text": "The margin is higher."
+    },
+    {
+      "i": 678,
+      "start": 2642.72,
+      "end": 2643.08,
+      "text": "OK."
+    },
+    {
+      "i": 679,
+      "start": 2643.08,
+      "end": 2645.66,
+      "text": "So the more the merrier."
+    },
+    {
+      "i": 680,
+      "start": 2645.66,
+      "end": 2646.38,
+      "text": "That's fair."
+    },
+    {
+      "i": 681,
+      "start": 2646.38,
+      "end": 2647.12,
+      "text": "Thanks, Chitang."
+    },
+    {
+      "i": 682,
+      "start": 2647.12,
+      "end": 2653.2599999999998,
+      "text": "So just on the Singapore P3, are you"
+    },
+    {
+      "i": 683,
+      "start": 2653.2599999999998,
+      "end": 2657.24,
+      "text": "having any thought about accelerating the capacity plan"
+    },
+    {
+      "i": 684,
+      "start": 2657.24,
+      "end": 2661.02,
+      "text": "given you mentioned you're getting a lot more demand"
+    },
+    {
+      "i": 685,
+      "start": 2661.02,
+      "end": 2663.2799999999997,
+      "text": "coming through for or interest coming through"
+    },
+    {
+      "i": 686,
+      "start": 2663.2799999999997,
+      "end": 2665.36,
+      "text": "for Singapore FAB?"
+    },
+    {
+      "i": 687,
+      "start": 2665.36,
+      "end": 2668.04,
+      "text": "Because I think previously you kind of slowed it down"
+    },
+    {
+      "i": 688,
+      "start": 2668.04,
+      "end": 2669.64,
+      "text": "a little bit compared to previous plan"
+    },
+    {
+      "i": 689,
+      "start": 2669.64,
+      "end": 2671.12,
+      "text": "given the demand outlook."
+    },
+    {
+      "i": 690,
+      "start": 2671.12,
+      "end": 2672.72,
+      "text": "Is that something that we could anticipate?"
+    },
+    {
+      "i": 691,
+      "start": 2672.72,
+      "end": 2675.06,
+      "text": "Anticipate some change?"
+    },
+    {
+      "i": 692,
+      "start": 2675.06,
+      "end": 2680.68,
+      "text": "I think that's definitely dynamic."
+    },
+    {
+      "i": 693,
+      "start": 2680.68,
+      "end": 2681.18,
+      "text": "OK."
+    },
+    {
+      "i": 694,
+      "start": 2681.18,
+      "end": 2685.3399999999997,
+      "text": "So the future capacity rent for Singapore"
+    },
+    {
+      "i": 695,
+      "start": 2685.3399999999997,
+      "end": 2689.6,
+      "text": "will depend on the alignment with our customer needs."
+    },
+    {
+      "i": 696,
+      "start": 2689.6,
+      "end": 2694.2799999999997,
+      "text": "And of course, we have begin to see a pickup in ."
+    },
+    {
+      "i": 697,
+      "start": 2694.2799999999997,
+      "end": 2700.3999999999996,
+      "text": "So that may or may not translate into a pickup in customer"
+    },
+    {
+      "i": 698,
+      "start": 2700.3999999999996,
+      "end": 2701.14,
+      "text": "demand."
+    },
+    {
+      "i": 699,
+      "start": 2701.14,
+      "end": 2702.1,
+      "text": "But paypal definitely."
+    },
+    {
+      "i": 700,
+      "start": 2702.1,
+      "end": 2702.6,
+      "text": "OK."
+    },
+    {
+      "i": 701,
+      "start": 2702.6,
+      "end": 2704.94,
+      "text": "So we're going to see a pickup in the future."
+    },
+    {
+      "i": 702,
+      "start": 2704.94,
+      "end": 2707.0,
+      "text": "So it could happen."
+    },
+    {
+      "i": 703,
+      "start": 2707.0,
+      "end": 2713.36,
+      "text": "But the current plan still, the production rent,"
+    },
+    {
+      "i": 704,
+      "start": 2713.36,
+      "end": 2719.44,
+      "text": "the next production will be in early 2026."
+    },
+    {
+      "i": 705,
+      "start": 2719.44,
+      "end": 2720.6,
+      "text": "Understood."
+    },
+    {
+      "i": 706,
+      "start": 2720.6,
+      "end": 2725.2,
+      "text": "And lastly, on the Intel collaboration,"
+    },
+    {
+      "i": 707,
+      "start": 2725.2,
+      "end": 2731.1,
+      "text": "I think once you start the 12 nanometer revenue contribution,"
+    },
+    {
+      "i": 708,
+      "start": 2731.1,
+      "end": 2732.48,
+      "text": "could you talk a little bit about what"
+    },
+    {
+      "i": 709,
+      "start": 2732.48,
+      "end": 2736.26,
+      "text": "kind of customers you are seeing adopting this?"
+    },
+    {
+      "i": 710,
+      "start": 2736.26,
+      "end": 2739.34,
+      "text": "And secondly, once you start revenue contribution,"
+    },
+    {
+      "i": 711,
+      "start": 2739.34,
+      "end": 2744.1,
+      "text": "what does the impact to your margins or EBITDA"
+    },
+    {
+      "i": 712,
+      "start": 2744.1,
+      "end": 2747.48,
+      "text": "given the unique kind of arrangement"
+    },
+    {
+      "i": 713,
+      "start": 2747.48,
+      "end": 2748.58,
+      "text": "that you have with Intel?"
+    },
+    {
+      "i": 714,
+      "start": 2751.32,
+      "end": 2751.82,
+      "text": "OK."
+    },
+    {
+      "i": 715,
+      "start": 2751.82,
+      "end": 2753.44,
+      "text": "Michael, to answer the first question,"
+    },
+    {
+      "i": 716,
+      "start": 2753.44,
+      "end": 2756.04,
+      "text": "I can answer the second question."
+    },
+    {
+      "i": 717,
+      "start": 2756.04,
+      "end": 2758.54,
+      "text": "OK."
+    },
+    {
+      "i": 718,
+      "start": 2758.54,
+      "end": 2760.2400000000002,
+      "text": "And for now, our key focus."
+    },
+    {
+      "i": 719,
+      "start": 2760.2400000000002,
+      "end": 2760.7400000000002,
+      "text": "Ah."
+    },
+    {
+      "i": 720,
+      "start": 2760.7400000000002,
+      "end": 2761.2400000000002,
+      "text": "Ah."
+    },
+    {
+      "i": 721,
+      "start": 2761.2400000000002,
+      "end": 2761.7400000000002,
+      "text": "Ah."
+    },
+    {
+      "i": 722,
+      "start": 2761.7400000000002,
+      "end": 2762.2400000000002,
+      "text": "Ah."
+    },
+    {
+      "i": 723,
+      "start": 2762.24,
+      "end": 2764.3399999999997,
+      "text": "getting the sensibility,"
+    },
+    {
+      "i": 724,
+      "start": 2764.3399999999997,
+      "end": 2766.2999999999997,
+      "text": "touch-centers,licting, and ap prompted"
+    },
+    {
+      "i": 725,
+      "start": 2766.2999999999997,
+      "end": 2769.24,
+      "text": "to push we pizza ."
+    },
+    {
+      "i": 726,
+      "start": 2769.24,
+      "end": 2776.2599999999998,
+      "text": "That's something that will bring下 get tips"
+    },
+    {
+      "i": 727,
+      "start": 2776.3599999999997,
+      "end": 2779.64,
+      "text": "and encima module getting anxious,"
+    },
+    {
+      "i": 728,
+      "start": 2779.7,
+      "end": 2783.24,
+      "text": "well, hopefully the tutorial advisory"
+    },
+    {
+      "i": 729,
+      "start": 2783.24,
+      "end": 2786.02,
+      "text": "on Tribal Pocket, which it's not."
+    },
+    {
+      "i": 730,
+      "start": 2788.02,
+      "end": 2792.08,
+      "text": "This is, in part, really an opera proposal."
+    },
+    {
+      "i": 731,
+      "start": 2792.08,
+      "end": 2802.4,
+      "text": "is a enhancement to our corporate average. It largely depends on the capacity utilization rate."
+    },
+    {
+      "i": 732,
+      "start": 2802.4,
+      "end": 2814.64,
+      "text": "And by structure, there's limited depreciation cost item in the COGS. But the overall US"
+    },
+    {
+      "i": 733,
+      "start": 2814.64,
+      "end": 2825.3199999999997,
+      "text": "manufacturing probably will both higher manufacturing cost than the manufacturing in Taiwan. So"
+    },
+    {
+      "i": 734,
+      "start": 2825.3199999999997,
+      "end": 2836.24,
+      "text": "these two factors will need to see how to offset each other. So there's still many variables."
+    },
+    {
+      "i": 735,
+      "start": 2836.24,
+      "end": 2840.8799999999997,
+      "text": "We have to wait until closer to 2027."
+    },
+    {
+      "i": 736,
+      "start": 2840.8799999999997,
+      "end": 2842.8799999999997,
+      "text": "Got it."
+    },
+    {
+      "i": 737,
+      "start": 2842.8799999999997,
+      "end": 2843.8799999999997,
+      "text": "And the"
+    },
+    {
+      "i": 738,
+      "start": 2843.8799999999997,
+      "end": 2844.64,
+      "text": "the"
+    },
+    {
+      "i": 739,
+      "start": 2844.64,
+      "end": 2851.6,
+      "text": "capacity allocated into this arrangement, is that largely a static capacity that Intel"
+    },
+    {
+      "i": 740,
+      "start": 2851.6,
+      "end": 2856.64,
+      "text": "has already allocated? Because obviously, they have a lot of capacity on 40 nanometer"
+    },
+    {
+      "i": 741,
+      "start": 2856.64,
+      "end": 2861.52,
+      "text": "given that was a full load for Intel, right? So they probably have quite a bit of capacity,"
+    },
+    {
+      "i": 742,
+      "start": 2862.16,
+      "end": 2866.96,
+      "text": "even after some of the conversion. So is that a static location? Or is it something that is"
+    },
+    {
+      "i": 743,
+      "start": 2866.96,
+      "end": 2874.64,
+      "text": "dynamic depending upon how demand goes? I will say more dynamic. However, it definitely needs"
+    },
+    {
+      "i": 744,
+      "start": 2874.64,
+      "end": 2885.68,
+      "text": "a certain economy of scale to start with. And depends on how customer adoption for this technology"
+    },
+    {
+      "i": 745,
+      "start": 2885.68,
+      "end": 2894.64,
+      "text": "and this collaboration. Certainly, we believe they could be upside if the market adoption is more than"
+    },
+    {
+      "i": 746,
+      "start": 2894.64,
+      "end": 2895.3599999999997,
+      "text": "expectation."
+    },
+    {
+      "i": 747,
+      "start": 2895.3599999999997,
+      "end": 2899.44,
+      "text": "Got it. Thank you very much."
+    },
+    {
+      "i": 748,
+      "start": 2899.44,
+      "end": 2900.64,
+      "text": "Thank you."
+    },
+    {
+      "i": 749,
+      "start": 2900.64,
+      "end": 2902.16,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 750,
+      "start": 2902.16,
+      "end": 2902.64,
+      "text": "Thanks, everyone."
+    },
+    {
+      "i": 751,
+      "start": 2902.64,
+      "end": 2902.72,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 752,
+      "start": 2902.72,
+      "end": 2902.96,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 753,
+      "start": 2902.96,
+      "end": 2903.12,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 754,
+      "start": 2903.12,
+      "end": 2903.52,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 755,
+      "start": 2903.52,
+      "end": 2903.7599999999998,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 756,
+      "start": 2903.7599999999998,
+      "end": 2904.0,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 757,
+      "start": 2904.0,
+      "end": 2904.16,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 758,
+      "start": 2904.16,
+      "end": 2904.48,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 759,
+      "start": 2904.48,
+      "end": 2904.64,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 760,
+      "start": 2904.64,
+      "end": 2905.14,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 761,
+      "start": 2905.14,
+      "end": 2905.48,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 762,
+      "start": 2905.48,
+      "end": 2906.2799999999997,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 763,
+      "start": 2906.2799999999997,
+      "end": 2907.04,
+      "text": "Next one, Felix Pan."
+    },
+    {
+      "i": 764,
+      "start": 2907.04,
+      "end": 2908.7999999999997,
+      "text": "Hi. Take a little bit about the whole"
+    },
+    {
+      "i": 765,
+      "start": 2908.7999999999997,
+      "end": 2910.1,
+      "text": "the MU terms actually."
+    },
+    {
+      "i": 766,
+      "start": 2910.1,
+      "end": 2911.92,
+      "text": "I want to say that we are almost infern- media seminar arms end consumer zero with the"
+    },
+    {
+      "i": 767,
+      "start": 2911.92,
+      "end": 2912.22,
+      "text": "results of last year."
+    },
+    {
+      "i": 768,
+      "start": 2912.22,
+      "end": 2912.48,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 769,
+      "start": 2912.48,
+      "end": 2912.56,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 770,
+      "start": 2912.56,
+      "end": 2912.64,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 771,
+      "start": 2912.64,
+      "end": 2912.7799999999997,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 772,
+      "start": 2912.7799999999997,
+      "end": 2913.04,
+      "text": "Thanks, ragp y."
+    },
+    {
+      "i": 773,
+      "start": 2913.04,
+      "end": 2913.2999999999997,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 774,
+      "start": 2913.2999999999997,
+      "end": 2914.2,
+      "text": "So far, it sounds reasonable."
+    },
+    {
+      "i": 775,
+      "start": 2914.2,
+      "end": 2916.7599999999998,
+      "text": "Next one, Carlos weigh de."
+    },
+    {
+      "i": 776,
+      "start": 2916.7599999999998,
+      "end": 2917.7599999999998,
+      "text": "I have not heard from you yet, yet."
+    },
+    {
+      "i": 777,
+      "start": 2917.7599999999998,
+      "end": 2923.08,
+      "text": "Next, Carlos weigh de for getting its"
+    },
+    {
+      "i": 778,
+      "start": 2923.08,
+      "end": 2925.8599999999997,
+      "text": "So,alf a,"
+    },
+    {
+      "i": 779,
+      "start": 2925.8599999999997,
+      "end": 2926.18,
+      "text": "Okay."
+    },
+    {
+      "i": 780,
+      "start": 2926.18,
+      "end": 2926.44,
+      "text": "Next, yes."
+    },
+    {
+      "i": 781,
+      "start": 2926.44,
+      "end": 2927.46,
+      "text": "next slide."
+    },
+    {
+      "i": 782,
+      "start": 2927.46,
+      "end": 2928.62,
+      "text": "Next slide."
+    },
+    {
+      "i": 783,
+      "start": 2928.62,
+      "end": 2929.48,
+      "text": "So, K3 or K8."
+    },
+    {
+      "i": 784,
+      "start": 2930.18,
+      "end": 2931.2999999999997,
+      "text": "so, at this point, once you consider,"
+    },
+    {
+      "i": 785,
+      "start": 2931.3,
+      "end": 2936.3,
+      "text": "this kind of a view if the tariffs are semi-conducted in place?"
+    },
+    {
+      "i": 786,
+      "start": 2936.3,
+      "end": 2939.3,
+      "text": "That's my first question."
+    },
+    {
+      "i": 787,
+      "start": 2939.3,
+      "end": 2943.3,
+      "text": "So I cannot comment on our competitor."
+    },
+    {
+      "i": 788,
+      "start": 2943.3,
+      "end": 2952.3,
+      "text": "And I also mentioned earlier, UMC will adopt a very transparent cooperation alignment with"
+    },
+    {
+      "i": 789,
+      "start": 2952.3,
+      "end": 2958.3,
+      "text": "our customers to cope with these potential tariff issues."
+    },
+    {
+      "i": 790,
+      "start": 2958.3,
+      "end": 2961.3,
+      "text": "So that's our thing."
+    },
+    {
+      "i": 791,
+      "start": 2961.3,
+      "end": 2973.3,
+      "text": "So how to deal with these possible potential tariffs together with our customers is our key approach."
+    },
+    {
+      "i": 792,
+      "start": 2973.3,
+      "end": 2974.3,
+      "text": "Okay."
+    },
+    {
+      "i": 793,
+      "start": 2974.3,
+      "end": 2985.3,
+      "text": "So can I – so that means you don't rule out the possibility that foundry also have to bear the cost"
+    },
+    {
+      "i": 794,
+      "start": 2985.3,
+      "end": 2986.3,
+      "text": "at some degree."
+    },
+    {
+      "i": 795,
+      "start": 2986.3,
+      "end": 2987.3,
+      "text": "Is that in place?"
+    },
+    {
+      "i": 796,
+      "start": 2987.3,
+      "end": 2988.3,
+      "text": "Is that –"
+    },
+    {
+      "i": 797,
+      "start": 2988.3,
+      "end": 2989.3,
+      "text": "Right."
+    },
+    {
+      "i": 798,
+      "start": 2989.3,
+      "end": 2992.3,
+      "text": "It's not what I said, no."
+    },
+    {
+      "i": 799,
+      "start": 2992.3,
+      "end": 2993.3,
+      "text": "Okay."
+    },
+    {
+      "i": 800,
+      "start": 2993.3,
+      "end": 3003.3,
+      "text": "What I said was we will cooperate with our customers in a very transparent environment"
+    },
+    {
+      "i": 801,
+      "start": 3003.3,
+      "end": 3009.3,
+      "text": "and collaboratively to deal with these tariffs issues."
+    },
+    {
+      "i": 802,
+      "start": 3009.3,
+      "end": 3010.3,
+      "text": "Okay."
+    },
+    {
+      "i": 803,
+      "start": 3010.3,
+      "end": 3011.3,
+      "text": "Okay."
+    },
+    {
+      "i": 804,
+      "start": 3011.3,
+      "end": 3012.3,
+      "text": "Understood."
+    },
+    {
+      "i": 805,
+      "start": 3012.3,
+      "end": 3013.3,
+      "text": "Okay."
+    },
+    {
+      "i": 806,
+      "start": 3013.3,
+      "end": 3017.3,
+      "text": "The second question, I understood that the visibility for second half still – I understand"
+    },
+    {
+      "i": 807,
+      "start": 3017.3,
+      "end": 3018.3,
+      "text": "the second half still unclear."
+    },
+    {
+      "i": 808,
+      "start": 3018.3,
+      "end": 3027.3,
+      "text": "And I think besides the demand profile, can you just share a little bit if the cycle – if"
+    },
+    {
+      "i": 809,
+      "start": 3027.3,
+      "end": 3033.3,
+      "text": "the – potentially the down cycle is coming, assuming that, how you see the inventory level"
+    },
+    {
+      "i": 810,
+      "start": 3033.3,
+      "end": 3037.3,
+      "text": "across the different application from your perspective?"
+    },
+    {
+      "i": 811,
+      "start": 3037.3,
+      "end": 3038.3,
+      "text": "Okay."
+    },
+    {
+      "i": 812,
+      "start": 3038.3,
+      "end": 3045.3,
+      "text": "So as far as the inventory goes, the current days of inventory remain similar to the current"
+    },
+    {
+      "i": 813,
+      "start": 3045.3,
+      "end": 3048.3,
+      "text": "quarter, 2025."
+    },
+    {
+      "i": 814,
+      "start": 3048.3,
+      "end": 3056.3,
+      "text": "In terms of applications, the DOI as well as the inventory for consumer electronics remain"
+    },
+    {
+      "i": 815,
+      "start": 3056.3,
+      "end": 3057.3,
+      "text": "at a healthy level."
+    },
+    {
+      "i": 816,
+      "start": 3057.3,
+      "end": 3063.3,
+      "text": "However, days of inventory for automotive and industrial segments remains relatively"
+    },
+    {
+      "i": 817,
+      "start": 3063.3,
+      "end": 3068.3,
+      "text": "high, and we expect that it will take more time to digest."
+    },
+    {
+      "i": 818,
+      "start": 3068.3,
+      "end": 3073.3,
+      "text": "So obviously we will continue to carefully monitor and monitor those."
+    },
+    {
+      "i": 819,
+      "start": 3073.3,
+      "end": 3081.3,
+      "text": "Obviously, we will continue to carefully monitor the ongoing impact of the tariff policies."
+    },
+    {
+      "i": 820,
+      "start": 3081.3,
+      "end": 3086.8,
+      "text": "And it has obviously created a very challenging environment in the semiconductor supply chain."
+    },
+    {
+      "i": 821,
+      "start": 3086.8,
+      "end": 3087.8,
+      "text": "Okay."
+    },
+    {
+      "i": 822,
+      "start": 3087.8,
+      "end": 3091.86,
+      "text": "Can I just have a quick follow-up on that?"
+    },
+    {
+      "i": 823,
+      "start": 3091.86,
+      "end": 3095.0,
+      "text": "I understood different from other cycles."
+    },
+    {
+      "i": 824,
+      "start": 3095.0,
+      "end": 3099.3,
+      "text": "Currently, besides the auto, every other application is at a healthy level."
+    },
+    {
+      "i": 825,
+      "start": 3099.3,
+      "end": 3101.3,
+      "text": "But because of the 90-day – the 90-day policy, we have to be careful."
+    },
+    {
+      "i": 826,
+      "start": 3101.3,
+      "end": 3102.3,
+      "text": "And I think it's a good point."
+    },
+    {
+      "i": 827,
+      "start": 3102.3,
+      "end": 3105.26,
+      "text": "You know, the 90-day post for the tariff is things."
+    },
+    {
+      "i": 828,
+      "start": 3105.26,
+      "end": 3113.3,
+      "text": "So you see the inventory like how likely to, you know, elevate in second quarters."
+    },
+    {
+      "i": 829,
+      "start": 3113.3,
+      "end": 3119.3,
+      "text": "Do you think this – that the play like that and how serious for the inventory pipe-up?"
+    },
+    {
+      "i": 830,
+      "start": 3119.3,
+      "end": 3128.8,
+      "text": "As we mentioned, there's not much so-called net-net impact from the tariff rush order yet"
+    },
+    {
+      "i": 831,
+      "start": 3128.8,
+      "end": 3130.3,
+      "text": "in the second quarter."
+    },
+    {
+      "i": 832,
+      "start": 3130.3,
+      "end": 3132.3,
+      "text": "So, you know, we're not sure."
+    },
+    {
+      "i": 833,
+      "start": 3132.3,
+      "end": 3143.3,
+      "text": "It should translate to a normal – a normal inventory for the coming quarter."
+    },
+    {
+      "i": 834,
+      "start": 3143.3,
+      "end": 3153.3,
+      "text": "However, again, the second half visibility is very, very limited."
+    },
+    {
+      "i": 835,
+      "start": 3153.3,
+      "end": 3159.26,
+      "text": "So anything using the current data to assume may change overnight."
+    },
+    {
+      "i": 836,
+      "start": 3159.26,
+      "end": 3160.26,
+      "text": "Okay."
+    },
+    {
+      "i": 837,
+      "start": 3160.26,
+      "end": 3161.26,
+      "text": "Thank you."
+    },
+    {
+      "i": 838,
+      "start": 3161.26,
+      "end": 3162.26,
+      "text": "Thank you."
+    },
+    {
+      "i": 839,
+      "start": 3162.26,
+      "end": 3164.2200000000003,
+      "text": "Next one, Jason Zhang, CLSA."
+    },
+    {
+      "i": 840,
+      "start": 3164.2200000000003,
+      "end": 3165.2200000000003,
+      "text": "Go ahead, please."
+    },
+    {
+      "i": 841,
+      "start": 3165.2200000000003,
+      "end": 3166.2200000000003,
+      "text": "Thank you for taking my questions."
+    },
+    {
+      "i": 842,
+      "start": 3166.2200000000003,
+      "end": 3171.2200000000003,
+      "text": "My first question is in terms of the advanced packaging."
+    },
+    {
+      "i": 843,
+      "start": 3171.2200000000003,
+      "end": 3180.26,
+      "text": "I think, perhaps, you mentioned that UMC probably is moving – will move into the"
+    },
+    {
+      "i": 844,
+      "start": 3180.26,
+      "end": 3185.26,
+      "text": "packaging phase, in the form of the advanced packaging."
+    },
+    {
+      "i": 845,
+      "start": 3185.26,
+      "end": 3187.26,
+      "text": "So, what do you think of it?"
+    },
+    {
+      "i": 846,
+      "start": 3187.26,
+      "end": 3190.26,
+      "text": "I think, I think the best way to do it is to move it to the advanced packaging phase."
+    },
+    {
+      "i": 847,
+      "start": 3190.26,
+      "end": 3193.6000000000004,
+      "text": "will move into the advanced packaging market."
+    },
+    {
+      "i": 848,
+      "start": 3194.1200000000003,
+      "end": 3200.1800000000003,
+      "text": "So can you provide us more details or long-term plans in terms of this new area?"
+    },
+    {
+      "i": 849,
+      "start": 3200.8,
+      "end": 3210.7400000000002,
+      "text": "And I also saw the news or rumors such as that UMC is cooperating with U.S. clients such as Qualcomm."
+    },
+    {
+      "i": 850,
+      "start": 3210.7400000000002,
+      "end": 3217.1000000000004,
+      "text": "So I wonder if you can provide more details in terms of this new application."
+    },
+    {
+      "i": 851,
+      "start": 3217.6400000000003,
+      "end": 3218.0600000000004,
+      "text": "Thank you."
+    },
+    {
+      "i": 852,
+      "start": 3219.0200000000004,
+      "end": 3219.3,
+      "text": "All right."
+    },
+    {
+      "i": 853,
+      "start": 3219.36,
+      "end": 3219.88,
+      "text": "Thanks, Jason."
+    },
+    {
+      "i": 854,
+      "start": 3219.88,
+      "end": 3223.08,
+      "text": "Obviously, we can't really comment on specific customers."
+    },
+    {
+      "i": 855,
+      "start": 3224.02,
+      "end": 3234.1,
+      "text": "But as far as packaging-wise goes, we're very, very excited about our customer engagement in 3D wafer-to-wafer segments"
+    },
+    {
+      "i": 856,
+      "start": 3234.1,
+      "end": 3237.8,
+      "text": "that encompasses RF front-end modules."
+    },
+    {
+      "i": 857,
+      "start": 3238.6600000000003,
+      "end": 3244.08,
+      "text": "Also for sensor memory as well as logic, we've gotten the requirements,"
+    },
+    {
+      "i": 858,
+      "start": 3244.38,
+      "end": 3247.42,
+      "text": "and they're actually picking up in terms of engagement."
+    },
+    {
+      "i": 859,
+      "start": 3247.42,
+      "end": 3249.84,
+      "text": "As far as 2.5D enterprise,"
+    },
+    {
+      "i": 860,
+      "start": 3249.88,
+      "end": 3258.62,
+      "text": "we have seen that the projects for HPC-related projects for interposers as well"
+    },
+    {
+      "i": 861,
+      "start": 3258.62,
+      "end": 3265.0,
+      "text": "as deep trench capacitor, these requirements have also continued to grow."
+    },
+    {
+      "i": 862,
+      "start": 3265.56,
+      "end": 3272.0,
+      "text": "So we expect that obviously will be a trend to come, and we will definitely prepare ourselves"
+    },
+    {
+      "i": 863,
+      "start": 3272.0,
+      "end": 3273.8,
+      "text": "to accommodate these emerging trends."
+    },
+    {
+      "i": 864,
+      "start": 3276.96,
+      "end": 3277.26,
+      "text": "Got it."
+    },
+    {
+      "i": 865,
+      "start": 3277.38,
+      "end": 3277.78,
+      "text": "Thank you."
+    },
+    {
+      "i": 866,
+      "start": 3277.92,
+      "end": 3278.98,
+      "text": "So how do you see the future of the 3D wafer?"
+    },
+    {
+      "i": 867,
+      "start": 3278.98,
+      "end": 3286.96,
+      "text": "How's the contribution do you expect in the future if those kind of projects can, you know,"
+    },
+    {
+      "i": 868,
+      "start": 3286.96,
+      "end": 3292.42,
+      "text": "start meaningful shipments or volumes in this year or in the future?"
+    },
+    {
+      "i": 869,
+      "start": 3292.42,
+      "end": 3292.8,
+      "text": "Thank you."
+    },
+    {
+      "i": 870,
+      "start": 3293.92,
+      "end": 3295.72,
+      "text": "This is still in a very early stage."
+    },
+    {
+      "i": 871,
+      "start": 3295.98,
+      "end": 3305.04,
+      "text": "So we don't expect to see significant revenue contribution in 2025."
+    },
+    {
+      "i": 872,
+      "start": 3305.04,
+      "end": 3308.5,
+      "text": "Got it."
+    },
+    {
+      "i": 873,
+      "start": 3308.6,
+      "end": 3308.94,
+      "text": "Got it."
+    },
+    {
+      "i": 874,
+      "start": 3308.94,
+      "end": 3313.8,
+      "text": "So my second question is in terms of the demand side."
+    },
+    {
+      "i": 875,
+      "start": 3314.5,
+      "end": 3323.98,
+      "text": "I think your competitor in China also suggests that there is a very solid growth momentum"
+    },
+    {
+      "i": 876,
+      "start": 3323.98,
+      "end": 3331.02,
+      "text": "on demand side, and their utilization rate has meaningful improvements since second half last year."
+    },
+    {
+      "i": 877,
+      "start": 3331.7799999999997,
+      "end": 3335.02,
+      "text": "So, and you also gave a very, you know, very good answer to that question."
+    },
+    {
+      "i": 878,
+      "start": 3335.04,
+      "end": 3337.3,
+      "text": "So I think that there is a solid growth in Q2."
+    },
+    {
+      "i": 879,
+      "start": 3337.92,
+      "end": 3345.96,
+      "text": "So can we assume that there's structural improvements or recovery or growth in mature node?"
+    },
+    {
+      "i": 880,
+      "start": 3346.86,
+      "end": 3355.88,
+      "text": "And or do we see a lower competition from Chinese players because of this kind of recovery or improvement?"
+    },
+    {
+      "i": 881,
+      "start": 3356.74,
+      "end": 3363.2,
+      "text": "And looking into the future, if this kind of demand can further increase,"
+    },
+    {
+      "i": 882,
+      "start": 3363.2,
+      "end": 3364.44,
+      "text": "I mean,"
+    },
+    {
+      "i": 883,
+      "start": 3365.04,
+      "end": 3373.64,
+      "text": "can our selling price or growth margin can be driven by this kind of meaningful growth?"
+    },
+    {
+      "i": 884,
+      "start": 3375.3,
+      "end": 3375.54,
+      "text": "Yeah."
+    },
+    {
+      "i": 885,
+      "start": 3375.62,
+      "end": 3378.82,
+      "text": "So I wonder if you can give us more color on it."
+    },
+    {
+      "i": 886,
+      "start": 3378.94,
+      "end": 3379.32,
+      "text": "Thank you."
+    },
+    {
+      "i": 887,
+      "start": 3381.06,
+      "end": 3383.68,
+      "text": "Yeah, I wish I could jump into a conclusion."
+    },
+    {
+      "i": 888,
+      "start": 3383.92,
+      "end": 3385.92,
+      "text": "I mean, that would be great."
+    },
+    {
+      "i": 889,
+      "start": 3386.1,
+      "end": 3389.12,
+      "text": "But unfortunately, that's not what we see right now."
+    },
+    {
+      "i": 890,
+      "start": 3389.12,
+      "end": 3394.96,
+      "text": "What we are seeing is really for the first quarter and the second,"
+    },
+    {
+      "i": 891,
+      "start": 3394.96,
+      "end": 3395.02,
+      "text": "second quarter,"
+    },
+    {
+      "i": 892,
+      "start": 3395.02,
+      "end": 3396.02,
+      "text": "guidance."
+    },
+    {
+      "i": 893,
+      "start": 3396.02,
+      "end": 3401.02,
+      "text": "We are a little bit ahead of year, beginning of the year guidance."
+    },
+    {
+      "i": 894,
+      "start": 3401.02,
+      "end": 3405.02,
+      "text": "So it's doing slightly better, but not too much."
+    },
+    {
+      "i": 895,
+      "start": 3405.02,
+      "end": 3415.02,
+      "text": "And the increasing geopolitical tensions and the potential tariffs certainly shadow the second half."
+    },
+    {
+      "i": 896,
+      "start": 3415.02,
+      "end": 3421.02,
+      "text": "And visibility has become very unclear for the second half."
+    },
+    {
+      "i": 897,
+      "start": 3421.02,
+      "end": 3423.02,
+      "text": "So we cannot jump into the conclusion."
+    },
+    {
+      "i": 898,
+      "start": 3423.02,
+      "end": 3424.02,
+      "text": "I think we have a lot of time."
+    },
+    {
+      "i": 899,
+      "start": 3424.02,
+      "end": 3424.24,
+      "text": "Thank you."
+    },
+    {
+      "i": 900,
+      "start": 3424.24,
+      "end": 3425.24,
+      "text": "And congratulations."
+    },
+    {
+      "i": 901,
+      "start": 3425.24,
+      "end": 3425.4399999999996,
+      "text": "Thank you."
+    },
+    {
+      "i": 902,
+      "start": 3425.4399999999996,
+      "end": 3425.5,
+      "text": "Thank you."
+    },
+    {
+      "i": 903,
+      "start": 3425.5,
+      "end": 3428.66,
+      "text": "Thank you all for listening to the conclusion."
+    },
+    {
+      "i": 904,
+      "start": 3428.66,
+      "end": 3440.2799999999997,
+      "text": "You mentioned although the continue to focus on the differential technology in order to cope with the upcoming new competitors."
+    },
+    {
+      "i": 905,
+      "start": 3440.2799999999997,
+      "end": 3454.22,
+      "text": "And 2228 platform is crucial for the strategy to move away from the commodity type of market."
+    },
+    {
+      "i": 906,
+      "start": 3454.24,
+      "end": 3465.54,
+      "text": "We have probably the most competitive solution in 2228E-HIV, which has enabled UMC to become the leader in OLED display market action."
+    },
+    {
+      "i": 907,
+      "start": 3465.8599999999997,
+      "end": 3474.04,
+      "text": "In addition, our 22 ultra-low power and 22 ultra-low leakage technology."
+    },
+    {
+      "i": 908,
+      "start": 3475.08,
+      "end": 3480.54,
+      "text": "This offering delivers 30% to 50% power savings compared to standard 28nm NUCs."
+    },
+    {
+      "i": 909,
+      "start": 3480.54,
+      "end": 3487.24,
+      "text": "And it's ideal for IoT device wearables and HAI applications."
+    },
+    {
+      "i": 910,
+      "start": 3488.82,
+      "end": 3510.18,
+      "text": "So all this, plus our diversified manufacturing locations, we believe we are in a unique position to fend off those potential commodity capacity, no matter where you're located."
+    },
+    {
+      "i": 911,
+      "start": 3510.54,
+      "end": 3513.58,
+      "text": "So we are confident about our strategic position."
+    },
+    {
+      "i": 912,
+      "start": 3515.22,
+      "end": 3517.94,
+      "text": "So hopefully that answers your question."
+    },
+    {
+      "i": 913,
+      "start": 3521.52,
+      "end": 3526.1,
+      "text": "Understood. Thank you. I have no more questions. Back to you. Thank you."
+    },
+    {
+      "i": 914,
+      "start": 3526.98,
+      "end": 3535.62,
+      "text": "Thank you. And ladies and gentlemen, we're going to take the last question. And the last one, Ted Ling, HSBC. Go ahead, please."
+    },
+    {
+      "i": 915,
+      "start": 3537.06,
+      "end": 3539.02,
+      "text": "Hi. Thank you for taking my question."
+    },
+    {
+      "i": 916,
+      "start": 3540.54,
+      "end": 3551.16,
+      "text": "So my question is, with the ongoing tension between US and China, do you foresee any potential impact to your China staff?"
+    },
+    {
+      "i": 917,
+      "start": 3551.52,
+      "end": 3566.58,
+      "text": "Like, for example, like, are you expecting like foreign customers to reallocate their orders from your China facility to maybe outside of China, such as Singapore or Japan or even Taiwan?"
+    },
+    {
+      "i": 918,
+      "start": 3566.92,
+      "end": 3569.2799999999997,
+      "text": "And do you foresee your customer?"
+    },
+    {
+      "i": 919,
+      "start": 3570.54,
+      "end": 3578.72,
+      "text": "Localized customer to maybe reallocate, also allocate their orders to a domestic China country?"
+    },
+    {
+      "i": 920,
+      "start": 3580.5,
+      "end": 3594.1,
+      "text": "First of all, in order to mitigate the geopolitical tension, what we can do is first, to 100% following the law."
+    },
+    {
+      "i": 921,
+      "start": 3594.6,
+      "end": 3600.2599999999998,
+      "text": "So no matter it's export control, or any of the local compliance requirements."
+    },
+    {
+      "i": 922,
+      "start": 3600.54,
+      "end": 3601.2799999999997,
+      "text": "So we are following the rules."
+    },
+    {
+      "i": 923,
+      "start": 3601.38,
+      "end": 3611.44,
+      "text": "UMT devotes all the resources to meet the compliance and the export control requirements."
+    },
+    {
+      "i": 924,
+      "start": 3611.54,
+      "end": 3613.82,
+      "text": "So we're following every rules out there."
+    },
+    {
+      "i": 925,
+      "start": 3615.58,
+      "end": 3618.72,
+      "text": "There's no gray area for that."
+    },
+    {
+      "i": 926,
+      "start": 3619.68,
+      "end": 3629.86,
+      "text": "And secondly, we are happy with our geographically diversified,"
+    },
+    {
+      "i": 927,
+      "start": 3630.54,
+      "end": 3634.54,
+      "text": "production base because you never know at what point of the time"
+    },
+    {
+      "i": 928,
+      "start": 3635.82,
+      "end": 3640.54,
+      "text": "there will be requirements for customers to move around their productions."
+    },
+    {
+      "i": 929,
+      "start": 3642.38,
+      "end": 3644.38,
+      "text": "In fact, our"
+    },
+    {
+      "i": 930,
+      "start": 3644.64,
+      "end": 3646.64,
+      "text": "China FF today is actually"
+    },
+    {
+      "i": 931,
+      "start": 3647.42,
+      "end": 3648.54,
+      "text": "enjoying"
+    },
+    {
+      "i": 932,
+      "start": 3648.54,
+      "end": 3650.54,
+      "text": "higher than corporate average"
+    },
+    {
+      "i": 933,
+      "start": 3650.7599999999998,
+      "end": 3655.96,
+      "text": "loading and we certainly also seeing customers need to see"
+    },
+    {
+      "i": 934,
+      "start": 3655.96,
+      "end": 3665.26,
+      "text": "more capacity available in our Singapore, Taiwan or Japan FF."
+    },
+    {
+      "i": 935,
+      "start": 3665.26,
+      "end": 3671.44,
+      "text": "So all we can do is really try to be as diversified as possible and make sure"
+    },
+    {
+      "i": 936,
+      "start": 3672.06,
+      "end": 3677.02,
+      "text": "all these FF can support each other in many of our major technology"
+    },
+    {
+      "i": 937,
+      "start": 3677.94,
+      "end": 3680.04,
+      "text": "offerings. That's what we can do."
+    },
+    {
+      "i": 938,
+      "start": 3682.82,
+      "end": 3684.82,
+      "text": "Okay, thank you. That's all I have."
+    },
+    {
+      "i": 939,
+      "start": 3685.96,
+      "end": 3689.76,
+      "text": "Thank you. And ladies and gentlemen, we thank you for your questions."
+    },
+    {
+      "i": 940,
+      "start": 3690.16,
+      "end": 3696.7200000000003,
+      "text": "That concludes today's QA session and I'll turn things over to UMC IR Manager for closing remarks."
+    },
+    {
+      "i": 941,
+      "start": 3696.7200000000003,
+      "end": 3698.7200000000003,
+      "text": "David, please."
+    },
+    {
+      "i": 942,
+      "start": 3699.1,
+      "end": 3701.1,
+      "text": "Thank you everyone for joining us today."
+    },
+    {
+      "i": 943,
+      "start": 3701.58,
+      "end": 3706.08,
+      "text": "We appreciate your questions. As always, if you have any additional follow-up questions,"
+    },
+    {
+      "i": 944,
+      "start": 3706.42,
+      "end": 3712.06,
+      "text": "please feel free to contact UMC at ir.umc.com. Have a good day."
+    },
+    {
+      "i": 945,
+      "start": 3713.4,
+      "end": 3715.7,
+      "text": "Thank you. And ladies and gentlemen, the"
+    },
+    {
+      "i": 946,
+      "start": 3715.96,
+      "end": 3717.96,
+      "text": "conference concludes."
+    },
+    {
+      "i": 947,
+      "start": 3717.96,
+      "end": 3724.7200000000003,
+      "text": "We thank you for your participation in UMC's conference. There will be a webcast replay within one hour."
+    },
+    {
+      "i": 948,
+      "start": 3725.08,
+      "end": 3727.08,
+      "text": "Please visit"
+    },
+    {
+      "i": 949,
+      "start": 3727.36,
+      "end": 3734.08,
+      "text": "www.umc.com under the investors event section. You may now disconnect. Thank you and goodbye."
+    }
+  ],
+  "full_text": "Welcome, everyone, to UMC's 2025 First Quarter Earnings Conference Call. All lines have been placed on mute to prevent background noise. After the presentation, there will be a question and answer session. Please follow the instructions given at the time if you would like to ask the question. For your information, this conference call is now being broadcast live over the Internet. Webcast replay will be available within an hour after the conference has finished. Please visit our website, www.umc.com, under the Investor Relations, Investors, Events section. Now, I would like to introduce Mr. David Wong, Investor Relations Manager of UMC. Mr. Wong, please begin. Welcome to UMC's conference call for the first quarter of 2025. I'm joined by Mr. Chee Dong-Li, CFO of UMC, and Mr. Michael Lin, Senior Translator. I'm joined by Mr. David Wong, Director of Finance, because President Wong is absent due to urgent personal matter. In a moment, our CFO will present first quarter financial results, followed by our key message to address UMC's focus in second quarter 2025 guidance. After our CFO's remarks, there will be a Q&A session. UMC's quarterly financial reports are available at our website, www.umc.com, under the Investors, Financials. During this conference, we may make forward-looking statements based on management's current expectations and beliefs. These forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially, including the risks that may be beyond the company's control. For a more detailed description of these risks and uncertainties, please refer to our recent and subsequent filings with the SEC and the ROC Securities Authorities. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. the first quarter 2025 investor conference presentation materials which can be downloaded or viewed in real time from our website. Starting on page four, the first quarter of 2025 consolidated revenue was 57.86 billion NT with gross margin at around 26.7 percent. Net income attributable to the stockholder of the parent was 7.78 billion NT and the earnings per ordinary share was 0.62 NT dollars. Welfare shipment was slagged sequentially compared to the previous quarter. However, it was up 12 percent year over year for the same period of 2024. On page five, on the sequential comparison, welfare revenue declined 4.2 percent sequentially to 57.85 billion NT, mainly due to this one time price adjustment in the beginning of calendar year. Gross margin was impacted by the lower ASB as well as the earthquake during the Chinese New Year holidays. It went down to 26.7 percent or 15.4 billion NT dollars and we expect to see margin recovery in the coming quarter. On page six, the first quarter of 2025 consolidated revenue was $1.8 billion NT with gross margin at around 26.7 percent or 15.4 billion NT dollars. We expect to see margin recovery in the coming quarter. Netka We look at weakensation, safety and property as expected. smells We respect the Hb Dka M<|en|> ambitious in the stock market and we have some losses coming from mark-to-market investment valuation which is around 439 million NT loss. Total net income attributable to the shareholder of the parent in Q1 2025 was 7.777 million NT or EPS of 0.62 NT dollars in Q1 2025. For the year-over-year comparison, revenue increased by 5.9%. This is mainly due to the wafer shipment increase as I mentioned earlier. So the stock market is growing at a rate of 0.7% to 0.7% and the shareholder is at a rate of 0.7% to 0.7%. This is mainly due to the wafer shipment increase as I mentioned earlier. Around 12% year-over-year wafer shipment increase. But it's offset by the ASP decline. And for the net income comparison, we see a 25% year-over-year decline and therefore EPS also was lower in the same magnitude. On the next page, cash position still remains over 100 billion NT. It's about 106 billion NT dollars at the end of March 31st. Our total equity now reached 390 billion NT dollars at the end of Q1 2025. On page 6, this routine beginning of the year, one of price adjustments, which represents actually contribute to most of the revenue decline in Q1 of 2025. So roughly the ASP declined by about 4% to 5% in Q1. For revenue breakdown, we see a good growth coming out of our Q1. The average revenue growth for our Asian-based customers is now reached around 66% of our total revenue. North America customers, on the other hand, represent about 22% of the pie. IDM show a mild growth on page 10 to 18% of the total revenue breakdown in Q1 2025. And consumer segment is the strongest in Q1 2025. Thank you. This will be the center of our conversation from up here. Jisheng Huang. praise you. Great talker. Thank you, Greg. Great job. If you are looking forstraOU funds, please incorporate your data into your accounts. Our improvement is that we can now look at the low revenue growth from COVID. The savings that mild growth facing high rain racism is like a tornado, because we have been only at low levels for nearly 10 years In the lower segment of quiz, there is a probability that low RO and holiday revenue, Unexpected activity group, both disbelief, control loss punctuation, and unstable Barnett at high NEFSEed you are people we are not all salt and bleed. Thank you. Previously, Disney introduced再 existing products like adsense 5 Seduced trend China Weullie launched孩 account for 37% of the total revenue breakdown. In Q1, there was some disruption from earthquake, but mainly there's also annual maintenance schedule, so capacity in Q1 was lower. And for quarter two, we see the back to normal capacity as well, some mild increase coming out of Singapore FAS due to the ramp is starting. On page 14, our 2025 KPACs remain unchanged at 1.8 billion US dollars. So this above is the summary of UMC financial results for Q1. Thank you. Next, I would like to share our key message. I apologize for still putting Jason's picture here because it's rather short notice and it's also more importantly, it's a very good picture. So our results in the first quarter were in line with our previous guidance. With slattish wafer shipment and one-time pricing adjustment at the beginning of Q1, we saw a significant increase in revenue growth. We also saw a significant increase in revenue growth in Q2, which is a very good indicator for the beginning of the year to reflect market conditions. First quarter highlight includes 22, 28 nanometer revenue hitting a record high, representing 37 of the total sales. That was driven by a 46% quarter-over-quarter increase in 22 nanometer revenue from products such as OLED display driver IC, ISP, as well as digital data. So this is a very good indicator. That means there's actually a significant reach ofmannable sales to albeit at least one unit end. But along the way, as the key changes, there's also a striped diagram, the same scenario with 2020 screenlax. Also, at the timing of Q1, we saw that our risk rate was expensive because we have for the first quarter. What the next next week was also the worst in deteriorating algorithmic and sales report. which provide additional 22nm capacity to support future growth. Pillar runs are underway and are scheduled to ramp up to volume production in early 2026. The expansion in Singapore also further broadens our geographic diversification, enabling customers to strengthen their supply chain resilience. Meanwhile, in February, our board of directors proposed a cash dividend of 2.85 NT per share, which is subject to approval from shareholders in the upcoming AGM on May 28. Looking ahead to the second quarter, we are expecting a moderate rebound in demand across all segments, according to near-term data. The market will be still energia SUV, but low demand for full- erect manufacturing newıllations. In next quarter, a new cycle de externallygon in Vocêsen Future E reste en forma de Super des que la mayor Girón not vamos de Puente. Don't be get lost at the Quinencia Brasilia Belmar� flashingará, even if you leave off, through the their Christmas. And also, in scoreboard, de chlorurapool, that makes glide24 to retirement incentives as global shameless. There is also the other nomination for commercial consumer ホルフォーステトリ・ケースグ ladies, by focusing on execution of key technology products, such as the 12 nanometer collaboration with US partners, and ensuring our customers have access to geographically diverse manufacturing options. In addition, we are implementing cost reduction plans and accelerating AI and intelligent manufacturing systems to enhance operational efficiency. Through these key focuses, we are confident that UMC can maintain our financial and business resilience. Now let's move on to the second quarter of 2025 guidance. Welfare streammen will increase by 5% to 7% sequentially. ASP in US dollar terms will remain flat. First margin will be back to approximately 30%. And capacity utilization rate will also recover to the around mid 70% range. And as I mentioned earlier, the cash base will remain unchanged at about $1.8 billion US dollars. That concludes our remarks. Thank you for watching. Thank you all for your attention. And now we are ready for questions. Thank you, Jidong. And ladies and gentlemen, we will now begin the question and answer session. If you have a question for any of today's speakers, please press star 1 on your telephone keypad, and you will enter the queue. After you are announced, please ask your question. If you find that your question has been answered before it is your turn to speak, please press star 2 to cancel the question. Thank you. And now please press star key number 1 on your keypad if you would like to ask the question. Thank you. And our first question will be coming from Sunny Lin, UBS. Go ahead, please. Thank you very much for taking my questions. So my first question, I want to start from the tariff impact. And so for the short term, how are tariffs affecting the customer order behaviors for Q2 and second half? And how are they affecting the customer order behavior for Q2 and second half? And how is that impacting your business planning? And it does seem like you are having a good recovery for Q2 sales. How much of that is driven by the pulling orders due to tariffs? Okay. So UMC collaborate closely with customers for technology and product qualification across multiple facts, reducing exposures to site-specific risks and ensuring supply chain resilience. We adopt a forward-looking approach to mitigate this risk, including a geographically diversified manufacturing footprint. And by 2027, we will have manufacturing base for our most advanced available technology in the U.S. UMC also has a healthy financial structure to navigate through macro uncertainties. And so, you know, we have a lot of opportunities. And although the escalating trade tensions and global tariff policies have increased uncertainties in the semi-industry, and we have not seen market demand change in a very near term, i.e., quarter to 2025 yet. Of course, visibility in the second half is becoming very limited. And longer term, customers may decouple their internal manufacturing options and explore external wafer sourcing options. And UMC's strategic positioning focusing on technology differentiation, global manufacturing diversification, product mix optimization, and manufacturing excellence. So I think in short, there's very little change we observe for the second quarter. However, if you include our Q1 results plus our quarter two guidance, we think we are slightly ahead our expectation at the beginning of the year. And that will give us some buffer for the uncertainty, the increasing uncertainty in the second half. Got it. Thank you very much, Yidong. So basically, you are saying the growth in Q2 is not so much driven by pulling just a little bit. And so in that case, should we be less concerned about meaningful drop of going to second half because there's not much being pulled in? There's not that much pulling, you are correct, for quarter two. There's some customer, or sideline, and they want to take some precautionary action. But there are some customers doing the opposite. So net-net impact for quarter two is very limited. So, but again, we can now really see through second half. And what we are seeing right now doesn't really suggest there will be a shortfall in the coming quarters. Got it. Thank you. My follow-up question on tariffs is in terms of the potential disruptions about the supply chain on the pricing side. And so if tariffs are put through, either for finished goods or direct semi-trips or both, based on your current discussions with clients, would you expect some impact on UMC's pricing and margin as well? As maybe potentially everyone in the supply chain will need to share the cost. To some extent. I think we don't have a generalized answer. So let me start with our UMC pricing policy or strategy. We don't compete purely on pricing. Our strategy is built around technology differentiation and manufacturing excellence via regionally diversified manufacturing basis. All that attributes work, but we don't have a general answer. So I think we need to share the cost to some extent. I think we don't have a general answer. So let me start with our UMC pricing policy or strategy. All that attributes work to insulate UMC and our customer away from low entry barrier markets. And despite the pricing pressures, UMC remains committed to deliver differentiated technology and ensuring our customers to gain market share through the long-term strategic partnership. And so, our value proposition is really to work with our customers in a transparent method. Our value proposition is really to work with our customers in a transparent method. Any disruption or the cost increase through tariffs, we believe we will co-work with our customers to come up with a solution. Got it. And then I have a question on 28 nanometers. And so, roughly, what's the, what's the utilization rates in Q1 and Q2? And how should we think about the mix of 22 nanometers within the whole 28 and 22 nanometer cells, let's say going to second half of 2025? First of all, our guidance for second quarter is mid 70 for the company as a whole. Of course, 12 nanometers, 12 inch, 12 inch is higher than corporate average and inch is below corporate average. Among 12, I would say 22, 28 is the better sector, is not the best sector. And right now, 22 and 28 represent 37% of our total revenue. And 22 alone, I would say is more than mid-teens and continue to increase. And that will be a key growth driver for UNC's 2025 growth. So I hope that answers your question. That's very helpful. So mid-teens percentage, that's in terms of total cells, correct? That's correct. Thank you very much. And then maybe my last question. And so on this partnership with Intel on 12 nanometer, what's the latest update that you could provide us? And will it be possible that we see an earlier production in 2026? And I guess lately, given the maybe rising reshoring interest in the US, are you seeing much stronger demand for this collaboration? Maybe Michael can answer the question. Sure. So I think that the joint development is on track. We are progressing well according to the project milestones. At this moment, we are verifying the silicon performance for the pilot line. And we expect the early PDK will be ready for the first wave of customers by 2026 as planned. In fact, we have been aligning with key customers on the device spec to speed up the ramp up as quickly as possible. Right now, we are putting the process technology in Arizona Fed. And so far, the progress is on track. Got it. And so basically, sales contribution, you guys still from 2027? Yes. Got it. Thank you very much. Thank you. Thank you. Next one, Lauriton City. Okay. So, we have a lot of customers. We have a lot of customers. We have a lot of customers. We have a lot of customers. We have a lot of customers. We have a lot of customers. Yes, and I would like say that the collision tests are changing. Yeah. It's not изменing in any way. My question is, you have students like you, who are suited yet this year to become academics, students with a vocational degree, and you'll call in your friends that am into this. Okay. idea of customers has consistently among our top customers. And I think I don't need to mention their names, but you definitely know who they are. So from time to time we have JDPs, we have capacity support, and that will continue to be our strategic collaboration going forward. So we do have other IDM customers in the U.S. working closely with UMC. But of course, the current stage, the most important project is this 12 nanometer U.S. footprint collaboration with these U.S. partners. Understood. Thank you. Because previously I also have the news, I understand that management already kind of denied, but I'm just wondering, like, other than our current clients in U.S. IDMs, is there any chance we can also work with Global Foundry on some sort of like a joint venture or a cooperation, any type of the cooperation? I don't want to comment on marketing. I think for an issue like this, it's so sensitive and important. It has to come from the official announcement from any company involved. But I think from, again, from UMC's perspective, we're consistently looking for strategic options to enhance shareholder value. Anything can help to increase our competitive value. So, we have to look at our competitiveness as well as the shareholder's value. We will certainly look into that. And currently, there's no ongoing so-called merger activity right now. So, again, we have to say that there's no merger ongoing right now. So, I imagine that development of strategies personally and also directly hurt a board game. Well, we... the growth margin back to 30%. So can we kind of assume that Q1 is the 12th for the growth margin since we have the one-time pricing adjustment back in Q1? The overall demand seems back to no more. So I'm just wondering what's our view on the overall growth margin trend going forward? Unfortunately, we mentioned the second half, the visibility becomes very limited with a lot of increasing uncertainty. So it makes it very difficult to predict the numbers for the second half. We can only give the guidance a quarter at a time. But our possibility largely depends on what I mean, pricing, utilization rate. And for that movement and COGS. We have taken several initiatives to enhance our possibilities that include business engagement, technology differentiation, driving the efficiency in operations, and improving our CAPAC efficiency to manage the depreciation impact. So current growth margin level reflects Q1 2025. This is a three-step process that скrypts through E Long Range and sh Hui A Open yapand suggests that Q1 is the leader ones. Close-eremiah and top-level changes are a lead lead . This method is puree seid because several thousands, can still remain intact. Okay, that's very fair. Thank you very much. Thank you. Next one, Brett Ling, Bank of America Securities. Go ahead, please. Thank you for taking my question. Congrats on the well-solid 1Q result and also the bright second quarter guidance. I have two questions. The first question would be in terms of the customer type. Has UMC seen potential upside from maybe North America or IDM due to the current tariff issue? Thank you. I think we do see increasing customer appreciation to UMC's regionally diverse manufacturing base. So for various reasons, customers may need to have certain type of product manufacturing that are not in the U.S. in some specific manufacturing sites. And UMC with operations in Singapore, Taiwan, Japan, and China and upcoming U.S. capacities, I think our customers appreciate it even more recently with the option we can offer. So I think that's the feeling and also the sense we get from the recent conversation with manufacturing. So I think that's the feeling that we can offer to many of our major customers. Thank you very much. That's very clear. But a follow-up question on that is that what time do we expect to see so-called meaningful contribution from this kind of impact? So far it's very difficult to quantify. But for our Singapore FAB, probably the best example is the FAB FAB. And I think that's a very good example that the P3 is going to volume production in early 2026. And I think it's becoming a very pursuit after location for its less impacted geopolitical tension. So certainly if there is any demand, it seeks, it's a very good example. But if we meet the capacity we can offer, we will certainly see a better performance out of our Singapore side. And same argument can apply to any other side we have. So I cannot give you a quantified answer for now. Just the customer appreciation certainly will endorse our customer relationship and the so-called thickness for the longer term. So I think that's the first question. Thank you. Thank you very much. Hopefully that we can also gain more so-called LTA with that as well. If any, please do let us know. So my second question would be, well, end market demand. So could you also provide insights into the demand trends across the key end markets, such as especially for automotive and also industrial, as well as the consumer electronics? Have there been any notable shift in the customer behavior or other patterns recently compared to our last earnest call? Thank you. Yeah. For Q1, you know, consumer segment grew, as our CFO alluded to, driven by Wi-Fi, DTV, Setup Box, and driver IC. But all the other segments, such as communication, remain relatively flat. And we saw computing kind of decline due to a softer demand in I.O. Automotive for Q1 also declined. For Q1 also declined due to softness in microcontrollers, DDI, as well as power management. But as you know, for Q2, all major segments for computing, communications, consumer will grow. For computing segments, we expect that growth will be driven by a flash controller IC. For communication, it will be increased from ISP, networking, flash controller, as well as Wi-Fi. For consumer, it will grow due to continuous growth from DTV and Setup Box. And last, but for automotive, we expect that segment to be flattish, looking for Q2. Should we expect any meaningful recovery from this auto industry, which seems to be, well, relatively softer for a while? So the automotive right now, we expect that it will be a little bit more flexible. The inventory seems kind of, you know, relatively high, obviously, compared to other key segments of our business. So for now, we remain in a more conservative tone for the auto market. Got it. Thank you very much. Thank you. Next one, Charlie Chan, Morgan Stanley. Go ahead, please. Thanks for taking my question. My first question will be also on gross margin. So it seems like 1Q, you're doing a little bit better than the guidance of the mid-20, and 2Q kind of hit the 30% amid some pricing pressure. Can you share with us some more color about which parts are doing better, no matter pricing or cost, or is just a kind of a little bit more of a little bit more of a more of a more of a kind of impact, so you can deliver a better gross margin? Thank you. Well, thank you for saying that's better. Personally, I don't think it's better. We never feel enough to pursue a better gross margin. I think it's a very important index internally for all the management teams. So we have to streamline our operations, manage supply chain pricing, and drive automation transformation. So this measure kind of helps us to offset or at least partially about those cost headwinds, including green energy, including yearly, annually, cost, and also the cost of the energy. So we have to do a lot of work to do that. So I think it's a good point. Again I really appreciate your input about theılary adjustment. So there are a couple of headwinds we need to offset through our cost reduction effort. And in the beginning of the call, we mentioned that Q1 Q wholes li startup expectations compared theus. Right here head of exploitation at the comparing to the guidance we did for the beginning of the year. is enough for the increasing uncertainty for the second half. So pursuing a better force margin is the analyst's mandate for management team. We hope we can do better. Yeah, thanks for the comment, and I hope you can keep it up. And second question is about your partnership with Intel in the US. So just out of curiosity, do you receive some requests that some of your customers want you to accelerate that US operation with Intel? Because it seems like you're a foundry peer, right? Seems to receive a similar request, and even some customers are willing to pay higher with a price to be produced. Therefore, you're not a customer. Right? So for their chips to be produced in the US. I know you have a planned schedule for the 12 nanometer in the US, but I'm just curious whether you are receiving a similar request that I hope you can speed up. The answer is yes. I think most of the customers like to see the 12 nanometer solution as early as possible, and they also have a very aggressive product launch time. And they hope our 12 nanometer solution can catch up with their product roadmap. So yes, the pressure is there. We understand that, and we received the inquiries from our, what we call the early adopters. That's why we are under the pressure to try to expedite the whole process. But it's already a very aggressive process, I mean timeline. So it's also the first time we cooperate. We are partners. And there's also many tasks that need to be solved before we can even try to catch up with our aggressive timeline. So again, there's pressure and wish to do so. But in reality, so far we are on track with our planned schedule. REN في VIEI TÁO. CHALLENGE TAKEN LONGER THAN AHHHHH Right. So, do you want to say anything toQuew for us at this stage, but I would just go one thing, I mentioned quite a few things about the Ak cryingoptics in the last Dialog. So with the Ardent rumor aroundう of the PDA, are you still someone still assuming the hardcore notion, like think, you're going to leave it to come back once? I ask these questions because your industry already officially denied their future partnership with the USFAT, which is Intel. So I'm not sure if that gives you more room or your concerns wish you to migrate to more advanced nodes that would adopt EUV. So if you are using the market story as the background for this question, I have to be extremely careful, right? So in that case, the answer is no. So we are only focusing on the current node, which is 12 nanometers. And that's both companies decided. And there's a contract between two companies to execute this 12 nanometer. And for UMC alone, of course, I can speak for UMC, we appreciate this collaboration with our US partner. And we offer our fountry know-how and the bulk of the technology structure. And US partner offer the onsite capacity with very limited depreciation. So we think it's a good idea. I think it's a very innovative mutual benefit collaboration. And certainly, we don't want to be limited to the current node only. However, this on-site only cover 12 nanometer for now. Okay. That's a great answer as well. So the last one, I think, very kind of technical short-term question. So I'm sorry, but did you get the answer for this one? Or is this a more technical question? Is there anything else? Yes. Yeah, I think there's a good answer. Do you maintain your full year guidance? And if that's the case, what do you imply half and half seasonality? How much concerted are you back in for second half? Our view for the whole 2025 hasn't really changed. Our view on 2025 boundary market is expected to grow in the mid to high team percentage, like we mentioned earlier the previous quarter. UNP's addressable market should grow around low single digits for our addressable market, which we intend and we have declared we're going to outgrow that. Of course, I just mentioned that the first quarter plus the guidance for quarter two put us a little bit ahead of our expectation. But the uncertainty is in the future. And second half may offset that, which we don't know clearly yet. So that's the current view for the whole 2025. So we probably use single digit, maybe mid single digit as a full year guide and try to calculate the implied second half. Is that the right way to think about your narrative on second half? Yeah. Let's stick to it. OK. So I think that's the qualitative statement that we're trying very hard to outperform our addressable market. OK. OK. Thank you. Yeah, I'll be back to the queue. Thank you. Thank you. Next one, Goku Harihalen, JP Morgan. Go ahead, please. Yeah, hi. Hi, Chitong, David, and Michael. My first question is on margin. I think you've kind of got back to 30% in Q2. How should we think about the cadence for margins? Because it looks like your implied expectation in the second half is going to be largely flourished, looks like. So if that's the case, how should we think about margins? And could you also refresh what is your expected depreciation growth? I think last time you said high 20% for this year. Is that still the case given Q1? I think the increase was not that big sequentially. Depreciation. The increase still had 20% for 2025. Each quarter is sequentially going up. So we are facing higher depreciation expenses for every quarter. So that's the pressure. And for margin guidance, I think I have to highlight that about 2 percentage points in Q1 was impact from the earthquake. That's one out. Yeah. So if you add back that 2%, the increase is more mild for the second half. And again, we are very sensitive to loading for the second half in terms of where we are for the margin. We know the factor such as pricing, the depreciation. But we don't know the factor for forex. And loading. So of course, we continue to try to enrich our product mix by having more 22 nanometers. So all these factors blended together create the formula for our gross margin, especially in the second half. Understood. So is 22-28 combined now higher margin? Compared to the corporate average already? Or is it still not there yet? If you exclude the new depreciation out of Thailand P6 and Singapore P3, of course, it is. But if you include that, I'm not so sure. May not be the case. But the depreciation is there anyway, with or without the extra 22-28 contribution. So of course. The margin is higher. OK. So the more the merrier. That's fair. Thanks, Chitang. So just on the Singapore P3, are you having any thought about accelerating the capacity plan given you mentioned you're getting a lot more demand coming through for or interest coming through for Singapore FAB? Because I think previously you kind of slowed it down a little bit compared to previous plan given the demand outlook. Is that something that we could anticipate? Anticipate some change? I think that's definitely dynamic. OK. So the future capacity rent for Singapore will depend on the alignment with our customer needs. And of course, we have begin to see a pickup in . So that may or may not translate into a pickup in customer demand. But paypal definitely. OK. So we're going to see a pickup in the future. So it could happen. But the current plan still, the production rent, the next production will be in early 2026. Understood. And lastly, on the Intel collaboration, I think once you start the 12 nanometer revenue contribution, could you talk a little bit about what kind of customers you are seeing adopting this? And secondly, once you start revenue contribution, what does the impact to your margins or EBITDA given the unique kind of arrangement that you have with Intel? OK. Michael, to answer the first question, I can answer the second question. OK. And for now, our key focus. Ah. Ah. Ah. Ah. getting the sensibility, touch-centers,licting, and ap prompted to push we pizza . That's something that will bring下 get tips and encima module getting anxious, well, hopefully the tutorial advisory on Tribal Pocket, which it's not. This is, in part, really an opera proposal. is a enhancement to our corporate average. It largely depends on the capacity utilization rate. And by structure, there's limited depreciation cost item in the COGS. But the overall US manufacturing probably will both higher manufacturing cost than the manufacturing in Taiwan. So these two factors will need to see how to offset each other. So there's still many variables. We have to wait until closer to 2027. Got it. And the the capacity allocated into this arrangement, is that largely a static capacity that Intel has already allocated? Because obviously, they have a lot of capacity on 40 nanometer given that was a full load for Intel, right? So they probably have quite a bit of capacity, even after some of the conversion. So is that a static location? Or is it something that is dynamic depending upon how demand goes? I will say more dynamic. However, it definitely needs a certain economy of scale to start with. And depends on how customer adoption for this technology and this collaboration. Certainly, we believe they could be upside if the market adoption is more than expectation. Got it. Thank you very much. Thank you. Next one, Felix Pan. Thanks, everyone. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Next one, Felix Pan. Hi. Take a little bit about the whole the MU terms actually. I want to say that we are almost infern- media seminar arms end consumer zero with the results of last year. So far, it sounds reasonable. So far, it sounds reasonable. So far, it sounds reasonable. So far, it sounds reasonable. Thanks, ragp y. So far, it sounds reasonable. So far, it sounds reasonable. Next one, Carlos weigh de. I have not heard from you yet, yet. Next, Carlos weigh de for getting its So,alf a, Okay. Next, yes. next slide. Next slide. So, K3 or K8. so, at this point, once you consider, this kind of a view if the tariffs are semi-conducted in place? That's my first question. So I cannot comment on our competitor. And I also mentioned earlier, UMC will adopt a very transparent cooperation alignment with our customers to cope with these potential tariff issues. So that's our thing. So how to deal with these possible potential tariffs together with our customers is our key approach. Okay. So can I – so that means you don't rule out the possibility that foundry also have to bear the cost at some degree. Is that in place? Is that – Right. It's not what I said, no. Okay. What I said was we will cooperate with our customers in a very transparent environment and collaboratively to deal with these tariffs issues. Okay. Okay. Understood. Okay. The second question, I understood that the visibility for second half still – I understand the second half still unclear. And I think besides the demand profile, can you just share a little bit if the cycle – if the – potentially the down cycle is coming, assuming that, how you see the inventory level across the different application from your perspective? Okay. So as far as the inventory goes, the current days of inventory remain similar to the current quarter, 2025. In terms of applications, the DOI as well as the inventory for consumer electronics remain at a healthy level. However, days of inventory for automotive and industrial segments remains relatively high, and we expect that it will take more time to digest. So obviously we will continue to carefully monitor and monitor those. Obviously, we will continue to carefully monitor the ongoing impact of the tariff policies. And it has obviously created a very challenging environment in the semiconductor supply chain. Okay. Can I just have a quick follow-up on that? I understood different from other cycles. Currently, besides the auto, every other application is at a healthy level. But because of the 90-day – the 90-day policy, we have to be careful. And I think it's a good point. You know, the 90-day post for the tariff is things. So you see the inventory like how likely to, you know, elevate in second quarters. Do you think this – that the play like that and how serious for the inventory pipe-up? As we mentioned, there's not much so-called net-net impact from the tariff rush order yet in the second quarter. So, you know, we're not sure. It should translate to a normal – a normal inventory for the coming quarter. However, again, the second half visibility is very, very limited. So anything using the current data to assume may change overnight. Okay. Thank you. Thank you. Next one, Jason Zhang, CLSA. Go ahead, please. Thank you for taking my questions. My first question is in terms of the advanced packaging. I think, perhaps, you mentioned that UMC probably is moving – will move into the packaging phase, in the form of the advanced packaging. So, what do you think of it? I think, I think the best way to do it is to move it to the advanced packaging phase. will move into the advanced packaging market. So can you provide us more details or long-term plans in terms of this new area? And I also saw the news or rumors such as that UMC is cooperating with U.S. clients such as Qualcomm. So I wonder if you can provide more details in terms of this new application. Thank you. All right. Thanks, Jason. Obviously, we can't really comment on specific customers. But as far as packaging-wise goes, we're very, very excited about our customer engagement in 3D wafer-to-wafer segments that encompasses RF front-end modules. Also for sensor memory as well as logic, we've gotten the requirements, and they're actually picking up in terms of engagement. As far as 2.5D enterprise, we have seen that the projects for HPC-related projects for interposers as well as deep trench capacitor, these requirements have also continued to grow. So we expect that obviously will be a trend to come, and we will definitely prepare ourselves to accommodate these emerging trends. Got it. Thank you. So how do you see the future of the 3D wafer? How's the contribution do you expect in the future if those kind of projects can, you know, start meaningful shipments or volumes in this year or in the future? Thank you. This is still in a very early stage. So we don't expect to see significant revenue contribution in 2025. Got it. Got it. So my second question is in terms of the demand side. I think your competitor in China also suggests that there is a very solid growth momentum on demand side, and their utilization rate has meaningful improvements since second half last year. So, and you also gave a very, you know, very good answer to that question. So I think that there is a solid growth in Q2. So can we assume that there's structural improvements or recovery or growth in mature node? And or do we see a lower competition from Chinese players because of this kind of recovery or improvement? And looking into the future, if this kind of demand can further increase, I mean, can our selling price or growth margin can be driven by this kind of meaningful growth? Yeah. So I wonder if you can give us more color on it. Thank you. Yeah, I wish I could jump into a conclusion. I mean, that would be great. But unfortunately, that's not what we see right now. What we are seeing is really for the first quarter and the second, second quarter, guidance. We are a little bit ahead of year, beginning of the year guidance. So it's doing slightly better, but not too much. And the increasing geopolitical tensions and the potential tariffs certainly shadow the second half. And visibility has become very unclear for the second half. So we cannot jump into the conclusion. I think we have a lot of time. Thank you. And congratulations. Thank you. Thank you. Thank you all for listening to the conclusion. You mentioned although the continue to focus on the differential technology in order to cope with the upcoming new competitors. And 2228 platform is crucial for the strategy to move away from the commodity type of market. We have probably the most competitive solution in 2228E-HIV, which has enabled UMC to become the leader in OLED display market action. In addition, our 22 ultra-low power and 22 ultra-low leakage technology. This offering delivers 30% to 50% power savings compared to standard 28nm NUCs. And it's ideal for IoT device wearables and HAI applications. So all this, plus our diversified manufacturing locations, we believe we are in a unique position to fend off those potential commodity capacity, no matter where you're located. So we are confident about our strategic position. So hopefully that answers your question. Understood. Thank you. I have no more questions. Back to you. Thank you. Thank you. And ladies and gentlemen, we're going to take the last question. And the last one, Ted Ling, HSBC. Go ahead, please. Hi. Thank you for taking my question. So my question is, with the ongoing tension between US and China, do you foresee any potential impact to your China staff? Like, for example, like, are you expecting like foreign customers to reallocate their orders from your China facility to maybe outside of China, such as Singapore or Japan or even Taiwan? And do you foresee your customer? Localized customer to maybe reallocate, also allocate their orders to a domestic China country? First of all, in order to mitigate the geopolitical tension, what we can do is first, to 100% following the law. So no matter it's export control, or any of the local compliance requirements. So we are following the rules. UMT devotes all the resources to meet the compliance and the export control requirements. So we're following every rules out there. There's no gray area for that. And secondly, we are happy with our geographically diversified, production base because you never know at what point of the time there will be requirements for customers to move around their productions. In fact, our China FF today is actually enjoying higher than corporate average loading and we certainly also seeing customers need to see more capacity available in our Singapore, Taiwan or Japan FF. So all we can do is really try to be as diversified as possible and make sure all these FF can support each other in many of our major technology offerings. That's what we can do. Okay, thank you. That's all I have. Thank you. And ladies and gentlemen, we thank you for your questions. That concludes today's QA session and I'll turn things over to UMC IR Manager for closing remarks. David, please. Thank you everyone for joining us today. We appreciate your questions. As always, if you have any additional follow-up questions, please feel free to contact UMC at ir.umc.com. Have a good day. Thank you. And ladies and gentlemen, the conference concludes. We thank you for your participation in UMC's conference. There will be a webcast replay within one hour. Please visit www.umc.com under the investors event section. You may now disconnect. Thank you and goodbye."
+}
